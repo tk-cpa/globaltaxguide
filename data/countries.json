@@ -801,7 +801,7 @@
     "name": "Andorra",
     "slug": "andorra",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Austria",
@@ -813,7 +813,7 @@
     "name": "Belarus",
     "slug": "belarus",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Belgium",
@@ -981,7 +981,7 @@
     "name": "Monaco",
     "slug": "monaco",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Montenegro",
@@ -1029,13 +1029,13 @@
     "name": "Russia",
     "slug": "russia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "San Marino",
     "slug": "san-marino",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Serbia",
@@ -1089,7 +1089,7 @@
     "name": "Vatican City",
     "slug": "vatican-city",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bahrain",
