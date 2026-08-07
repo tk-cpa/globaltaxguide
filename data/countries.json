@@ -1,0 +1,1184 @@
+[
+  {
+    "name": "Algeria",
+    "slug": "algeria",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Angola",
+    "slug": "angola",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Benin",
+    "slug": "benin",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Botswana",
+    "slug": "botswana",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Burkina Faso",
+    "slug": "burkina-faso",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Burundi",
+    "slug": "burundi",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Cabo Verde",
+    "slug": "cabo-verde",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Cameroon",
+    "slug": "cameroon",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Central African Republic",
+    "slug": "central-african-republic",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Chad",
+    "slug": "chad",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Comoros",
+    "slug": "comoros",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Congo (Republic)",
+    "slug": "congo-republic",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Congo (DRC)",
+    "slug": "congo-drc",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "slug": "cote-divoire",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Djibouti",
+    "slug": "djibouti",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Egypt",
+    "slug": "egypt",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "slug": "equatorial-guinea",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Eritrea",
+    "slug": "eritrea",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Eswatini",
+    "slug": "eswatini",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Ethiopia",
+    "slug": "ethiopia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Gabon",
+    "slug": "gabon",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Gambia",
+    "slug": "gambia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Ghana",
+    "slug": "ghana",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Guinea",
+    "slug": "guinea",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "slug": "guinea-bissau",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Kenya",
+    "slug": "kenya",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Lesotho",
+    "slug": "lesotho",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Liberia",
+    "slug": "liberia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Libya",
+    "slug": "libya",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Madagascar",
+    "slug": "madagascar",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Malawi",
+    "slug": "malawi",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Mali",
+    "slug": "mali",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Mauritania",
+    "slug": "mauritania",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Morocco",
+    "slug": "morocco",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Mozambique",
+    "slug": "mozambique",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Namibia",
+    "slug": "namibia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Niger",
+    "slug": "niger",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Nigeria",
+    "slug": "nigeria",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Rwanda",
+    "slug": "rwanda",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "slug": "sao-tome-and-principe",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Senegal",
+    "slug": "senegal",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Seychelles",
+    "slug": "seychelles",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Sierra Leone",
+    "slug": "sierra-leone",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Somalia",
+    "slug": "somalia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "South Africa",
+    "slug": "south-africa",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "South Sudan",
+    "slug": "south-sudan",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Sudan",
+    "slug": "sudan",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Tanzania",
+    "slug": "tanzania",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Togo",
+    "slug": "togo",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Tunisia",
+    "slug": "tunisia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Uganda",
+    "slug": "uganda",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Zambia",
+    "slug": "zambia",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Zimbabwe",
+    "slug": "zimbabwe",
+    "region": "Africa",
+    "status": "pending"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Argentina",
+    "slug": "argentina",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Bahamas",
+    "slug": "bahamas",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Barbados",
+    "slug": "barbados",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Belize",
+    "slug": "belize",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Bermuda",
+    "slug": "bermuda",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Bolivia",
+    "slug": "bolivia",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Brazil",
+    "slug": "brazil",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "British Virgin Islands",
+    "slug": "british-virgin-islands",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Canada",
+    "slug": "canada",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Cayman Islands",
+    "slug": "cayman-islands",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Chile",
+    "slug": "chile",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Colombia",
+    "slug": "colombia",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Costa Rica",
+    "slug": "costa-rica",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Cuba",
+    "slug": "cuba",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Dominica",
+    "slug": "dominica",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "El Salvador",
+    "slug": "el-salvador",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Grenada",
+    "slug": "grenada",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Guatemala",
+    "slug": "guatemala",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Guyana",
+    "slug": "guyana",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Haiti",
+    "slug": "haiti",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Honduras",
+    "slug": "honduras",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Jamaica",
+    "slug": "jamaica",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Mexico",
+    "slug": "mexico",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Nicaragua",
+    "slug": "nicaragua",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Panama",
+    "slug": "panama",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Peru",
+    "slug": "peru",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "slug": "saint-kitts-and-nevis",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Saint Lucia",
+    "slug": "saint-lucia",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "slug": "saint-vincent-and-the-grenadines",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Suriname",
+    "slug": "suriname",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Turks and Caicos",
+    "slug": "turks-and-caicos",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "United States",
+    "slug": "united-states",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Venezuela",
+    "slug": "venezuela",
+    "region": "Americas",
+    "status": "pending"
+  },
+  {
+    "name": "Afghanistan",
+    "slug": "afghanistan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Australia",
+    "slug": "australia",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Bangladesh",
+    "slug": "bangladesh",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Bhutan",
+    "slug": "bhutan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Brunei",
+    "slug": "brunei",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Cambodia",
+    "slug": "cambodia",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "China",
+    "slug": "china",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Fiji",
+    "slug": "fiji",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Hong Kong SAR",
+    "slug": "hong-kong-sar",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "India",
+    "slug": "india",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Indonesia",
+    "slug": "indonesia",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Japan",
+    "slug": "japan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Kazakhstan",
+    "slug": "kazakhstan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "slug": "kyrgyzstan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Laos",
+    "slug": "laos",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Macau SAR",
+    "slug": "macau-sar",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Maldives",
+    "slug": "maldives",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Mongolia",
+    "slug": "mongolia",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Myanmar",
+    "slug": "myanmar",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Nepal",
+    "slug": "nepal",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "North Korea",
+    "slug": "north-korea",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Pakistan",
+    "slug": "pakistan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Papua New Guinea",
+    "slug": "papua-new-guinea",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Philippines",
+    "slug": "philippines",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Samoa",
+    "slug": "samoa",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "South Korea",
+    "slug": "south-korea",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Taiwan",
+    "slug": "taiwan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Tajikistan",
+    "slug": "tajikistan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Thailand",
+    "slug": "thailand",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Timor-Leste",
+    "slug": "timor-leste",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Turkmenistan",
+    "slug": "turkmenistan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Uzbekistan",
+    "slug": "uzbekistan",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Vanuatu",
+    "slug": "vanuatu",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Vietnam",
+    "slug": "vietnam",
+    "region": "Asia-Pacific",
+    "status": "pending"
+  },
+  {
+    "name": "Albania",
+    "slug": "albania",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Andorra",
+    "slug": "andorra",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Austria",
+    "slug": "austria",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Belarus",
+    "slug": "belarus",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Belgium",
+    "slug": "belgium",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Bulgaria",
+    "slug": "bulgaria",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Croatia",
+    "slug": "croatia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Denmark",
+    "slug": "denmark",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Estonia",
+    "slug": "estonia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Finland",
+    "slug": "finland",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "France",
+    "slug": "france",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Gibraltar",
+    "slug": "gibraltar",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Greece",
+    "slug": "greece",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Guernsey",
+    "slug": "guernsey",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Hungary",
+    "slug": "hungary",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Iceland",
+    "slug": "iceland",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Ireland",
+    "slug": "ireland",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Isle of Man",
+    "slug": "isle-of-man",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Italy",
+    "slug": "italy",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Jersey",
+    "slug": "jersey",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Kosovo",
+    "slug": "kosovo",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Latvia",
+    "slug": "latvia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Liechtenstein",
+    "slug": "liechtenstein",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Lithuania",
+    "slug": "lithuania",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Luxembourg",
+    "slug": "luxembourg",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Malta",
+    "slug": "malta",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Moldova",
+    "slug": "moldova",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Monaco",
+    "slug": "monaco",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Montenegro",
+    "slug": "montenegro",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "North Macedonia",
+    "slug": "north-macedonia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Norway",
+    "slug": "norway",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Poland",
+    "slug": "poland",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Portugal",
+    "slug": "portugal",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Romania",
+    "slug": "romania",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Russia",
+    "slug": "russia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "San Marino",
+    "slug": "san-marino",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Serbia",
+    "slug": "serbia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Spain",
+    "slug": "spain",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Sweden",
+    "slug": "sweden",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "united-kingdom",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Vatican City",
+    "slug": "vatican-city",
+    "region": "Europe",
+    "status": "pending"
+  },
+  {
+    "name": "Bahrain",
+    "slug": "bahrain",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Iran",
+    "slug": "iran",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Iraq",
+    "slug": "iraq",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Israel",
+    "slug": "israel",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Jordan",
+    "slug": "jordan",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Kuwait",
+    "slug": "kuwait",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Lebanon",
+    "slug": "lebanon",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Oman",
+    "slug": "oman",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Palestine",
+    "slug": "palestine",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Qatar",
+    "slug": "qatar",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Syria",
+    "slug": "syria",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Turkiye",
+    "slug": "turkiye",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "United Arab Emirates",
+    "slug": "united-arab-emirates",
+    "region": "Middle East",
+    "status": "pending"
+  },
+  {
+    "name": "Yemen",
+    "slug": "yemen",
+    "region": "Middle East",
+    "status": "pending"
+  }
+]
