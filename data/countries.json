@@ -9,7 +9,7 @@
     "name": "Angola",
     "slug": "angola",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Benin",
@@ -21,7 +21,7 @@
     "name": "Botswana",
     "slug": "botswana",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Burkina Faso",
@@ -39,13 +39,13 @@
     "name": "Cabo Verde",
     "slug": "cabo-verde",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cameroon",
     "slug": "cameroon",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Central African Republic",
@@ -57,7 +57,7 @@
     "name": "Chad",
     "slug": "chad",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Comoros",
@@ -69,19 +69,19 @@
     "name": "Congo (Republic)",
     "slug": "congo-republic",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Congo (DRC)",
     "slug": "congo-drc",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cote d'Ivoire",
     "slug": "cote-divoire",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Djibouti",
@@ -93,13 +93,13 @@
     "name": "Egypt",
     "slug": "egypt",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Equatorial Guinea",
     "slug": "equatorial-guinea",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Eritrea",
@@ -111,19 +111,19 @@
     "name": "Eswatini",
     "slug": "eswatini",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Ethiopia",
     "slug": "ethiopia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Gabon",
     "slug": "gabon",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Gambia",
@@ -135,7 +135,7 @@
     "name": "Ghana",
     "slug": "ghana",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Guinea",
@@ -153,7 +153,7 @@
     "name": "Kenya",
     "slug": "kenya",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Lesotho",
@@ -165,19 +165,19 @@
     "name": "Liberia",
     "slug": "liberia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Libya",
     "slug": "libya",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Madagascar",
     "slug": "madagascar",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Malawi",
@@ -195,31 +195,31 @@
     "name": "Mauritania",
     "slug": "mauritania",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Mauritius",
     "slug": "mauritius",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Morocco",
     "slug": "morocco",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Mozambique",
     "slug": "mozambique",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Namibia",
     "slug": "namibia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Niger",
@@ -231,13 +231,13 @@
     "name": "Nigeria",
     "slug": "nigeria",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Rwanda",
     "slug": "rwanda",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Sao Tome and Principe",
@@ -249,7 +249,7 @@
     "name": "Senegal",
     "slug": "senegal",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Seychelles",
@@ -273,7 +273,7 @@
     "name": "South Africa",
     "slug": "south-africa",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "South Sudan",
@@ -291,7 +291,7 @@
     "name": "Tanzania",
     "slug": "tanzania",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Togo",
@@ -303,19 +303,19 @@
     "name": "Tunisia",
     "slug": "tunisia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Uganda",
     "slug": "uganda",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Zambia",
     "slug": "zambia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Zimbabwe",
@@ -333,19 +333,19 @@
     "name": "Argentina",
     "slug": "argentina",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bahamas",
     "slug": "bahamas",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Barbados",
     "slug": "barbados",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Belize",
@@ -357,19 +357,19 @@
     "name": "Bermuda",
     "slug": "bermuda",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bolivia",
     "slug": "bolivia",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Brazil",
     "slug": "brazil",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "British Virgin Islands",
@@ -381,31 +381,31 @@
     "name": "Canada",
     "slug": "canada",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cayman Islands",
     "slug": "cayman-islands",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Chile",
     "slug": "chile",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Colombia",
     "slug": "colombia",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Costa Rica",
     "slug": "costa-rica",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cuba",
@@ -423,19 +423,19 @@
     "name": "Dominican Republic",
     "slug": "dominican-republic",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Ecuador",
     "slug": "ecuador",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "El Salvador",
     "slug": "el-salvador",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Grenada",
@@ -447,13 +447,13 @@
     "name": "Guatemala",
     "slug": "guatemala",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Guyana",
     "slug": "guyana",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Haiti",
@@ -465,49 +465,49 @@
     "name": "Honduras",
     "slug": "honduras",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Jamaica",
     "slug": "jamaica",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Mexico",
     "slug": "mexico",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Nicaragua",
     "slug": "nicaragua",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Panama",
     "slug": "panama",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Paraguay",
     "slug": "paraguay",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Peru",
     "slug": "peru",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Puerto Rico",
     "slug": "puerto-rico",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -519,7 +519,7 @@
     "name": "Saint Lucia",
     "slug": "saint-lucia",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -537,7 +537,7 @@
     "name": "Trinidad and Tobago",
     "slug": "trinidad-and-tobago",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Turks and Caicos",
@@ -549,19 +549,19 @@
     "name": "United States",
     "slug": "united-states",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Uruguay",
     "slug": "uruguay",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Venezuela",
     "slug": "venezuela",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Afghanistan",
@@ -573,13 +573,13 @@
     "name": "Australia",
     "slug": "australia",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bangladesh",
     "slug": "bangladesh",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bhutan",
@@ -591,19 +591,19 @@
     "name": "Brunei",
     "slug": "brunei",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cambodia",
     "slug": "cambodia",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "China",
     "slug": "china",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Fiji",
@@ -615,31 +615,31 @@
     "name": "Hong Kong SAR",
     "slug": "hong-kong-sar",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "India",
     "slug": "india",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Indonesia",
     "slug": "indonesia",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Japan",
     "slug": "japan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Kazakhstan",
     "slug": "kazakhstan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Kyrgyzstan",
@@ -651,19 +651,19 @@
     "name": "Laos",
     "slug": "laos",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Macau SAR",
     "slug": "macau-sar",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Malaysia",
     "slug": "malaysia",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Maldives",
@@ -675,13 +675,13 @@
     "name": "Mongolia",
     "slug": "mongolia",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Myanmar",
     "slug": "myanmar",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Nepal",
@@ -693,7 +693,7 @@
     "name": "New Zealand",
     "slug": "new-zealand",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "North Korea",
@@ -705,19 +705,19 @@
     "name": "Pakistan",
     "slug": "pakistan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Papua New Guinea",
     "slug": "papua-new-guinea",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Philippines",
     "slug": "philippines",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Samoa",
@@ -729,13 +729,13 @@
     "name": "Singapore",
     "slug": "singapore",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "South Korea",
     "slug": "south-korea",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Sri Lanka",
@@ -747,7 +747,7 @@
     "name": "Taiwan",
     "slug": "taiwan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Tajikistan",
@@ -759,7 +759,7 @@
     "name": "Thailand",
     "slug": "thailand",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Timor-Leste",
@@ -777,7 +777,7 @@
     "name": "Uzbekistan",
     "slug": "uzbekistan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Vanuatu",
@@ -789,13 +789,13 @@
     "name": "Vietnam",
     "slug": "vietnam",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Albania",
     "slug": "albania",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Andorra",
@@ -807,7 +807,7 @@
     "name": "Austria",
     "slug": "austria",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Belarus",
@@ -819,163 +819,163 @@
     "name": "Belgium",
     "slug": "belgium",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bosnia and Herzegovina",
     "slug": "bosnia-and-herzegovina",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bulgaria",
     "slug": "bulgaria",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Croatia",
     "slug": "croatia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cyprus",
     "slug": "cyprus",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Czech Republic",
     "slug": "czech-republic",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Denmark",
     "slug": "denmark",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Estonia",
     "slug": "estonia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Finland",
     "slug": "finland",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "France",
     "slug": "france",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Germany",
     "slug": "germany",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Gibraltar",
     "slug": "gibraltar",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Greece",
     "slug": "greece",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Guernsey",
     "slug": "guernsey",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Hungary",
     "slug": "hungary",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Iceland",
     "slug": "iceland",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Ireland",
     "slug": "ireland",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Isle of Man",
     "slug": "isle-of-man",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Italy",
     "slug": "italy",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Jersey",
     "slug": "jersey",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Kosovo",
     "slug": "kosovo",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Latvia",
     "slug": "latvia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Liechtenstein",
     "slug": "liechtenstein",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Lithuania",
     "slug": "lithuania",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Luxembourg",
     "slug": "luxembourg",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Malta",
     "slug": "malta",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Moldova",
     "slug": "moldova",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Monaco",
@@ -987,43 +987,43 @@
     "name": "Montenegro",
     "slug": "montenegro",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Netherlands",
     "slug": "netherlands",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "North Macedonia",
     "slug": "north-macedonia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Norway",
     "slug": "norway",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Poland",
     "slug": "poland",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Portugal",
     "slug": "portugal",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Romania",
     "slug": "romania",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Russia",
@@ -1041,43 +1041,43 @@
     "name": "Serbia",
     "slug": "serbia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Slovakia",
     "slug": "slovakia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Slovenia",
     "slug": "slovenia",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Spain",
     "slug": "spain",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Sweden",
     "slug": "sweden",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Switzerland",
     "slug": "switzerland",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Ukraine",
     "slug": "ukraine",
     "region": "Europe",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "United Kingdom",
@@ -1095,7 +1095,7 @@
     "name": "Bahrain",
     "slug": "bahrain",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Iran",
@@ -1107,37 +1107,37 @@
     "name": "Iraq",
     "slug": "iraq",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Israel",
     "slug": "israel",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Jordan",
     "slug": "jordan",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Kuwait",
     "slug": "kuwait",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Lebanon",
     "slug": "lebanon",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Oman",
     "slug": "oman",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Palestine",
@@ -1149,13 +1149,13 @@
     "name": "Qatar",
     "slug": "qatar",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Saudi Arabia",
     "slug": "saudi-arabia",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Syria",
@@ -1173,7 +1173,7 @@
     "name": "United Arab Emirates",
     "slug": "united-arab-emirates",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Yemen",
