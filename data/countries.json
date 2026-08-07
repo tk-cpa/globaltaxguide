@@ -1143,7 +1143,7 @@
     "name": "Palestine",
     "slug": "palestine",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Qatar",
@@ -1164,10 +1164,10 @@
     "status": "pending"
   },
   {
-    "name": "Turkiye",
+    "name": "Turkiye (Turkey)",
     "slug": "turkiye",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "United Arab Emirates",
@@ -1180,5 +1180,35 @@
     "slug": "yemen",
     "region": "Middle East",
     "status": "pending"
+  },
+  {
+    "name": "Armenia",
+    "slug": "armenia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Azerbaijan",
+    "slug": "azerbaijan",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Greenland",
+    "slug": "greenland",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "New Caledonia",
+    "slug": "new-caledonia",
+    "region": "Asia-Pacific",
+    "status": "published"
   }
 ]
