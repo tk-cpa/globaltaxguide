@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Tax Guide - Corporate, Personal &amp; VAT Rates for Every Jurisdiction</title>
+<meta name="description" content="Free, concise corporate tax, personal tax, residency, CFC, and VAT/GST reference for every country in the world. From the makers of cpavalidated.com.">
+<link rel="canonical" href="https://globaltaxguide.com/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="brand" href="/">Global Tax Guide <small>by tk.cpa AI Lab</small></a>
+    <nav class="site-nav">
+      <a href="/#directory">Jurisdictions</a>
+      <a href="/#about">About</a>
+      <a href="https://cpavalidated.com" target="_blank" rel="noopener">CPA Validated</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero__inner">
+    <div class="hero__eyebrow">From the makers of cpavalidated.com</div>
+    <h1>Tax Rates for Every Country on Earth</h1>
+    <p>Corporate rate, personal rate, residency rules, CFC rules, treaty network, and VAT/GST - concise, citable, and free. No logins, no paywalls.</p>
+    <form class="hero__search" onsubmit="return false;">
+      <input id="search" type="text" placeholder="Search a country or territory..." autocomplete="off">
+    </form>
+    <div class="stat-row">
+      <div><span class="n" id="stat-total">0</span><span class="l">Jurisdictions Tracked</span></div>
+      <div><span class="n" id="stat-live">0</span><span class="l">Guides Live</span></div>
+      <div><span class="n">6</span><span class="l">Data Points Per Country</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="explainer" id="about">
+  <div class="section">
+    <h2>What's in every country page</h2>
+    <div class="explainer-grid">
+      <div><h3>Corporate rate</h3><p>Headline statutory corporate income tax rate, plus surtaxes and industry carve-outs where they matter.</p></div>
+      <div><h3>Personal rate</h3><p>Top marginal individual rate and how the bands work for residents and non-residents.</p></div>
+      <div><h3>Residency rules</h3><p>Day-count tests, domicile concepts, and the triggers that make someone tax resident.</p></div>
+      <div><h3>CFC rules</h3><p>Controlled Foreign Company attribution regimes and the thresholds that trigger them.</p></div>
+      <div><h3>Treaty network</h3><p>Size and character of the jurisdiction's double tax treaty network.</p></div>
+      <div><h3>VAT / GST guide</h3><p>Standard rate, registration threshold, and special regimes - combining the VAT/GST/sales tax picture in one place.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="directory">
+  <div class="section-head">
+    <div>
+      <h2>Jurisdiction Directory</h2>
+      <p>Click a published country for the full guide. Everything else is on the build list.</p>
+    </div>
+    <div class="region-filters" id="filters"></div>
+  </div>
+  <div class="country-grid" id="grid"></div>
+</section>
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <span>Global Tax Guide - a free public reference. Not a substitute for advice from a licensed professional in the relevant jurisdiction.</span>
+    <span><a href="https://cpavalidated.com" target="_blank" rel="noopener">cpavalidated.com</a></span>
+  </div>
+</footer>
+<p class="disclaimer">General information only, current as of the "last verified" date shown on each page. Tax law changes frequently and varies by individual facts. Confirm any position with a licensed advisor in the relevant jurisdiction before relying on it.</p>
+
+<script>
+async function init() {
+  const res = await fetch('/data/countries.json');
+  const data = await res.json();
+
+  document.getElementById('stat-total').textContent = data.length;
+  document.getElementById('stat-live').textContent = data.filter(c => c.status === 'published').length;
+
+  const regions = ['All', ...new Set(data.map(c => c.region))];
+  const filtersEl = document.getElementById('filters');
+  let activeRegion = 'All';
+
+  function renderFilters() {
+    filtersEl.innerHTML = regions.map(r =>
+      `<button data-region="${r}" class="${r === activeRegion ? 'active' : ''}">${r}</button>`
+    ).join('');
+    filtersEl.querySelectorAll('button').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeRegion = btn.dataset.region;
+        renderFilters();
+        renderGrid();
+      });
+    });
+  }
+
+  function renderGrid() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    const grid = document.getElementById('grid');
+    const filtered = data.filter(c =>
+      (activeRegion === 'All' || c.region === activeRegion) &&
+      c.name.toLowerCase().includes(q)
+    );
+    grid.innerHTML = filtered.map(c => {
+      const statusClass = c.status === 'published' ? 'is-published' : 'is-pending';
+      const tag = c.status === 'published' ? 'Guide live' : 'Coming soon';
+      const href = c.status === 'published' ? `/countries/${c.slug}.html` : '#';
+      const tagEl = `<span class="tag">${tag}</span>`;
+      return c.status === 'published'
+        ? `<a class="country-card ${statusClass}" href="${href}">${c.name}${tagEl}</a>`
+        : `<span class="country-card ${statusClass}">${c.name}${tagEl}</span>`;
+    }).join('');
+  }
+
+  document.getElementById('search').addEventListener('input', renderGrid);
+  renderFilters();
+  renderGrid();
+}
+init();
+</script>
+</body>
+</html>
