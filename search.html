@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search | Global Tax Guide</title>
+<meta name="description" content="Search every country, territory, and special tax zone guide on Global Tax Guide.">
+<link rel="canonical" href="https://globaltaxguide.com/search.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+<style>
+.search-hero {
+  background: var(--ink);
+  padding: 44px 24px 38px;
+  border-bottom: 3px solid var(--teal);
+}
+.search-hero__inner { max-width: 720px; margin: 0 auto; }
+.search-hero__label {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--teal);
+  margin-bottom: 14px;
+}
+.search-hero__wrap { position: relative; }
+#q {
+  width: 100%;
+  padding: 16px 52px 16px 18px;
+  font-family: var(--font-sans);
+  font-size: 1.05rem;
+  border: none;
+  background: #fff;
+  color: var(--ink);
+  outline: none;
+}
+#q::placeholder { color: rgba(17,17,17,0.4); }
+.search-hero__icon {
+  position: absolute;
+  right: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(17,17,17,0.35);
+  pointer-events: none;
+}
+.search-hero__hint {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.45);
+  margin-top: 12px;
+  letter-spacing: 0.02em;
+}
+.results-wrap { max-width: 720px; margin: 0 auto; padding: 0 24px 80px; }
+.results-meta {
+  font-size: 0.72rem;
+  color: rgba(17,17,17,0.4);
+  padding: 20px 0 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.result-card {
+  display: block;
+  padding: 18px 20px;
+  border: 1px solid var(--line);
+  background: #fff;
+  margin-bottom: 8px;
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.12s;
+}
+.result-card:hover { border-color: var(--teal); }
+.result-tag {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--teal-deep);
+  margin-bottom: 5px;
+}
+.result-title { font-family: var(--font-display); font-weight: 600; font-size: 1.15rem; color: var(--ink); margin-bottom: 5px; }
+.result-desc { font-size: 0.88rem; color: rgba(17,17,17,0.65); line-height: 1.55; }
+.result-cat { font-size: 0.75rem; color: rgba(17,17,17,0.4); margin-top: 6px; }
+.no-results { text-align: center; padding: 48px 24px; color: rgba(17,17,17,0.55); }
+.no-results h2 { font-family: var(--font-display); font-size: 1.4rem; font-weight: 600; margin-bottom: 8px; color: var(--ink); }
+.popular { padding: 26px 0 0; }
+.popular__label { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: rgba(17,17,17,0.4); margin-bottom: 12px; }
+.popular__chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  display: inline-block;
+  padding: 7px 14px;
+  border: 1px solid var(--line);
+  font-size: 0.85rem;
+  color: var(--ink);
+  font-weight: 500;
+  cursor: pointer;
+  background: #fff;
+}
+.chip:hover { border-color: var(--teal); color: var(--teal-deep); }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="brand" href="./">Global Tax Guide <small>by tk.cpa AI Lab</small></a>
+    <nav class="site-nav">
+      <a href="#directory">Jurisdictions</a>
+      <a href="map.html">Map</a>
+      <a href="zones.html">Special Zones</a>
+      <a href="unions.html">Unions &amp; Trade Zones</a>
+      <a href="trusted-resources.html">Trusted Resources</a>
+      <a href="about.html">About</a>
+      <a href="https://cpavalidated.com" target="_blank" rel="noopener">CPA Validated</a>
+    </nav>
+  </div>
+</header>
+
+<div class="search-hero">
+  <div class="search-hero__inner">
+    <div class="search-hero__label">Search Global Tax Guide</div>
+    <div class="search-hero__wrap">
+      <input id="q" type="search" placeholder="Country, territory, or tax topic..." autocomplete="off" autocorrect="off" spellcheck="false">
+      <span class="search-hero__icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </span>
+    </div>
+    <div class="search-hero__hint" id="hint">Loading index...</div>
+  </div>
+</div>
+
+<div class="results-wrap">
+  <div id="meta" class="results-meta"></div>
+  <div id="results"></div>
+  <div id="popular" class="popular" style="display:none">
+    <div class="popular__label">Popular jurisdictions</div>
+    <div class="popular__chips">
+      <span class="chip" onclick="go('United States')">United States</span>
+      <span class="chip" onclick="go('United Kingdom')">United Kingdom</span>
+      <span class="chip" onclick="go('Germany')">Germany</span>
+      <span class="chip" onclick="go('Singapore')">Singapore</span>
+      <span class="chip" onclick="go('UAE')">UAE</span>
+      <span class="chip" onclick="go('Switzerland')">Switzerland</span>
+      <span class="chip" onclick="go('Portugal')">Portugal</span>
+      <span class="chip" onclick="go('Cayman Islands')">Cayman Islands</span>
+      <span class="chip" onclick="go('Canada')">Canada</span>
+      <span class="chip" onclick="go('Australia')">Australia</span>
+    </div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <span class="site-footer__tagline">Global Tax Guide - a free public reference. Not a substitute for advice from a licensed professional in the relevant jurisdiction.</span>
+    <div class="site-footer__links">
+      <a href="https://tk.cpa" target="_blank" rel="noopener">tk.cpa</a>
+      <a href="https://cpavalidated.com" target="_blank" rel="noopener">cpavalidated.com</a>
+      <a href="about.html">About</a>
+    </div>
+  </div>
+  <p class="disclaimer">Global Tax Guide is a free educational reference covering corporate, personal, and indirect tax rules for every country and territory in the world. Nothing on this site constitutes legal, tax, or professional advice, and no professional relationship is created by your use of it. Information should be verified against current primary authority in the relevant jurisdiction - statute, treaty text, and guidance from the local tax administration - before being relied on or acted upon. Each page shows a "last verified" date; tax law changes frequently, and changes since that date may not be reflected. <a href="disclaimer.html">Full disclaimer</a>.</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+var fuse = null;
+var hint = document.getElementById('hint');
+var q = document.getElementById('q');
+var res = document.getElementById('results');
+var meta = document.getElementById('meta');
+var pop = document.getElementById('popular');
+
+fetch('search-index.json')
+  .then(function(r){ return r.json(); })
+  .then(function(data){
+    fuse = new Fuse(data.pages, {
+      keys: [
+        {name:'heading', weight: 3},
+        {name:'title', weight: 2},
+        {name:'desc', weight: 1},
+        {name:'category', weight: 0.5}
+      ],
+      threshold: 0.35,
+      includeScore: true,
+      minMatchCharLength: 2
+    });
+    hint.textContent = data.meta.total + ' jurisdictions and pages indexed';
+    pop.style.display = 'block';
+    var p = new URLSearchParams(location.search);
+    if (p.get('q')) { q.value = p.get('q'); doSearch(q.value.trim()); }
+    else { q.focus(); }
+  })
+  .catch(function(){
+    hint.textContent = 'Search unavailable - try refreshing the page.';
+  });
+
+function render(items){
+  if (!items || !items.length) {
+    res.innerHTML = '<div class="no-results"><h2>No results</h2><p>Try a country name, region, or special zone.</p></div>';
+    meta.textContent = '';
+    return;
+  }
+  meta.textContent = items.length + (items.length === 1 ? ' result' : ' results');
+  res.innerHTML = items.map(function(r){
+    var d = r.item || r;
+    return '<a href="' + d.url + '" class="result-card">'
+      + '<div class="result-tag">' + d.type + '</div>'
+      + '<div class="result-title">' + d.heading + '</div>'
+      + '<div class="result-desc">' + d.desc + '</div>'
+      + (d.category ? '<div class="result-cat">' + d.category + '</div>' : '')
+      + '</a>';
+  }).join('');
+}
+
+function doSearch(val){
+  if (!fuse || !val || val.length < 2) {
+    res.innerHTML = '';
+    meta.textContent = '';
+    pop.style.display = 'block';
+    return;
+  }
+  pop.style.display = 'none';
+  render(fuse.search(val, {limit: 30}));
+  history.replaceState(null, '', location.pathname + '?q=' + encodeURIComponent(val));
+}
+
+function go(val){ q.value = val; q.focus(); doSearch(val); }
+
+var timer;
+q.addEventListener('input', function(){
+  clearTimeout(timer);
+  timer = setTimeout(function(){ doSearch(q.value.trim()); }, 140);
+});
+q.addEventListener('keydown', function(e){
+  if (e.key === 'Escape') { q.value = ''; doSearch(''); }
+});
+</script>
+
+</body>
+</html>

@@ -32,8 +32,11 @@
     <div class="hero__eyebrow">From the makers of cpavalidated.com</div>
     <h1>Tax Rates for Every Country on Earth</h1>
     <p>Corporate rate, personal rate, residency rules, CFC rules, treaty network, and VAT/GST - concise, citable, and free. No logins, no paywalls.</p>
-    <form class="hero__search" onsubmit="return false;">
-      <input id="search" type="text" placeholder="Search a country or territory..." autocomplete="off">
+    <form class="hero__search" onsubmit="return false;" autocomplete="off">
+      <div class="hero__search-wrap">
+        <input id="search" type="text" placeholder="Search a country or territory..." autocomplete="off">
+        <div class="hero__suggestions" id="suggestions"></div>
+      </div>
       <button type="submit" id="search-submit" aria-label="Search">Search</button>
     </form>
     <div class="stat-row">
@@ -107,12 +110,8 @@ async function init() {
   }
 
   function renderGrid() {
-    const q = document.getElementById('search').value.trim().toLowerCase();
     const grid = document.getElementById('grid');
-    const filtered = data.filter(c =>
-      (activeRegion === 'All' || c.region === activeRegion) &&
-      c.name.toLowerCase().includes(q)
-    );
+    const filtered = data.filter(c => activeRegion === 'All' || c.region === activeRegion);
     grid.innerHTML = filtered.map(c => {
       const statusClass = c.status === 'published' ? 'is-published' : 'is-pending';
       const tag = c.status === 'published' ? 'Guide live' : 'Coming soon';
@@ -124,15 +123,38 @@ async function init() {
     }).join('');
   }
 
-  document.getElementById('search').addEventListener('input', renderGrid);
+  // ---- Typeahead search box (routes to search.html) ----
+  const searchInput = document.getElementById('search');
+  const suggestionsEl = document.getElementById('suggestions');
 
-  function submitSearch() {
-    renderGrid();
-    document.getElementById('directory').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  function renderSuggestions() {
+    const q = searchInput.value.trim().toLowerCase();
+    if (!q) { suggestionsEl.innerHTML = ''; suggestionsEl.classList.remove('is-open'); return; }
+    const matches = data.filter(c => c.name.toLowerCase().includes(q)).slice(0, 8);
+    if (!matches.length) { suggestionsEl.innerHTML = ''; suggestionsEl.classList.remove('is-open'); return; }
+    suggestionsEl.innerHTML = matches.map(c => {
+      const href = c.status === 'published' ? `countries/${c.slug}.html` : `search.html?q=${encodeURIComponent(c.name)}`;
+      return `<a href="${href}" class="hero__suggestion">${c.name}<span class="hero__suggestion-region">${c.region}</span></a>`;
+    }).join('');
+    suggestionsEl.classList.add('is-open');
   }
-  document.getElementById('search-submit').addEventListener('click', submitSearch);
-  document.getElementById('search').addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') submitSearch();
+
+  function goToSearchPage() {
+    const q = searchInput.value.trim();
+    window.location.href = q ? `search.html?q=${encodeURIComponent(q)}` : 'search.html';
+  }
+
+  searchInput.addEventListener('input', renderSuggestions);
+  searchInput.addEventListener('focus', renderSuggestions);
+  document.getElementById('search-submit').addEventListener('click', goToSearchPage);
+  searchInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') goToSearchPage();
+    if (e.key === 'Escape') { suggestionsEl.innerHTML = ''; suggestionsEl.classList.remove('is-open'); }
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.hero__search-wrap')) {
+      suggestionsEl.classList.remove('is-open');
+    }
   });
 
   renderFilters();
