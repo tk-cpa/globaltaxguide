@@ -127,7 +127,16 @@ between countries per standing directive. Progress so far:
       day PE test), CFC (confirmed: NO CFC regime), Thin Cap (confirmed:
       NO formal thin cap rule, only 50%-of-taxable-income interest cap),
       Treaty Network (61 treaties, MLI since 2018)
-- [ ] Remaining G20: South Africa, Turkiye, Argentina - continuing
+- [x] South Africa - Residency (ordinarily-resident + 91/915-day physical
+      presence tests, 330-day exit rule), CFC (Section 9D, >50% ownership,
+      10% de minimis, FBE exemption, 67.5% high-tax exemption), Thin Cap
+      (arm's-length test since 2012, former 3:1 safe harbor abolished),
+      Treaty Network (79 countries, largest in Africa)
+- [x] Turkiye - Residency (GVK Article 4: domicile OR 6-month presence,
+      Article 5 exceptions), CFC (KVK Article 7: 50% control + 25% passive
+      income + <10% ETR + TRY 100k threshold), Thin Cap (3:1/6:1 ratios,
+      Law 5520 Article 12), Treaty Network (85+ countries)
+- [ ] Remaining G20: Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
