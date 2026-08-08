@@ -280,7 +280,19 @@ report NO CFC regime rather than forcing a template answer).
       absence rule), CFC (confirmed: NO CFC regime), Thin Cap (3:1
       manufacturers/4:1 others, 6-year carryforward), Treaty Network
       (44 countries, India PPT protocol update flagged)
-- [ ] Next: Nepal - continuing
+- [x] Nepal - Residency (Section 2(ka), 183-day/365-day-window test), CFC
+      (honestly flagged: no dedicated CFC attribution regime found;
+      GAAR/transfer pricing reliance noted instead of asserting a
+      confident "no"), Thin Cap (Section 14 interest limitation exists,
+      exact ratio flagged as unconfirmed across sources), Treaty Network
+      (11 countries, dual-resident anti-abuse rule)
+
+## South Asia batch complete (India, Pakistan, Bangladesh, Sri Lanka,
+## Nepal all done)
+
+- [ ] Next: Europe remainder - Greece, Hungary, Romania, Slovakia,
+      Croatia, Slovenia, Bulgaria, Iceland, Malta, Cyprus, Baltics -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
