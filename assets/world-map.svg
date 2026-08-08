@@ -19,10 +19,10 @@
 <style>
   .country { fill: #C9D6DC; stroke: #FFFFFF; stroke-width: 0.6; }
   .country.has-page { cursor: pointer; }
-  .country.has-page:hover { fill: #FF7A63; }
-  .country.no-page { fill: #E1E8E7; }
-  .country.region-active { fill: #00A6A0; }
-  .country.region-active:hover { fill: #FF7A63; }
+  .country.has-page:hover { fill: #F47734; }
+  .country.no-page { fill: #E9EDEC; }
+  .country.region-active { fill: #00ABB5; }
+  .country.region-active:hover { fill: #F47734; }
 </style>
 <g>
     <path id="_somaliland" class="country has-page" data-slug="somaliland" data-name="Somaliland" data-region="Africa" d="M512.674,502.797l3.526,2.403l1.046-0.052l8.757-3.008l0.994,3.206l-0.701,2.706l-1.893,1.503l-4.729-0.302l-6.769-4.158L512.674,502.797L512.674,502.797z"/>
