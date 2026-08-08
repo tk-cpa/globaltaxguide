@@ -1200,3 +1200,40 @@ Islands, Dominica, Grenada, Guyana, Haiti, Montserrat, Saint
 Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French),
 Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint
 Maarten, Suriname, Turks and Caicos.
+
+
+## Session update 7 - August 8, 2026 (continued, same session)
+
+2 more countries verified and pushed: British Virgin Islands, Cayman
+Islands. Running session total: 22 countries.
+
+Real remaining placeholder count: 82 (84 minus these 2).
+
+- [x] British Virgin Islands - Residency (Economic Substance Act 2018
+      framework, detailed ITA rules for entities claiming non-BVI tax
+      residence e.g. in Jersey/Guernsey/Isle of Man), CFC: No, Thin
+      Cap: not identified, Foreign Account Reporting (CRS, TIEA
+      network, USD 400,000 penalty for substance non-compliance
+      flagged), Treaty Network: genuine narrow exception flagged - most
+      sources say zero DTAs (TIEA-only, 25-28+ agreements), but a
+      real BVI-UK double tax agreement does exist with informal
+      extensions sometimes described to Japan/Switzerland - flagged
+      as a non-obvious exception rather than defaulting to "no
+      treaties at all"
+- [x] Cayman Islands - also corrected N/A rate cells to accurate 0%
+      (corporate/personal/VAT all confirmed zero, not just unconfirmed).
+      Residency (Economic Substance Act 2021 Revision, detailed
+      DITC evidence requirements for claiming non-Cayman tax residence,
+      specific US disregarded-entity carve-out), CFC: No, Thin Cap: not
+      identified (Pillar Two 2025 implementation for large MNEs noted
+      as a distinct mechanism), Foreign Account Reporting (DITC/CRS/
+      FATCA framework, US TIEA dated November 29 2013 as the basis for
+      the FATCA IGA), Treaty Network (PwC's current, specific figure:
+      36 signed bilateral information-exchange agreements, 29 in force
+      - explicitly NOT comprehensive DTAs, no US treaty confirmed via
+      2 independent sources)
+
+Next up: continuing Caribbean batch - Dominica, Grenada, Guyana, Haiti,
+Montserrat, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint
+Martin (French), Saint Pierre and Miquelon, Saint Vincent and the
+Grenadines, Sint Maarten, Suriname, Turks and Caicos.
