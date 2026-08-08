@@ -353,7 +353,15 @@ report NO CFC regime rather than forcing a template answer).
       30pct interest cap), Treaty Network (70 in force per Ministry of
       Finance, war-related terminations and 2025-2026 new treaties
       flagged)
-- [ ] Next: Bosnia, North Macedonia, Montenegro, Albania - continuing
+- [x] Bosnia and Herzegovina - Residency (entity-fragmented FBiH/RS/BD
+      system, 183-day/vital-interests test), CFC (confirmed: NO CFC
+      rules), Thin Cap (FBiH-only 4:1 ratio, RS/BD have none), Treaty
+      Network (40+ countries)
+- [x] North Macedonia - Residency (183-day/permanent-residence test),
+      CFC (confirmed: NO CFC rules), Thin Cap (3:1 ratio, 20pct
+      shareholder threshold, 3-year startup exemption), Treaty Network
+      (48 countries)
+- [ ] Next: Montenegro, Albania, Kosovo - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
