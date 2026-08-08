@@ -506,8 +506,14 @@ report NO CFC regime rather than forcing a template answer).
 - [x] Rwanda - Residency (183-day/domicile test, KIFC 5-year exemption),
       CFC (confirmed: NONE), Thin Cap (4:1 ratio), Treaty Network
       (14 countries)
-- [ ] Next: Algeria, Tunisia, then remaining Africa/Caribbean/microstates
-      - continuing
+- [x] Algeria - Residency (183-day/dwelling-domicile test), CFC
+      (confirmed: NONE), Thin Cap (shareholder-loan Bank of Algeria rate
+      cap, no fixed ratio), Treaty Network (France/Canada + others)
+- [x] Tunisia - Residency (183-day/domicile test, modified-territorial
+      corporate system), CFC (confirmed: NONE), Thin Cap (8pct rate +
+      50pct-of-capital shareholder cap), Treaty Network (~48 countries)
+- [ ] Next: Cameroon, DR Congo, Angola, Mozambique, Botswana, Namibia -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
