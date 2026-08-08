@@ -70,9 +70,14 @@ between countries per standing directive. Progress so far:
       test), CFC (FRC >50% ownership, 20%/27%/30% trigger rates), Thin Cap
       (3:1 safe harbor + separate 20% earnings stripping rule), Treaty
       Network (90 conventions / 157 jurisdictions per PwC 1 May 2026)
-- [ ] Remaining G20: France, India, Brazil, Italy, Canada, South Korea,
-      Russia, Australia, Mexico, Indonesia, Saudi Arabia, South Africa,
-      Turkiye, Argentina - continuing
+- [x] France - Residency (Article 4B: home/183-day/economic-interest tests,
+      any one sufficient), CFC (Article 209B, >50% ownership, 40%-lower
+      privileged-regime threshold), Thin Cap (2019 ATAD reform, EUR 3m/30%
+      EBITDA, 1.5 debt-equity ratio), Treaty Network (120+ countries,
+      Mali/Niger terminations, Russia suspension, unratified treaties noted)
+- [ ] Remaining G20: India, Brazil, Italy, Canada, South Korea, Russia,
+      Australia, Mexico, Indonesia, Saudi Arabia, South Africa, Turkiye,
+      Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
