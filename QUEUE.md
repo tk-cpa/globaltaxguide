@@ -530,8 +530,21 @@ report NO CFC regime rather than forcing a template answer).
 ## d'Ivoire, Zambia, Rwanda, Algeria, Tunisia, Cameroon, Botswana,
 ## Namibia all done; South Africa done earlier)
 
-- [ ] Next: DR Congo, Angola, Mozambique, Zimbabwe, Sudan, Libya, then
-      remaining Caribbean/Pacific microstates - continuing
+- [x] DR Congo - Residency (broad Article 62 test incl. 183-day factor),
+      CFC (confirmed: NONE), Thin Cap (confirmed: NONE general, mining
+      75/25 only), Treaty Network (very limited: South Africa + Belgium)
+- [x] Angola - Residency (90-day threshold, lower than typical), CFC
+      (confirmed: NONE), Thin Cap (central-bank-rate cap, no fixed
+      ratio), Treaty Network (3 in-force + 4 signed-not-in-force)
+- [x] Mozambique - Residency (seat-or-management test), CFC (genuine
+      regime, 25pct/10pct + 60pct-of-rate test), Thin Cap (2:1 ratio),
+      Treaty Network (9 named countries)
+- [x] Zimbabwe - Residency (source-based with foreign-income nuance
+      flagged), CFC (confirmed: NONE), Thin Cap (3:1 ratio + 2019
+      domestic-lender clarification), Treaty Network (named list, not
+      MLI signatory)
+- [ ] Next: Libya, Sudan, Malawi, remaining Africa, then Caribbean
+      microstates - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
