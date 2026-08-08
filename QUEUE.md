@@ -186,7 +186,18 @@ report NO CFC regime rather than forcing a template answer).
       harbor), Thin Cap (layered 1:1 director loans / 5:1 tax-haven loans
       / 30pct-EBITDA-or-EUR3m general rule), Treaty Network (150+
       countries per PwC, 99 designated MLI Covered Tax Agreements)
-- [ ] Next: additional major non-G20 economies - continuing
+- [x] Ireland - Residency (183/280-day test, ordinary residence after 3
+      years), CFC (ATAD non-genuine-arrangements test, >50% control), Thin
+      Cap (no fixed ratio; 30% EBITDA ILR since 2022, EUR3m de minimis,
+      standalone/legacy-debt exclusions), Treaty Network (78 signed/75 in
+      force per Chambers 2026)
+- [x] Luxembourg - Residency (domicile/6-month habitual abode test),
+      CFC (Article 164ter, 50% control + <50%-of-Lux-rate threshold,
+      EUR750k/10%-opex exclusion), Thin Cap (85:15 administrative
+      benchmark, not legally binding per courts + 30% EBITDA ATAD rule),
+      Treaty Network (94 signed/88 in force per PwC)
+- [ ] Next: additional major non-G20 economies (Austria, Denmark, Norway,
+      Poland, Singapore, Portugal, Czech Republic, Finland) - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
