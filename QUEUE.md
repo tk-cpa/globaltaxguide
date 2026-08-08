@@ -2081,3 +2081,37 @@ Final gate check: zero hits on either page.
 
 REMAINING: 60 placeholder pages (Africa: 16, Asia-Pacific: 17, Europe:
 16, Americas: 11, Middle East: 1).
+
+
+## REGIONAL QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+3 more full narrative pages built, all individually re-verified via
+independent fetch immediately after commit:
+
+- Chad - CFC not identified. Treaty network fully resolved via PwC: Chad
+  has exactly ONE tax treaty, with CEMAC member states collectively (not
+  a bilateral network) - confirmed with specific supporting withholding-
+  rate evidence (5-10 percent CEMAC-resident rates vs up to 25 percent
+  for non-CEMAC).
+- Djibouti - CFC not identified. Rejected an unreliable low-quality
+  directory source (incorporations.io) showing wildly wrong 38 percent
+  corporate / 33 percent VAT figures, inconsistent with every other
+  source's 25 percent / 10 percent - same rejected-source pattern used
+  repeatedly this session. Treaty network: ~3 treaties, named partners
+  France/Ethiopia/Somalia, confirmed as actively expanding via BRITACOM.
+- Equatorial Guinea - CFC not identified, with real structural reasoning
+  given (EG's own corporate system is already territorial for outbound
+  profits, reducing the functional need for CFC rules - noted as
+  inference, not primary confirmation). Real, specific thin
+  capitalization mechanism found (interest deductibility capped at
+  central bank advance rate of 3.25 percent for shareholder advances,
+  plus a rule on loans exceeding 50 percent of capital stock) - not a
+  generic ratio, an actual sourced mechanism via Orbitax. Residency test
+  is genuinely different from the 183-day norm: 3 months in one year OR
+  6 months across a 2-year period.
+
+Final gate check: only hit is the standard accepted FATCA/CRS sentence
+on Equatorial Guinea - not a real defect.
+
+REMAINING: 57 placeholder pages (Africa: 13, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1).
