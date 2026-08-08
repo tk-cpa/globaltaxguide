@@ -299,7 +299,18 @@ report NO CFC regime rather than forcing a template answer).
       carveout), Thin Cap (30pct EBITDA cap + 3:1 grandfather option),
       Treaty Network (80+ countries, no US treaty, Russia suspension
       flagged)
-- [ ] Next: Romania, Slovakia - continuing
+- [x] Romania - Residency (domicile/vital-interests/183-day test), CFC
+      (ATAD proportional inclusion), Thin Cap (no ratio; 30pct EBITDA/
+      EUR1m cap), Treaty Network (90+ countries)
+- [x] Slovakia - Residency (183-day/dwelling test + anti-avoidance
+      fallback), CFC (extended to individuals 2019, non-cooperative
+      jurisdiction catch), Thin Cap (30pct-of-adjusted-base rule),
+      Treaty Network (60-70 countries)
+- [x] Croatia - Residency (multi-test incl. real-estate-availability
+      trigger, not a simple day count), CFC (50pct threshold since 2019),
+      Thin Cap (dual: 4:1 safe harbor + 30pct EBITDA ATAD), Treaty
+      Network (60-65 countries, US/Australia/NZ treaties pending)
+- [ ] Next: Slovenia, Bulgaria - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
