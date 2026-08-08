@@ -1313,3 +1313,55 @@ Next up: continuing Caribbean batch - Montserrat, Saint Barthelemy,
 Saint Kitts and Nevis, Saint Lucia, Saint Martin (French), Saint Pierre
 and Miquelon, Saint Vincent and the Grenadines, Sint Maarten, Suriname,
 Turks and Caicos.
+
+
+## Session update 10 - August 8, 2026 (continued, same session)
+
+1 more country verified and pushed: Montserrat. Running session total:
+27 countries.
+
+Real remaining placeholder count: 77 (78 minus this 1).
+
+- [x] Montserrat - Residency (built from primary Income and Corporation
+      Tax Act Chapter 17.01 - resident-and-domiciled test, remittance-
+      basis taxation for non-domiciled residents, IBC foreign-income
+      exemption regime detailed), CFC: flagged as NOT IDENTIFIED
+      (honest gap, not guessed), Thin Cap: not identified, Foreign
+      Account Reporting (2004/2005 UK-Montserrat EU Savings Directive
+      exchange arrangement as the likely institutional predecessor to
+      current CRS, current CRS/FATCA status not independently
+      re-confirmed), Treaty Network (no comprehensive DTA network
+      identified; Tax Justice Network's Corporate Tax Haven Index used
+      to contextualize Montserrat's genuinely minimal <0.1% share of
+      global MNC cross-border investment flow as consistent with a
+      minimal treaty network, without asserting a specific count that
+      wasn't independently confirmed)
+
+## Session summary so far (27 countries, all cross-checked, all pushed)
+
+Papua New Guinea, Cook Islands, Kiribati, Marshall Islands, Nauru,
+Palau, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu, New Zealand,
+Niue, New Caledonia, French Polynesia, Wallis and Futuna, Anguilla,
+Antigua and Barbuda, Aruba, Bermuda, British Virgin Islands, Cayman
+Islands, Dominica, Grenada, Guyana, Haiti, Montserrat.
+
+Corrections made to prior/stale content this session (not just new
+narrative additions):
+1. Papua New Guinea - CFC regime status was outdated in older secondary
+   sources (KPMG 2016-2018 said none; PwC's current page confirms a NEW
+   regime under ITA 2025)
+2. Anguilla - VAT rate cell said "0%, no VAT" but Anguilla introduced a
+   13% GST in 2022; corrected the quickchart cell, not just prose
+3. French Polynesia - declined to repeat a source's claim of inheriting
+   "France's 120+ DTAs"; confirmed via PwC that French Pacific overseas
+   territories are treated as foreign for French treaty purposes
+4. Cayman Islands - N/A rate cells corrected to accurate 0%
+5. Tonga - built directly from the primary Income Tax Act PDF; caught
+   and corrected a secondary source's false claim that Tonga has no
+   personal income tax at all
+
+Real remaining placeholder count: 77 of the original 104 (which was
+itself a correction of the file's prior claim of ~109). Next up:
+Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin
+(French), Saint Pierre and Miquelon, Saint Vincent and the Grenadines,
+Sint Maarten, Suriname, Turks and Caicos to close the Caribbean batch.
