@@ -2367,3 +2367,40 @@ Final gate check: zero hits on either page.
 
 REMAINING: 40 placeholder pages (Asia-Pacific: 13, Europe: 16, Americas:
 11).
+
+
+## ASIA-PACIFIC QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+2 more pages built, both individually re-verified via independent fetch:
+
+- Kazakhstan - SIGNIFICANT CATCH: found a new 2026 Tax Code (effective
+  January 1, 2026) that fundamentally restructured the system - personal
+  income tax became PROGRESSIVE for the first time (10 percent to 8,500
+  MCI, 15 percent above; dividends 5 percent to 230,000 MCI, 15 percent
+  above), replacing the long-standing flat 10 percent rate that many
+  sources still describe. VAT rose from 12 percent to 16 percent.
+  Sector-differentiated CIT introduced (25 percent banks/gambling, 20
+  percent retained for bank lending income, 5-10 percent social sector).
+  The page's rate CELLS had already been correctly updated to the new
+  figures in an earlier session, but the PROSE was still thin,
+  generic, unexplained one-line placeholders ("the rate is 20" with no
+  context) - rebuilt substantially with the actual reform detail, dates,
+  and sourcing rather than left as bare numbers. CFC rules confirmed YES
+  with a full, specific statutory two-part test (25 percent+ ownership/
+  control AND either sub-10 percent effective foreign tax rate or
+  blacklisted jurisdiction) via GSL. ~55 treaties, MLI in force since
+  2020, Astana Hub tech exemption extended to 2029 all confirmed.
+
+- Kyrgyzstan - CFC confirmed NO via two fully independent, direct
+  sources (Freeman Law: "CFC Rules. No."; Orbitax, separately: "There
+  are no Controlled Foreign Company rules in Kyrgyzstan") - strongly
+  corroborated rather than a single-source claim. Distinctive finding:
+  Kyrgyz CITIZENS are taxed on worldwide income regardless of their
+  actual tax residency status - a citizenship-linked rule layered on
+  top of the ordinary 183-day residency test. ~30 treaties, US treaty
+  confirmed in force, MLI not signed.
+
+Final gate check: zero real hits on either page.
+
+REMAINING: 38 placeholder pages (Asia-Pacific: 11, Europe: 16, Americas:
+11).
