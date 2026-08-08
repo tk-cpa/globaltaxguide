@@ -222,7 +222,11 @@ report NO CFC regime rather than forcing a template answer).
       resident categories regardless of days), CFC (ATAD 50pct threshold),
       Thin Cap (30pct EBITDA rule), Treaty Network (99 treaties per
       official gov.cz list, Belarus suspension 2024-2026 noted)
-- [ ] Next: Finland, Hong Kong, UAE, Poland - continuing
+- [x] Finland - Residency (permanent home/6-month test), CFC (25pct
+      ownership + three-fifths-of-Finnish-rate threshold, EEA/non-EEA
+      escape rules), Thin Cap (no ratio; EUR500k/25pct EBITDA rule + EUR3m
+      non-group carveout), Treaty Network (70+ countries)
+- [ ] Next: Hong Kong, UAE, Poland - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
