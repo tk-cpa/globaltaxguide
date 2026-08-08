@@ -1836,3 +1836,55 @@ cell was already fixed as part of the systemic sweep above, but Yemen
 still needs its full CFC/Thin Cap/Treaty Network narrative section built
 (currently still placeholder-level beyond the rate fix). Syria has not
 been touched at all this session and remains fully on the queue.
+
+
+## ALL 7 RESTORED COUNTRIES NOW COMPLETE - August 8, 2026 (same day, continued)
+
+Yemen and Syria completed, finishing the full set of 7 restored countries
+(Iran, Syria, Yemen, Belarus, Monaco, San Marino, Vatican City) that were
+falsely marked complete in a prior session and had to be rebuilt from
+scratch this session.
+
+- Yemen - full narrative built. Notable finding: Yemen DOES have CFC,
+  thin capitalization, AND transfer pricing anti-avoidance rules
+  (confirmed via a PKF International-sourced guide) - worth flagging
+  since many jurisdictions at a comparable level of tax-system
+  development do not have these. ~6 double tax treaties (Ethiopia, Iran,
+  Pakistan, Turkey, plus several Arab countries). Sanctions/conflict
+  context documented for the Foreign Account Reporting section given
+  the parallel-administration situation.
+
+- Syria - CAUGHT ANOTHER REAL CELL ERROR: the VAT/GST quickchart cell
+  showed 45% - but that figure was actually a narrow proposed excise
+  rate specifically on PORK PRODUCTS under Syria's pending 2025 tax
+  reform, not a general VAT/consumption tax rate at all. The correct
+  general answer is 0% (Syria has historically had no formal VAT). This
+  is the same "misleading non-representative headline number" pattern
+  as Bahrain's 46% and Bangladesh's 25%-instead-of-27.5% - now confirmed
+  on a THIRD page. Also notable: Syria is in the middle of a genuine,
+  significant live tax-system transition (a July 2025 draft reform
+  proposing unified flat 10%/15% corporate rates, expected in "early
+  2026" per Karam Shaar Advisory's analysis) whose actual implementation
+  status could not be confirmed this session - multiple sources dated
+  as late as June-August 2026 still show pre-reform figures, suggesting
+  either the reform has not yet taken effect or sources have not caught
+  up. Handled by presenting the confirmed current baseline clearly while
+  explicitly flagging the pending reform context, rather than picking
+  one figure and hiding the transition uncertainty. CFC/thin cap/transfer
+  pricing all confirmed as explicit "No" via a specific source (not an
+  inferred gap).
+
+STANDING PATTERN NOW CONFIRMED THREE TIMES: misleading non-representative
+headline numbers (Bahrain 46% oil rate, Bangladesh 25% listed-company
+rate, Syria 45% pork-excise rate) are a DISTINCT defect category from
+the cell-vs-prose bracket mismatch bug (San Marino/Iran + 13 others).
+Both are now understood as recurring, checkable patterns. The
+CELL_VS_PROSE_MISMATCH check in quality_gate.py catches the bracket
+version; the non-representative-number version currently requires
+reading the prose by eye when a cell value looks unusual or doesn't
+match general expectations for the jurisdiction - worth considering for
+a future automated check (e.g. flagging cells that don't match the
+majority/general case described in the first sentence of prose).
+
+STATUS: All 7 restored countries complete and verified. QUEUE moving to
+the general ~340-page regional build queue next.
