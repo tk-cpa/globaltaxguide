@@ -118,8 +118,16 @@ between countries per standing directive. Progress so far:
       Thin Cap (3:1 ratio + 30% BEPS interest cap, 40% REFIPRE withholding),
       Treaty Network (60 countries, notable gaps listed, MLI since July
       2023 with US/Germany exceptions)
-- [ ] Remaining G20: Indonesia, Saudi Arabia, South
-      Africa, Turkiye, Argentina - continuing
+- [x] Indonesia - Residency (Article 2, 183-day/12-month cumulative test),
+      CFC (PMK-93/2019, 50% paid-up capital threshold, deemed dividend
+      timing rules), Thin Cap (4:1 debt-equity ratio), Treaty Network
+      (71 countries, UN Model-based)
+- [x] Saudi Arabia - Residency/Zakat split (no personal income tax; Zakat
+      2.5% for Saudi/GCC shareholders vs 20% CIT for non-Saudi share, 183-
+      day PE test), CFC (confirmed: NO CFC regime), Thin Cap (confirmed:
+      NO formal thin cap rule, only 50%-of-taxable-income interest cap),
+      Treaty Network (61 treaties, MLI since 2018)
+- [ ] Remaining G20: South Africa, Turkiye, Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
