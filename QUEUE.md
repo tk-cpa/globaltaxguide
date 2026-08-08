@@ -2612,3 +2612,40 @@ Africa and Middle East)
 
 REMAINING: 27 placeholder pages across two regions: Europe (16),
 Americas (11).
+
+
+## EUROPE REGION STARTED - August 8, 2026 (same day, continued)
+
+Began the Europe placeholder queue (16 pages identified via direct
+sitewide check).
+
+- Andorra - CFC not identified for Andorra's OWN domestic law - but a
+  real, important distinction drawn: the practical CFC risk for
+  Andorra-structured entities usually comes from OTHER countries' CFC
+  rules targeting Andorran companies lacking genuine substance, not from
+  a domestic Andorran CFC regime. Genuinely current finding: an
+  Andorra-UK tax treaty entered into force December 2025/January 2026,
+  confirmed via a dated KPMG alert - this directly supersedes an older
+  source that specifically listed the UK as a non-treaty country, and
+  that outdated claim was flagged explicitly rather than left standing.
+
+- Gibraltar - ANOTHER INSTANCE of the systemic "top-rate cell shows
+  bottom bracket" bug found and fixed 15 times earlier this session:
+  the personal rate cell showed 14 percent (the bottom Allowance-Based-
+  System band) when the actual top band is 39 percent - the page's own
+  prose already correctly said "14-39%" but the cell had dropped the
+  top figure. This page had been missed in the original systemic sweep
+  because it still lacked full narrative structure at that time; the
+  automated CELL_VS_PROSE_MISMATCH check in quality_gate.py should
+  catch this pattern on any remaining un-swept pages going forward, but
+  this is a useful reminder to specifically re-run that check on any
+  page being newly completed, not just pages already fully built.
+  CFC confirmed YES via two independent, detailed sources (Chambers and
+  Partners: transposed from EU's ATAD even post-Brexit; ICLG: specific
+  attribution mechanics for non-genuine-arrangement profits). UK treaty
+  precisely dated (signed Oct 2019, in force April 2020, now fully
+  operative).
+
+Final gate check: zero hits on either page.
+
+REMAINING: 25 placeholder pages (Europe: 14, Americas: 11).
