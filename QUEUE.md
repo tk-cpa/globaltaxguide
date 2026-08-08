@@ -240,7 +240,12 @@ report NO CFC regime rather than forcing a template answer).
       income back to foreign shareholders), Thin Cap (no ratio; Article 30
       30pct EBITDA/AED12m interest cap), Treaty Network (130-140+
       countries, exact count flagged as approximate, no US treaty)
-- [ ] Next: Poland, Malaysia, Thailand - continuing
+- [x] Poland - Residency (183-day/center-of-interests test), CFC
+      (multi-test regime: 50pct control + 25pct-lower-rate + 33pct-passive-
+      income, plus tax-haven catch-all; flat 19% CFC rate applies even to
+      undistributed profits), Thin Cap (Article 15c, PLN3m/30pct EBITDA
+      cap), Treaty Network (~100 countries per Ministry of Finance)
+- [ ] Next: Malaysia, Thailand - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
