@@ -2028,3 +2028,31 @@ of the 4 new pages.
 
 REMAINING: 66 placeholder pages (Africa: 21, Asia-Pacific: 17, Europe:
 16, Americas: 11, Middle East: 1).
+
+
+## REGIONAL QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+4 more full narrative pages built, all rates already correct from
+earlier fixes this session, all individually re-verified via independent
+fetch immediately after each commit:
+
+- Togo - CFC not identified. WAEMU tax treaty framework member plus
+  unspecified bilateral agreements (per a company-formation source) -
+  named-partner list not fully compiled.
+- Central African Republic - CFC not identified. CEMAC/OHADA/CEEAC
+  regional framework member (confirmed via Addleshaw Goddard). AML/UBO
+  obligations exist under CEMAC directives via ANIF but no confirmed
+  enforceable UBO register found.
+- Sao Tome and Principe - CFC not identified. 183-day residency test
+  confirmed. Notable: non-resident individuals pay ZERO tax on
+  foreign-sourced income/capital gains/wealth/inheritance - a
+  genuinely favorable, confirmed-via-two-sources planning fact. Primary
+  treaty is with Portugal (2015/2018) with proper tie-breaker mechanics;
+  explicitly NO treaty with US/UK/Canada, confirmed non-FATCA country.
+
+Final gate check: only hit across all 4 pages is the standard accepted
+FATCA/CRS institutional-uncertainty sentence (Togo) - not a real defect,
+consistent with the standard established earlier this session.
+
+REMAINING: 62 placeholder pages (Africa: 18, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1).
