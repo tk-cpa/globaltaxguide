@@ -94,6 +94,37 @@ ALL_CHECKS = {
     "DUPLICATED_PREFIX_BUG (regression check)": DUPLICATED_PREFIX_BUG,
 }
 
+# CELL_VS_PROSE_MISMATCH: found August 8, 2026 on San Marino and Iran (and 13
+# more pages once swept sitewide) - the quickchart summary cell for "Top
+# personal rate" or "Corporate rate" showed the BOTTOM of a progressive range
+# (e.g. "9%") instead of the actual top/general rate (e.g. "35%"), while the
+# detailed prose two lines down had it correct. This is checked separately
+# below (not a simple regex) because it requires comparing a cell value
+# against the highest number in a "X% to Y%" range in the adjacent prose.
+import re as _re
+_CELL_P = _re.compile(r'<div class="label">Top personal rate</div><div class="value">([\d.]+)%\*?</div>')
+_CELL_C = _re.compile(r'<div class="label">Corporate rate</div><div class="value">([\d.]+)%\*?</div>')
+_RANGE_PAT = _re.compile(r'(\d+(?:\.\d+)?)%\s*to\s*(?:a\s*)?(\d+(?:\.\d+)?)%', _re.IGNORECASE)
+
+def check_cell_vs_prose_mismatch(content):
+    """Returns a list of mismatch descriptions, or empty list if clean."""
+    issues = []
+    for label, cellpat, h2 in [('personal', _CELL_P, '<h2>Personal Tax Rate</h2>'), ('corporate', _CELL_C, '<h2>Corporate Tax Rate</h2>')]:
+        cell_match = cellpat.search(content)
+        idx = content.find(h2)
+        if cell_match and idx != -1:
+            end = content.find('</p>', idx)
+            if end == -1:
+                continue
+            prose_section = content[idx:end]
+            cell_val = float(cell_match.group(1))
+            range_matches = _RANGE_PAT.findall(prose_section)
+            if range_matches:
+                max_prose_val = max(float(b) for a, b in range_matches)
+                if max_prose_val > cell_val + 1:
+                    issues.append(f"{label}: cell shows {cell_val}% but prose describes a range up to {max_prose_val}%")
+    return issues
+
 def fetch(slug):
     req = urllib.request.Request(f"{RAW}/countries/{slug}.html", headers={"User-Agent": "x"})
     with urllib.request.urlopen(req) as resp:
@@ -113,6 +144,9 @@ def scan(slug):
                 found.append(content[start:end].replace("\n", " "))
         if found:
             hits[label] = found
+    cell_mismatches = check_cell_vs_prose_mismatch(content)
+    if cell_mismatches:
+        hits["CELL_VS_PROSE_MISMATCH (found Aug 8 2026 on San Marino/Iran - top-rate cell showing bottom bracket)"] = cell_mismatches
     return (slug, hits)
 
 def main():
