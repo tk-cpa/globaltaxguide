@@ -2297,3 +2297,39 @@ Final gate check: zero hits on Palestine.
 
 REMAINING: 44 placeholder pages, all in three regions: Asia-Pacific
 (17), Europe (16), Americas (11).
+
+
+## ASIA-PACIFIC REGION STARTED - August 8, 2026 (same day, continued)
+
+Resumed in the same chat session per user request (no new session needed
+- all context, token, and standing rules already live). Began the
+Asia-Pacific placeholder queue (17 pages identified via direct sitewide
+check).
+
+- Afghanistan - MAJOR CATCH: page showed outdated pre-reform rates
+  (corporate 20%, personal top 20%). A July 12, 2026 reform (very
+  recent, well after most aggregators' data) cut corporate to 10% (mining
+  excluded) and personal top rate to 15% - confirmed via two independent
+  sources including a dedicated Afghanistan tax-advisory firm with
+  precise Hijri/Gregorian implementation dates. Also corrected a genuine
+  VAT/BRT confusion: Afghanistan's 2014-2015 VAT initiative was never
+  fully completed: the actual operative indirect tax today is a Business
+  Receipts Tax (BRT, 2-5% by sector, no input credit), not a functioning
+  VAT - corrected across cell, summary, and prose. CFC not identified.
+  Treaty network confirmed very limited, constrained by sanctions/
+  political instability since 2021.
+
+- Bhutan - CFC not identified. Genuinely strong primary-source find: the
+  actual Rules on the Income Tax Act of Bhutan 2025 (hosted on Bhutan's
+  own Ministry of Finance site, effective January 1, 2026) contains a
+  real, specific EBITDA-based interest deductibility limitation - used
+  in place of a vague secondary-source claim that "thin capitalization
+  rules exist." Treaty network: India confirmed as primary partner,
+  Bangladesh confirmed as a second named partner, 5 total per a separate
+  source.
+
+Final gate check: zero real hits on either page (Afghanistan's one hit
+is the standard accepted FATCA sentence).
+
+REMAINING: 42 placeholder pages (Asia-Pacific: 15, Europe: 16, Americas:
+11).
