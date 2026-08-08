@@ -204,8 +204,12 @@ report NO CFC regime rather than forcing a template answer).
       6-month presence), CFC (50pct control + 1/3-income test, no
       jurisdiction list), Thin Cap (triple-layer: 4:1 ratio / interest
       ceiling de minimis / 30pct EBITDA), Treaty Network (77 countries)
-- [ ] Next: Norway, Poland, Singapore, Portugal, Czech Republic, Finland
-      - continuing
+- [x] Norway - Residency (183/270-day + domicile test, emigration exit
+      conditions), CFC (NOKUS, 50pct control + two-thirds-rate threshold,
+      treaty/EEA exemptions), Thin Cap (no fixed ratio; 25pct EBITDA cap
+      since 2019, NOK25m/NOK5m thresholds), Treaty Network (89 countries)
+- [ ] Next: Poland, Singapore, Portugal, Czech Republic, Finland -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
