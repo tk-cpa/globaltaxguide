@@ -955,3 +955,59 @@ Real remaining placeholder count: 95 (98 minus these 3).
       flagged the exact current bracket rates as still unconfirmed
       since they're set by a separate Cabinet Order not fixed in the
       Act text itself, rather than guessing a number.
+
+
+## Session update 2 - August 8, 2026 (continued, same session)
+
+3 more countries verified and pushed: Tuvalu, Vanuatu, and New Zealand
+(New Zealand prioritized out of strict Pacific-microstate order per the
+priority flag raised earlier this session - it's a significant developed
+economy that should not wait behind microstates).
+
+Running session total: 12 countries (Papua New Guinea, Cook Islands,
+Kiribati, Marshall Islands, Nauru, Palau, Samoa, Solomon Islands, Tonga,
+Tuvalu, Vanuatu, New Zealand).
+
+Real remaining placeholder count: 92 (95 minus these 3).
+
+- [x] Tuvalu - Residency: general worldwide/source-basis pattern
+      described but no primary-source day-count test confirmed, flagged
+      as gap. Personal income tax: genuine direct conflict between
+      sources (0-30% progressive per one source vs "no personal income
+      tax for expatriates" per another) - flagged explicitly rather than
+      picked. CFC: not identified. Thin Cap: referenced conceptually but
+      no specific ratio confirmed. Foreign Account Reporting: no
+      domestic FBAR-equivalent identified. Treaty Network: none
+      identified, consistent with Tuvalu's aid/fishing-license/.tv-domain
+      revenue base per available sources.
+- [x] Vanuatu - Residency (183-day test, though moot given zero personal
+      tax), CFC: No (confirmed via GSL), Thin Cap: not applicable/not
+      identified (no corporate income tax exists to limit interest
+      deductions against), Foreign Account Reporting (no domestic
+      FBAR-equivalent, CRS MCAA signing date conflict between sources
+      flagged - 2018 vs 2019 - both agree CRS participation exists,
+      MLI not signed), Treaty Network (sharp conflict flagged: GSL says
+      1 DTA vs another source's 19 - flagged as genuinely uncertain
+      rather than resolved), EU non-cooperative jurisdiction listing
+      status noted (February 2026)
+- [x] New Zealand - Residency (183-day/permanent-place-of-abode test,
+      48-month transitional resident exemption for returning/first-time
+      residents), CFC: Yes - companies, trusts, and individuals (5-or-
+      fewer-residents-over-50%-control or single-resident-40%+ test,
+      10% attribution threshold, active-business-test exemption at
+      <5% passive income, separate FIF regime for non-CFC holdings over
+      NZD 50,000), Thin Cap (outbound rules, 90% NZ-asset-ratio
+      exemption threshold, NZD 1m/2m de minimis apportionment bands),
+      Foreign Account Reporting (no blanket FBAR-style requirement but
+      CFC/FIF disclosure functions as NZ's own significant-interest
+      reporting mechanism; noted the two-way US-NZ compliance
+      relationship given FTC availability on Form 1116 for NZ tax paid
+      on attributed CFC/FIF income), Treaty Network (41 DTTs named per
+      GSL, ~18 separate TIEAs with Caribbean/Pacific financial centers
+      explicitly distinguished from the DTT count so they aren't
+      conflated)
+
+Next up: Niue, New Caledonia, French Polynesia, Wallis and Futuna to
+finish the Pacific batch, then the Caribbean microstates, then the 7
+restored countries (Iran, Syria, Yemen, Belarus, Monaco, San Marino,
+Vatican City), then the rest by region.
