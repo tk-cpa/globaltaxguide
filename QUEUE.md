@@ -62,9 +62,17 @@ between countries per standing directive. Progress so far:
       Network (~90 countries per PwC, notable gaps: Brazil, Hong Kong, UAE
       expired 2021) - linked to IRS Germany treaty documents page (link
       verified live before publishing)
-- [ ] Remaining G20: China, Japan, France, India, Brazil, Italy, Canada,
-      South Korea, Russia, Australia, Mexico, Indonesia, Saudi Arabia, South
-      Africa, Turkiye, Argentina - not yet started, continuing next
+- [x] China - Residency (183-day/6-year rule, domicile), CFC (12.5% threshold,
+      50%/10% ownership, white list, RMB 5m de minimis), Thin Cap (2:1/5:1
+      safe harbor ratios), Treaty Network (114 countries/regions per PwC
+      30 June 2026, HK/Macao SAR arrangements, TIEAs)
+- [x] Japan - Residency (permanent/non-permanent resident split, 5-of-10-year
+      test), CFC (FRC >50% ownership, 20%/27%/30% trigger rates), Thin Cap
+      (3:1 safe harbor + separate 20% earnings stripping rule), Treaty
+      Network (90 conventions / 157 jurisdictions per PwC 1 May 2026)
+- [ ] Remaining G20: France, India, Brazil, Italy, Canada, South Korea,
+      Russia, Australia, Mexico, Indonesia, Saudi Arabia, South Africa,
+      Turkiye, Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
