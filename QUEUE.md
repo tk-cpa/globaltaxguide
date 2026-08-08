@@ -361,7 +361,10 @@ report NO CFC regime rather than forcing a template answer).
       CFC (confirmed: NO CFC rules), Thin Cap (3:1 ratio, 20pct
       shareholder threshold, 3-year startup exemption), Treaty Network
       (48 countries)
-- [ ] Next: Montenegro, Albania, Kosovo - continuing
+- [x] Montenegro - Residency (183-day/domicile/vital-interests test),
+      CFC (confirmed: NO CFC rules), Thin Cap (confirmed: NO thin cap
+      rules), Treaty Network (44 countries)
+- [ ] Next: Albania, Kosovo - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
