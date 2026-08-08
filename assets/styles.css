@@ -126,6 +126,20 @@ a { color: inherit; }
 }
 .hero__search input::placeholder { color: rgba(17,17,17,0.45); }
 .hero__search input:focus { outline: 2px solid var(--teal); outline-offset: -2px; }
+.hero__search button {
+  border: none;
+  background: var(--teal);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 14px 22px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s ease;
+}
+.hero__search button:hover { background: var(--ink); }
+.hero__search button:focus { outline: 2px solid var(--ink); outline-offset: -2px; }
 
 .stat-row {
   display: flex;
