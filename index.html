@@ -8,20 +8,20 @@
 <link rel="canonical" href="https://globaltaxguide.com/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/styles.css">
+<link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
 
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="brand" href="/">Global Tax Guide <small>by tk.cpa AI Lab</small></a>
+    <a class="brand" href="./">Global Tax Guide <small>by tk.cpa AI Lab</small></a>
     <nav class="site-nav">
-      <a href="/#directory">Jurisdictions</a>
-      <a href="/map.html">Map</a>
-      <a href="/zones.html">Special Zones</a>
-      <a href="/unions.html">Unions &amp; Trade Zones</a>
-      <a href="/trusted-resources.html">Trusted Resources</a>
-      <a href="/about.html">About</a>
+      <a href="#directory">Jurisdictions</a>
+      <a href="map.html">Map</a>
+      <a href="zones.html">Special Zones</a>
+      <a href="unions.html">Unions &amp; Trade Zones</a>
+      <a href="trusted-resources.html">Trusted Resources</a>
+      <a href="about.html">About</a>
       <a href="https://cpavalidated.com" target="_blank" rel="noopener">CPA Validated</a>
     </nav>
   </div>
@@ -78,7 +78,7 @@
 
 <script>
 async function init() {
-  const res = await fetch('/data/countries.json');
+  const res = await fetch('data/countries.json');
   const data = await res.json();
 
   document.getElementById('stat-total').textContent = data.length;
@@ -111,7 +111,7 @@ async function init() {
     grid.innerHTML = filtered.map(c => {
       const statusClass = c.status === 'published' ? 'is-published' : 'is-pending';
       const tag = c.status === 'published' ? 'Guide live' : 'Coming soon';
-      const href = c.status === 'published' ? `/countries/${c.slug}.html` : '#';
+      const href = c.status === 'published' ? `countries/${c.slug}.html` : '#';
       const tagEl = `<span class="tag">${tag}</span>`;
       return c.status === 'published'
         ? `<a class="country-card ${statusClass}" href="${href}">${c.name}${tagEl}</a>`
