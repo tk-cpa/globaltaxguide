@@ -445,7 +445,15 @@ report NO CFC regime rather than forcing a template answer).
       taxation for Oman-incorporated entities clarified as not purely
       territorial, new 2026 Cyprus treaty, 2023 dividend/interest WHT
       suspension)
-- [ ] Next: Jordan, Israel, Lebanon, Iraq - continuing
+- [x] Jordan - Residency (183-day test), CFC (no formal definition, but
+      worldwide taxation captures foreign income directly), Thin Cap
+      (3:1 ratio), Treaty Network (30-40 countries)
+- [x] Israel - Residency (center-of-life test + 183/425-day rebuttable
+      presumptions, exit tax on residency break), CFC (50pct-aggregate/
+      10pct-individual + 15pct-rate passive test), Thin Cap (confirmed:
+      NONE), Treaty Network (50+ countries)
+- [ ] Next: Lebanon, Iraq, then Africa (Egypt, Morocco, Nigeria, Kenya) -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
