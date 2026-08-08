@@ -45,7 +45,33 @@ than an inflated sense of completion.
 Two treaty-portal links added to real content so far: United Kingdom
 (-> GOV.UK), United States (-> IRS A-to-Z).
 
-## In queue - not yet started
+## Continuous narrative-content batch (August 8, 2026, in progress)
+
+Working through G20 first (highest practical value), verified against primary
+sources or Trusted Resources guides before writing, no pauses for approval
+between countries per standing directive. Progress so far:
+
+- [x] United States - Residency (IRC 7701(b), SPT/Green Card Test), CFC/NCTI
+      (IRC 957, OBBBA changes: 250 deduction to 40%, QBAI eliminated, ~12.6%
+      ETR, 951B), Thin Cap (163(j), EBITDA restored), Treaty Network (~65
+      countries per IRS Table 3, USSR-successor treaties, Hungary
+      termination) - linked to IRS A-to-Z
+- [x] Germany - Residency (Wohnsitz/gewohnlicher Aufenthalt), CFC (AStG
+      Section 7-14, low-tax threshold reduced 25%->15% in 2024), Thin Cap
+      (Zinsschranke Section 4h EStG, 30% EBITDA, EUR 3m de minimis), Treaty
+      Network (~90 countries per PwC, notable gaps: Brazil, Hong Kong, UAE
+      expired 2021) - linked to IRS Germany treaty documents page (link
+      verified live before publishing)
+- [ ] Remaining G20: China, Japan, France, India, Brazil, Italy, Canada,
+      South Korea, Russia, Australia, Mexico, Indonesia, Saudi Arabia, South
+      Africa, Turkiye, Argentina - not yet started, continuing next
+- [ ] Remaining ~209 non-G20 countries after G20 batch completes
+
+Note: this is genuinely slow, verified work - each country requires several
+real searches (residency test, CFC regime specifics, thin cap/interest
+limitation rule, treaty network size and gaps) before writing a single
+paragraph. Claims of "done" in this file mean actually verified and live,
+never assumed.
 
 ### High priority
 - [ ] **The actual narrative content build for 222 stub pages** - residency
