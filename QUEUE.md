@@ -345,8 +345,15 @@ report NO CFC regime rather than forcing a template answer).
 
 ## Baltic states complete (Estonia, Latvia, Lithuania all done)
 
-- [ ] Next: Serbia, Ukraine, Bosnia, North Macedonia, Montenegro, Albania
-      - continuing
+- [x] Serbia - Residency (183-day/vital-interests test), CFC (confirmed:
+      NO CFC rules), Thin Cap (4:1/10:1 ratios), Treaty Network (64
+      countries, no US treaty)
+- [x] Ukraine - Residency (cascading OECD-style test), CFC (2022 regime,
+      13pct-rate/50pct-passive/EUR2m thresholds), Thin Cap (3.5:1 ratio +
+      30pct interest cap), Treaty Network (70 in force per Ministry of
+      Finance, war-related terminations and 2025-2026 new treaties
+      flagged)
+- [ ] Next: Bosnia, North Macedonia, Montenegro, Albania - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
