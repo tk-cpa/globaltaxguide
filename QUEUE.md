@@ -437,7 +437,15 @@ report NO CFC regime rather than forcing a template answer).
       PwC case-by-case discretion vs 2:1 ratio claim), Treaty Network
       (20+ named countries, rapid 2024-2026 Gulf expansion: UAE/Qatar/
       San Marino)
-- [ ] Next: Bahrain, Oman, Jordan, Israel - continuing
+- [x] Bahrain - Residency (no general PIT, territorial), CFC (confirmed:
+      NONE), Thin Cap (confirmed: NONE), Treaty Network (44-50 countries,
+      2025 Pillar Two DMTT flagged, 2024 Hong Kong treaty)
+- [x] Oman - Residency (no PIT until 2028), CFC (confirmed: NONE), Thin
+      Cap (2:1 ratio), Treaty Network (37-43 countries, worldwide-income
+      taxation for Oman-incorporated entities clarified as not purely
+      territorial, new 2026 Cyprus treaty, 2023 dividend/interest WHT
+      suspension)
+- [ ] Next: Jordan, Israel, Lebanon, Iraq - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
