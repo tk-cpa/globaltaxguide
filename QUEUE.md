@@ -250,7 +250,11 @@ report NO CFC regime rather than forcing a template answer).
       (confirmed: NO CFC regime), Thin Cap (no formal ratio; 20pct EBITDA
       interest cap per source, forfeited on shareholder change), Treaty
       Network (70+ countries, no US treaty)
-- [ ] Next: Thailand - continuing
+- [x] Thailand - Residency (Section 41, 180-day test), CFC (confirmed:
+      NO CFC provisions), Thin Cap (confirmed: NO general rule, incentive-
+      linked exceptions only), Treaty Network (61 countries, 2024
+      remittance rule change flagged as key context)
+- [ ] Next: Vietnam, Philippines, Taiwan - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
