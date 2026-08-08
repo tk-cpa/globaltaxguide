@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interactive World Tax Map | Global Tax Guide</title>
+<meta name="description" content="Click any country on the interactive map for its corporate tax, personal tax, VAT/GST, CFC, and treaty network guide. Filter by region: Americas, Europe, Africa, Middle East, Asia-Pacific.">
+<link rel="canonical" href="https://globaltaxguide.com/map.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/styles.css">
+<style>
+.map-hero { background: var(--maroon); color: var(--paper); padding: 48px 24px 32px; }
+.map-hero__inner { max-width: 1180px; margin: 0 auto; }
+.map-hero h1 { font-family: var(--font-display); font-weight: 600; font-size: clamp(1.9rem, 4vw, 2.8rem); margin: 0 0 10px; }
+.map-hero p { max-width: 720px; opacity: 0.92; margin: 0; }
+
+.map-section { max-width: 1180px; margin: 0 auto; padding: 32px 24px 12px; }
+.map-region-filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+.map-region-filters button {
+  font-family: var(--font-sans); font-weight: 600; font-size: 0.85rem;
+  padding: 7px 16px; border-radius: 999px; border: 1.5px solid var(--line);
+  background: var(--paper); color: var(--ink); cursor: pointer;
+}
+.map-region-filters button.active { background: var(--maroon); border-color: var(--maroon); color: var(--paper); }
+
+.map-wrap {
+  position: relative; border: 2px solid var(--line); border-radius: 10px;
+  background: #EAF1F4; overflow: hidden;
+}
+#world-map { width: 100%; height: auto; display: block; }
+#world-map .country { fill: #C9D6DC; stroke: var(--paper); stroke-width: 0.6; cursor: pointer; transition: fill 0.12s ease; }
+#world-map .country.has-page:hover { fill: var(--maroon-bright); }
+#world-map .country.no-page { fill: #DCE3E6; cursor: default; }
+#world-map .country.region-active { fill: var(--gold); }
+#world-map .country.region-active:hover { fill: var(--maroon-bright); }
+
+.map-tooltip {
+  position: absolute; pointer-events: none; background: var(--ink); color: var(--paper);
+  font-size: 0.82rem; font-weight: 600; padding: 6px 10px; border-radius: 6px;
+  transform: translate(-50%, -130%); white-space: nowrap; opacity: 0; transition: opacity 0.08s;
+  z-index: 5;
+}
+.map-tooltip.show { opacity: 1; }
+
+.map-attribution { font-size: 0.75rem; opacity: 0.6; margin-top: 10px; }
+.map-attribution a { color: inherit; }
+
+.pin-section { max-width: 1180px; margin: 0 auto; padding: 8px 24px 56px; }
+.pin-section h2 { font-family: var(--font-display); font-size: 1.3rem; margin-bottom: 6px; }
+.pin-section p.note { opacity: 0.7; font-size: 0.9rem; margin-top: 0; margin-bottom: 18px; }
+.pin-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+.pin-chip {
+  font-size: 0.85rem; font-weight: 500; text-decoration: none; color: var(--ink);
+  border: 1.5px solid var(--line); border-radius: 999px; padding: 6px 14px; background: var(--paper-dim);
+}
+.pin-chip:hover { border-color: var(--maroon); color: var(--maroon); }
+.pin-chip.dimmed { display: none; }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="brand" href="/">Global Tax Guide <small>by tk.cpa AI Lab</small></a>
+    <nav class="site-nav">
+      <a href="/#directory">Jurisdictions</a>
+      <a href="/map.html">Map</a>
+      <a href="/zones.html">Special Zones</a>
+      <a href="/unions.html">Unions &amp; Trade Zones</a>
+      <a href="/trusted-resources.html">Trusted Resources</a>
+      <a href="/about.html">About</a>
+      <a href="https://cpavalidated.com" target="_blank" rel="noopener">CPA Validated</a>
+    </nav>
+  </div>
+</header>
+
+<section class="map-hero">
+  <div class="map-hero__inner">
+    <h1>Interactive World Tax Map</h1>
+    <p>Click any shaded country for its corporate tax, personal tax, VAT/GST, residency, CFC, and treaty guide. Filter by region below. Small island nations and micro-jurisdictions that do not render at this map's resolution are listed underneath as direct links.</p>
+  </div>
+</section>
+
+<section class="map-section">
+  <div class="map-region-filters" id="region-filters">
+    <button data-region="All" class="active">All Regions</button>
+    <button data-region="Africa">Africa</button>
+    <button data-region="Americas">Americas</button>
+    <button data-region="Asia-Pacific">Asia-Pacific</button>
+    <button data-region="Europe">Europe</button>
+    <button data-region="Middle East">Middle East</button>
+  </div>
+
+  <div class="map-wrap" id="map-wrap">
+    <object id="world-map-object" data="/assets/world-map.svg" type="image/svg+xml" style="width:100%;height:auto;display:block;"></object>
+    <div class="map-tooltip" id="map-tooltip"></div>
+  </div>
+  <p class="map-attribution">Base map: <a href="https://commons.wikimedia.org/wiki/File:World_map_-_low_resolution.svg" target="_blank" rel="noopener">Al MacDonald</a>, edited by Fritz Lekschas, used under <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. 180 jurisdictions are clickable directly on the map; the rest are linked below.</p>
+</section>
+
+<section class="pin-section">
+  <h2>Not shown on the map graphic</h2>
+  <p class="note">These jurisdictions are too small to render as a distinct shape at this map's resolution, or are disputed territories without a standard ISO country code. Every one still has a full guide.</p>
+  <div class="pin-grid" id="pin-grid">
+    <a href="/countries/abkhazia.html" class="pin-chip" data-region="Europe">Abkhazia</a>
+    <a href="/countries/andorra.html" class="pin-chip" data-region="Europe">Andorra</a>
+    <a href="/countries/anguilla.html" class="pin-chip" data-region="Americas">Anguilla</a>
+    <a href="/countries/antigua-and-barbuda.html" class="pin-chip" data-region="Americas">Antigua and Barbuda</a>
+    <a href="/countries/aruba.html" class="pin-chip" data-region="Americas">Aruba</a>
+    <a href="/countries/bahrain.html" class="pin-chip" data-region="Middle East">Bahrain</a>
+    <a href="/countries/barbados.html" class="pin-chip" data-region="Americas">Barbados</a>
+    <a href="/countries/bermuda.html" class="pin-chip" data-region="Americas">Bermuda</a>
+    <a href="/countries/british-virgin-islands.html" class="pin-chip" data-region="Americas">British Virgin Islands</a>
+    <a href="/countries/cayman-islands.html" class="pin-chip" data-region="Americas">Cayman Islands</a>
+    <a href="/countries/cook-islands.html" class="pin-chip" data-region="Asia-Pacific">Cook Islands</a>
+    <a href="/countries/faroe-islands.html" class="pin-chip" data-region="Europe">Faroe Islands</a>
+    <a href="/countries/fiji.html" class="pin-chip" data-region="Asia-Pacific">Fiji</a>
+    <a href="/countries/french-polynesia.html" class="pin-chip" data-region="Asia-Pacific">French Polynesia</a>
+    <a href="/countries/gibraltar.html" class="pin-chip" data-region="Europe">Gibraltar</a>
+    <a href="/countries/grenada.html" class="pin-chip" data-region="Americas">Grenada</a>
+    <a href="/countries/guernsey.html" class="pin-chip" data-region="Europe">Guernsey</a>
+    <a href="/countries/hong-kong-sar.html" class="pin-chip" data-region="Asia-Pacific">Hong Kong SAR</a>
+    <a href="/countries/isle-of-man.html" class="pin-chip" data-region="Europe">Isle of Man</a>
+    <a href="/countries/jersey.html" class="pin-chip" data-region="Europe">Jersey</a>
+    <a href="/countries/kiribati.html" class="pin-chip" data-region="Asia-Pacific">Kiribati</a>
+    <a href="/countries/kosovo.html" class="pin-chip" data-region="Europe">Kosovo</a>
+    <a href="/countries/liechtenstein.html" class="pin-chip" data-region="Europe">Liechtenstein</a>
+    <a href="/countries/macau-sar.html" class="pin-chip" data-region="Asia-Pacific">Macau SAR</a>
+    <a href="/countries/marshall-islands.html" class="pin-chip" data-region="Asia-Pacific">Marshall Islands</a>
+    <a href="/countries/micronesia.html" class="pin-chip" data-region="Asia-Pacific">Micronesia (Federated States of)</a>
+    <a href="/countries/monaco.html" class="pin-chip" data-region="Europe">Monaco</a>
+    <a href="/countries/montserrat.html" class="pin-chip" data-region="Americas">Montserrat</a>
+    <a href="/countries/nauru.html" class="pin-chip" data-region="Asia-Pacific">Nauru</a>
+    <a href="/countries/niue.html" class="pin-chip" data-region="Asia-Pacific">Niue</a>
+    <a href="/countries/northern-cyprus.html" class="pin-chip" data-region="Europe">Northern Cyprus</a>
+    <a href="/countries/palau.html" class="pin-chip" data-region="Asia-Pacific">Palau</a>
+    <a href="/countries/palestine.html" class="pin-chip" data-region="Middle East">Palestine</a>
+    <a href="/countries/saint-barthelemy.html" class="pin-chip" data-region="Americas">Saint Barthelemy</a>
+    <a href="/countries/saint-kitts-and-nevis.html" class="pin-chip" data-region="Americas">Saint Kitts and Nevis</a>
+    <a href="/countries/saint-martin-french.html" class="pin-chip" data-region="Americas">Saint Martin (French)</a>
+    <a href="/countries/saint-pierre-and-miquelon.html" class="pin-chip" data-region="Americas">Saint Pierre and Miquelon</a>
+    <a href="/countries/samoa.html" class="pin-chip" data-region="Asia-Pacific">Samoa</a>
+    <a href="/countries/san-marino.html" class="pin-chip" data-region="Europe">San Marino</a>
+    <a href="/countries/sint-maarten.html" class="pin-chip" data-region="Americas">Sint Maarten</a>
+    <a href="/countries/south-ossetia.html" class="pin-chip" data-region="Europe">South Ossetia</a>
+    <a href="/countries/timor-leste.html" class="pin-chip" data-region="Asia-Pacific">Timor-Leste</a>
+    <a href="/countries/tonga.html" class="pin-chip" data-region="Asia-Pacific">Tonga</a>
+    <a href="/countries/transnistria.html" class="pin-chip" data-region="Europe">Transnistria</a>
+    <a href="/countries/turks-and-caicos.html" class="pin-chip" data-region="Americas">Turks and Caicos</a>
+    <a href="/countries/tuvalu.html" class="pin-chip" data-region="Asia-Pacific">Tuvalu</a>
+    <a href="/countries/vatican-city.html" class="pin-chip" data-region="Europe">Vatican City</a>
+    <a href="/countries/wallis-and-futuna.html" class="pin-chip" data-region="Asia-Pacific">Wallis and Futuna</a>
+    <a href="/countries/western-sahara.html" class="pin-chip" data-region="Africa">Western Sahara (SADR)</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <span>Global Tax Guide - a free public reference. Not a substitute for advice from a licensed professional in the relevant jurisdiction.</span>
+    <span><a href="https://cpavalidated.com" target="_blank" rel="noopener">cpavalidated.com</a></span>
+  </div>
+</footer>
+<p class="disclaimer">General information only, current as of the "last verified" date shown on each page. Tax law changes frequently and varies by individual facts. Confirm any position with a licensed advisor in the relevant jurisdiction before relying on it.</p>
+
+<script>
+const mapObject = document.getElementById('world-map-object');
+const tooltip = document.getElementById('map-tooltip');
+const wrap = document.getElementById('map-wrap');
+let activeRegion = 'All';
+
+mapObject.addEventListener('load', function () {
+  const svgDoc = mapObject.contentDocument;
+  const svg = svgDoc.getElementById('world-map') || svgDoc.querySelector('svg');
+  svg.id = 'world-map';
+  const countries = svgDoc.querySelectorAll('.country');
+
+  countries.forEach(function (el) {
+    if (el.classList.contains('has-page')) {
+      el.addEventListener('click', function () {
+        window.location.href = '/countries/' + el.dataset.slug + '.html';
+      });
+      el.addEventListener('mousemove', function (e) {
+        tooltip.textContent = el.dataset.name;
+        tooltip.classList.add('show');
+        const rect = wrap.getBoundingClientRect();
+        tooltip.style.left = (e.clientX - rect.left) + 'px';
+        tooltip.style.top = (e.clientY - rect.top) + 'px';
+      });
+      el.addEventListener('mouseleave', function () {
+        tooltip.classList.remove('show');
+      });
+    }
+  });
+
+  function applyRegionHighlight() {
+    countries.forEach(function (el) {
+      if (!el.classList.contains('has-page')) return;
+      if (activeRegion === 'All') {
+        el.classList.remove('region-active');
+      } else if (el.dataset.region === activeRegion) {
+        el.classList.add('region-active');
+      } else {
+        el.classList.remove('region-active');
+      }
+    });
+  }
+  window.applyRegionHighlight = applyRegionHighlight;
+});
+
+document.getElementById('region-filters').addEventListener('click', function (e) {
+  const btn = e.target.closest('button');
+  if (!btn) return;
+  activeRegion = btn.dataset.region;
+  document.querySelectorAll('#region-filters button').forEach(b => b.classList.toggle('active', b === btn));
+  if (window.applyRegionHighlight) window.applyRegionHighlight();
+
+  document.querySelectorAll('.pin-chip').forEach(function (chip) {
+    const match = activeRegion === 'All' || chip.dataset.region === activeRegion;
+    chip.classList.toggle('dimmed', !match);
+  });
+});
+</script>
+</body>
+</html>
