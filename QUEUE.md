@@ -2442,3 +2442,38 @@ Final gate check: zero hits on either page.
 
 REMAINING: 36 placeholder pages (Asia-Pacific: 9, Europe: 16, Americas:
 11).
+
+
+## ASIA-PACIFIC QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+2 more pages built, both individually re-verified via independent fetch:
+
+- Maldives - Also fixed a real rate error: tourism GST cell/prose showed
+  an outdated 16 percent; a more specific, dated Legal 500 source
+  confirms 17 percent effective July 1, 2026 - fixed. Genuinely detailed
+  CFC mechanism found and used precisely (not just "Yes"): a foreign
+  entity is a CFC if controlled by 5 or fewer Maldives residents, with
+  any resident owning 10 percent+ required to report their proportional
+  share via a specifically-named "Schedule 5" form - despite Maldives
+  having NO general personal income tax otherwise. Treaty network:
+  UAE/Bangladesh established, Hong Kong (May 2025) and Malaysia (in
+  force Jan 2026, effective Jan 2027) newly added.
+
+- Mongolia - RESOLVED APPARENT SOURCE CONFLICT: older KPMG profiles
+  (2015, 2018) state "no CFC rules," while a materially more recent
+  (2025) Moore Global source confirms CFC rules were introduced in 2020
+  - correctly identified as a dating issue (older sources were accurate
+  when published, not a live disagreement) rather than either ignored or
+  presented as an unresolved conflict. Full current CFC definition
+  captured (50 percent+ ownership/control test, IPO exception). Real,
+  specific thin capitalization mechanics used: 3:1 debt-to-equity ratio
+  on direct shareholder loans (investor-by-investor basis) plus a
+  separate 30 percent EBITDA cap on related-party loan interest. Page's
+  prose was thin one-line placeholders despite correct rate cells -
+  substantially rebuilt with the actual progressive CIT bracket
+  structure (1 percent / 10 percent / 25 percent bands).
+
+Final gate check: zero hits on either page.
+
+REMAINING: 34 placeholder pages (Asia-Pacific: 7, Europe: 16, Americas:
+11).
