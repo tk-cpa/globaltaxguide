@@ -2219,3 +2219,52 @@ Somaliland, Western Sahara remain (Guinea, Liberia, Madagascar, Mali,
 Mauritania, Niger, Chad, Djibouti, Equatorial Guinea, Eritrea, Gabon,
 Gambia, Benin, Burundi, Burkina Faso, CAR, Comoros, Guinea-Bissau, Sao
 Tome and Principe, South Sudan, Togo all completed this session).
+
+
+## AFRICA REGIONAL QUEUE COMPLETE - August 8, 2026 (same day, continued)
+
+Final 3 African pages built/fixed, completing Africa's entire placeholder
+queue. All individually re-verified via independent fetch after commit.
+
+- Sierra Leone - CFC not identified. Residency confirmed directly via
+  the official National Revenue Authority website (primary source):
+  182-day individual test with specific aggregation/partial-day rules,
+  and a three-alternative-test Section 12 corporate residency rule
+  (incorporation / management-control / majority-of-operations). UK
+  treaty confirmed via primary UK legislation (1947 Arrangement, given
+  force via a 1968 UK Statutory Instrument, still current per GOV.UK's
+  official treaty list).
+
+- Somaliland - CAUGHT AND FIXED A REAL ERROR matching the established
+  "non-representative headline number" pattern (previously found on
+  Bahrain, Bangladesh, Syria - now a 4th confirmed instance): the
+  corporate rate cell showed 16.3%, but even Somaliland's own
+  Ministry-of-Finance-hosted PKF tax guide describes that figure as
+  specifically the rate for BRANCHES OF FOREIGN ENTITIES, not a general
+  standard corporate rate - and the page's own prose already honestly
+  admitted no general rate could be confirmed. Fixed the cell to
+  "Unverified," consistent with the documented-exception standard
+  already established for Abkhazia/South Ossetia (genuine effort made,
+  genuine gap found, clearly explained rather than glossed over).
+  Expanded to the full narrative structure.
+
+- Western Sahara - expanded to the full narrative structure while
+  preserving the accurate Morocco-administered-majority vs
+  SADR-Free-Zone distinction already correctly established earlier this
+  session. CFC/Thin Cap/Treaty explicitly marked "not applicable" with
+  reasoning given, rather than left as placeholder text.
+
+Final gate check: Sierra Leone shows only the standard accepted FATCA
+sentence. Somaliland's "Unverified" cell correctly triggers the
+HEADLINE_CELL_PLACEHOLDER check by design - this is the same expected,
+accepted pattern as Abkhazia/South Ossetia, not a real defect.
+
+## AFRICA COMPLETE
+
+All African country/territory pages are now built with full
+Residency/CFC/Thin Cap/Foreign Account Reporting/Treaty Network
+narratives (or an honestly-documented "not applicable"/"unverified"
+exception where genuine effort found a genuine gap).
+
+REMAINING: 45 placeholder pages, all outside Africa (Asia-Pacific: 17,
+Europe: 16, Americas: 11, Middle East: 1).
