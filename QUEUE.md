@@ -86,9 +86,18 @@ between countries per standing directive. Progress so far:
       family), Thin Cap (2:1 / 0.3:1 low-tax-jurisdiction ratio, IN RFB
       1,154/2011), Treaty Network (~36 countries per PwC, notably NO US
       treaty - flagged)
-- [ ] Remaining G20: Italy, Canada, South Korea, Russia, Australia, Mexico,
-      Indonesia, Saudi Arabia, South Africa, Turkiye, Argentina -
-      continuing
+- [x] Italy - Residency (2023 reform: Anagrafe/domicile/physical-presence
+      tests, any one for 183 days), CFC (2024 simplified 15% ETR + 1/3
+      passive-income test, 15% substitute-tax election), Thin Cap (ROL
+      30% gross operating margin, formal thin cap abolished), Treaty
+      Network (~100 countries per Agenzia delle Entrate)
+- [x] Canada - Residency (significant residential ties + 183-day deemed-
+      resident test), CFC (FAPI/Controlled Foreign Affiliate, >50%
+      ownership, $5,000 de minimis), Thin Cap (1.5:1 ratio + newer EIFEL
+      30% tax-EBITDA rule effective Oct 2023, exclusions for CCPCs),
+      Treaty Network (~90-95 countries, Russia suspended Nov 2024)
+- [ ] Remaining G20: South Korea, Russia, Australia, Mexico, Indonesia,
+      Saudi Arabia, South Africa, Turkiye, Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
