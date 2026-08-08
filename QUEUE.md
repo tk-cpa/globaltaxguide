@@ -26,9 +26,35 @@ nothing raised in prior sessions gets lost between chats. Update this file
 - [x] Site nav updated on index, unions, zones, about, mission to include
       Map and Trusted Resources
 
+## Scoping correction (August 8, 2026, this session)
+
+Audited all 229 local country pages programmatically. **222 of 229** have
+only quick-chart rate data plus an honest placeholder ("full narrative
+detail... is on the build list for this page") for Residency / CFC / Thin
+Cap / Treaty Network content. Only **7** pages (United Kingdom + the
+manually-researched batch: Russia, Belarus, Monaco, San Marino, Vatican
+City, Iran, Syria, Yemen and a few others from that earlier session) have
+real written-out narrative sections. This means "treaty network
+interlinked," "CFC rules for every country," and "direct links to treaty
+documents throughout" are not close to done - they are un-started for
+~97% of jurisdictions. This is the real, large remaining task, larger than
+the map/resources-page work finished earlier today. Flagging this
+precisely so priority decisions are made with accurate information rather
+than an inflated sense of completion.
+
+Two treaty-portal links added to real content so far: United Kingdom
+(-> GOV.UK), United States (-> IRS A-to-Z).
+
 ## In queue - not yet started
 
 ### High priority
+- [ ] **The actual narrative content build for 222 stub pages** - residency
+      tests, CFC rules, thin cap rules, and treaty network detail, each
+      verified against a primary source or Trusted Resources guide before
+      writing. This is the real work behind "comprehensive treaty network"
+      and needs a batch order decision: major economies first (G20 /
+      largest treaty networks) vs. full alphabetical/regional sweep. Not
+      started pending that decision.
 - [ ] **GoDaddy DNS connection walkthrough** - CNAME is now in the repo;
       still need to confirm GitHub Pages custom domain setting is enabled in
       repo settings and walk through the four A records + www CNAME at GoDaddy
