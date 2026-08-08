@@ -2477,3 +2477,40 @@ Final gate check: zero hits on either page.
 
 REMAINING: 34 placeholder pages (Asia-Pacific: 7, Europe: 16, Americas:
 11).
+
+
+## ASIA-PACIFIC QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+2 more pages built, both individually re-verified via independent fetch:
+
+- Myanmar - CFC honestly marked "not identified" with the underlying
+  source explicitly flagged as dated (2013) rather than presented with
+  false confidence. Genuinely distinctive structural findings captured:
+  (1) no PE definition exists under Myanmar's own Income Tax Act - in
+  practice tax authorities collect withholding tax from non-residents
+  regardless of PE/taxable presence; (2) NO unilateral double-tax
+  relief exists - relief is available ONLY via treaty, and treaty
+  application itself is at the sole discretion of the Ministry of
+  Planning and Finance, not self-executing; (3) a brand-new (Union
+  Taxation Law 2025) extension of personal income tax to non-resident
+  Myanmar CITIZENS' foreign income - a citizenship-based taxation
+  pattern matching Eritrea/Kyrgyzstan found earlier this session.
+
+- North Korea - Handled as a genuinely difficult jurisdiction using
+  REAL PRIMARY SOURCE TEXT rather than guesswork: located the actual
+  DPRK Law on Foreign Investment via WIPO Lex, which gave a precise
+  three-tier corporate rate structure (25 percent general / 14 percent
+  Rason SEZ / 10 percent preferential sectors) already correctly
+  reflected on the page, PLUS found a genuine worldwide-income clause
+  in the primary text (DPRK-registered foreign-invested enterprises are
+  taxed on income from branches/subsidiaries established OUTSIDE DPRK
+  territory) used in place of a Western-style CFC finding. Documented
+  as independent corroboration of the jurisdiction's genuine opacity:
+  even a generic tax-data aggregator explicitly removed its North Korea
+  rate listings in May 2026, citing "no publicly auditable tax data."
+  No treaty network identified, consistent with international isolation.
+
+Final gate check: zero hits on either page.
+
+REMAINING: 32 placeholder pages (Asia-Pacific: 5, Europe: 16, Americas:
+11).
