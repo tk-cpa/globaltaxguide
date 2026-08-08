@@ -317,7 +317,15 @@ report NO CFC regime rather than forcing a template answer).
 - [x] Bulgaria - Residency (183-day/vital-interests test), CFC (50pct +
       half-rate threshold, substance carveout), Thin Cap (dual: 3:1 ratio
       + EUR3m ATAD interest limitation), Treaty Network (70+ countries)
-- [ ] Next: Iceland, Malta, Cyprus - continuing
+- [x] Iceland - Residency (183-day/domicile test, 3-year post-departure
+      tail), CFC (50pct low-tax-list threshold, EEA/treaty carveouts),
+      Thin Cap (no ratio; 30pct EBITDA/ISK100m cap), Treaty Network
+      (44 countries + Nordic multilateral)
+- [x] Malta - Residency (domicile/permanent-home basis, non-dom
+      remittance system), CFC (ATAD 50pct + low-tax test since 2019),
+      Thin Cap (confirmed: NO ratio; 30pct EBITDA/EUR3m interest cap),
+      Treaty Network (~70 countries)
+- [ ] Next: Cyprus, Estonia, Latvia, Lithuania - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
