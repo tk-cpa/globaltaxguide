@@ -381,7 +381,16 @@ report NO CFC regime rather than forcing a template answer).
       UF2400 threshold), Thin Cap (3:1 ratio + 35pct excess tax, interest
       still deductible), Treaty Network (37 countries, US treaty since
       2024, no Germany treaty)
-- [ ] Next: Colombia, Peru, Uruguay - continuing
+- [x] Colombia - Residency (183-day/365-window test + national-specific
+      tests), CFC (10pct threshold, 80pct-passive-deemed rule), Thin Cap
+      (2019-reformed 2:1 related-party-only ratio), Treaty Network
+      (~15 countries, no US treaty)
+- [x] Peru - Residency (183-day domiciled test, year-start fixation rule),
+      CFC (since 2013, 50pct + tax-haven threshold), Thin Cap (evolution
+      from 3:1 ratio to 30pct EBITDA rule since 2021), Treaty Network
+      (~9-16 countries + Andean Community framework, new UK 2026 treaty,
+      no US treaty)
+- [ ] Next: Uruguay, Ecuador, Panama - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
