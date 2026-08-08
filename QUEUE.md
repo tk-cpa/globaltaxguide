@@ -375,8 +375,13 @@ report NO CFC regime rather than forcing a template answer).
 ## Balkans/Southeast Europe complete (Serbia, Ukraine, Bosnia, North
 ## Macedonia, Montenegro, Albania, Kosovo all done)
 
-- [ ] Next: Latin America - Chile, Colombia, Peru, Uruguay, Ecuador,
-      Panama, Paraguay, Bolivia, Costa Rica - continuing
+- [x] Chile - Residency (Law 21.210 2020 183-day test, resolved PwC's
+      own page citing outdated pre-2020 six-month rule; domicile
+      alternative), CFC (Article 41 G, 10pct/80pct passive-income tests +
+      UF2400 threshold), Thin Cap (3:1 ratio + 35pct excess tax, interest
+      still deductible), Treaty Network (37 countries, US treaty since
+      2024, no Germany treaty)
+- [ ] Next: Colombia, Peru, Uruguay - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
