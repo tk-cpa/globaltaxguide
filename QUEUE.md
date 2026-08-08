@@ -1237,3 +1237,36 @@ Next up: continuing Caribbean batch - Dominica, Grenada, Guyana, Haiti,
 Montserrat, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint
 Martin (French), Saint Pierre and Miquelon, Saint Vincent and the
 Grenadines, Sint Maarten, Suriname, Turks and Caicos.
+
+
+## Session update 8 - August 8, 2026 (continued, same session)
+
+2 more countries verified and pushed: Dominica, Grenada. Running
+session total: 24 countries.
+
+Real remaining placeholder count: 80 (82 minus these 2).
+
+- [x] Dominica - Residency (facts-and-circumstances test: permanent
+      residence + time spent in Dominica during tax year, not a pure
+      day-count; citizenship via CBI does NOT create automatic tax
+      residency), CFC: No (confirmed via multiple sources), Thin Cap:
+      not identified, Foreign Account Reporting (CRS participant, TIEA
+      list with EU/Australia/Canada/NZ/Singapore/Switzerland/UK named),
+      Treaty Network (CARICOM Intra-Regional DTA + named CARICOM
+      partner list, explicitly no US/UK conventional DTA beyond TIEA)
+- [x] Grenada - Residency (183-day test per available sources),
+      CFC: No (confirmed via multiple sources), Thin Cap: not
+      identified, Foreign Account Reporting (CRS/FATCA participation,
+      CBI program flagged as providing no US tax relief), Treaty
+      Network (3 total per TaxAtlas: CARICOM multilateral DTA with
+      official CARICOM Secretariat ratification date [March 1, 1996]
+      cited, plus a separate UK bilateral treaty - explicitly no US
+      treaty, active negotiation of further treaties noted). Corporate
+      rate conflict (25% vs 28% vs 30% across sources) already flagged
+      on the page from a prior pass - left as-is, did not attempt to
+      resolve without a primary IRD source.
+
+Next up: continuing Caribbean batch - Guyana, Haiti, Montserrat, Saint
+Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French),
+Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint
+Maarten, Suriname, Turks and Caicos.
