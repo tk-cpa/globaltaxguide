@@ -390,7 +390,35 @@ report NO CFC regime rather than forcing a template answer).
       from 3:1 ratio to 30pct EBITDA rule since 2021), Treaty Network
       (~9-16 countries + Andean Community framework, new UK 2026 treaty,
       no US treaty)
-- [ ] Next: Uruguay, Ecuador, Panama - continuing
+- [x] Uruguay - Residency (vital-interests/investment-based routes), CFC
+      (confirmed: NO corporate regime, individual-only 2017 Fiscal
+      Transparency Law), Thin Cap (confirmed: NONE), Treaty Network
+      (named list + 30+ TIEAs)
+- [x] Ecuador - Residency (183-day/economic-interests test), CFC (2024
+      regime, 25pct + 15pct-rate threshold, PwC/Chambers figures
+      reconciled as consistent), Thin Cap (20pct-of-pretax-profit),
+      Treaty Network (named list + Andean Community)
+- [x] Panama - Residency (territorial system, 183-day test of limited
+      relevance), CFC (confirmed: NONE), Thin Cap (confirmed: NONE),
+      Treaty Network (17-18 countries, no US/Canada treaty)
+- [x] Paraguay - Residency (territorial, no 183-day test), CFC (confirmed:
+      NONE), Thin Cap (honestly flagged as conflicting across sources),
+      Treaty Network (3-6 countries, very limited)
+- [x] Bolivia - Residency (territorial, 183-day/permanent-home test), CFC
+      (confirmed: NONE), Thin Cap (shareholder-funding restriction only,
+      no formal ratio), Treaty Network (~15 countries, unilateral
+      terminations of Luxembourg/Netherlands/Spain/Switzerland/UK/US
+      treaties flagged)
+- [x] Costa Rica - Residency (183-day test), CFC (confirmed: NONE), Thin
+      Cap (confirmed: NONE), Treaty Network (~5 countries, 2023 reform
+      added multinational-group passive-income exception to
+      territoriality, no US treaty)
+
+## Core Latin America complete (Chile, Colombia, Peru, Uruguay, Ecuador,
+## Panama, Paraguay, Bolivia, Costa Rica all done)
+
+- [ ] Next: Venezuela, Caribbean nations, then Middle East (Qatar,
+      Kuwait, Jordan, Oman, Bahrain) - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
