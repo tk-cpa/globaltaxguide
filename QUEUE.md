@@ -2713,3 +2713,64 @@ direct reminder that automated pattern-matching does not substitute for
 genuinely re-reading what a sentence actually claims and asking whether
 every word in it is doing real, justified work - especially in exactly
 the passages meant to demonstrate epistemic honesty about a gap.
+
+
+## SITEWIDE MALFORMED-CELL SWEEP + GUERNSEY BUILD - August 8, 2026
+
+Following the user-caught fabricated-reasoning defect, ran a targeted
+sitewide sweep for any quickchart cell value that is not a clean number
+(with optional decimal/asterisk) followed by percent, or one of the
+accepted placeholders (Unverified/Varies/N/A/None). Found and fixed
+FOUR real anomalies:
+
+- Guernsey - VAT cell showed the literal garbled value "2027%" - an
+  automation artifact where prose text ("GST proposed for 2027")
+  appears to have been mechanically parsed into the cell field. Fixed
+  to the correct current 0 percent, with the prose substantially
+  rebuilt to accurately explain Guernsey's genuinely unresolved,
+  repeatedly-delayed GST saga: rejected 3 times (2023 x2, 2024),
+  timeline slipped from Jan 2027 to July 2027 to the current (June 2026
+  proposal) Q1 2028 earliest estimate, rate reduced from 5 percent to 3
+  percent, and a majority of newly-elected 2025 deputies campaigning
+  against it - genuinely unresolved, not glossed over as a simple
+  future date. Built full narrative: CFC No and Thin Cap No both
+  directly confirmed via two independent sources (PwC, Carey Olsen).
+  14 named DTA partners plus 61 TIEAs confirmed via PwC and Guernsey's
+  own official EU Parliament submission.
+
+- Saint-Martin (French) - both corporate and personal rate cells showed
+  a non-standard "Real*" placeholder (leftover from an earlier session
+  correctly establishing the tax is genuinely active, unlike Saint
+  Barthelemy, but never resolving the actual numeric rate). Attempted
+  to resolve the actual CGISM rate this session via the primary
+  legislative text and official portal - could not locate the specific
+  percentage. Standardized the cells to "Unverified" (the site's
+  established convention for a genuine, effort-backed gap) rather than
+  leaving the confusing non-standard label.
+
+- United States - VAT cell showed "N/A*" instead of the site's
+  standard "0%*" format for genuinely-zero-with-a-footnote cases;
+  standardized for consistency (the underlying fact - 0 percent federal,
+  varying state sales tax - was already correctly explained in prose
+  and unchanged).
+
+- Tuvalu - "3-10%" flagged by the sweep but manually confirmed as
+  CORRECT, not a bug: a genuinely tiered consumption tax rate structure
+  (Consumption Tax Act 2008) properly resolved via primary legislation
+  in an earlier session, deliberately shown as a range because a single
+  representative number would misrepresent the actual law. Left as-is.
+
+Final gate check: zero hits on Guernsey, Saint-Martin (French), or
+United States.
+
+STANDING RULE ADDED: periodically re-run a sitewide scan for any
+quickchart cell value that does not match the expected format (clean
+percentage or an accepted placeholder token) - this catches an entirely
+different defect class (automation/parsing artifacts, leftover
+non-standard placeholders) than the CELL_VS_PROSE_MISMATCH check, and
+should be run as part of any full-site quality pass, not just after
+building new pages.
+
+REMAINING: 24 placeholder pages (Europe: 12, Americas: 11) - note
+Guernsey is now fully complete (rates fixed + narrative built), Europe
+count updated accordingly from prior 14.
