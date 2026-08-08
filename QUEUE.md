@@ -587,8 +587,19 @@ future task, not to be rushed into this session's forward momentum.
       recharacterization instead), Foreign Account Reporting: No personal
       FBAR-equivalent but institutional CRS/FATCA reporting explained,
       Treaty Network (45 countries per MRA with detailed pipeline status)
-- [ ] Next: Seychelles, then remaining Africa/Caribbean/Pacific
-      microstates with new required structure - continuing
+- [x] Seychelles - Residency (183-day test), territorial system explained
+      in depth incl. 2019 economic substance requirements for IBCs, CFC:
+      No, Thin Cap: No, Foreign Account Reporting: No personal FBAR-
+      equivalent but institutional CRS/FATCA + EU grey-list flag, Treaty
+      Network (28 treaties + 11 TIEAs)
+- [x] Cabo Verde - Residency (183-day PE test, worldwide individual
+      taxation), CFC: Yes - corporate taxpayers only (25pct threshold),
+      Thin Cap (30pct EBITDA/CVE110m), Foreign Account Reporting: No
+      personal regime, entity-level CbCR only, Treaty Network (narrow:
+      Guinea-Bissau/Macau/Portugal per PwC, discrepancy vs broader claims
+      flagged)
+- [ ] Next: continuing through remaining Africa/Caribbean/Pacific
+      microstates with new required structure
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
