@@ -334,7 +334,19 @@ report NO CFC regime rather than forcing a template answer).
       (ATAD since 2019), Thin Cap (ATAD rules exist, mechanics flagged as
       needing confirmation given Estonia's unique deferred-tax corporate
       system), Treaty Network (60+ countries, US treaty in force)
-- [ ] Next: Latvia, Lithuania - continuing
+- [x] Latvia - Residency (183-day/declared-residence test), CFC (dual
+      corporate/individual regimes, 50pct/25pct thresholds), Thin Cap
+      (deemed-dividend rule + EUR3m ATAD cap), Treaty Network (60+
+      countries, distributed-profits-only CIT system flagged)
+- [x] Lithuania - Residency (183/280-day multi-test), CFC (50pct+10pct
+      + 75pct-of-rate threshold, passive income only), Thin Cap (dual:
+      4:1 whole-disallowance + 30pct EBITDA/EUR3m), Treaty Network
+      (58 countries)
+
+## Baltic states complete (Estonia, Latvia, Lithuania all done)
+
+- [ ] Next: Serbia, Ukraine, Bosnia, North Macedonia, Montenegro, Albania
+      - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
