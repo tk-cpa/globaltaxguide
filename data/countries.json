@@ -3,7 +3,7 @@
     "name": "Algeria",
     "slug": "algeria",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Angola",
@@ -87,7 +87,7 @@
     "name": "Djibouti",
     "slug": "djibouti",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Egypt",
@@ -105,7 +105,7 @@
     "name": "Eritrea",
     "slug": "eritrea",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Eswatini",
@@ -255,7 +255,7 @@
     "name": "Seychelles",
     "slug": "seychelles",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Sierra Leone",
@@ -267,7 +267,7 @@
     "name": "Somalia",
     "slug": "somalia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "South Africa",
@@ -279,13 +279,13 @@
     "name": "South Sudan",
     "slug": "south-sudan",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Sudan",
     "slug": "sudan",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Tanzania",
@@ -321,7 +321,7 @@
     "name": "Zimbabwe",
     "slug": "zimbabwe",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Antigua and Barbuda",
