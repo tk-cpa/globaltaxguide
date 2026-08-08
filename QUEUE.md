@@ -276,7 +276,11 @@ report NO CFC regime rather than forcing a template answer).
       (confirmed: NO CFC rules per PwC), Thin Cap (confirmed: NO regime,
       70:30 non-binding BIDA guideline noted), Treaty Network (40+
       countries, NBR TRC required)
-- [ ] Next: Sri Lanka, Nepal - continuing
+- [x] Sri Lanka - Residency (183-day test, 2-consecutive-year/12-month-
+      absence rule), CFC (confirmed: NO CFC regime), Thin Cap (3:1
+      manufacturers/4:1 others, 6-year carryforward), Treaty Network
+      (44 countries, India PPT protocol update flagged)
+- [ ] Next: Nepal - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
