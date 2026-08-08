@@ -2,14 +2,16 @@
    Light background, bright teal + orange accents, black body text. */
 
 :root {
-  --teal: #00B8AE;
-  --teal-deep: #00877D;
-  --orange: #FF6B35;
-  --orange-deep: #E85A2A;
+  --teal: #00A6A0;
+  --teal-deep: #007A76;
+  --teal-pastel: #E4F7F5;
+  --coral: #FF7A63;
+  --coral-deep: #E85F47;
+  --coral-pastel: #FFEDE7;
   --ink: #111111;
   --paper: #FFFFFF;
-  --paper-dim: #F0FBFA;
-  --line: #E1E8E7;
+  --paper-dim: #F5FBFA;
+  --line: #E4E9E7;
   --font-display: 'Oswald', sans-serif;
   --font-sans: 'Inter', sans-serif;
 }
@@ -76,12 +78,16 @@ a { color: inherit; }
 }
 .hero__inner { max-width: 1180px; margin: 0 auto; }
 .hero__eyebrow {
-  font-size: 0.78rem;
-  letter-spacing: 0.14em;
+  display: inline-block;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--orange);
+  color: var(--coral-deep);
+  background: var(--coral-pastel);
   font-weight: 600;
-  margin-bottom: 14px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  margin-bottom: 16px;
 }
 .hero h1 {
   font-family: var(--font-display);
@@ -188,7 +194,7 @@ a { color: inherit; }
   border-radius: 999px;
   font-weight: 600;
 }
-.country-card.is-published .tag { background: rgba(0,184,174,0.12); color: var(--teal-deep); }
+.country-card.is-published .tag { background: var(--teal-pastel); color: var(--teal-deep); }
 .country-card.is-pending .tag { background: var(--paper-dim); color: #7c8b89; }
 
 .explainer {
@@ -230,7 +236,17 @@ a { color: inherit; }
   margin: 0 0 6px;
   color: var(--ink);
 }
-.country-hero .region-tag { font-size: 0.85rem; color: var(--orange); font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; }
+.country-hero .region-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--coral-deep);
+  background: var(--coral-pastel);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
 
 .quickchart {
   max-width: 1000px;
@@ -270,12 +286,12 @@ a { color: inherit; }
 
 .one-sentence {
   background: var(--paper-dim);
-  border-left: 3px solid var(--orange);
+  border-left: 3px solid var(--coral);
   padding: 14px 18px;
   font-size: 0.92rem;
   margin-bottom: 28px;
 }
-.one-sentence strong { color: var(--orange-deep); text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.06em; display: block; margin-bottom: 4px; font-family: var(--font-sans); }
+.one-sentence strong { color: var(--coral-deep); text-transform: uppercase; font-size: 0.72rem; letter-spacing: 0.06em; display: block; margin-bottom: 4px; font-family: var(--font-sans); }
 
 .source-row {
   margin-top: 48px;
