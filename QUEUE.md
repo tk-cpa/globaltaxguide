@@ -1,8 +1,66 @@
 # Global Tax Guide - Live Work Queue
 
-Last updated: August 8, 2026. This file tracks everything not yet complete so
-nothing raised in prior sessions gets lost between chats. Update this file
-(don't just remember it) whenever an item is started, finished, or added.
+Last updated: August 8, 2026 (end of session, handoff to new chat).
+
+## >>> START HERE - CURRENT STATE SNAPSHOT <<<
+
+- **120 of 229 country pages** have real, multi-source-verified narrative
+  content for Residency / CFC / Thin Cap / Foreign Account Reporting /
+  Treaty Network. The other ~109 still have only quick-chart rate data
+  plus an honest placeholder.
+- As of country #107 (Libya) onward, a NEW REQUIRED STRUCTURE applies to
+  every country page - see "Required page structure" section below. The
+  first 106 countries done in this session do NOT yet have this exact
+  structure (they have the same underlying facts, just not broken into
+  the explicit subheadings) - retrofitting them is tracked as its own
+  task below, separate from new-country work.
+- Countries completed with the OLD structure (still valid content, just
+  pre-dates the explicit subheading format): see the long checklist below,
+  roughly Romania through Cote d'Ivoire/Zambia/Rwanda/Algeria/Tunisia/
+  Cameroon/Botswana/Namibia, plus all G20 countries and the original
+  manually-researched batch (UK, Russia, Belarus, Monaco, San Marino,
+  Vatican City, Iran, Syria, Yemen, etc.)
+- Countries completed with the NEW structure: Libya, Sudan, Malawi,
+  Mauritius, Seychelles, Cabo Verde, Eswatini, Lesotho, Jamaica, Trinidad
+  and Tobago, Barbados, Bahamas, Belize, Fiji.
+- Next up: Papua New Guinea, remaining Pacific/Caribbean microstates,
+  then work back through the rest of the ~109 not-yet-done countries.
+
+## Required page structure (apply to every country going forward)
+
+Every country's Residency/CFC/Thin Cap/Treaty section must include:
+1. Explicit "CFC (Controlled Foreign Company) Rules: Yes" or "...: No" as
+   its own subheading - never buried in prose.
+2. Where Yes: explicit statement of whether the regime applies to
+   individuals, corporates, or both.
+3. A dedicated "Foreign Bank Account / Foreign Financial Asset Reporting"
+   section on every page (the FBAR/FinCEN 114/Form 8938 question) -
+   explicit Yes/No/mechanism, and where relevant, clearly distinguish the
+   target country's own domestic law from a US citizen's independent
+   FBAR obligation to the US government (these get conflated in cheap
+   secondary sources and that conflation is exactly what NOT to repeat).
+4. Where a country is territorial, explain the territorial regime in
+   depth: what counts as source-country income, what's excluded, and the
+   practical implications - not just the word "territorial."
+
+## Non-negotiable verification standard (unchanged all session)
+
+- Every fact checked against at least one primary or Big Four/second-tier
+  source before publishing. Never copy a single secondary aggregator
+  and call it done.
+- Actively cross-check 2+ independent sources per country where possible.
+  Several real conflicts have been caught and correctly flagged this way
+  rather than silently resolved (examples: Kenya's CFC status, Lesotho's
+  UK treaty active-vs-terminated status, Belize's 14-vs-2 treaty count,
+  Jamaica's thin cap existence, Barbados's 182-not-183-day threshold).
+  This is core to the standard, not optional polish.
+- If sources genuinely conflict and can't be resolved from available
+  material, say so explicitly on the page and tell the reader to confirm
+  with the relevant tax authority or a licensed advisor. Never silently
+  pick one source and hide the disagreement.
+- No rate, treaty fact, CFC threshold, or regulatory figure is ever
+  estimated, inferred from a neighboring country, or left unmarked as
+  uncertain when it is uncertain.
 
 ## Done this session (August 8, 2026)
 
