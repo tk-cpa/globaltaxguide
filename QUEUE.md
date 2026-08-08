@@ -512,8 +512,26 @@ report NO CFC regime rather than forcing a template answer).
 - [x] Tunisia - Residency (183-day/domicile test, modified-territorial
       corporate system), CFC (confirmed: NONE), Thin Cap (8pct rate +
       50pct-of-capital shareholder cap), Treaty Network (~48 countries)
-- [ ] Next: Cameroon, DR Congo, Angola, Mozambique, Botswana, Namibia -
-      continuing
+- [x] Cameroon - Residency (worldwide taxation for domiciled entities,
+      punitive tax-haven WHT), CFC (confirmed: NONE), Thin Cap (25pct-
+      of-pretax-profit for 25pct+ related-party loans), Treaty Network
+      (named list + CEMAC)
+- [x] Botswana - Residency (183-day/permanent-abode test, source-based
+      with citizen foreign-income exception), CFC (confirmed: NONE),
+      Thin Cap (mining-only + separate IFSC formula), Treaty Network
+      (~10 countries)
+- [x] Namibia - Residency (pure source-based, NO residency-based
+      worldwide taxation), CFC (confirmed: NONE), Thin Cap (connected-
+      person rule, 5/10-year carryforward), Treaty Network (named,
+      beneficial-owner company requirement flagged, no US treaty)
+
+## Major African economies substantially complete (Egypt, Morocco,
+## Nigeria, Kenya, Ghana, Ethiopia, Tanzania, Uganda, Senegal, Cote
+## d'Ivoire, Zambia, Rwanda, Algeria, Tunisia, Cameroon, Botswana,
+## Namibia all done; South Africa done earlier)
+
+- [ ] Next: DR Congo, Angola, Mozambique, Zimbabwe, Sudan, Libya, then
+      remaining Caribbean/Pacific microstates - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
