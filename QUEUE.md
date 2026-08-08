@@ -1770,3 +1770,69 @@ consistency check - a fresh build can introduce this exact bug just as
 easily as an old page can carry it forward. Do not assume a newly-built
 page is immune to the desync pattern simply because it was built after
 the pattern was identified.
+
+
+## MAJOR SYSTEMIC BUG FOUND AND FIXED - August 8, 2026 (same day, continued)
+
+Completed the remaining restored countries (Belarus, Iran) and, while
+building Iran, discovered its "Top personal rate" quickchart cell showed
+0% (the bottom exemption bracket) when the actual top rate is 35% - the
+exact same bug already caught once on San Marino earlier this session.
+Two occurrences of an identical, specific error is not a coincidence -
+it is systemic. Ran a full sitewide regex sweep comparing every
+quickchart cell against the highest figure in its own adjacent prose
+paragraph.
+
+RESULT: 13 additional pages had the identical bug (cell shows the
+BOTTOM of a progressive range, not the top):
+burkina-faso (0%->27.5%), comoros (5%->30%), niger (1%->35%),
+south-sudan (0%->20%), sudan (5%->15%), haiti (10%->30%), bhutan
+(0%->25%), nepal (1%->36%), sri-lanka (6%->36%), timor-leste (0%->10%),
+russia (13%->22%), yemen (10%->15%), montserrat (5%->40%).
+
+All 13 fixed in one batch commit, each individually verified against its
+own prose before fixing (not blindly trusted the regex - checked for
+false positives, e.g. distinguishing a genuine top-rate mismatch from a
+range that referred to something else nearby).
+
+Extended the same check to CORPORATE rate cells and found one more real
+instance: Bangladesh's cell showed 25% (the preferential rate for listed/
+public companies) when 27.5% is the actual general/standard rate that
+applies to the majority of (non-listed) companies - the same
+"non-representative headline number" pattern as the earlier Bahrain fix,
+just inverted (showing the lower special-case rate instead of a higher
+one). Fixed with full rate-structure detail (listed vs non-listed vs
+bank/insurance vs tobacco vs garment-export rates all now documented).
+
+Also fully and definitively resolved Montserrat's long-standing corporate
+rate conflict (previously flagged as "15% to 30%, sources conflict") by
+fetching the actual primary legislation (Income and Corporation Tax Act,
+CAP 17.01, Section 37) directly from gov.ms: "Tax shall be charged...at
+the rate of thirty percent." This is about as close to definitive proof
+as this project gets - the literal statutory text. 30% is now the
+confirmed, sourced answer; the 15-20% secondary-source figures are
+documented as incorrect. Also extracted the exact Section 40(4)
+statutory residency test (183-day rule with alternative tests) directly
+from the same primary source.
+
+PERMANENT FIX: added a CELL_VS_PROSE_MISMATCH check to
+tools/quality_gate.py itself, so this exact bug pattern - a quickchart
+cell disagreeing with its own page's detailed prose - is now caught
+automatically in every future gate run, for both personal and corporate
+rate cells. Verified zero remaining instances sitewide after the fix
+(confirmed via a full, uncached, direct-API sweep of all 229 country
+pages before and after).
+
+STANDING LESSON: when a specific, structural error is found once (like
+San Marino's 9%-instead-of-35% cell), the right response is not just to
+fix that one instance - it is to ask "is this systemic?" and sweep the
+entire site for the same pattern before moving on. This found 14 more
+real errors (13 personal + 1 corporate) that would otherwise have shipped
+silently. A single caught bug is a data point, not a data point
+requiring nothing further.
+
+REMAINING FROM THE 7 RESTORED COUNTRIES: Syria, Yemen - Yemen's rate
+cell was already fixed as part of the systemic sweep above, but Yemen
+still needs its full CFC/Thin Cap/Treaty Network narrative section built
+(currently still placeholder-level beyond the rate fix). Syria has not
+been touched at all this session and remains fully on the queue.
