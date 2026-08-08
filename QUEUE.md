@@ -226,7 +226,13 @@ report NO CFC regime rather than forcing a template answer).
       ownership + three-fifths-of-Finnish-rate threshold, EEA/non-EEA
       escape rules), Thin Cap (no ratio; EUR500k/25pct EBITDA rule + EUR3m
       non-group carveout), Treaty Network (70+ countries)
-- [ ] Next: Hong Kong, UAE, Poland - continuing
+- [x] Hong Kong SAR - Residency (territorial system, residency mainly
+      relevant for treaty access; CMC test for companies, ordinary-
+      residence/180-300-day test for individuals), CFC (confirmed: NO CFC
+      regime), Thin Cap (confirmed: NO thin cap rules; FSIE 2023 exception
+      flagged), Treaty Network (~45-51 CDTAs, exact count flagged as
+      varying by source)
+- [ ] Next: UAE, Poland - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
