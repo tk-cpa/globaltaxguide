@@ -260,7 +260,12 @@ report NO CFC regime rather than forcing a template answer).
       based debt cap separately), Treaty Network (81 countries per PwC,
       US treaty status resolved: signed 2015/ratified by Vietnam 2017 but
       not ratified by US, so not in force)
-- [ ] Next: Philippines, Taiwan - continuing
+- [x] Philippines - Residency (Section 23, 183-day test), CFC (confirmed:
+      NO CFC regime), Thin Cap (confirmed: NO formal rule; tax arbitrage
+      interest reduction noted, exact percentage flagged as needing
+      reconfirmation), Treaty Network (~40-44 countries, 10 more in
+      negotiation as of mid-2026, TTRA process required)
+- [ ] Next: Taiwan, Pakistan, Bangladesh - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
