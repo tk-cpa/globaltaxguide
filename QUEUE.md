@@ -196,8 +196,16 @@ report NO CFC regime rather than forcing a template answer).
       EUR750k/10%-opex exclusion), Thin Cap (85:15 administrative
       benchmark, not legally binding per courts + 30% EBITDA ATAD rule),
       Treaty Network (94 signed/88 in force per PwC)
-- [ ] Next: additional major non-G20 economies (Austria, Denmark, Norway,
-      Poland, Singapore, Portugal, Czech Republic, Finland) - continuing
+- [x] Austria - Residency (domicile/6-month habitual abode test), CFC
+      (Section 10a, 12.5% low-tax threshold, 1/3-passive-income
+      exclusion), Thin Cap (no statutory ratio, hidden-equity case law +
+      Section 12a 30pct EBITDA rule), Treaty Network (100 countries)
+- [x] Denmark - Residency (permanent residence + qualifying stay or
+      6-month presence), CFC (50pct control + 1/3-income test, no
+      jurisdiction list), Thin Cap (triple-layer: 4:1 ratio / interest
+      ceiling de minimis / 30pct EBITDA), Treaty Network (77 countries)
+- [ ] Next: Norway, Poland, Singapore, Portugal, Czech Republic, Finland
+      - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
