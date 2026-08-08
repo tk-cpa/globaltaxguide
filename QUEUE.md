@@ -628,7 +628,17 @@ future task, not to be rushed into this session's forward momentum.
       Reporting section carefully distinguishing Bahamas domestic law
       from US citizens' independent FBAR obligation, Treaty Network
       (no US treaty, zero domestic WHT context, 2024 Pillar Two top-up)
-- [ ] Next: continuing through remaining Caribbean/Pacific microstates
+- [x] Belize - Residency (territorial system explained, 182-vs-183-day
+      discrepancy flagged, QRP pension exemption), CFC: No (confirmed
+      via 3 sources), Thin Cap: not confirmed either way, Foreign
+      Account Reporting section, significant 14-vs-2 treaty count
+      discrepancy flagged with CARICOM context
+- [x] Fiji - Residency (183-day/domicile test), CFC: No (confirmed via
+      KPMG authoritative source), Thin Cap (genuine 2:1 ratio under
+      Income Tax Act 2015 with arm's-length exception), Foreign Account
+      Reporting section distinguishing Fiji law from US FBAR obligation,
+      Treaty Network (5-7 countries, no US/Germany treaty)
+- [ ] Next: continuing through remaining Pacific/Caribbean microstates
       with new required structure and multi-source cross-checking
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
