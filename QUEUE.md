@@ -75,9 +75,20 @@ between countries per standing directive. Progress so far:
       privileged-regime threshold), Thin Cap (2019 ATAD reform, EUR 3m/30%
       EBITDA, 1.5 debt-equity ratio), Treaty Network (120+ countries,
       Mali/Niger terminations, Russia suspension, unratified treaties noted)
-- [ ] Remaining G20: India, Brazil, Italy, Canada, South Korea, Russia,
-      Australia, Mexico, Indonesia, Saudi Arabia, South Africa, Turkiye,
-      Argentina - continuing
+- [x] India - Residency (Section 6, 182/60-day tests, RNOR/Ordinarily
+      Resident split), CFC (confirmed: India has NO CFC regime, relies on
+      GAAR + transfer pricing instead - flagged honestly, not templated),
+      Thin Cap (Section 94B, 30% EBITDA cap, INR 1 crore threshold), Treaty
+      Network (~94 comprehensive DTAAs + 8 limited, MLI since Oct 2019)
+- [x] Brazil - Residency (183-day/12-month rolling window), CFC (Lei
+      14.754/2023, annual deemed-profit inclusion regardless of
+      distribution, flat 15% individual rate, control aggregation across
+      family), Thin Cap (2:1 / 0.3:1 low-tax-jurisdiction ratio, IN RFB
+      1,154/2011), Treaty Network (~36 countries per PwC, notably NO US
+      treaty - flagged)
+- [ ] Remaining G20: Italy, Canada, South Korea, Russia, Australia, Mexico,
+      Indonesia, Saudi Arabia, South Africa, Turkiye, Argentina -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
