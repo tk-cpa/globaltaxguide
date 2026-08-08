@@ -232,7 +232,15 @@ report NO CFC regime rather than forcing a template answer).
       regime), Thin Cap (confirmed: NO thin cap rules; FSIE 2023 exception
       flagged), Treaty Network (~45-51 CDTAs, exact count flagged as
       varying by source)
-- [ ] Next: UAE, Poland - continuing
+- [x] UAE - Residency (183/90-day + center-of-financial-interests tests,
+      TRC vs domestic residency gap noted), CFC (confirmed: NO CFC regime
+      - resolved a genuine source conflict by cross-checking PwC/Chambers
+      against a claim of CFC rules from a lower-quality source; also
+      flagged the reverse risk of home-country CFC rules attributing UAE
+      income back to foreign shareholders), Thin Cap (no ratio; Article 30
+      30pct EBITDA/AED12m interest cap), Treaty Network (130-140+
+      countries, exact count flagged as approximate, no US treaty)
+- [ ] Next: Poland, Malaysia, Thailand - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
