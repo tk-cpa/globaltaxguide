@@ -1252,5 +1252,125 @@
     "slug": "aruba",
     "region": "Americas",
     "status": "published"
+  },
+  {
+    "name": "Faroe Islands",
+    "slug": "faroe-islands",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Sint Maarten",
+    "slug": "sint-maarten",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Martin (French)",
+    "slug": "saint-martin-french",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "slug": "saint-barthelemy",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "slug": "saint-pierre-and-miquelon",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Anguilla",
+    "slug": "anguilla",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Montserrat",
+    "slug": "montserrat",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Cook Islands",
+    "slug": "cook-islands",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Niue",
+    "slug": "niue",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Solomon Islands",
+    "slug": "solomon-islands",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Tonga",
+    "slug": "tonga",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Kiribati",
+    "slug": "kiribati",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Tuvalu",
+    "slug": "tuvalu",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Marshall Islands",
+    "slug": "marshall-islands",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Palau",
+    "slug": "palau",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "slug": "micronesia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Nauru",
+    "slug": "nauru",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "slug": "wallis-and-futuna",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "French Polynesia",
+    "slug": "french-polynesia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Falkland Islands",
+    "slug": "falkland-islands",
+    "region": "Americas",
+    "status": "published"
   }
 ]
