@@ -106,7 +106,19 @@ between countries per standing directive. Progress so far:
       treaties, Decree 585 suspended 38 "unfriendly" countries' reduced
       rates in 2023, permanent denunciations by Netherlands/Denmark/
       Latvia/Lithuania flagged, US suspension noted)
-- [ ] Remaining G20: Australia, Mexico, Indonesia, Saudi Arabia, South
+- [x] Australia - Residency (4 independent tests: Resides/Domicile/183-day/
+      Superannuation, bright-line reform noted as pending), CFC
+      (attributable income, listed/unlisted country + active income test),
+      Thin Cap (2023 EBITDA reform: Fixed Ratio/Group Ratio/Third-Party
+      Debt tests replacing asset-based rule), Treaty Network (46 countries
+      per PwC, several signed-not-in-force treaties flagged)
+- [x] Mexico - Residency (Article 9: permanent home + center-of-vital-
+      interests test, REFIPRE 5-year tail for departing citizens), CFC
+      (REFIPRES framework, 75%-of-Mexican-rate threshold, case-by-case),
+      Thin Cap (3:1 ratio + 30% BEPS interest cap, 40% REFIPRE withholding),
+      Treaty Network (60 countries, notable gaps listed, MLI since July
+      2023 with US/Germany exceptions)
+- [ ] Remaining G20: Indonesia, Saudi Arabia, South
       Africa, Turkiye, Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
