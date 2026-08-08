@@ -2056,3 +2056,28 @@ consistent with the standard established earlier this session.
 
 REMAINING: 62 placeholder pages (Africa: 18, Asia-Pacific: 17, Europe:
 16, Americas: 11, Middle East: 1).
+
+
+## REGIONAL QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+2 more full narrative pages built, both individually re-verified via
+independent fetch immediately after commit:
+
+- Benin - CFC not identified. Real, specific thin capitalization
+  mechanism found and used (not a generic ratio): interest paid to
+  shareholders is disallowed above BCEAO base rate + 3 percentage
+  points, confirmed via Addleshaw Goddard. No US tax treaty, confirmed
+  directly via US Department of State 2025 Investment Climate Statement.
+- Burundi - CFC not specifically identified, though confirmed that a
+  2013 reform introduced new general anti-avoidance provisions alongside
+  moving Burundi from pure territorial to hybrid worldwide/source
+  taxation - a real, dated, well-sourced structural fact rather than a
+  guess. Free Trade Zone regime offers a real 0 percent/10-year holiday
+  (reverting to 15 percent) - a materially different rate from the
+  general 30 percent regime, worth knowing for anyone structuring
+  through Burundi.
+
+Final gate check: zero hits on either page.
+
+REMAINING: 60 placeholder pages (Africa: 16, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1).
