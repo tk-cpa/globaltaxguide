@@ -2181,3 +2181,41 @@ precedent).
 
 REMAINING: 51 placeholder pages (Africa: 7, Asia-Pacific: 17, Europe:
 16, Americas: 11, Middle East: 1).
+
+
+## REGIONAL QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+3 more full narrative pages built, all individually re-verified via
+independent fetch immediately after commit:
+
+- Mali - CFC not identified. Treaty network and thin-cap findings
+  properly dated and flagged as needing reconfirmation: an IMF Staff
+  Country Report (2018/Oct-2016-dated) names Mali's treaty partners
+  specifically (WAEMU multilateral + France, Algeria, Russia, Morocco,
+  Tunisia, Monaco) and separately recommended introducing effective thin
+  cap rules (implying none existed at that time) - both explicitly
+  labeled as dated context requiring independent current-day
+  verification rather than presented as settled fact.
+- Mauritania - CFC not identified, same structural reasoning as Guinea
+  applied (fully territorial corporate system for BOTH resident and
+  non-resident companies, confirmed directly via PwC). Treaty network
+  fully named via PwC: France, Senegal, Arab Maghreb Union states
+  (Algeria, Libya, Morocco, Tunisia) - 6 partners total, with specific
+  treaty-relief mechanics described for the France/Senegal treaties.
+- Niger - CFC not identified. Treaty network handled with appropriate
+  epistemic care: France confirmed as principal partner, US explicitly
+  confirmed as NOT a treaty partner, but Germany/Belgium/Morocco are
+  presented as "probable" per the source's own hedge - not upgraded to
+  confirmed fact, with an explicit note to verify via Niger's Ministry
+  of Finance. Relevant political-transition context included (2023
+  government change, 2024 Alliance des Etats du Sahel with Mali/Burkina
+  Faso) since it affects practical treaty administration.
+
+Final gate check: zero hits across all 3 pages.
+
+REMAINING: 48 placeholder pages (Africa: 4, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1). Africa nearly complete: Sierra Leone,
+Somaliland, Western Sahara remain (Guinea, Liberia, Madagascar, Mali,
+Mauritania, Niger, Chad, Djibouti, Equatorial Guinea, Eritrea, Gabon,
+Gambia, Benin, Burundi, Burkina Faso, CAR, Comoros, Guinea-Bissau, Sao
+Tome and Principe, South Sudan, Togo all completed this session).
