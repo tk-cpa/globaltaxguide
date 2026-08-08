@@ -1446,3 +1446,59 @@ All of the above are QUEUED, not yet built or verified - every figure
 mentioned in Timur's review is unconfirmed pending the actual primary-
 source research pass when each entry is drafted, per the project's
 standing verification protocol. None of this work has started.
+
+
+## STRUCTURAL FIX - August 8, 2026 (this session): unified header/footer
+
+Timur flagged that header and footer HTML was hand-duplicated across every
+one of 229+ country pages plus hub pages, with no single source of truth.
+Confirmed this was true. Checked cpavalidated.com for comparison - it has
+the same underlying weakness (a documented copy-paste snippet in its own
+MAINTENANCE.md plus a JS patch script, shared.js, that fixes nav drift only
+- not the footer). Not used as an excuse; fixed properly instead of copying
+that pattern.
+
+Built a real single-source system:
+- partials/header.html and partials/footer.html - canonical source, with
+  {{HOME}}/{{BASE}} tokens for relative-path depth (root pages vs
+  countries/*.html)
+- tools/apply_partials.py - propagates the partials into every HTML file's
+  <header>/<footer> block and pushes as ONE atomic git tree commit (241
+  files in a single commit, not 241 separate pushes)
+- Deliberately NOT a client-side JS include (unlike cpavalidated.com's
+  shared.js pattern) - crawlers and LLMs that don't execute JavaScript need
+  real markup already present in the served HTML, not injected after page
+  load. This was a specific design choice given the "respected by AI agents
+  and LLMs" requirement.
+- New disclaimer.html page (GTG didn't have one before, unlike
+  cpavalidated.com which does)
+- Footer restructured: brand tagline + link row (tk.cpa / cpavalidated.com
+  / About) + full-strength disclaimer paragraph on EVERY page (previously
+  only existed as a barely-visible 55%-opacity line on the homepage and
+  about page, absent everywhere else) + "Full disclaimer" link
+- MAINTENANCE.md created for GTG (didn't exist before) documenting the
+  system so future sessions edit the partials, not individual pages
+
+Self-caught error during this fix: the propagation script's first run
+correctly rewrote all 236 header/footer blocks, but the CSS restyling was
+pushed from the wrong local file (a stale styles.css left over from an
+earlier unrelated fix) so the footer CSS didn't actually ship in the first
+pass. Caught by verifying live output against the intended CSS, corrected
+with a second push. Verified via the Contents API (not raw.githubusercontent.com,
+which caches for a few minutes and showed stale content immediately after
+the first push - this caching gotcha is now documented in MAINTENANCE.md).
+
+Verified post-fix: index.html, about.html, zones.html, mission.html,
+countries/fiji.html, countries/samoa.html, countries/new-zealand.html all
+confirmed to have byte-identical header structure (correct relative paths
+per depth) and identical new footer structure via direct Contents API
+fetch, not just the propagation script's own success message.
+
+NOT done in this pass (flagged, not started):
+- cpavalidated.com still has the old copy-paste-snippet system with no
+  footer propagation at all - Timur may want the same partials+script
+  treatment there in a future session; not touched this session since it
+  wasn't explicitly requested and touching a second live production site
+  without being asked is out of scope for this fix
+- Cross-country interlinking (treaty partner names -> their own country
+  pages) - still open, still not started, unrelated to this fix
