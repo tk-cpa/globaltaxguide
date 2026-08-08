@@ -1680,3 +1680,42 @@ PERMANENT INFRASTRUCTURE: tools/quality_gate.py must be run before any
 future session reports a batch of pages as "done." A clean run (no
 output) is required. This is not optional - see the tool's own docstring
 for the full incident history that led to its creation.
+
+
+## RESUMED COUNTRY BUILD QUEUE - August 8, 2026 (continued)
+
+Full remediation pass now complete and verified (see above). Resumed the
+regular build queue, applying the exact same standard just established
+(real primary-source research, no punting, cell/summary/prose sync
+checked before considering a page done).
+
+NEWLY BUILT (full narrative sections added, all sources cross-checked):
+- Saint Kitts and Nevis - 33% corporate, 0% personal (confirmed across
+  7 independent sources), 17% VAT. CFC: No (Inland Revenue Act 2019
+  framework). Treaty network: CARICOM members + Denmark/Norway/Sweden/
+  San Marino/UK. No US treaty.
+- Saint Lucia - 30% corporate (note: the Inland Revenue Department's own
+  page separately cites 33.3% specifically for non-resident PE profits -
+  worth flagging if this comes up again, as it may indicate a resident/
+  non-resident rate split not fully captured yet), progressive personal
+  0-30% (XCD 18,400 allowance), 12.5% VAT. CFC: No (confirmed via
+  company-formation specialist source). Treaty network: CARICOM
+  multilateral only (Cap. 19.05, Act 28 of 2001, in force since 1995)
+  - confirmed via primary Saint Lucia legislation. Also noted: Saint
+  Lucia's FSIE regime was found harmful by the EU Code of Conduct Group
+  and abolished (amending legislation Dec 30, 2020) - a genuinely useful
+  finding for anyone researching Saint Lucia's IBC/offshore history.
+
+STILL ON THE BUILD QUEUE (unchanged from earlier session state):
+- Remaining Caribbean batch: Suriname, Turks and Caicos, Sint Maarten
+  (done - see remediation), Aruba (done)
+- 7 restored countries: Iran, Syria, Yemen, Belarus, Monaco, San Marino,
+  Vatican City
+- ~340 remaining placeholder pages across all regions (Africa/Americas/
+  Asia-Pacific/Europe/Middle East) - the bulk of the site still needs
+  full narrative sections built out
+
+Given the very long single conversation this work has now spanned,
+recommend continuing in a fresh session for the next batch, using this
+file as the handoff context. tools/quality_gate.py must be run and
+clean before any future session reports a batch as done.
