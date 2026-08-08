@@ -2147,3 +2147,37 @@ Final gate check: zero hits across all 3 pages.
 
 REMAINING: 54 placeholder pages (Africa: 10, Asia-Pacific: 17, Europe:
 16, Americas: 11, Middle East: 1).
+
+
+## REGIONAL QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+3 more full narrative pages built, all individually re-verified via
+independent fetch immediately after commit:
+
+- Guinea - CFC not identified, with a genuinely distinctive structural
+  finding: Guinea has NO statutory definition of individual residence,
+  and unusually taxes BOTH resident and non-resident corporations on
+  Guinea-source income only (a rare fully territorial corporate system
+  that does not distinguish by residence basis) - confirmed via
+  Addleshaw Goddard, not assumed. Sector-specific corporate rates noted
+  (35 percent telecom/banks/insurance/petroleum importers, 30 percent
+  mining).
+- Liberia - CFC not identified. Precise, well-sourced treaty picture via
+  GSL: just 1 Double Tax Treaty but 12 named TIEAs (Netherlands, UK,
+  Denmark, Ghana, Sweden, Norway, Iceland, France, Finland, Faroe
+  Islands, Greenland, Portugal), plus specific CRS MCAA (2018) and CbC
+  MCAA (2022) signing dates. A December 2024 Tax Amendment Act
+  (non-resident personal rate 15 to 20 percent) sourced and dated
+  properly rather than left vague.
+- Madagascar - CFC not identified. Treaty network fully named (4
+  treaties: Canada, France, Mauritius, Morocco) confirmed via both PwC
+  and an EY-sourced compilation independently. Residency test includes
+  a notable detail: individuals who travel abroad but remain on a
+  Madagascar employer's payroll are still deemed resident.
+
+Final gate check: zero real hits on any of the 3 pages (one standard
+accepted FATCA sentence on Guinea, consistent with established
+precedent).
+
+REMAINING: 51 placeholder pages (Africa: 7, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1).
