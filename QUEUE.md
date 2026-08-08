@@ -213,7 +213,16 @@ report NO CFC regime rather than forcing a template answer).
       thin cap rule, GAAR/transfer pricing backstop only), Treaty Network
       (98 comprehensive + 8 limited DTAs, NO US treaty flagged, 2025
       substance requirement noted)
-- [ ] Next: Portugal, Czech Republic, Finland, Hong Kong, UAE - continuing
+- [x] Portugal - Residency (183-day + habitual abode test, exit tax noted),
+      CFC (ATAD 25pct/10pct thresholds, 50pct-rate/60pct-rate tests, EU/EEA
+      substance carve-out), Thin Cap (no ratio; EUR1m/30pct EBITDA cap),
+      Treaty Network (~78-80 countries, UK 2026 update, Finland/Sweden
+      terminations)
+- [x] Czech Republic - Residency (permanent home/183-day test, deemed-
+      resident categories regardless of days), CFC (ATAD 50pct threshold),
+      Thin Cap (30pct EBITDA rule), Treaty Network (99 treaties per
+      official gov.cz list, Belarus suspension 2024-2026 noted)
+- [ ] Next: Finland, Hong Kong, UAE, Poland - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
