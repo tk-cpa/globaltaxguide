@@ -272,7 +272,11 @@ report NO CFC regime rather than forcing a template answer).
 - [x] Pakistan - Residency (183-day/120+365-day tests), CFC (50pct + 60pct-
       of-rate threshold), Thin Cap (3:1 ratio + fixed-ratio test), Treaty
       Network (68 countries per PwC)
-- [ ] Next: Bangladesh, Sri Lanka - continuing
+- [x] Bangladesh - Residency (182-day/90-day-with-4yr-history test), CFC
+      (confirmed: NO CFC rules per PwC), Thin Cap (confirmed: NO regime,
+      70:30 non-binding BIDA guideline noted), Treaty Network (40+
+      countries, NBR TRC required)
+- [ ] Next: Sri Lanka, Nepal - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
