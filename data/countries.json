@@ -1246,5 +1246,11 @@
     "slug": "western-sahara",
     "region": "Africa",
     "status": "published"
+  },
+  {
+    "name": "Aruba",
+    "slug": "aruba",
+    "region": "Americas",
+    "status": "published"
   }
 ]
