@@ -166,8 +166,14 @@ report NO CFC regime rather than forcing a template answer).
       formal ratio; strict 24.5% EBITDA earnings-stripping rule for 2026,
       tighter than ATAD minimum), Treaty Network (~90-100 countries,
       Russia termination noted)
-- [ ] Next: Switzerland, Sweden, Belgium, and other major non-G20
-      economies - continuing
+- [x] Switzerland - Residency (30-day-with-work/90-day-without-work rules,
+      no 183-day threshold, domicile alternative), CFC (confirmed: NO CFC
+      regime, one of few developed economies without one; substance-based
+      case law safeguard only), Thin Cap (no fixed ratio; per-asset-class
+      FTA safe-harbor percentages, 6:1 for finance companies), Treaty
+      Network (100+ countries plus separate estate/inheritance treaties)
+- [ ] Next: Sweden, Belgium, and other major non-G20 economies -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
