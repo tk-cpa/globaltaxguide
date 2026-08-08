@@ -580,8 +580,15 @@ future task, not to be rushed into this session's forward momentum.
       FBAR-equivalent, Treaty Network (8 named countries, Kenya/
       Netherlands treaty status flagged)
 
-- [ ] Next: Mauritius, Seychelles, then remaining Africa/Caribbean/
-      Pacific microstates - continuing with new required structure
+- [x] Mauritius - Residency (183/270-day test, remittance-basis
+      individual vs worldwide corporate taxation distinguished), CFC:
+      Yes - corporate only (50pct+ control, non-genuine-arrangement test,
+      EUR-denominated safe harbors), Thin Cap: No (debenture-interest
+      recharacterization instead), Foreign Account Reporting: No personal
+      FBAR-equivalent but institutional CRS/FATCA reporting explained,
+      Treaty Network (45 countries per MRA with detailed pipeline status)
+- [ ] Next: Seychelles, then remaining Africa/Caribbean/Pacific
+      microstates with new required structure - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
