@@ -1130,3 +1130,36 @@ Islands, Cayman Islands, Dominica, Grenada, Guyana, Haiti, Montserrat,
 Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin
 (French), Saint Pierre and Miquelon, Saint Vincent and the Grenadines,
 Sint Maarten, Suriname, Turks and Caicos.
+
+
+## Session update 5 - August 8, 2026 (continued, same session)
+
+1 more country verified and pushed: Aruba. Running session total: 19
+countries.
+
+Real remaining placeholder count: 85 (86 minus this 1).
+
+- [x] Aruba - Residency (multi-factor facts-and-circumstances test:
+      home, family, stay duration, registry, bank accounts, economic
+      interests - 183-day figure noted as a practical benchmark rather
+      than the actual legal test), CFC: No (confirmed via specialist
+      Dutch Caribbean tax source), Thin Cap: not identified, Foreign
+      Account Reporting (US-Aruba TIEA under the Kingdom-level
+      information exchange treaty; explicitly no comprehensive US-Aruba
+      income tax treaty, standard US-NL treaty does not extend to
+      Aruba), Treaty Network: detailed conflict flagged rather than
+      resolved with one number - a specialist source says no specific
+      tax treaty law/developed DTA network exists in Aruba, while the
+      Netherlands' own official treaty-country list names Aruba;
+      reconciled by explaining Aruba's relief comes principally through
+      the intra-Kingdom BRK/BRNA harmonization arrangement (Aruba/
+      Curacao/Sint Maarten/Netherlands) rather than a conventional
+      external bilateral DTA network - this is a genuinely useful
+      distinction that a lower-effort pass would have flattened into
+      a wrong single yes/no answer.
+
+Next up: continuing Caribbean batch - Bermuda, British Virgin Islands,
+Cayman Islands, Dominica, Grenada, Guyana, Haiti, Montserrat, Saint
+Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French),
+Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint
+Maarten, Suriname, Turks and Caicos.
