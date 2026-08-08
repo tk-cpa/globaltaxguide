@@ -598,6 +598,15 @@ future task, not to be rushed into this session's forward momentum.
       personal regime, entity-level CbCR only, Treaty Network (narrow:
       Guinea-Bissau/Macau/Portugal per PwC, discrepancy vs broader claims
       flagged)
+- [x] Eswatini - Residency (employment/business-based, no formal test),
+      CFC: No, Thin Cap: No, Foreign Account Reporting: No, notably NO
+      foreign tax credit regime at all flagged, Treaty Network
+      (6 countries, UK treaty since 1968)
+- [x] Lesotho - Residency (test not confirmed, flagged honestly), CFC:
+      Not identified (honest gap given SACU/SA proximity), Thin Cap: Not
+      identified, Foreign Account Reporting: No, Treaty Network (4-5
+      countries, genuine UK treaty termination-status conflict flagged
+      between HMRC archive and 2025 practitioner source)
 - [ ] Next: continuing through remaining Africa/Caribbean/Pacific
       microstates with new required structure
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
