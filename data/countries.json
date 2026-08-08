@@ -645,7 +645,7 @@
     "name": "Kyrgyzstan",
     "slug": "kyrgyzstan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Laos",
@@ -753,7 +753,7 @@
     "name": "Tajikistan",
     "slug": "tajikistan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Thailand",
@@ -771,7 +771,7 @@
     "name": "Turkmenistan",
     "slug": "turkmenistan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Uzbekistan",
@@ -1101,7 +1101,7 @@
     "name": "Iran",
     "slug": "iran",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Iraq",
@@ -1161,7 +1161,7 @@
     "name": "Syria",
     "slug": "syria",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Turkiye (Turkey)",
@@ -1179,7 +1179,7 @@
     "name": "Yemen",
     "slug": "yemen",
     "region": "Middle East",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Armenia",
