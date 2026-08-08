@@ -1502,3 +1502,85 @@ NOT done in this pass (flagged, not started):
   without being asked is out of scope for this fix
 - Cross-country interlinking (treaty partner names -> their own country
   pages) - still open, still not started, unrelated to this fix
+
+
+## CRITICAL QUALITY CORRECTION - August 8, 2026 (this session)
+
+Timur found a page (Marshall Islands) where a genuine factual question (the
+personal tax rate) was met with "sources conflict, confirm directly with
+the Marshall Islands Division of Revenue and Taxation" published live on
+the site - i.e., the site punted a resolvable question back to the reader
+instead of doing the research to resolve it. Correctly identified this as
+unacceptable for a resource whose entire purpose is to BE the answer, not
+homework directing the reader elsewhere. This is a standing correction to
+how the "flag conflicting sources" protocol has been applied - that
+protocol is a LAST RESORT after real primary-source effort, not a routine
+way to close out an item after checking 2-3 secondary aggregator sites.
+
+Audited the entire site programmatically for this pattern (precise regex
+markers, not the universal disclaimer boilerplate). Found 13 pages with
+the genuine punt pattern (Marshall Islands already fixed at time of
+audit, not counted in the 13). Working through all of them with real
+primary-source research, same as Marshall Islands.
+
+FIXED SO FAR (4 of 13):
+- [x] Marshall Islands - Personal Tax Rate AND Treaty Network both had
+      punts, both now resolved. Real WST (Wages and Salaries Tax) exists:
+      8%/12% progressive + 5% for US contractor personnel, confirmed via
+      a March 2026 Nitijela legislative amendment (Bill No. 103/P.L.
+      2026-68) plus 2 independent payroll-compliance sources. The "0%
+      personal tax" claim on offshore-formation sites was a conflation of
+      entity-level IBC exemption with actual employee wages - exactly the
+      kind of conflation this project exists to catch, not launder.
+      Treaty count resolved to 13 named TIEAs (not DTAs) via GSL's
+      specific, named, checkable list, correctly preferred over a vague
+      unlabeled "14 Tax Treaties" claim from a company-formation site.
+- [x] Central African Republic - Personal tax top rate resolved to 40%
+      (IRPP progressive 0-40%) via two independent payroll-compliance
+      sources (Remote People, Papaya Global).
+- [x] Somalia - BOTH corporate and personal rates were fully unconfirmed.
+      Found Somalia's own Ministry of Finance / Revenue Directorate
+      Income Tax Manual for the Income Tax Act 2025 (effective May 11,
+      2025) - a complete, official, primary source giving exact figures:
+      corporate tax tiered by sales (USD150 flat / 1.5% / 15% by
+      bracket, 18% flat for non-residents), personal tax progressive
+      0-18% for residents (18% flat non-resident, 20% flat under-18).
+      Also added a full Residency section sourced directly from ITA 2025
+      Article 77 (statutory text, not inference). This was a full
+      placeholder page before this session's fix - now has real content
+      built from the strongest possible source (the government's own
+      manual for its own current law).
+- [x] Sint Maarten - Corporate rate conflict (30% vs 34.5%) resolved to
+      34.5% via FIVE independent practitioner sources with direct Sint
+      Maarten tax practice experience (Baker Tilly Dutch Caribbean, and
+      four Sint Maarten-based accounting/law firms), all citing the
+      identical figure with supporting operational detail. The 30%
+      figure came from one generic aggregator page and does not survive
+      against that level of corroboration. Also resolved the VAT/TOT
+      rate (5% Turnover Tax) which was separately marked unconfirmed.
+
+REMAINING TO FIX (9 of 13) - next immediate priority, before continuing
+the regular country-build queue:
+- [ ] Guyana - CFC status and thin cap mechanics currently hedge-punted
+- [ ] Vanuatu - treaty count conflict (1 vs 19) unresolved
+- [ ] Saint Pierre and Miquelon - corporate/personal/VAT rates entirely
+      unconfirmed, residency punted
+- [ ] Montserrat - treaty network count punted
+- [ ] Solomon Islands - CFC and treaty network both punted
+- [ ] Tonga - treaty network count punted
+- [ ] Kiribati - CFC, thin cap, AND treaty network all three punted
+- [ ] Tuvalu - thin cap and treaty network punted
+- [ ] Palau - treaty network punted
+- [ ] Wallis and Futuna - VAT rate conflict punted
+
+STANDING RULE GOING FORWARD: "sources conflict, confirm with [authority]"
+is NEVER an acceptable final answer for a resolvable factual question.
+Before writing that pattern, the actual standard is: (1) search for the
+country's own government/tax-authority source directly, (2) search for
+multiple independent practitioner/professional sources (accounting or
+law firms with direct local practice, not generic aggregators) and see
+if they corroborate each other, (3) only if genuinely exhausted and
+still unresolved, flag clearly - and even then, give the reader the most
+specific, well-sourced partial picture available rather than a bare
+punt. A page that says "go check yourself" without having exhausted (1)
+and (2) first is a defect, not appropriate epistemic humility.
