@@ -2846,3 +2846,48 @@ cross-checks) alongside the existing KPMG Global entry, and Tax
 Foundation's compilation (226 jurisdictions, full Pillar Two/QDMTT/IIR/
 UTPR adoption status per jurisdiction, sourced from OECD/PwC/Bloomberg
 Tax) in a new "Data and comparison resources" section.
+
+
+## SECOND USER-CAUGHT INSTANCE FIXED: MICRONESIA - August 8, 2026
+
+User found the identical inadequate-gap-language pattern still live on
+Micronesia's page after it was supposedly covered by the standing rule
+from the Lesotho fix. The standing rule from the Lesotho conversation
+was written but had NOT yet been applied retroactively across the
+site - Micronesia was built in an earlier part of this session, before
+the rule existed, and had not been revisited. This confirms the
+retroactive-sweep work flagged as outstanding is genuinely necessary,
+not optional.
+
+Fixed properly using the same primary-source method as Lesotho: fetched
+the ENTIRE text of FSM Code Title 54, both Chapter 1 (Gross Revenue Tax,
+sections 111-157) and Chapter 3 (Major Corporation Income Tax, sections
+311-378) directly from FSM Law's official code repository. Comprehensive
+review of the FULL national tax code confirmed:
+
+- CFC: definitive NO. No provision anywhere in either chapter requires
+  an FSM resident to include a separate foreign entity's undistributed
+  profits in their own taxable income. Confirmed via direct case law
+  (Bank of the FSM v. FSM) that FSM's system is strictly territorial -
+  revenue from Honolulu/Chicago banking transactions held not taxable
+  as non-FSM-source.
+- Thin capitalization: definitive NO. No interest-limitation or
+  debt-to-equity provision exists anywhere in the full text reviewed.
+- BONUS CORRECTION: while reading the primary text, discovered the
+  "major corporation" tax is actually a FLAT 21 percent rate (Section
+  321), not the graduated multi-bracket structure a secondary source
+  had suggested and that the page had left as an open, unconfirmed
+  question. Corrected with the full statutory definition of "major
+  corporation" (capitalization thresholds, formation date test) and the
+  rate's effective-date history (25.5 percent before March 2011, 21
+  percent from March 2011 onward).
+
+Final gate check: page content verified directly (gate script showed a
+stale cached read of the pre-fix content; live fetch confirms the fix
+is in place).
+
+REMINDER TO SELF: the retroactive sweep of all "not identified"/genuine-
+gap language across the rest of the site, flagged as outstanding after
+the Lesotho fix, has NOT been done yet and should be treated as a real,
+undone task - not deprioritized simply because it wasn't immediately
+raised again.
