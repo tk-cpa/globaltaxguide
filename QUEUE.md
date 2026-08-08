@@ -492,8 +492,22 @@ report NO CFC regime rather than forcing a template answer).
       NONE), Thin Cap (replaced by 30pct EBITDA rule 2018), Treaty
       Network (~10 countries, 2014 negotiation pause, treaty-shopping
       concerns flagged)
-- [ ] Next: Senegal, Ivory Coast, Zambia, Rwanda, Algeria, Tunisia -
-      continuing
+- [x] Senegal - Residency (center-of-economic-interests test), CFC
+      (confirmed: NONE specific), Thin Cap (shareholder-loan cap, no
+      fixed ratio), Treaty Network (named + WAEMU framework)
+- [x] Cote d'Ivoire - Residency (income-type-based, flagged for further
+      confirmation), CFC (confirmed: NONE despite BEPS Action 3), Thin
+      Cap (layered: ratio + 30pct EBITDA + BCEAO cap), Treaty Network
+      (named list + WAEMU)
+- [x] Zambia - Residency (183-day test, widened residence-based foreign
+      dividend/interest taxation), CFC (confirmed: NONE), Thin Cap (30pct
+      EBITDA BEPS Action 4), Treaty Network (~18 countries, historical
+      pre-OECD treaties flagged, no MLI)
+- [x] Rwanda - Residency (183-day/domicile test, KIFC 5-year exemption),
+      CFC (confirmed: NONE), Thin Cap (4:1 ratio), Treaty Network
+      (14 countries)
+- [ ] Next: Algeria, Tunisia, then remaining Africa/Caribbean/microstates
+      - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
