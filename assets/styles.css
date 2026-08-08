@@ -226,13 +226,24 @@ a { color: inherit; }
   background: var(--ink);
   color: rgba(255,255,255,0.7);
   border-top: 2px solid var(--teal);
-  padding: 40px 24px;
+  padding: 36px 24px 22px;
   font-size: 0.82rem;
 }
-.site-footer__inner { max-width: 1180px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
-.site-footer a { text-decoration: none; opacity: 0.85; }
+.site-footer__inner { max-width: 1180px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 14px; }
+.site-footer__tagline { max-width: 640px; }
+.site-footer__links { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; }
+.site-footer a { text-decoration: none; opacity: 0.85; color: #fff; }
 .site-footer a:hover { opacity: 1; }
-.disclaimer { max-width: 1180px; margin: 0 auto; padding: 0 24px 40px; font-size: 0.78rem; opacity: 0.55; }
+.site-footer .disclaimer {
+  max-width: 1180px;
+  margin: 18px auto 0;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.15);
+  font-size: 0.76rem;
+  line-height: 1.6;
+  opacity: 0.62;
+}
+.site-footer .disclaimer a { opacity: 1; text-decoration: underline; }
 
 /* ---------- Country page ---------- */
 .country-hero {
