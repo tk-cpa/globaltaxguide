@@ -327,7 +327,7 @@
     "name": "Antigua and Barbuda",
     "slug": "antigua-and-barbuda",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Argentina",
@@ -351,7 +351,7 @@
     "name": "Belize",
     "slug": "belize",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Bermuda",
@@ -375,7 +375,7 @@
     "name": "British Virgin Islands",
     "slug": "british-virgin-islands",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Canada",
@@ -411,13 +411,13 @@
     "name": "Cuba",
     "slug": "cuba",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Dominica",
     "slug": "dominica",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Dominican Republic",
@@ -441,7 +441,7 @@
     "name": "Grenada",
     "slug": "grenada",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Guatemala",
@@ -459,7 +459,7 @@
     "name": "Haiti",
     "slug": "haiti",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Honduras",
@@ -513,7 +513,7 @@
     "name": "Saint Kitts and Nevis",
     "slug": "saint-kitts-and-nevis",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Saint Lucia",
@@ -525,13 +525,13 @@
     "name": "Saint Vincent and the Grenadines",
     "slug": "saint-vincent-and-the-grenadines",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Suriname",
     "slug": "suriname",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Trinidad and Tobago",
@@ -543,7 +543,7 @@
     "name": "Turks and Caicos",
     "slug": "turks-and-caicos",
     "region": "Americas",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "United States",
