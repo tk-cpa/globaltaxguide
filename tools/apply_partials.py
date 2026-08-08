@@ -53,6 +53,7 @@ def fetch_raw(path):
 ROOT_PAGES = [
     "index.html", "about.html", "map.html", "zones.html",
     "unions.html", "trusted-resources.html", "mission.html", "disclaimer.html",
+    "search.html",
 ]
 
 HEADER_RE = re.compile(r'<header class="site-header">.*?</header>', re.DOTALL)
