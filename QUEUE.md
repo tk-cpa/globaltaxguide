@@ -310,7 +310,14 @@ report NO CFC regime rather than forcing a template answer).
       trigger, not a simple day count), CFC (50pct threshold since 2019),
       Thin Cap (dual: 4:1 safe harbor + 30pct EBITDA ATAD), Treaty
       Network (60-65 countries, US/Australia/NZ treaties pending)
-- [ ] Next: Slovenia, Bulgaria - continuing
+- [x] Slovenia - Residency (formal/actual residential tie test), CFC
+      (50pct threshold since 2019, taxes passive income only), Thin Cap
+      (abolished Jan 2025 - flagged as recent change), Treaty Network
+      (60+ countries)
+- [x] Bulgaria - Residency (183-day/vital-interests test), CFC (50pct +
+      half-rate threshold, substance carveout), Thin Cap (dual: 3:1 ratio
+      + EUR3m ATAD interest limitation), Treaty Network (70+ countries)
+- [ ] Next: Iceland, Malta, Cyprus - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
