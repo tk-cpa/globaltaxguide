@@ -2,16 +2,17 @@
    Light background, bright teal + orange accents, black body text. */
 
 :root {
-  --teal: #00A6A0;
-  --teal-deep: #007A76;
-  --teal-pastel: #E4F7F5;
-  --coral: #FF7A63;
-  --coral-deep: #E85F47;
-  --coral-pastel: #FFEDE7;
+  /* Exact colors sampled from the Stormscape Youth cheer logo, kept crystal-clean (no muddying) */
+  --teal: #00ABB5;
+  --teal-deep: #00878F;
+  --teal-pastel: #E0FDFF;
+  --coral: #F47734;
+  --coral-deep: #CB4E0B;
+  --coral-pastel: #FDECE2;
   --ink: #111111;
   --paper: #FFFFFF;
-  --paper-dim: #F5FBFA;
-  --line: #E4E9E7;
+  --paper-dim: #FCFEFE;
+  --line: #E9EDEC;
   --font-display: 'Oswald', sans-serif;
   --font-sans: 'Inter', sans-serif;
 }
