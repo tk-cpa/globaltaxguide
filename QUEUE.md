@@ -65,11 +65,11 @@ nothing raised in prior sessions gets lost between chats. Update this file
       guides (BDO, Mazars/Forvis Mazars, RSM International) - initial search
       did not turn up a clean free global guide from BDO comparable to the
       Big Four's; needs another look.
-- [ ] **Nav rollout to all 229 country pages** - the Map and Trusted
-      Resources links were added to the five hub pages (index, unions,
-      zones, about, mission) only. The 229 individual country pages were
-      not touched this session and still show the old 5-link nav. Rolling
-      this out means a real batch edit across 229 files - queued, not done.
+- [x] **Nav rollout to all 229 country pages** - done. Single atomic git
+      tree commit (`5b3b448a`) updated all 229 country pages plus the 5 hub
+      pages to the new 7-link nav (added Map, Trusted Resources). Verified
+      programmatically post-push: all 229 pages contain both new links and
+      zero em-dashes.
 
 ### Lower priority / already flagged in AUTOMATION.md
 - [ ] Automated weekly GitHub Actions verification - `.github/workflows/
