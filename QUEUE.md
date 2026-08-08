@@ -265,7 +265,14 @@ report NO CFC regime rather than forcing a template answer).
       interest reduction noted, exact percentage flagged as needing
       reconfirmation), Treaty Network (~40-44 countries, 10 more in
       negotiation as of mid-2026, TTRA process required)
-- [ ] Next: Taiwan, Pakistan, Bangladesh - continuing
+- [x] Taiwan - Residency (Article 7, 183-day/domicile test), CFC (50pct
+      ownership + <14pct-rate threshold, substance/de-minimis exemptions),
+      Thin Cap (3:1 ratio), Treaty Network (35 countries, no US treaty,
+      reciprocal relief framework flagged as pending)
+- [x] Pakistan - Residency (183-day/120+365-day tests), CFC (50pct + 60pct-
+      of-rate threshold), Thin Cap (3:1 ratio + fixed-ratio test), Treaty
+      Network (68 countries per PwC)
+- [ ] Next: Bangladesh, Sri Lanka - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
