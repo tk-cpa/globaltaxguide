@@ -1888,3 +1888,79 @@ majority/general case described in the first sentence of prose).
 
 STATUS: All 7 restored countries complete and verified. QUEUE moving to
 the general ~340-page regional build queue next.
+
+
+## CRITICAL PROCESS FINDING - August 8, 2026 (same day, continued)
+
+While building the "non-representative headline number" automated check
+promised at the end of the last session block, discovered something more
+serious: TWO earlier fixes from this same session (Montserrat's corporate
+rate, Bangladesh's corporate rate) had been reported as successfully
+committed - with a real commit SHA returned - but had NOT actually
+persisted in the live file. Direct re-fetch showed the OLD, wrong values
+still live (Montserrat: 15% instead of the resolved 30%; Bangladesh: 25%
+instead of the resolved 27.5%).
+
+ROOT CAUSE (best understanding): when a file was edited via two separate
+sequential put_file calls close together in the same session (e.g. one
+call fixing a quickchart cell + summary, a second later call fixing H2
+prose sections), the second call's SHA fetch and edit could end up
+based on a version of the file that did not yet reflect the first call's
+change, even though the first call itself reported success. The net
+result: the LATER edit's changes persisted (H2 prose, which is why both
+pages showed correct prose), but the EARLIER edit's changes (cell,
+summary) were silently lost. A returned commit SHA is not sufficient
+proof that a change persisted - only an independent re-fetch confirms it.
+
+BOTH INSTANCES FOUND AND RE-FIXED, this time with immediate independent
+re-verification via a fresh fetch after each fix (not just trusting the
+put_file response):
+- Montserrat: corporate rate cell + summary re-fixed to 30% (confirmed
+  live via re-fetch)
+- Bangladesh: corporate rate cell re-fixed to 27.5% (confirmed live via
+  re-fetch)
+
+STANDING RULE GOING FORWARD: after ANY put_file call, before considering
+that specific fix complete, do an independent re-fetch of the file and
+directly confirm the expected content is present. Do not trust a
+successful-looking API response alone. When a single page requires
+multiple sequential edits, prefer combining them into ONE put_file call
+where practical; if genuinely sequential edits are required, re-fetch
+fresh content (and fresh SHA) immediately before each one, and verify
+each one's persistence before starting the next.
+
+SEPARATE FINDING: built and ran a sitewide "first number in prose vs
+cell value" scan (broader/noisier than the earlier range-based check).
+This produced 63 hits, but manual review showed the overwhelming
+majority are FALSE POSITIVES - the heuristic doesn't understand that a
+"0% to X%" progressive bracket correctly SHOULD show X% (the top) in
+the cell while "0%" appears first in prose; that is correct design, not
+a bug. Spot-checked ~8 of the least-explainable-by-that-pattern hits and
+found:
+- Cyprus, Jamaica, Turkiye, Palestine, Bahrain, Iraq: false positives
+  (parenthetical historical-rate mentions, regex artifacts on ranges
+  without explicit "%" on both numbers, or correctly-resolved
+  general-vs-exception-rate pairs already fixed earlier this session)
+- Eswatini: REAL - cell showed an outdated pre-reform 27.5% when the
+  reform's effective date (FYs after July 1, 2024) has clearly passed
+  given the current date (August 2026); fixed to 25% across cell,
+  summary, and prose
+- Namibia: REAL, same pattern - cell showed outdated 31% when a reform
+  effective January 1, 2025 has already taken effect; fixed to 30%
+  across cell, summary, and prose
+
+This surfaces a THIRD distinct defect category (beyond cell/prose
+bracket mismatch and non-representative sector-exception numbers):
+pages that were accurate when originally written but have since been
+overtaken by a reform's own stated effective date - the page needs a
+periodic "has any previously-flagged future effective date now passed"
+review, not just a one-time verification.
+
+REMAINING UNREVIEWED FROM THE 63-HIT SCAN: ~55 pages not yet individually
+checked (see: eswatini and namibia followed a "future-dated reform now in
+effect" pattern - worth specifically checking any OTHER page whose prose
+mentions a specific future effective date, e.g. searching site-wide for
+"for FYs from" / "effective for" / "as of" patterns with a still-future
+year, since those are the highest-probability real hits from that list).
+This is flagged as a priority follow-up rather than fixed blind, given
+the demonstrated high false-positive rate of the raw heuristic.
