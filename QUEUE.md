@@ -1986,3 +1986,45 @@ beyond what was already fixed, further blind manual review of the
 remaining raw 63-item list is deprioritized as low-value effort relative
 to continuing the country-build queue. Both real defect classes found
 via that scan are now believed fully remediated sitewide.
+
+
+## REGIONAL QUEUE RESUMED - August 8, 2026 (same day, continued)
+
+Resumed the general placeholder-page queue (70 pages remained, not ~340
+as earlier notes assumed - the site has been built out further than
+older QUEUE.md entries suggested). Applied the new post-fix
+independent-re-fetch-verification standing rule to every single commit
+this round, per the critical process finding logged above.
+
+Built 4 full narrative pages, prioritizing ones whose RATES were already
+resolved earlier this session (from the systemic sweep) so only the
+Residency/CFC/Thin Cap/Treaty Network sections needed building:
+
+- Burkina Faso - CFC not identified (general anti-avoidance/arm's-length
+  rules apply instead, confirmed via Addleshaw Goddard). Treaty: UEMOA
+  regional treaty + bilateral France + Tunisia; NO US treaty (confirmed
+  via US State Department).
+- Comoros - CFC not identified. Treaty network confirmed very limited
+  via two independent sources; a Mauritius-Comoros treaty found listed
+  as "awaiting ratification" (not yet in force) - useful specific detail
+  on the network's early-stage status.
+- Guinea-Bissau - CFC not identified. Notable finding: NO tax treaty
+  with France at all (confirmed via a specialist expatriate-tax source)
+  - unusual given France's otherwise extensive Francophone-Africa treaty
+  network, and specifically flagged as complicating pension/dividend/
+  rental tax treatment for French-connected taxpayers. WAEMU mechanisms
+  and CPLP (Portuguese-speaking country) treaty relationships noted.
+- South Sudan - CFC not identified. Treaty network: genuine conflict
+  between TaxAtlas ("none established") and BRITACOM (names Morocco and
+  UAE as signed partners) - resolved in favor of BRITACOM's specific,
+  named claim over TaxAtlas's blanket assertion, consistent with the
+  established pattern of preferring specific over vague claims.
+
+All 4 pages individually verified via independent re-fetch immediately
+after each commit (not just trusting the put_file response), confirming
+the critical-process-finding lesson from earlier this session is now
+being actively applied. Final quality_gate.py check: zero hits on any
+of the 4 new pages.
+
+REMAINING: 66 placeholder pages (Africa: 21, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1).
