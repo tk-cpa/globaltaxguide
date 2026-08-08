@@ -2333,3 +2333,37 @@ is the standard accepted FATCA sentence).
 
 REMAINING: 42 placeholder pages (Asia-Pacific: 15, Europe: 16, Americas:
 11).
+
+
+## ASIA-PACIFIC QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+2 more full narrative pages built, both individually re-verified via
+independent fetch immediately after commit:
+
+- Brunei - CFC confirmed "No" directly via PwC ("no special rules for
+  taxing the undistributed income of foreign subsidiaries"). Genuinely
+  distinctive finding captured precisely: Brunei has NO concept of
+  personal tax residency at all - the Income Tax Act's provisions simply
+  do not apply to individuals' personal income, so living in Brunei any
+  length of time creates zero personal income tax obligation. Treaty
+  network: 20+ countries, named partners UK/Singapore/China/Japan,
+  with an explicit methodological note (from the source itself) to
+  prefer Brunei's official MOFE treaty list over third-party
+  compilations.
+
+- Cambodia - CFC confirmed "No" directly via PwC ("no provision for
+  CFCs in Cambodia"), and thin cap also confirmed "No formal ratio"
+  directly via PwC, with the real operative mechanic captured instead
+  (related-party loan interest capped at market rate, per KPMG).
+  Genuinely distinctive administrative finding: meeting the 182-day
+  residency test alone is NOT sufficient - both individual and employer
+  must formally declare residency status to the tax authority, or the
+  individual remains taxed at the higher non-resident flat rate
+  regardless of actual days present. This is an unusual, easy-to-miss
+  compliance trap worth flagging clearly rather than assuming day-count
+  alone determines status (as it does on most other pages on this site).
+
+Final gate check: zero hits on either page.
+
+REMAINING: 40 placeholder pages (Asia-Pacific: 13, Europe: 16, Americas:
+11).
