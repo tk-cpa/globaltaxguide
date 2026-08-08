@@ -254,7 +254,13 @@ report NO CFC regime rather than forcing a template answer).
       NO CFC provisions), Thin Cap (confirmed: NO general rule, incentive-
       linked exceptions only), Treaty Network (61 countries, 2024
       remittance rule change flagged as key context)
-- [ ] Next: Vietnam, Philippines, Taiwan - continuing
+- [x] Vietnam - Residency (183-day/permanent-residence/leased-housing
+      tests), CFC (confirmed: NO CFC legislation), Thin Cap (no formal
+      rule; Decree 132 30pct EBITDA cap on related-party interest, license-
+      based debt cap separately), Treaty Network (81 countries per PwC,
+      US treaty status resolved: signed 2015/ratified by Vietnam 2017 but
+      not ratified by US, so not in force)
+- [ ] Next: Philippines, Taiwan - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
