@@ -1365,3 +1365,84 @@ itself a correction of the file's prior claim of ~109). Next up:
 Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin
 (French), Saint Pierre and Miquelon, Saint Vincent and the Grenadines,
 Sint Maarten, Suriname, Turks and Caicos to close the Caribbean batch.
+
+
+## Special Tax Zones - coverage gap review (August 8, 2026, this session)
+
+Timur supplied a second-opinion review of zones.html coverage. Cross-
+checked against the live site (zones.html has 8 entries: Labuan,
+Madeira, Canary Islands ZEC, DMCC, JAFZA, Qatar Financial Centre,
+Caribbean Netherlands/BES, Aruba+Curacao+Sint Maarten) and against
+data/countries.json before accepting anything into the queue.
+
+TWO CORRECTIONS MADE TO THE SUGGESTED LIST BEFORE QUEUING:
+- Puerto Rico is NOT a zones.html candidate - it is already a full
+  country page in the main directory (countries/puerto-rico.html,
+  currently an unbuilt placeholder). Act 60 / 4% export rate / 0% CGT
+  belongs in that page's normal build, not a new zones entry. No new
+  queue item needed - just needs its regular country-page build,
+  already tracked in the main placeholder list.
+- US Virgin Islands is a genuine gap NOT covered by the suggestion as
+  framed - it is missing entirely from BOTH the main country directory
+  AND zones.html. Given its EDC regime (90% reduction, real property/
+  excise exemptions) is structurally similar to Puerto Rico's, it
+  should be added as its own full country/territory page in
+  data/countries.json and the main directory, not folded into
+  zones.html as a sub-national enclave.
+
+NEW ZONES.HTML ENTRIES TO ADD (all confirmed as genuine sub-national
+enclaves inside countries that already have or will have their own
+ordinary full-rate page - consistent with the existing Labuan/Madeira
+pattern):
+
+- [ ] GIFT City / IFSC (India) - Gujarat International Finance
+      Tec-City, own regulator (IFSCA), reported 100% CIT holiday for
+      10 of 15 years, 9% MAT, GST/STT/stamp duty exemptions for
+      qualifying entities - verify all figures against IFSCA/Indian
+      primary sources when drafted, not yet independently confirmed
+- [ ] Astana International Financial Centre / AIFC (Kazakhstan) -
+      English common law enclave, reported 0% CIT and 0% PIT until
+      2066 for qualifying financial/fintech/professional services vs
+      mainland Kazakhstan's 20% CIT - verify against AIFC/Kazakhstan
+      primary sources when drafted
+- [ ] Hainan Free Trade Port (China) - reported 15% CIT for encouraged-
+      sector companies with substantive Hainan operations vs mainland
+      China's 25%, 15% PIT cap for qualifying high-end/urgently-needed
+      talent - verify against Chinese primary sources when drafted
+- [ ] DIFC (Dubai) and ADGM (Abu Dhabi) - UAE's flagship financial free
+      zones, English common law court systems, same federal QFZP
+      framework as DMCC/JAFZA already on the page (0% qualifying
+      income / 9% non-qualifying) - consider consolidating into a
+      single "UAE Free Zones (DMCC, JAFZA, DIFC, ADGM)" section rather
+      than 4 separate entries, Timur's call when drafted
+- [ ] Ceuta and Melilla (Spain) - Spanish autonomous cities in North
+      Africa, reported 50% CIT/PIT reduction for local business
+      activity, outside EU VAT territory (local IPSI tax instead) -
+      directly comparable to the existing Canary Islands ZEC entry -
+      verify against Spanish primary sources when drafted
+- [ ] Svalbard (Norway) - separate tax system under the Svalbard
+      Treaty, reported flat ~8% personal rate vs mainland Norway's
+      progressive rates up to ~47%, lower corporate rate, no VAT -
+      verify against Norwegian/Svalbard primary sources when drafted
+- [ ] Livigno and Campione d'Italia (Italy) / Busingen am Hochrhein
+      (Germany) - European micro-enclaves: Livigno is a duty-free/
+      VAT-exempt mountain enclave in Italy; Campione d'Italia is an
+      Italian enclave inside Switzerland using Swiss Francs with its
+      own specialized regime outside EU VAT territory; Busingen is a
+      German enclave inside Switzerland with a comparable arrangement
+      - verify all three against primary sources when drafted, these
+      are small/obscure enough that source quality needs extra care
+
+NEW MAIN-DIRECTORY COUNTRY PAGE TO ADD (not a zones.html item):
+
+- [ ] US Virgin Islands - add to data/countries.json (region: Americas)
+      and build as a full country page once added, alongside the
+      existing Puerto Rico page - EDC program tax reductions need
+      full primary-source verification (US Treasury/IRS guidance on
+      USVI EDC, not just secondary compilations) given the unusual
+      federal-territorial tax relationship involved
+
+All of the above are QUEUED, not yet built or verified - every figure
+mentioned in Timur's review is unconfirmed pending the actual primary-
+source research pass when each entry is drafted, per the project's
+standing verification protocol. None of this work has started.
