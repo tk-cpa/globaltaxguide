@@ -1,15 +1,14 @@
 # Global Tax Guide
-> Free, sourced tax-rate reference (corporate rate, personal rate, VAT/GST rate) for every country and territory in the world. Produced by tk.cpa AI Lab, makers of cpavalidated.com.
+> Free, sourced tax-rate reference (corporate rate, personal rate, VAT/GST rate) for every country and territory in the world, including offshore jurisdictions, special tax zones, and disputed/partially-recognized states. Produced by tk.cpa AI Lab, makers of cpavalidated.com.
 
 ## Core pages
-- [Homepage / Directory](https://globaltaxguide.com/): searchable, region-filterable index of all jurisdictions
-- [About](https://globaltaxguide.com/about.html): project scope, sourcing methodology, relationship to cpavalidated.com
-- [Mission](https://globaltaxguide.com/mission.html): why this project exists
-- [Special Tax Zones](https://globaltaxguide.com/zones.html): Labuan, Madeira, Canary Islands ZEC, DMCC, JAFZA, Qatar Financial Centre, Caribbean Netherlands, Dutch Caribbean
-- [Unions & Trade Zones](https://globaltaxguide.com/unions.html): EU VAT directive, CARICOM, CIS, USMCA
+- [Homepage / Directory](https://globaltaxguide.com/)
+- [About](https://globaltaxguide.com/about.html)
+- [Mission](https://globaltaxguide.com/mission.html)
+- [Special Tax Zones](https://globaltaxguide.com/zones.html)
+- [Unions & Trade Zones](https://globaltaxguide.com/unions.html)
 
-## Country and territory pages (209 total)
-Each page includes corporate tax rate, personal tax rate, VAT/GST rate, sourced citations, and a last-verified date.
+## Country and territory pages (229 total)
 
 ### Africa
 - [Algeria](https://globaltaxguide.com/countries/algeria.html)
@@ -70,6 +69,7 @@ Each page includes corporate tax rate, personal tax rate, VAT/GST rate, sourced 
 - [Zimbabwe](https://globaltaxguide.com/countries/zimbabwe.html)
 
 ### Americas
+- [Anguilla](https://globaltaxguide.com/countries/anguilla.html)
 - [Antigua and Barbuda](https://globaltaxguide.com/countries/antigua-and-barbuda.html)
 - [Argentina](https://globaltaxguide.com/countries/argentina.html)
 - [Aruba](https://globaltaxguide.com/countries/aruba.html)
@@ -90,6 +90,7 @@ Each page includes corporate tax rate, personal tax rate, VAT/GST rate, sourced 
 - [Dominican Republic](https://globaltaxguide.com/countries/dominican-republic.html)
 - [Ecuador](https://globaltaxguide.com/countries/ecuador.html)
 - [El Salvador](https://globaltaxguide.com/countries/el-salvador.html)
+- [Falkland Islands](https://globaltaxguide.com/countries/falkland-islands.html)
 - [Grenada](https://globaltaxguide.com/countries/grenada.html)
 - [Guatemala](https://globaltaxguide.com/countries/guatemala.html)
 - [Guyana](https://globaltaxguide.com/countries/guyana.html)
@@ -97,14 +98,19 @@ Each page includes corporate tax rate, personal tax rate, VAT/GST rate, sourced 
 - [Honduras](https://globaltaxguide.com/countries/honduras.html)
 - [Jamaica](https://globaltaxguide.com/countries/jamaica.html)
 - [Mexico](https://globaltaxguide.com/countries/mexico.html)
+- [Montserrat](https://globaltaxguide.com/countries/montserrat.html)
 - [Nicaragua](https://globaltaxguide.com/countries/nicaragua.html)
 - [Panama](https://globaltaxguide.com/countries/panama.html)
 - [Paraguay](https://globaltaxguide.com/countries/paraguay.html)
 - [Peru](https://globaltaxguide.com/countries/peru.html)
 - [Puerto Rico](https://globaltaxguide.com/countries/puerto-rico.html)
+- [Saint Barthelemy](https://globaltaxguide.com/countries/saint-barthelemy.html)
 - [Saint Kitts and Nevis](https://globaltaxguide.com/countries/saint-kitts-and-nevis.html)
 - [Saint Lucia](https://globaltaxguide.com/countries/saint-lucia.html)
+- [Saint Martin (French)](https://globaltaxguide.com/countries/saint-martin-french.html)
+- [Saint Pierre and Miquelon](https://globaltaxguide.com/countries/saint-pierre-and-miquelon.html)
 - [Saint Vincent and the Grenadines](https://globaltaxguide.com/countries/saint-vincent-and-the-grenadines.html)
+- [Sint Maarten](https://globaltaxguide.com/countries/sint-maarten.html)
 - [Suriname](https://globaltaxguide.com/countries/suriname.html)
 - [Trinidad and Tobago](https://globaltaxguide.com/countries/trinidad-and-tobago.html)
 - [Turks and Caicos](https://globaltaxguide.com/countries/turks-and-caicos.html)
@@ -120,38 +126,50 @@ Each page includes corporate tax rate, personal tax rate, VAT/GST rate, sourced 
 - [Brunei](https://globaltaxguide.com/countries/brunei.html)
 - [Cambodia](https://globaltaxguide.com/countries/cambodia.html)
 - [China](https://globaltaxguide.com/countries/china.html)
+- [Cook Islands](https://globaltaxguide.com/countries/cook-islands.html)
 - [Fiji](https://globaltaxguide.com/countries/fiji.html)
+- [French Polynesia](https://globaltaxguide.com/countries/french-polynesia.html)
 - [Hong Kong SAR](https://globaltaxguide.com/countries/hong-kong-sar.html)
 - [India](https://globaltaxguide.com/countries/india.html)
 - [Indonesia](https://globaltaxguide.com/countries/indonesia.html)
 - [Japan](https://globaltaxguide.com/countries/japan.html)
 - [Kazakhstan](https://globaltaxguide.com/countries/kazakhstan.html)
+- [Kiribati](https://globaltaxguide.com/countries/kiribati.html)
 - [Kyrgyzstan](https://globaltaxguide.com/countries/kyrgyzstan.html)
 - [Laos](https://globaltaxguide.com/countries/laos.html)
 - [Macau SAR](https://globaltaxguide.com/countries/macau-sar.html)
 - [Malaysia](https://globaltaxguide.com/countries/malaysia.html)
 - [Maldives](https://globaltaxguide.com/countries/maldives.html)
+- [Marshall Islands](https://globaltaxguide.com/countries/marshall-islands.html)
+- [Micronesia (Federated States of)](https://globaltaxguide.com/countries/micronesia.html)
 - [Mongolia](https://globaltaxguide.com/countries/mongolia.html)
 - [Myanmar](https://globaltaxguide.com/countries/myanmar.html)
+- [Nauru](https://globaltaxguide.com/countries/nauru.html)
 - [Nepal](https://globaltaxguide.com/countries/nepal.html)
 - [New Caledonia](https://globaltaxguide.com/countries/new-caledonia.html)
 - [New Zealand](https://globaltaxguide.com/countries/new-zealand.html)
+- [Niue](https://globaltaxguide.com/countries/niue.html)
 - [North Korea](https://globaltaxguide.com/countries/north-korea.html)
 - [Pakistan](https://globaltaxguide.com/countries/pakistan.html)
+- [Palau](https://globaltaxguide.com/countries/palau.html)
 - [Papua New Guinea](https://globaltaxguide.com/countries/papua-new-guinea.html)
 - [Philippines](https://globaltaxguide.com/countries/philippines.html)
 - [Samoa](https://globaltaxguide.com/countries/samoa.html)
 - [Singapore](https://globaltaxguide.com/countries/singapore.html)
+- [Solomon Islands](https://globaltaxguide.com/countries/solomon-islands.html)
 - [South Korea](https://globaltaxguide.com/countries/south-korea.html)
 - [Sri Lanka](https://globaltaxguide.com/countries/sri-lanka.html)
 - [Taiwan](https://globaltaxguide.com/countries/taiwan.html)
 - [Tajikistan](https://globaltaxguide.com/countries/tajikistan.html)
 - [Thailand](https://globaltaxguide.com/countries/thailand.html)
 - [Timor-Leste](https://globaltaxguide.com/countries/timor-leste.html)
+- [Tonga](https://globaltaxguide.com/countries/tonga.html)
 - [Turkmenistan](https://globaltaxguide.com/countries/turkmenistan.html)
+- [Tuvalu](https://globaltaxguide.com/countries/tuvalu.html)
 - [Uzbekistan](https://globaltaxguide.com/countries/uzbekistan.html)
 - [Vanuatu](https://globaltaxguide.com/countries/vanuatu.html)
 - [Vietnam](https://globaltaxguide.com/countries/vietnam.html)
+- [Wallis and Futuna](https://globaltaxguide.com/countries/wallis-and-futuna.html)
 
 ### Europe
 - [Abkhazia](https://globaltaxguide.com/countries/abkhazia.html)
@@ -169,6 +187,7 @@ Each page includes corporate tax rate, personal tax rate, VAT/GST rate, sourced 
 - [Czech Republic](https://globaltaxguide.com/countries/czech-republic.html)
 - [Denmark](https://globaltaxguide.com/countries/denmark.html)
 - [Estonia](https://globaltaxguide.com/countries/estonia.html)
+- [Faroe Islands](https://globaltaxguide.com/countries/faroe-islands.html)
 - [Finland](https://globaltaxguide.com/countries/finland.html)
 - [France](https://globaltaxguide.com/countries/france.html)
 - [Georgia](https://globaltaxguide.com/countries/georgia.html)
