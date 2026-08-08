@@ -543,8 +543,45 @@ report NO CFC regime rather than forcing a template answer).
       flagged), CFC (confirmed: NONE), Thin Cap (3:1 ratio + 2019
       domestic-lender clarification), Treaty Network (named list, not
       MLI signatory)
-- [ ] Next: Libya, Sudan, Malawi, remaining Africa, then Caribbean
-      microstates - continuing
+## STRUCTURAL UPDATE (per Timur's direction, this session)
+Going forward, every country's Residency/CFC/Thin Cap/Treaty section must
+include:
+1. Explicit "CFC Rules: Yes" or "CFC Rules: No" as a subheading (not
+   buried in prose)
+2. Where Yes: explicit statement of whether the regime applies to
+   individuals, corporates, or both
+3. A new dedicated "Foreign Bank Account / Foreign Financial Asset
+   Reporting" section on every page (FBAR/FATCA/Form 8938 equivalent
+   analysis) - explicit statement of Yes/No/mechanism
+4. Where a country is territorial, the territorial regime is explained
+   in depth: what counts as source-country income, what's excluded,
+   and practical implications
+This applies to Libya, Sudan, Malawi (done this session) and all
+countries going forward. The 106 countries completed in prior sessions
+do NOT yet have the dedicated Foreign Account Reporting section or the
+explicit Yes/No CFC subheading - retrofitting those is a separate
+future task, not to be rushed into this session's forward momentum.
+
+- [x] Libya - Residency (worldwide taxation for Libyan-registered
+      entities, no formal corporate residence concept), CFC: No (with
+      context: also lacks foreign tax credit/interest rules generally,
+      not OECD BEPS participant), Thin Cap: No specific rules, Foreign
+      Account Reporting: No FBAR-equivalent, not CRS participant, Treaty
+      Network (~10-13 countries, no US treaty)
+- [x] Sudan - Residency (183-day/12-month test, control-and-management
+      corporate test), CFC: Not identified in sources (honestly flagged
+      as gap, not confirmed absence), Thin Cap: Not identified (same
+      honest flag), Foreign Account Reporting: No FBAR-equivalent
+      identified, ATAF mutual assistance noted, Treaty Network
+      (17 countries per BRITACOM)
+- [x] Malawi - Residency (incorporation/PE test, territorial system
+      explained), CFC: No (consistent with territorial base), Thin Cap
+      (3:1 ratio since July 2018), Foreign Account Reporting: No
+      FBAR-equivalent, Treaty Network (8 named countries, Kenya/
+      Netherlands treaty status flagged)
+
+- [ ] Next: Mauritius, Seychelles, then remaining Africa/Caribbean/
+      Pacific microstates - continuing with new required structure
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
