@@ -325,7 +325,16 @@ report NO CFC regime rather than forcing a template answer).
       remittance system), CFC (ATAD 50pct + low-tax test since 2019),
       Thin Cap (confirmed: NO ratio; 30pct EBITDA/EUR3m interest cap),
       Treaty Network (~70 countries)
-- [ ] Next: Cyprus, Estonia, Latvia, Lithuania - continuing
+- [x] Cyprus - Residency (183-day/60-day dual test, 2026 dual-residency
+      reform removing exclusivity condition), CFC (ATAD 50pct non-genuine-
+      arrangement test since 2019), Thin Cap (no ratio; 30pct EBITDA/
+      EUR3m cap), Treaty Network (65-67 countries, France treaty 2026
+      approval flagged)
+- [x] Estonia - Residency (183-day rolling/permanent-home test), CFC
+      (ATAD since 2019), Thin Cap (ATAD rules exist, mechanics flagged as
+      needing confirmation given Estonia's unique deferred-tax corporate
+      system), Treaty Network (60+ countries, US treaty in force)
+- [ ] Next: Latvia, Lithuania - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
