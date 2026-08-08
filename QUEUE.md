@@ -245,7 +245,12 @@ report NO CFC regime rather than forcing a template answer).
       income, plus tax-haven catch-all; flat 19% CFC rate applies even to
       undistributed profits), Thin Cap (Article 15c, PLN3m/30pct EBITDA
       cap), Treaty Network (~100 countries per Ministry of Finance)
-- [ ] Next: Malaysia, Thailand - continuing
+- [x] Malaysia - Residency (Section 7(1) four alternative tests: 182-day/
+      linked-182/90-day-with-history/no-presence-but-history), CFC
+      (confirmed: NO CFC regime), Thin Cap (no formal ratio; 20pct EBITDA
+      interest cap per source, forfeited on shareholder change), Treaty
+      Network (70+ countries, no US treaty)
+- [ ] Next: Thailand - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
