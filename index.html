@@ -34,6 +34,7 @@
     <p>Corporate rate, personal rate, residency rules, CFC rules, treaty network, and VAT/GST - concise, citable, and free. No logins, no paywalls.</p>
     <form class="hero__search" onsubmit="return false;">
       <input id="search" type="text" placeholder="Search a country or territory..." autocomplete="off">
+      <button type="submit" id="search-submit" aria-label="Search">Search</button>
     </form>
     <div class="stat-row">
       <div><span class="n" id="stat-total">0</span><span class="l">Jurisdictions Tracked</span></div>
@@ -120,6 +121,16 @@ async function init() {
   }
 
   document.getElementById('search').addEventListener('input', renderGrid);
+
+  function submitSearch() {
+    renderGrid();
+    document.getElementById('directory').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  document.getElementById('search-submit').addEventListener('click', submitSearch);
+  document.getElementById('search').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') submitSearch();
+  });
+
   renderFilters();
   renderGrid();
 }
