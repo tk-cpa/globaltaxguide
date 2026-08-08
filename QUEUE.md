@@ -2115,3 +2115,35 @@ on Equatorial Guinea - not a real defect.
 
 REMAINING: 57 placeholder pages (Africa: 13, Asia-Pacific: 17, Europe:
 16, Americas: 11, Middle East: 1).
+
+
+## REGIONAL QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+3 more full narrative pages built, all individually re-verified via
+independent fetch immediately after commit:
+
+- Eritrea - CFC not identified. Distinctive, well-documented feature
+  flagged clearly: a 2 percent diaspora/rehabilitation tax on Eritrean
+  citizens living abroad, applying to worldwide income regardless of
+  actual residency - a genuinely unusual citizenship-based taxation
+  policy globally, explicitly distinguished from ordinary
+  residency-based tax and from any US filing obligation.
+- Gabon - BEST-SOURCED PAGE OF THIS BATCH: PwC explicitly and directly
+  confirms "There is no specific tax rule under Gabon legislation
+  related to CFCs" - a primary-quality "No," not an inferred gap. Full
+  general anti-avoidance mechanism described with statutory citation
+  (Article 12, "abnormal act of management" doctrine). Complete named
+  treaty list confirmed via PwC: Belgium, France, all CEMAC states, and
+  all OCAM member states (14 countries total across both blocs).
+- Gambia - CFC not identified. Real, sourced thin-cap finding (Orbitax):
+  no ratio-based rule exists, but a specific interest-deduction limit
+  does. Corporate residency test confirmed directly via the Gambia
+  Revenue Authority (official tax administration) and a specific
+  mid-year-residency-change rule confirmed via the primary Income and
+  VAT Act text itself (WIPO Lex). Treaty partners named via BRITACOM:
+  Norway, Sweden, Turkey, UK.
+
+Final gate check: zero hits across all 3 pages.
+
+REMAINING: 54 placeholder pages (Africa: 10, Asia-Pacific: 17, Europe:
+16, Americas: 11, Middle East: 1).
