@@ -15,7 +15,7 @@
     "name": "Benin",
     "slug": "benin",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Botswana",
@@ -27,13 +27,13 @@
     "name": "Burkina Faso",
     "slug": "burkina-faso",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Burundi",
     "slug": "burundi",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Cabo Verde",
@@ -51,7 +51,7 @@
     "name": "Central African Republic",
     "slug": "central-african-republic",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Chad",
@@ -63,7 +63,7 @@
     "name": "Comoros",
     "slug": "comoros",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Congo (Republic)",
@@ -129,7 +129,7 @@
     "name": "Gambia",
     "slug": "gambia",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Ghana",
@@ -141,13 +141,13 @@
     "name": "Guinea",
     "slug": "guinea",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Guinea-Bissau",
     "slug": "guinea-bissau",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Kenya",
@@ -159,7 +159,7 @@
     "name": "Lesotho",
     "slug": "lesotho",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Liberia",
@@ -183,13 +183,13 @@
     "name": "Malawi",
     "slug": "malawi",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Mali",
     "slug": "mali",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Mauritania",
@@ -225,7 +225,7 @@
     "name": "Niger",
     "slug": "niger",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Nigeria",
@@ -243,7 +243,7 @@
     "name": "Sao Tome and Principe",
     "slug": "sao-tome-and-principe",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Senegal",
@@ -261,7 +261,7 @@
     "name": "Sierra Leone",
     "slug": "sierra-leone",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Somalia",
@@ -297,7 +297,7 @@
     "name": "Togo",
     "slug": "togo",
     "region": "Africa",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Tunisia",
