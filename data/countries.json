@@ -567,7 +567,7 @@
     "name": "Afghanistan",
     "slug": "afghanistan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Australia",
@@ -585,7 +585,7 @@
     "name": "Bhutan",
     "slug": "bhutan",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Brunei",
@@ -609,7 +609,7 @@
     "name": "Fiji",
     "slug": "fiji",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Hong Kong SAR",
@@ -669,7 +669,7 @@
     "name": "Maldives",
     "slug": "maldives",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Mongolia",
@@ -687,7 +687,7 @@
     "name": "Nepal",
     "slug": "nepal",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "New Zealand",
@@ -699,7 +699,7 @@
     "name": "North Korea",
     "slug": "north-korea",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Pakistan",
@@ -723,7 +723,7 @@
     "name": "Samoa",
     "slug": "samoa",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Singapore",
@@ -741,7 +741,7 @@
     "name": "Sri Lanka",
     "slug": "sri-lanka",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Taiwan",
@@ -765,7 +765,7 @@
     "name": "Timor-Leste",
     "slug": "timor-leste",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Turkmenistan",
@@ -783,7 +783,7 @@
     "name": "Vanuatu",
     "slug": "vanuatu",
     "region": "Asia-Pacific",
-    "status": "pending"
+    "status": "published"
   },
   {
     "name": "Vietnam",
