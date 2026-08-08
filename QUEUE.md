@@ -417,8 +417,19 @@ report NO CFC regime rather than forcing a template answer).
 ## Core Latin America complete (Chile, Colombia, Peru, Uruguay, Ecuador,
 ## Panama, Paraguay, Bolivia, Costa Rica all done)
 
-- [ ] Next: Venezuela, Caribbean nations, then Middle East (Qatar,
-      Kuwait, Jordan, Oman, Bahrain) - continuing
+- [x] Venezuela - Residency (183-day/habitual-abode test), CFC (confirmed:
+      NONE, but fiscal transparency accrual regime), Thin Cap (1:1 ratio),
+      Treaty Network (~23 countries incl. US, Mexico treaty signed but
+      not in force)
+- [x] Dominican Republic - Residency (territorial, 3-year grace period on
+      foreign investment income), CFC (confirmed: NONE), Thin Cap (3:1
+      ratio), Treaty Network (remarkably narrow: only 2 countries -
+      Canada 1976, Spain 2011 - US TIEA only, no comprehensive treaty)
+
+## Latin America + Caribbean anchor (Dominican Republic) complete
+
+- [ ] Next: Middle East - Qatar, Kuwait, Jordan, Oman, Bahrain, Israel -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
