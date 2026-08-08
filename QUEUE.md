@@ -153,9 +153,21 @@ tax authority guides in the current session, no fabrication, no template
 copy-paste across countries (several - India, Saudi Arabia - honestly
 report NO CFC regime rather than forcing a template answer).
 
-Next phase: ~209 remaining non-G20 countries still carry the stub
-placeholder. Continuing in batches, same verification standard, no pause
-for approval between countries per standing directive.
+## Non-G20 batch, major economies first (in progress)
+
+- [x] Spain - Residency (183-day + economic-interest test), CFC
+      (Transparencia Fiscal Internacional, Art 100 LIS/91 LIRPF, 50pct
+      ownership + 75pct-of-Spanish-rate threshold), Thin Cap (repealed
+      formal ratio; 30% EBITDA + EUR 1m minimum since 2024 reform),
+      Treaty Network (90+ countries, MLI phase-in dates)
+- [x] Netherlands - Residency (facts-and-circumstances test, no fixed day
+      count), CFC (2019 ATAD regime, 50pct ownership + <9pct-rate/blacklist
+      + 30pct-passive-income test, substance carve-out), Thin Cap (no
+      formal ratio; strict 24.5% EBITDA earnings-stripping rule for 2026,
+      tighter than ATAD minimum), Treaty Network (~90-100 countries,
+      Russia termination noted)
+- [ ] Next: Switzerland, Sweden, Belgium, and other major non-G20
+      economies - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
