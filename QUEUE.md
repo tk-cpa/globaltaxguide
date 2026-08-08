@@ -607,8 +607,18 @@ future task, not to be rushed into this session's forward momentum.
       identified, Foreign Account Reporting: No, Treaty Network (4-5
       countries, genuine UK treaty termination-status conflict flagged
       between HMRC archive and 2025 practitioner source)
-- [ ] Next: continuing through remaining Africa/Caribbean/Pacific
-      microstates with new required structure
+- [x] Jamaica - Residency (6-month/domicile test), CFC: No (confirmed via
+      2 independent sources), Thin Cap: honestly flagged as conflicting
+      between PwC and Dawgen, Foreign Account Reporting section with
+      FATCA Model 1/CRS 2021/MLI, Treaty Network (14 countries)
+- [x] Trinidad and Tobago - Residency (183-day/permanent-home test,
+      worldwide-not-territorial clarified against mislabeling), CFC: No
+      (confirmed via 2 independent sources), Thin Cap: confirmed NONE +
+      distribution-recharacterization rule, Foreign Account Reporting
+      section, Treaty Network (17-vs-41 count discrepancy flagged,
+      CARICOM detail)
+- [ ] Next: Barbados, Bahamas, then Pacific microstates - continuing
+      with new required structure and multi-source cross-checking
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
