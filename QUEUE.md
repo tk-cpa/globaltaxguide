@@ -1011,3 +1011,84 @@ Next up: Niue, New Caledonia, French Polynesia, Wallis and Futuna to
 finish the Pacific batch, then the Caribbean microstates, then the 7
 restored countries (Iran, Syria, Yemen, Belarus, Monaco, San Marino,
 Vatican City), then the rest by region.
+
+
+## Session update 3 - August 8, 2026 (continued, same session)
+
+4 more countries verified and pushed: Niue, New Caledonia, French
+Polynesia, Wallis and Futuna. THIS COMPLETES THE ENTIRE PACIFIC BATCH.
+
+Running session total: 16 countries (Papua New Guinea, Cook Islands,
+Kiribati, Marshall Islands, Nauru, Palau, Samoa, Solomon Islands, Tonga,
+Tuvalu, Vanuatu, New Zealand, Niue, New Caledonia, French Polynesia,
+Wallis and Futuna).
+
+Real remaining placeholder count: 88 (92 minus these 4).
+
+- [x] Niue - filled in previously-unconfirmed rate cells (30% corporate,
+      30% top personal, 12.5% VAT/NCT) from primary/official sources
+      (Niue Tax Office, Income Tax Act 1961 via WIPO Lex). Residency
+      (territorial system, TIN-based registration), CFC: No, Thin Cap:
+      not identified (distinguished from New Zealand's own outbound
+      thin cap rules which apply to NZ residents holding Niue
+      interests, not to Niue's own tax base), Foreign Account Reporting
+      (CRS signatory), Treaty Network (TIEA with New Zealand only,
+      confirmed via NZ's own treaty list - no comprehensive DTA network)
+- [x] New Caledonia - Residency (multi-test: habitual abode/principal
+      sojourn, professional activity, or center of economic interests
+      in New Caledonia), CFC: No (confirmed via PwC current Group
+      Taxation page), Thin Cap: No (confirmed via same PwC page -
+      explicit "no specific thin capitalization rules" statement),
+      Foreign Account Reporting (flagged that FATCA/CRS status should
+      not be assumed to mirror France's given autonomous tax regime),
+      Treaty Network (confirmed via PwC: only ONE treaty exists, with
+      France itself; most French bilateral treaties explicitly exclude
+      New Caledonia from scope; no US treaty)
+- [x] French Polynesia - Residency (territorial, day-count test not
+      confirmed from primary source, low practical relevance given 0%
+      personal tax), CFC: No, Thin Cap: not identified, Foreign Account
+      Reporting (flagged same "don't assume mirrors France" caution),
+      Treaty Network: IMPORTANT CORRECTION - one lower-quality source
+      claimed French Polynesia benefits from "France's 120+ DTAs
+      including US, UK, Germany" - this was flagged as very likely
+      WRONG and NOT relied on, based on PwC's authoritative France
+      corporate-residence page confirming French overseas territories
+      (New Caledonia, French Polynesia, Wallis and Futuna, Saint Pierre
+      et Miquelon, French Southern/Antarctic Lands) are treated as
+      FOREIGN territories for French tax-territoriality purposes and do
+      NOT automatically inherit France's treaty network - same
+      structural pattern just confirmed for New Caledonia (single
+      treaty, with France only). This is exactly the kind of quiet,
+      confident-sounding secondary-source error the project exists to
+      catch rather than repeat.
+- [x] Wallis and Futuna - filled in previously-unconfirmed personal
+      (0%, multiple sources confirm no income tax exists at all) and
+      VAT rates (flagged genuine conflict: most sources say NO VAT,
+      one lower-quality source claims 20% standard rate - the 20% claim
+      was explicitly NOT adopted given it contradicts the weight of
+      other sources and the territory's own official investment
+      portal). CFC: No, Thin Cap: not identified (moot given no
+      corporate tax base), Foreign Account Reporting (same "don't
+      assume mirrors France" flag), Treaty Network: NONE - multiple
+      sources confirm zero bilateral tax treaties, consistent with the
+      French-overseas-territory pattern established across all three
+      French Pacific territories done this session.
+
+PATTERN NOTE for future sessions: France's Pacific overseas territories
+(New Caledonia, French Polynesia, Wallis and Futuna, and by extension
+likely Saint Pierre and Miquelon when that page is built) share a
+structural pattern worth remembering - autonomous tax regimes treated
+as FOREIGN for French tax purposes, essentially no independent treaty
+network beyond (at most) a single agreement with France itself, and
+frequent secondary-source errors asserting they inherit France's full
+treaty network. Do not assume treaty coverage for any French overseas
+collectivity without direct confirmation.
+
+Next up: Caribbean microstates batch (Anguilla, Antigua and Barbuda,
+Aruba, Bermuda, British Virgin Islands, Cayman Islands, Dominica,
+Grenada, Guyana, Haiti, Montserrat, Saint Barthelemy, Saint Kitts and
+Nevis, Saint Lucia, Saint Martin French, Saint Pierre and Miquelon,
+Saint Vincent and the Grenadines, Sint Maarten, Suriname, Turks and
+Caicos), then the 7 restored countries (Iran, Syria, Yemen, Belarus,
+Monaco, San Marino, Vatican City), then remaining Africa/Americas/
+Asia-Pacific/Europe/Middle East placeholders by region.
