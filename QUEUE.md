@@ -909,3 +909,49 @@ without being checked against a primary source or a Big Four/second-tier
 guide from the Trusted Resources list in the current session. If it cannot
 be verified, the page says "not independently verified" - it is never
 estimated, inferred from a neighboring country, or left unmarked.
+
+
+## Session update - August 8, 2026 (continued, same session)
+
+3 more countries verified and pushed: Samoa, Solomon Islands, Tonga.
+Running session total: 9 countries (Papua New Guinea, Cook Islands,
+Kiribati, Marshall Islands, Nauru, Palau, Samoa, Solomon Islands, Tonga).
+Real remaining placeholder count: 95 (98 minus these 3).
+
+- [x] Samoa - Residency (183-day/domicile individual test per Income Tax
+      Act, incorporation-or-control corporate test), CFC: No, Thin Cap
+      (confirmed NO rules for offshore International Companies per a
+      specialist source; general domestic company thin cap not
+      separately confirmed, flagged as a distinct open question rather
+      than assumed to inherit the offshore exemption), Foreign Account
+      Reporting (no domestic FBAR-equivalent, EOIR/AEOI participation
+      and 2021 BEPS Inclusive Framework membership noted, explicitly
+      distinguished from American Samoa), Treaty Network (effectively
+      just New Zealand, confirmed via TaxAtlas)
+- [x] Solomon Islands - Residency (official IRD source: reside or
+      intend to reside beyond 6 months, used as authoritative over a
+      183-day secondary-source framing), CFC: flagged as not identified
+      (honest gap, not confirmed absence), Thin Cap: not identified
+      (same honest flag), Foreign Account Reporting (no domestic
+      FBAR-equivalent identified), Treaty Network (limited DTAs per
+      secondary sources, no verified count found - declined to guess)
+- [x] Tonga - built directly from the primary Income Tax Act (Cap.
+      26.08) full statutory text, not just secondary aggregators.
+      Residency (Section 4: three-test structure - home in Tonga,
+      183-day presence, or Government employee posted abroad), CFC: No
+      (confirmed by reviewing the Act's full anti-avoidance Part 7,
+      no CFC provisions exist), Thin Cap (Section 65A: 2:1 debt-equity
+      ratio for foreign-controlled resident companies, arm's-length-debt
+      exception, extends to non-resident companies' Tongan PEs) -
+      exact ratio and mechanism sourced directly from statutory text,
+      Foreign Account Reporting (no domestic FBAR-equivalent found in
+      the Act), Treaty Network (conflict flagged: TaxAtlas claims zero
+      DTAs; Act's own Section 62 foreign tax credit provides unilateral
+      relief regardless of treaty status - noted this distinction
+      explicitly on the page). Also corrected a wrong secondary-source
+      claim (TaxAtlas asserting Tonga has no personal income tax at
+      all) using the primary Act, which taxes individual employment/
+      business/property income directly under Part 4 Division 1 -
+      flagged the exact current bracket rates as still unconfirmed
+      since they're set by a separate Cabinet Order not fixed in the
+      Act text itself, rather than guessing a number.
