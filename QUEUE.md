@@ -172,8 +172,14 @@ report NO CFC regime rather than forcing a template answer).
       case law safeguard only), Thin Cap (no fixed ratio; per-asset-class
       FTA safe-harbor percentages, 6:1 for finance companies), Treaty
       Network (100+ countries plus separate estate/inheritance treaties)
-- [ ] Next: Sweden, Belgium, and other major non-G20 economies -
-      continuing
+- [x] Sweden - Residency (essential connection/vasentlig anknytning,
+      6-month/10-year presumption rules), CFC (25% ownership + 55%-of-
+      Swedish-rate threshold, white-list/EEA exclusions), Thin Cap (no
+      formal ratio; 30% EBITDA cap since 2019, SEK 5m de minimis, targeted
+      anti-avoidance rule), Treaty Network (count honestly flagged as
+      uncertain - sources range 44 to 100+, pointed to Skatteverket as
+      authoritative rather than asserting an unverified figure)
+- [ ] Next: Belgium and other major non-G20 economies - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
