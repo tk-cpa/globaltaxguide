@@ -2268,3 +2268,32 @@ exception where genuine effort found a genuine gap).
 
 REMAINING: 45 placeholder pages, all outside Africa (Asia-Pacific: 17,
 Europe: 16, Americas: 11, Middle East: 1).
+
+
+## MIDDLE EAST REGION COMPLETE - August 8, 2026 (same day, continued)
+
+Built Palestine, the last Middle East placeholder page, closing out the
+region entirely (confirmed via direct sitewide check: 15/15 Middle East
+pages now have full narrative structure, 0 remaining placeholders).
+
+Palestine - CFC not identified. Genuinely distinctive structural finding
+captured precisely rather than glossed over: individual residency uses
+a dual, NATIONALITY-based day-count test (120 days for a Palestinian
+individual, 183 days for a non-Palestinian individual) - a materially
+different rule structure than the uniform 183-day test used almost
+everywhere else on the site. Also documented the Paris Protocol tax
+clearance mechanism in detail: Israel collects roughly 70-75 percent of
+total PA revenue on the PA's behalf and transfers it monthly (with
+occasional withholding), and the PA has no jurisdiction in Area C of
+the West Bank under the Oslo framework, where settler/soldier taxes
+flow directly to Israel instead. This is a genuinely unique
+administrative structure not found on any other page on the site, and
+is exactly the kind of distinctive real-world complexity a
+Wikipedia-summary-level treatment would have missed or flattened.
+
+Final gate check: zero hits on Palestine.
+
+## TWO REGIONS NOW COMPLETE: AFRICA AND MIDDLE EAST
+
+REMAINING: 44 placeholder pages, all in three regions: Asia-Pacific
+(17), Europe (16), Americas (11).
