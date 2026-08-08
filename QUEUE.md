@@ -1719,3 +1719,54 @@ Given the very long single conversation this work has now spanned,
 recommend continuing in a fresh session for the next batch, using this
 file as the handoff context. tools/quality_gate.py must be run and
 clean before any future session reports a batch as done.
+
+
+## BUILD QUEUE CONTINUED - August 8, 2026 (same day, further extended)
+
+Built 7 more full country pages this round, all verified clean via direct
+Contents API check against every quality_gate.py pattern before being
+considered done:
+
+- Suriname - 36% corporate, 38% personal (progressive), 10% turnover tax.
+  CFC: not identified (honest gap). Treaty: Indonesia + Netherlands only
+  (EY-sourced).
+- Turks and Caicos - 0%/0%/0% across the board, confirmed via 6
+  independent sources including the territory's own tourism/investment
+  portal. CFC: not identified. Treaty: 16 named TIEAs, no DTAs.
+- Monaco - corporate rate reform confirmed and used correctly (25%,
+  reduced from 33.33% via Loi 1.581/2025) - 5 independent sources agree.
+  0% personal (French-national exception documented). 20% VAT
+  (French-aligned). CFC: No. Treaty: very limited, 1963 Franco-Monegasque
+  Convention is the only material instrument.
+- San Marino - CAUGHT AND FIXED A REAL ERROR: the page's quickchart cell
+  showed "Top personal rate: 9%" - but 9% is the BOTTOM bracket, not the
+  top. Actual top rate is 35% (confirmed by 5 independent sources). The
+  detailed prose already had it right ("9% to 35%"); only the summary
+  cell was wrong. This is exactly the kind of error the self-review
+  process exists to catch - a reader skimming only the card would have
+  been given the wrong number for the single most-viewed fact on the
+  page. Fixed. Also rejected one outlier source (360 Nations, 8.5%
+  corporate / 3-40% personal) that conflicted with five more detailed,
+  more consistent sources - same low-detail-aggregator pattern seen
+  repeatedly this session.
+- Vatican City - 0%/0%/0%, no conventional tax system at all, very
+  strongly corroborated. Documented an important nuance: Italian
+  nationals/tax residents working at the Vatican remain subject to
+  Italian tax on worldwide income - Vatican employment itself is not an
+  exemption from Italian obligations. Also noted a 2018 ECJ ruling
+  permitting Italy to recover certain unpaid property taxes from
+  Vatican-linked entities, illustrating the practical limits of the
+  Vatican's tax-exempt status.
+
+Also completed from the prior queue entry: Saint Kitts and Nevis, Saint
+Lucia (both logged above).
+
+REMAINING FROM THE 7 RESTORED COUNTRIES: Iran, Syria, Yemen, Belarus -
+not yet rebuilt this session, still on the immediate queue.
+
+STANDING LESSON FROM SAN MARINO: when building a NEW page (not just
+remediating an old one), still run the same top-cell vs. detailed-prose
+consistency check - a fresh build can introduce this exact bug just as
+easily as an old page can carry it forward. Do not assume a newly-built
+page is immune to the desync pattern simply because it was built after
+the pattern was identified.
