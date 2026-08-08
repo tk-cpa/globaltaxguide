@@ -179,7 +179,14 @@ report NO CFC regime rather than forcing a template answer).
       anti-avoidance rule), Treaty Network (count honestly flagged as
       uncertain - sources range 44 to 100+, pointed to Skatteverket as
       authoritative rather than asserting an unverified figure)
-- [ ] Next: Belgium and other major non-G20 economies - continuing
+- [x] Belgium - Residency (domicile/seat-of-wealth test, National Register
+      presumption, irrebuttable family-residence presumption for married
+      individuals), CFC (2023/2024 Model A entity-approach reform, 50pct
+      ownership + half-Belgian-rate threshold, 1/3-passive-income safe
+      harbor), Thin Cap (layered 1:1 director loans / 5:1 tax-haven loans
+      / 30pct-EBITDA-or-EUR3m general rule), Treaty Network (150+
+      countries per PwC, 99 designated MLI Covered Tax Agreements)
+- [ ] Next: additional major non-G20 economies - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
