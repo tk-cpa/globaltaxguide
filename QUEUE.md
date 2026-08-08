@@ -452,8 +452,18 @@ report NO CFC regime rather than forcing a template answer).
       presumptions, exit tax on residency break), CFC (50pct-aggregate/
       10pct-individual + 15pct-rate passive test), Thin Cap (confirmed:
       NONE), Treaty Network (50+ countries)
-- [ ] Next: Lebanon, Iraq, then Africa (Egypt, Morocco, Nigeria, Kenya) -
-      continuing
+- [x] Lebanon - Residency (183-day/permanent-home test), CFC (confirmed:
+      NONE), Thin Cap (confirmed: NONE, unclear rules), Treaty Network
+      (34 countries, practical DTT implementation difficulties flagged)
+- [x] Iraq - Residency (incorporation/management-and-control test), CFC
+      (confirmed: NONE), Thin Cap (confirmed: NONE), Treaty Network
+      (~15 countries, limited by sanctions/conflict history)
+
+## Middle East complete (Qatar, Kuwait, Bahrain, Oman, Jordan, Israel,
+## Lebanon, Iraq all done)
+
+- [ ] Next: Africa - Egypt, Morocco, Nigeria, Kenya, Ghana, Ethiopia,
+      South Africa already done - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
