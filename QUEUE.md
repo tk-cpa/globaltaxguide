@@ -484,7 +484,15 @@ report NO CFC regime rather than forcing a template answer).
 - [x] Ethiopia - Residency (183-day/habitual-abode test), CFC (confirmed:
       NONE), Thin Cap (2:1 for foreign-controlled entities + rate cap),
       Treaty Network (~20 countries, no US treaty)
-- [ ] Next: Tanzania, Uganda, Senegal, Ivory Coast, Zambia, Rwanda -
+- [x] Tanzania - Residency (183-day/122-day-average test), CFC (genuine
+      provisions with deemed-distribution anti-avoidance), Thin Cap
+      (7:1/3 ratio for exempt-controlled entities), Treaty Network
+      (9 countries)
+- [x] Uganda - Residency (183-day/122-day-average test), CFC (confirmed:
+      NONE), Thin Cap (replaced by 30pct EBITDA rule 2018), Treaty
+      Network (~10 countries, 2014 negotiation pause, treaty-shopping
+      concerns flagged)
+- [ ] Next: Senegal, Ivory Coast, Zambia, Rwanda, Algeria, Tunisia -
       continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
