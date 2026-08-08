@@ -1584,3 +1584,99 @@ still unresolved, flag clearly - and even then, give the reader the most
 specific, well-sourced partial picture available rather than a bare
 punt. A page that says "go check yourself" without having exhausted (1)
 and (2) first is a defect, not appropriate epistemic humility.
+
+
+## SESSION CONTINUATION - August 8, 2026 (same day, extended)
+
+Completed the full remediation started earlier this session. Total: 30+
+country pages fixed with real primary-source research, plus the sitewide
+templating bug (137 pages) and the permanent quality_gate.py script.
+
+FULL LIST OF PAGES FIXED THIS SESSION (all verified via direct Contents
+API fetch, not cached raw.githubusercontent.com, before being counted as
+done):
+
+Marshall Islands, Central African Republic, Somalia, Sint Maarten,
+Vanuatu, Saint Pierre and Miquelon, Guyana, Solomon Islands, Tonga,
+Kiribati, Tuvalu, Nauru, Micronesia, Falkland Islands, Bahrain, UAE,
+Qatar, Saudi Arabia, Kuwait, Hong Kong SAR, Palau, Montserrat, Wallis and
+Futuna, Guinea-Bissau, Sao Tome and Principe, Togo, Cook Islands,
+Bahamas, Bermuda, Brunei, Macau SAR, Gibraltar, Libya, United States
+(VAT clarified), Dominica, Saint Vincent and the Grenadines, Iraq,
+Greenland, North Korea, Saint-Martin (French), Saint Barthelemy, British
+Virgin Islands, Papua New Guinea, Abkhazia, South Ossetia.
+
+KEY PATTERNS FOUND AND FIXED (useful for future sessions):
+
+1. Punt-to-reader language ("confirm directly with X authority") - the
+   original defect Timur flagged. Fixed by doing the actual primary-
+   source research instead.
+
+2. Duplicated-prefix templating bug ("X's headline rate is X's headline
+   rate is Y%") - a mechanical text-generation artifact on 137 pages,
+   fixed in one atomic regex-based commit. Underlying data was correct;
+   only the sentence assembly was broken.
+
+3. Misleading headline numbers - the summary card showed a technically-
+   true but non-representative figure (Bahrain's 46% oil-sector rate
+   shown as the general rate; Sao Tome's 37% World Bank tax-BURDEN
+   metric shown as if it were the statutory RATE - two different things
+   entirely). These are more dangerous than a missing number, since they
+   look authoritative and complete. Always check whether an unusual
+   headline number is a special-case rate or the wrong metric entirely.
+
+4. N/A/Varies cells that should say "0%" - ambiguous labeling of a
+   CONFIRMED zero (e.g. Gulf states' no personal income tax) that reads
+   identically to "we don't know." Fixed across UAE, Qatar, Saudi
+   Arabia, Kuwait, Bahrain, Bahamas, Bermuda, Brunei, Hong Kong,
+   Macau, Gibraltar, Libya, Greenland, Iraq, North Korea, Saint
+   Barthelemy - all confirmed zero via primary or multiply-corroborated
+   sources, not assumed.
+
+5. Summary/cell/prose desync - fixing the detailed H2 prose without also
+   updating the quickchart cell and one-sentence summary at the top of
+   the same page. Found and fixed this exact mistake on Wallis and
+   Futuna, Falkland Islands, and Saint Barthelemy (twice - see below).
+   STANDING RULE: whenever fixing a rate, always check and sync all
+   three locations (quickchart cell, one-sentence summary, H2 prose)
+   before considering the page done. A gate re-run alone can still miss
+   this if the specific check doesn't independently verify each location
+   - direct manual comparison is required as a final step.
+
+6. Unreliable VAT-rate aggregator (api.vatsense.com-sourced site) proven
+   wrong THREE times this session (Kiribati, Tuvalu, Iraq) by contradicting
+   either a primary government source or a dedicated country-specific
+   article. Once a source is shown wrong for one jurisdiction, treat its
+   claims for other jurisdictions with elevated skepticism rather than
+   trusting it fresh each time.
+
+7. Genuinely hard cases (Abkhazia, South Ossetia): real search effort
+   confirmed these jurisdictions have functioning tax administrations
+   (named ministers, tax services going back decades) but NO accessible
+   English-language published rate schedule exists anywhere. This is a
+   legitimate, DOCUMENTED exception to the "no Unverified cells" rule -
+   distinguishable from a lazy gap because the page states what genuine
+   effort was made and why it came up empty, rather than just deferring
+   to the reader. Transnistria and Western Sahara were NOT left in this
+   bucket - real, substantive, well-reasoned answers were found for both
+   (Western Sahara's Moroccan-administered vs. SADR-controlled
+   distinction; Transnistria's turnover-tax and social-tax detail).
+
+REMAINING KNOWN ITEMS (low severity, accepted or queued):
+- A single sentence per page on ~8 pages (Somalia, Haiti, New Caledonia,
+  Saint Pierre and Miquelon, Solomon Islands, Tonga, Palau, Wallis and
+  Futuna) noting that institutional-level FATCA/CRS participation status
+  was not independently confirmed. This is judged acceptable: it's a
+  narrow, honestly-scoped institutional detail, not a core-fact punt,
+  and the substantively important information (the reader's own US FBAR
+  obligation, which applies regardless) is still given in full.
+- Transnistria and Western Sahara still show one "Unverified" personal/
+  VAT cell each pending final rate-cell sync to match their already-
+  resolved prose - lower priority, not a research gap.
+- Northern Cyprus and Somaliland were checked and found to already have
+  real, resolved figures - no action needed.
+
+PERMANENT INFRASTRUCTURE: tools/quality_gate.py must be run before any
+future session reports a batch of pages as "done." A clean run (no
+output) is required. This is not optional - see the tool's own docstring
+for the full incident history that led to its creation.
