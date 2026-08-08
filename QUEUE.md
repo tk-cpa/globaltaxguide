@@ -2514,3 +2514,50 @@ Final gate check: zero hits on either page.
 
 REMAINING: 32 placeholder pages (Asia-Pacific: 5, Europe: 16, Americas:
 11).
+
+
+## ASIA-PACIFIC QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+4 more pages built, all individually re-verified via independent fetch:
+
+- Tajikistan - what initially looked like a rate conflict between
+  sources (18 percent vs 13 percent CIT) turned out to already be
+  correctly resolved on the existing page: both figures are accurate
+  for DIFFERENT sectors under a properly sector-differentiated system
+  (13 percent goods-production, 18 percent resource extraction/other,
+  20 percent credit/financial/mobile) - confirmed the page's existing
+  detail was already correct rather than needlessly "fixing" a
+  non-error. Built out the narrative: CFC not identified, treaty count
+  discrepancy (25 vs 40) noted explicitly rather than silently resolved.
+
+- Timor-Leste - CFC confirmed NO directly via PwC, with the specific
+  practical mechanism named (no repatriation-deeming arrangements for
+  CFC profits). Thin cap also confirmed NO directly via PwC, with the
+  real operative rule captured (interest is generally NOT deductible at
+  all except for financial institutions - a blanket rule, not a ratio).
+  Distinctive treaty finding: only ONE conventional tax treaty (Portugal)
+  exists, but a separate Timor Sea Treaty embeds petroleum-sector-specific
+  relief - relevant given oil/gas contractors face a materially different
+  30 percent CIT versus the general 10 percent rate. Honestly documented
+  a genuine, source-acknowledged gap: Timor-Leste's CRS participation
+  status is unconfirmed, not assumed either way.
+
+- Turkmenistan - CAUGHT AND VERIFIED (not fixed, since already correct):
+  TaxAtlas's headline "20 percent corporate rate" is actually the
+  EXCEPTION rate (non-residents, petroleum-law entities, state-controlled
+  entities >50 percent) - the actual standard resident rate, confirmed
+  by two independent detailed sources (Freeman Law, Orbitax), is 8
+  percent. The page already correctly showed 8 percent - verified this
+  was right rather than assuming TaxAtlas's more prominent figure was
+  the general one. CFC confirmed NO directly via Freeman Law. Distinctive
+  finding: Turkmenistan is an assignee of certain USSR-era tax treaties
+  as a Soviet successor state, a structural legacy noted precisely
+  rather than glossed over. Explicitly declined to treat a low-quality
+  source's "no thin cap" claim as confirmation, despite it pointing the
+  same direction as the likely truth - marked "not identified" instead,
+  consistent with this session's established sourcing discipline.
+
+Final gate check: zero hits on any of the pages this round.
+
+REMAINING: 1 Asia-Pacific placeholder remaining (Uzbekistan and
+Micronesia to confirm), plus Europe (16) and Americas (11).
