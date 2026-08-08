@@ -2561,3 +2561,54 @@ Final gate check: zero hits on any of the pages this round.
 
 REMAINING: 1 Asia-Pacific placeholder remaining (Uzbekistan and
 Micronesia to confirm), plus Europe (16) and Americas (11).
+
+
+## ASIA-PACIFIC REGION COMPLETE - August 8, 2026 (same day, continued)
+
+Built Uzbekistan and Micronesia, closing out Asia-Pacific entirely
+(confirmed via direct sitewide check: 0/51 Asia-Pacific pages remain as
+placeholders).
+
+- Uzbekistan - RESOLVED SOURCE CONFLICT: Freeman Law (dated 2022) claims
+  "No CFC rules," directly contradicted by THREE independent, detailed,
+  mechanism-specific sources (GSL, a Lexology legal analysis of the new
+  Tax Code, and an EY-sourced compilation) all confirming real,
+  currently-operative CFC rules with matching specifics (50 percent
+  ownership threshold reduced to 25 percent from 2023, active-holding-
+  company exemption, 15 percent effective-tax-rate exemption test,
+  notification requirement). Freeman Law's claim treated as incorrect/
+  outdated given the weight and specificity of contradicting evidence,
+  rather than presented as an unresolved conflict. 55 named treaty
+  partners confirmed via GSL.
+
+- Micronesia (FSM) - MAJOR CATCH using PRIMARY CASE LAW: the corporate
+  rate cell showed 21 percent (from Trading Economics, self-labeled
+  "Business Gross Revenue Tax" but described with income-tax-like
+  "net income" framing - an internally confused source). Located actual
+  FSM Supreme Court case law (Chuuk v. FSM, 22 FSM R. 85) confirming
+  FSM operates TWO SEPARATE, DISTINCT tax regimes: a 3 percent Gross
+  Revenue Tax applying to nearly all businesses, and a wholly separate
+  graduated Corporate Income Tax (Title 54, Chapter 3) applying only to
+  "major corporations" specifically - major corporations subject to the
+  Chapter 3 income tax are exempt from the Chapter 1 GRT instead, so
+  these are alternatives, not cumulative taxes. Fixed the cell to the
+  correct general-case 3 percent, with the major-corporation regime
+  explained honestly in prose rather than presented as the general
+  answer - the same "non-representative headline number" pattern found
+  repeatedly this session, this time resolved via genuine primary
+  litigation record rather than just another secondary source. Also
+  surfaced a genuinely distinctive finding: FSM Supreme Court has
+  litigated actual revenue-SHARING between the national government and
+  individual states (Chuuk entitled to 50 percent of Title 54 Ch.3 tax
+  collected from Chuuk-incorporated major corporations) - a federalism
+  dimension not seen elsewhere on this site.
+
+Final gate check: zero real hits on either page (Micronesia's one hit is
+the honest, source-consistent "not independently confirmed" phrasing on
+the unresolved graduated-bracket question, not a punt).
+
+## ASIA-PACIFIC REGION COMPLETE (3rd region fully done, alongside
+Africa and Middle East)
+
+REMAINING: 27 placeholder pages across two regions: Europe (16),
+Americas (11).
