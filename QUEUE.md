@@ -290,9 +290,16 @@ report NO CFC regime rather than forcing a template answer).
 ## South Asia batch complete (India, Pakistan, Bangladesh, Sri Lanka,
 ## Nepal all done)
 
-- [ ] Next: Europe remainder - Greece, Hungary, Romania, Slovakia,
-      Croatia, Slovenia, Bulgaria, Iceland, Malta, Cyprus, Baltics -
-      continuing
+- [x] Greece - Residency (183-day/center-of-interests test, tourism/
+      medical exclusion), CFC (ATAD-aligned, 50pct threshold, taxes
+      passive income only), Thin Cap (no ratio; Article 49 30pct EBITDA
+      cap), Treaty Network (57 countries, Sweden termination flagged)
+- [x] Hungary - Residency (citizenship/EEA/vital-interests hierarchy),
+      CFC (50pct + half-rate threshold since 2019, genuine-arrangement
+      carveout), Thin Cap (30pct EBITDA cap + 3:1 grandfather option),
+      Treaty Network (80+ countries, no US treaty, Russia suspension
+      flagged)
+- [ ] Next: Romania, Slovakia - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
