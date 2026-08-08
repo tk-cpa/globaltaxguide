@@ -1270,3 +1270,46 @@ Next up: continuing Caribbean batch - Guyana, Haiti, Montserrat, Saint
 Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French),
 Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint
 Maarten, Suriname, Turks and Caicos.
+
+
+## Session update 9 - August 8, 2026 (continued, same session)
+
+2 more countries verified and pushed: Guyana, Haiti. Running session
+total: 26 countries.
+
+Real remaining placeholder count: 78 (80 minus these 2).
+
+- [x] Guyana - Residency (183-day/permanent-residence/intent-to-reside
+      tests per Legal 500 Private Client guide; capital gains tax
+      applies to Guyana-situated assets regardless of residency, with
+      a genuinely unusual 25-year exemption tail), CFC: flagged as NOT
+      IDENTIFIED (honest gap) rather than guessed - Orbitax's table of
+      contents shows Guyana's Income Tax Act has a "CFC and Similar
+      Regimes" section but the substantive content wasn't independently
+      confirmed, Thin Cap (no general ratio, but a targeted related-
+      party/non-resident-parent interest restriction exists - flagged
+      the distinction clearly), Foreign Account Reporting (1992 US
+      information exchange order specifically named), Treaty Network
+      (broader than most small Caribbean neighbors: Canada, UK, CARICOM,
+      AND the UAE - named and dated via multiple sources; explicit UK
+      treaty dividend rate detail from HMRC's own treaty summary)
+- [x] Haiti - EXPLICITLY FLAGGED AS THINNER-SOURCED given genuinely
+      limited English-language primary material available for Haiti's
+      tax system - said so directly on the page rather than presenting
+      thin sourcing with false confidence. Residency (183-day + center-
+      of-interest inferred from a lower-quality comparison source, not
+      independently verified against Haiti's own tax code), CFC:
+      explicitly flagged as unconfirmed (a comparison source's "no
+      major CFC overlay reported" was NOT treated as sufficient
+      confirmation), Thin Cap: not identified, Foreign Account
+      Reporting (no US-Haiti totalization agreement confirmed - double
+      social security contribution exposure for self-employed US
+      expats flagged), Treaty Network (approximately 5 treaties per one
+      comparison source, explicitly no US treaty, a narrower Canada
+      cooperation-program tax exemption arrangement distinguished from
+      a full DTA).
+
+Next up: continuing Caribbean batch - Montserrat, Saint Barthelemy,
+Saint Kitts and Nevis, Saint Lucia, Saint Martin (French), Saint Pierre
+and Miquelon, Saint Vincent and the Grenadines, Sint Maarten, Suriname,
+Turks and Caicos.
