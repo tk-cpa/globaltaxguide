@@ -1,0 +1,87 @@
+name: Weekly Tax Rate Verification
+
+on:
+  schedule:
+    # Runs every Monday at 09:00 UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    # Allows manual triggering from the Actions tab, and optional single-country runs
+    inputs:
+      country_slug:
+        description: 'Optional: verify a single country slug only (e.g. united-kingdom). Leave blank to run the full weekly batch.'
+        required: false
+        default: ''
+      auto_merge:
+        description: 'Auto-merge the PR instead of leaving it for review (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  verify-rates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Create working branch
+        run: |
+          BRANCH="auto-verify-$(date +%Y%m%d)"
+          echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
+          git checkout -b "$BRANCH"
+
+      - name: Run verification script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COUNTRY_SLUG: ${{ github.event.inputs.country_slug }}
+        run: python scripts/verify_rates.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit changes
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "globaltaxguide-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Weekly automated rate verification - $(date +%Y-%m-%d)"
+          git push origin "$BRANCH"
+
+      - name: Open pull request
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --title "Weekly rate verification - $(date +%Y-%m-%d)" \
+            --body-file /tmp/verification_report.md \
+            --base main \
+            --head "$BRANCH"
+
+      - name: Auto-merge if requested
+        if: steps.diff.outputs.changed == 'true' && github.event.inputs.auto_merge == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUM=$(gh pr list --head "$BRANCH" --json number -q '.[0].number')
+          gh pr merge "$PR_NUM" --squash --auto
