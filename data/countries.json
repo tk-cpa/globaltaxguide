@@ -1222,5 +1222,29 @@
     "slug": "south-ossetia",
     "region": "Europe",
     "status": "published"
+  },
+  {
+    "name": "Northern Cyprus",
+    "slug": "northern-cyprus",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Somaliland",
+    "slug": "somaliland",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Transnistria",
+    "slug": "transnistria",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Western Sahara (SADR)",
+    "slug": "western-sahara",
+    "region": "Africa",
+    "status": "published"
   }
 ]
