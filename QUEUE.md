@@ -1964,3 +1964,25 @@ mentions a specific future effective date, e.g. searching site-wide for
 year, since those are the highest-probability real hits from that list).
 This is flagged as a priority follow-up rather than fixed blind, given
 the demonstrated high false-positive rate of the raw heuristic.
+
+
+## FOLLOW-UP CONFIRMED CLOSED - August 8, 2026 (same day, continued)
+
+Ran the targeted "future-dated-reform now in effect" sitewide scan
+flagged as a priority follow-up above. Result: ZERO remaining hits.
+This confirms Eswatini and Namibia were the only two instances of this
+specific pattern on the entire site, and both are now fixed and
+verified live. This follow-up item is CLOSED, not deferred.
+
+The broader 63-item "first number in prose vs cell" scan remains mostly
+unreviewed (the ~55 pages not individually checked), but given the
+demonstrated ~85%+ false-positive rate on manual review (progressive
+brackets correctly showing 0% first in prose is expected behavior, not
+a bug) and the fact that the two genuinely valuable, distinct sub-
+patterns found within that noise (non-representative sector-exception
+numbers; future-dated-reform-now-in-effect) have both now been checked
+sitewide with precise, low-noise, purpose-built scans and found clean
+beyond what was already fixed, further blind manual review of the
+remaining raw 63-item list is deprioritized as low-value effort relative
+to continuing the country-build queue. Both real defect classes found
+via that scan are now believed fully remediated sitewide.
