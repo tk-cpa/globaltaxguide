@@ -470,7 +470,22 @@ report NO CFC regime rather than forcing a template answer).
       priority test), CFC (confirmed: NONE), Thin Cap (Article 10
       shareholder-loan restriction, no fixed ratio), Treaty Network
       (60+ countries)
-- [ ] Next: Nigeria, Kenya, Ghana, Ethiopia - continuing
+- [x] Nigeria - Residency (historic 2026 reform: 183-day + worldwide
+      taxation shift), CFC (new regime, 34pct rate + 15pct top-up tax),
+      Thin Cap (30pct EBITDA), Treaty Network (17 countries + pending
+      Kenya/Mauritius/Poland/ECOWAS)
+- [x] Kenya - Residency (183-day/122-day-average test), CFC (honestly
+      flagged as conflicting: PwC no-specialized-rules vs other claims),
+      Thin Cap (evolution from 3:1 to 30pct EBITDA noted), Treaty
+      Network (30+ countries, no US treaty)
+- [x] Ghana - Residency (183-day/365-day-absence test), CFC (confirmed:
+      NONE), Thin Cap (3:1 permanent-disallowance for exempt-controlled
+      entities), Treaty Network (named list + ECOWAS)
+- [x] Ethiopia - Residency (183-day/habitual-abode test), CFC (confirmed:
+      NONE), Thin Cap (2:1 for foreign-controlled entities + rate cap),
+      Treaty Network (~20 countries, no US treaty)
+- [ ] Next: Tanzania, Uganda, Senegal, Ivory Coast, Zambia, Rwanda -
+      continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
