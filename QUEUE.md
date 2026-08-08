@@ -2404,3 +2404,41 @@ Final gate check: zero real hits on either page.
 
 REMAINING: 38 placeholder pages (Asia-Pacific: 11, Europe: 16, Americas:
 11).
+
+
+## ASIA-PACIFIC QUEUE CONTINUED - August 8, 2026 (same day, continued)
+
+2 more pages built, both individually re-verified via independent fetch:
+
+- Laos - Unusually complete, directly-sourced set of "No" findings via
+  KPMG: no CFC rules, no transfer pricing rules (note: this was true as
+  of the 2016 KPMG source; not independently reconfirmed as still
+  current), no thin capitalization regime (documentation-based interest
+  test used instead), no general anti-avoidance provisions, no
+  anti-treaty-shopping provision. Distinctive structural finding: Laos
+  has NO formal definition of corporate "residence" at all - taxable
+  presence (registration under Lao law OR carrying on business in Laos)
+  determines liability instead of a residence test. 12 treaties
+  confirmed via two independent TaxAtlas pages (one source cites 10 -
+  discrepancy noted explicitly rather than silently resolved).
+
+- Macau SAR - MAJOR REFORM CAPTURE: a new Tax Code, passed December
+  2024, took FULL effect January 1, 2026, introducing three genuinely
+  first-ever concepts to Macau's tax system: (1) a formal "tax
+  resident" concept (previously residency was described by a specialist
+  source as "largely irrelevant" for pure domestic Macau tax purposes),
+  (2) full territorial taxation (with a specific, important MNE-group
+  carve-out: MNE constituent-entity tax residents remain taxed on
+  foreign-source income), and (3) transfer pricing rules for the first
+  time, with specific methodologies named. CFC confirmed NO directly via
+  PwC. The page's rate cells were already correct but the prose was bare
+  placeholder text ("the rate is 12") - substantially rebuilt with the
+  2026 Budget threshold increase (MOP 32,000 to MOP 600,000) and a
+  specific Corporate Treasury Centre incentive (5 percent rate, explicitly
+  benchmarked by Macau's own government against Hong Kong's 8.25 percent
+  and Singapore's 8-10 percent).
+
+Final gate check: zero hits on either page.
+
+REMAINING: 36 placeholder pages (Asia-Pacific: 9, Europe: 16, Americas:
+11).
