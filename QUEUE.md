@@ -1,30 +1,58 @@
 # Global Tax Guide - Live Work Queue
 
-Last updated: August 8, 2026 (end of session, handoff to new chat).
+Last updated: August 8, 2026 (mid-session, this chat).
 
 ## >>> START HERE - CURRENT STATE SNAPSHOT <<<
 
-- **120 of 229 country pages** have real, multi-source-verified narrative
-  content for Residency / CFC / Thin Cap / Foreign Account Reporting /
-  Treaty Network. The other ~109 still have only quick-chart rate data
-  plus an honest placeholder.
-- As of country #107 (Libya) onward, a NEW REQUIRED STRUCTURE applies to
-  every country page - see "Required page structure" section below. The
-  first 106 countries done in this session do NOT yet have this exact
-  structure (they have the same underlying facts, just not broken into
-  the explicit subheadings) - retrofitting them is tracked as its own
-  task below, separate from new-country work.
+- **SCOPE CORRECTION (this session, verified programmatically):** Fetched
+  all 229 live country pages directly from raw.githubusercontent.com and
+  checked each for the literal placeholder string ("build list for this
+  page") rather than trusting this file's prior prose claims. Result:
+  **104 pages were still placeholders at the start of this session**, not
+  ~109 as previously stated, and several countries this file previously
+  listed as done with real narrative content were NOT actually done -
+  Iran, Syria, Yemen, Belarus, Monaco, San Marino, and Vatican City all
+  came back as unverified placeholder pages on direct fetch. Flagging
+  this precisely per the project's own non-negotiable verification
+  standard: never trust a prior "[x] done" claim without re-checking.
+  These 7 countries need to be added back to the working queue - they
+  are NOT complete despite earlier session notes.
+- **6 countries newly verified and pushed this session** (new required
+  structure - explicit CFC Yes/No subheading, Foreign Account Reporting
+  section, in-depth territorial explanation where relevant): Papua New
+  Guinea, Cook Islands, Kiribati, Marshall Islands, Nauru, Palau. All
+  cross-checked against 2+ sources where possible; genuine source
+  conflicts (PNG treaty count 8 vs 9 vs 11; Marshall Islands treaty
+  count "14" vs GSL's "no MLI, no DTAs" claim; Kiribati and Nauru VAT/
+  PIT rates) flagged explicitly on the relevant pages rather than
+  silently resolved. One real correction found and applied: Papua New
+  Guinea's CFC regime - several 2016-2018 KPMG sources say PNG has NO
+  CFC regime, but PwC's current (27 March 2026) page confirms a NEW CFC
+  regime now exists under the Income Tax Act 2025. Used the current
+  source, flagged the outdated ones explicitly on the page.
+- Countries completed with the NEW required structure (this session +
+  prior session): Libya, Sudan, Malawi, Mauritius, Seychelles, Cabo
+  Verde, Eswatini, Lesotho, Jamaica, Trinidad and Tobago, Barbados,
+  Bahamas, Belize, Fiji, Papua New Guinea, Cook Islands, Kiribati,
+  Marshall Islands, Nauru, Palau.
 - Countries completed with the OLD structure (still valid content, just
-  pre-dates the explicit subheading format): see the long checklist below,
-  roughly Romania through Cote d'Ivoire/Zambia/Rwanda/Algeria/Tunisia/
-  Cameroon/Botswana/Namibia, plus all G20 countries and the original
-  manually-researched batch (UK, Russia, Belarus, Monaco, San Marino,
-  Vatican City, Iran, Syria, Yemen, etc.)
-- Countries completed with the NEW structure: Libya, Sudan, Malawi,
-  Mauritius, Seychelles, Cabo Verde, Eswatini, Lesotho, Jamaica, Trinidad
-  and Tobago, Barbados, Bahamas, Belize, Fiji.
-- Next up: Papua New Guinea, remaining Pacific/Caribbean microstates,
-  then work back through the rest of the ~109 not-yet-done countries.
+  pre-dates the explicit subheading format): the G20, most of Europe,
+  major Latin America, South/Southeast Asia, Middle East, and African
+  economies from earlier sessions - see prior session batches below.
+  NOTE: this list previously and incorrectly included Iran, Syria,
+  Yemen, Belarus, Monaco, San Marino, Vatican City - corrected above.
+- Next up: continuing through remaining Pacific microstates (Samoa,
+  Solomon Islands, Tonga, Tuvalu, Vanuatu, Niue, New Caledonia, French
+  Polynesia, Wallis and Futuna), then Caribbean microstates, then the
+  7 restored-to-queue countries (Iran, Syria, Yemen, Belarus, Monaco,
+  San Marino, Vatican City), then the rest of the ~98 remaining
+  placeholder pages by region.
+- **Real remaining count after this session: 98 placeholder pages**
+  (104 at session start, minus 6 completed; the Iran/Syria/Yemen/
+  Belarus/Monaco/San Marino/Vatican City correction is a net-zero
+  adjustment since they were already counted within the 104 - the
+  scope correction just relocates them from the false "done" list back
+  into the accurate placeholder count where they already were).
 
 ## Required page structure (apply to every country going forward)
 
@@ -33,15 +61,17 @@ Every country's Residency/CFC/Thin Cap/Treaty section must include:
    its own subheading - never buried in prose.
 2. Where Yes: explicit statement of whether the regime applies to
    individuals, corporates, or both.
-3. A dedicated "Foreign Bank Account / Foreign Financial Asset Reporting"
-   section on every page (the FBAR/FinCEN 114/Form 8938 question) -
-   explicit Yes/No/mechanism, and where relevant, clearly distinguish the
-   target country's own domestic law from a US citizen's independent
-   FBAR obligation to the US government (these get conflated in cheap
-   secondary sources and that conflation is exactly what NOT to repeat).
+3. A dedicated "Foreign Bank Account / Foreign Financial Asset
+   Reporting" section on every page - explicit Yes/No/mechanism, and
+   where relevant, clearly distinguish the target country's own
+   domestic law from a US citizen's independent FBAR obligation to the
+   US government.
 4. Where a country is territorial, explain the territorial regime in
-   depth: what counts as source-country income, what's excluded, and the
-   practical implications - not just the word "territorial."
+   depth: what counts as source-country income, what's excluded, and
+   the practical implications - not just the word "territorial."
+5. Treaty Network - actual count and named partners where confidently
+   known; flag any discrepancy between sources rather than picking one
+   number silently.
 
 ## Non-negotiable verification standard (unchanged all session)
 
@@ -49,11 +79,6 @@ Every country's Residency/CFC/Thin Cap/Treaty section must include:
   source before publishing. Never copy a single secondary aggregator
   and call it done.
 - Actively cross-check 2+ independent sources per country where possible.
-  Several real conflicts have been caught and correctly flagged this way
-  rather than silently resolved (examples: Kenya's CFC status, Lesotho's
-  UK treaty active-vs-terminated status, Belize's 14-vs-2 treaty count,
-  Jamaica's thin cap existence, Barbados's 182-not-183-day threshold).
-  This is core to the standard, not optional polish.
 - If sources genuinely conflict and can't be resolved from available
   material, say so explicitly on the page and tell the reader to confirm
   with the relevant tax authority or a licensed advisor. Never silently
@@ -61,6 +86,118 @@ Every country's Residency/CFC/Thin Cap/Treaty section must include:
 - No rate, treaty fact, CFC threshold, or regulatory figure is ever
   estimated, inferred from a neighboring country, or left unmarked as
   uncertain when it is uncertain.
+- IMPORTANT (added this session): a page appearing in this file's prose
+  as "[x] done" is NOT sufficient evidence it is actually done - always
+  re-fetch the live page and check for the literal placeholder string
+  before trusting a completion claim, including this file's own claims
+  from prior sessions. This was a real, non-hypothetical failure this
+  session (7 countries falsely marked complete).
+
+## Session log - August 8, 2026 (this session, new-structure narrative batch)
+
+- [x] Papua New Guinea - Residency (183-day/domicile individual test,
+      incorporation-or-management-and-control corporate test), CFC: Yes
+      - individuals and corporates (ITA 2025, 50pct ownership, <15pct ETR
+      trigger) - corrected outdated "no CFC" claims from 2016-2018 KPMG
+      sources using PwC's current page, Thin Cap (2:1 ratio, 3:1 for
+      resource companies), Foreign Account Reporting (no domestic
+      FBAR-equivalent identified, FATCA IGA status flagged as still
+      developing per available sources), Treaty Network (11 named
+      partners per PwC, 8-9-11 count discrepancy flagged across sources)
+- [x] Cook Islands - Residency (183-day individual test per OECD,
+      incorporation-or-control corporate test), CFC: No (home-country
+      CFC rules for foreign owners flagged separately), Thin Cap (not
+      identified in sources, flagged as gap not confirmed absence),
+      Foreign Account Reporting (no domestic FBAR-equivalent, TIEAs with
+      NZ/Australia noted, FATF grey list flagged), Treaty Network (2 DTAs
+      vs "no DTA network at all" conflict flagged). Also confirmed
+      personal (30% top, progressive NZD brackets) and VAT (15%, primary
+      government source) rates that were previously unconfirmed.
+- [x] Kiribati - Residency (incorporation-or-control corporate test
+      confirmed, individual day-count test flagged as needing direct
+      confirmation), CFC: No (with "tax haven rules may apply" caveat
+      flagged as unverified), Thin Cap (not identified, flagged as gap),
+      Foreign Account Reporting (no domestic FBAR-equivalent identified,
+      institutional FATCA/CRS status not independently confirmed), Treaty
+      Network (flagged as narrow, no reliable count found - declined to
+      guess a number)
+- [x] Marshall Islands - Residency (business-conducted-in-RMI test,
+      economic substance requirements noted), CFC: No (home-country CFC
+      exposure for foreign owners flagged separately, this is a classic
+      offshore-registration risk point), Thin Cap (not identified),
+      Foreign Account Reporting (no domestic FBAR-equivalent, CRS MCAA
+      signed 2015/exchange began 2018 confirmed), Treaty Network (14
+      claimed vs "no MLI, no DTAs" genuine conflict flagged, concluded
+      network is effectively minimal to none pending confirmation).
+      Personal income tax rate flagged as conflicting across sources
+      (0% vs ~8%) rather than guessed.
+- [x] Nauru - Residency (Employment and Services Tax Act 2014 / Business
+      Tax Act 2016 statutory tests, 183-day figure flagged as secondary-
+      source not primary-confirmed), CFC: No, Thin Cap (debt-to-asset
+      standards referenced but ratio not confirmed, flagged as gap),
+      Foreign Account Reporting (no domestic FBAR-equivalent, CRS-
+      implementing legislation noted), Treaty Network (confirmed NO
+      comprehensive DTAs per TaxAtlas, OECD Mutual Administrative
+      Assistance Convention signed, vague unconfirmed "agreements with
+      several nations" claim from a low-quality source explicitly not
+      relied on)
+- [x] Palau - Residency (183-day physical-presence test, territorial-vs-
+      worldwide ambiguity in underlying texts flagged), CFC: No, Thin Cap
+      (not identified), Foreign Account Reporting (no domestic FBAR-
+      equivalent identified, US FBAR obligation flagged as particularly
+      relevant given COFA relationship with US), Treaty Network (no
+      extensive network, no reliable count found)
+
+## Restored to queue this session (previously falsely marked done)
+
+- [ ] Iran - placeholder confirmed on direct fetch, needs full narrative
+      build
+- [ ] Syria - placeholder confirmed on direct fetch, needs full narrative
+      build
+- [ ] Yemen - placeholder confirmed on direct fetch, needs full narrative
+      build
+- [ ] Belarus - placeholder confirmed on direct fetch, needs full
+      narrative build
+- [ ] Monaco - placeholder confirmed on direct fetch, needs full
+      narrative build
+- [ ] San Marino - placeholder confirmed on direct fetch, needs full
+      narrative build
+- [ ] Vatican City - placeholder confirmed on direct fetch, needs full
+      narrative build
+
+## Full accurate remaining-placeholder list (98 countries, post-session)
+
+Africa: Benin, Burkina Faso, Burundi, Central African Republic, Chad,
+Comoros, Congo (Republic), Djibouti, Equatorial Guinea, Eritrea, Gabon,
+Gambia, Guinea, Guinea-Bissau, Liberia, Madagascar, Mali, Mauritania,
+Niger, Sao Tome and Principe, Sierra Leone, Somalia, South Sudan, Togo
+
+Americas: Anguilla, Antigua and Barbuda, Aruba, Bermuda, British Virgin
+Islands, Cayman Islands, Cuba, Dominica, El Salvador, Falkland Islands,
+Grenada, Guatemala, Guyana, Haiti, Honduras, Montserrat, Nicaragua,
+Puerto Rico, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint
+Martin (French), Saint Pierre and Miquelon, Saint Vincent and the
+Grenadines, Sint Maarten, Suriname, Turks and Caicos
+
+Asia-Pacific: Afghanistan, Bhutan, Brunei, Cambodia, French Polynesia,
+Kazakhstan, Kyrgyzstan, Laos, Macau SAR, Maldives, Micronesia, Mongolia,
+Myanmar, New Caledonia, New Zealand, Niue, North Korea, Samoa, Solomon
+Islands, Tajikistan, Timor-Leste, Tonga, Turkmenistan, Tuvalu, Uzbekistan,
+Vanuatu, Wallis and Futuna
+
+Europe: Andorra, Armenia, Azerbaijan, Belarus, Faroe Islands, Georgia,
+Gibraltar, Greenland, Guernsey, Isle of Man, Jersey, Liechtenstein,
+Moldova, Monaco, San Marino, Vatican City
+
+Middle East: Iran, Palestine, Syria, Yemen
+
+NOTE: New Zealand is a significant developed economy still on the
+placeholder list - worth prioritizing ahead of strict Pacific-microstate
+order given its practical importance; flagging for next-session priority
+decision rather than assuming.
+
+
+## Prior session history (kept for reference)
 
 ## Done this session (August 8, 2026)
 
