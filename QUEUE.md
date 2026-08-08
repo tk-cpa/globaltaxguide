@@ -364,7 +364,19 @@ report NO CFC regime rather than forcing a template answer).
 - [x] Montenegro - Residency (183-day/domicile/vital-interests test),
       CFC (confirmed: NO CFC rules), Thin Cap (confirmed: NO thin cap
       rules), Treaty Network (44 countries)
-- [ ] Next: Albania, Kosovo - continuing
+- [x] Albania - Residency (183-day/permanent-home test), CFC (Law 29/2023
+      individual-only regime since 2024), Thin Cap (abolished, replaced by
+      30pct EBITDA rule on all debt - resolved conflict with outdated 4:1
+      ratio claim), Treaty Network (40+ countries)
+- [x] Kosovo - Residency (183-day/vital-interests test), CFC (confirmed:
+      NO regime), Thin Cap (confirmed: NO rules), Treaty Network (21
+      countries per ATK, reflects recent statehood, no US treaty)
+
+## Balkans/Southeast Europe complete (Serbia, Ukraine, Bosnia, North
+## Macedonia, Montenegro, Albania, Kosovo all done)
+
+- [ ] Next: Latin America - Chile, Colombia, Peru, Uruguay, Ecuador,
+      Panama, Paraguay, Bolivia, Costa Rica - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
