@@ -617,7 +617,18 @@ future task, not to be rushed into this session's forward momentum.
       distribution-recharacterization rule, Foreign Account Reporting
       section, Treaty Network (17-vs-41 count discrepancy flagged,
       CARICOM detail)
-- [ ] Next: Barbados, Bahamas, then Pacific microstates - continuing
+- [x] Barbados - Residency (182-day/ordinarily-resident/domicile triple
+      test, three-way taxation split explained), CFC: No (confirmed via
+      2 sources), Thin Cap (1.5:1 since 2019), Foreign Account Reporting
+      section distinguishing Pillar Two top-up tax from personal
+      reporting, Treaty Network (33 countries)
+- [x] Bahamas - Residency (no personal income tax explained, 90-day
+      practical threshold flagged as immigration-linked not tax test),
+      CFC: No (confirmed via 2 sources), Thin Cap: No, Foreign Account
+      Reporting section carefully distinguishing Bahamas domestic law
+      from US citizens' independent FBAR obligation, Treaty Network
+      (no US treaty, zero domestic WHT context, 2024 Pillar Two top-up)
+- [ ] Next: continuing through remaining Caribbean/Pacific microstates
       with new required structure and multi-source cross-checking
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
