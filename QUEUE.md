@@ -96,8 +96,18 @@ between countries per standing directive. Progress so far:
       ownership, $5,000 de minimis), Thin Cap (1.5:1 ratio + newer EIFEL
       30% tax-EBITDA rule effective Oct 2023, exclusions for CCPCs),
       Treaty Network (~90-95 countries, Russia suspended Nov 2024)
-- [ ] Remaining G20: South Korea, Russia, Australia, Mexico, Indonesia,
-      Saudi Arabia, South Africa, Turkiye, Argentina - continuing
+- [x] South Korea - Residency (domicile/183-day rolling test, 2026 anti-
+      split-year rule), CFC (10% ownership, ETR <70% of top CIT rate
+      ~16.8%), Thin Cap (2:1/6:1 + 30% BEPS interest cap), Treaty Network
+      (97 countries per PwC Jan 2026, TIEAs with low-tax jurisdictions)
+- [x] Russia - Residency (Article 207, 183-day rolling 12-month test),
+      CFC (25%/10% ownership thresholds, lump-sum election option),
+      Thin Cap (Article 269, 3:1/12.5:1 ratios), Treaty Network (~84
+      treaties, Decree 585 suspended 38 "unfriendly" countries' reduced
+      rates in 2023, permanent denunciations by Netherlands/Denmark/
+      Latvia/Lithuania flagged, US suspension noted)
+- [ ] Remaining G20: Australia, Mexico, Indonesia, Saudi Arabia, South
+      Africa, Turkiye, Argentina - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
