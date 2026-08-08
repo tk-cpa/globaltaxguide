@@ -428,8 +428,16 @@ report NO CFC regime rather than forcing a template answer).
 
 ## Latin America + Caribbean anchor (Dominican Republic) complete
 
-- [ ] Next: Middle East - Qatar, Kuwait, Jordan, Oman, Bahrain, Israel -
-      continuing
+- [x] Qatar - Residency (territorial, source-based test), CFC (confirmed:
+      NONE), Thin Cap (3:1 ratio + commercial-purpose test), Treaty
+      Network (80+ countries via QFC, new 2026 UAE treaty ratification
+      and Trusted Entity WHT regime)
+- [x] Kuwait - Residency (no personal income tax, no individual test),
+      CFC (confirmed: NONE), Thin Cap (honestly flagged as conflicting:
+      PwC case-by-case discretion vs 2:1 ratio claim), Treaty Network
+      (20+ named countries, rapid 2024-2026 Gulf expansion: UAE/Qatar/
+      San Marino)
+- [ ] Next: Bahrain, Oman, Jordan, Israel - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
