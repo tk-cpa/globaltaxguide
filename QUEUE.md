@@ -1163,3 +1163,40 @@ Cayman Islands, Dominica, Grenada, Guyana, Haiti, Montserrat, Saint
 Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French),
 Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint
 Maarten, Suriname, Turks and Caicos.
+
+
+## Session update 6 - August 8, 2026 (continued, same session)
+
+1 more country verified and pushed: Bermuda. Running session total: 20
+countries.
+
+Real remaining placeholder count: 84 (85 minus this 1).
+
+- [x] Bermuda - Residency (traditionally no defined tax-residence
+      concept given no general income tax; new CIT Act introduces a
+      formal tax-residency concept specifically for large in-scope MNE
+      groups - deemed Bermuda-resident unless resident elsewhere under
+      management/control test), CFC: No (confirmed via Chambers and
+      Partners current guide; distinguished Bermuda not having its own
+      CFC regime from the CIT Act's separate provisions addressing
+      Bermuda entities that ARE CFCs under a foreign parent's rules,
+      e.g. the CFC Income Exclusion Election for US-owned entities -
+      these are not the same thing and were kept clearly separated),
+      Thin Cap (none for ordinary companies; arm's-length transfer
+      pricing serves this function for large in-scope CIT groups only),
+      Foreign Account Reporting (CRS participant, OECD Multilateral
+      Convention on Mutual Administrative Assistance covering 100+
+      countries, CbC reporting since fiscal years beginning 2016-01-01),
+      Treaty Network (historically NO income tax treaties - confirmed
+      via Appleby/Bloomberg Tax - relies on 40+ TIEAs instead; flagged
+      as a genuinely evolving situation post-2025 CIT introduction,
+      with Chambers noting Bermuda may develop an actual treaty network
+      over time and that CITA's treatment of treaty-country use by
+      non-treaty residents remains untested with zero filings completed
+      as of early 2026).
+
+Next up: continuing Caribbean batch - British Virgin Islands, Cayman
+Islands, Dominica, Grenada, Guyana, Haiti, Montserrat, Saint
+Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French),
+Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint
+Maarten, Suriname, Turks and Caicos.
