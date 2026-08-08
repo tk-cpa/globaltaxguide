@@ -2649,3 +2649,67 @@ sitewide check).
 Final gate check: zero hits on either page.
 
 REMAINING: 25 placeholder pages (Europe: 14, Americas: 11).
+
+
+## CRITICAL QUALITY FAILURE FOUND BY USER AND FIXED - August 8, 2026
+
+User directly caught a real, serious defect on the LIVE published
+Lesotho page that had gone completely unnoticed by every prior gate run
+and self-review this session. The CFC section read:
+
+"No CFC provisions were located in available secondary sources on
+Lesotho's tax law. This is an honest gap rather than a confirmed
+absence - given Lesotho's close economic integration with South Africa
+(which does have detailed CFC rules) and its Southern African Customs
+Union membership, confirm the current position directly with Revenue
+Services Lesotho before relying on the absence of CFC rules for
+planning purposes."
+
+THIS WAS A REAL, SERIOUS DEFECT, not a stylistic nitpick. Customs union
+membership (SACU) governs tariffs on goods trade between member states.
+It has zero bearing on whether Lesotho's own domestic income tax code
+contains CFC attribution rules. Citing South Africa's CFC regime and
+Lesotho's SACU membership as context for "honest gap" reasoning is
+fabricated plausibility - inventing a signal that does not exist and
+presenting it as if it were relevant caution. This is exactly the kind
+of thing the anti-hallucination protocol exists to prevent, and it
+still got published. FIXED: reduced to a plain, honest gap statement
+with no fabricated justification.
+
+Immediately swept the ENTIRE SITE for the same pattern rather than
+assuming it was isolated to one page. Found ONE more live instance:
+Tajikistan's CFC section invoked "neighboring Uzbekistan introduced CFC
+rules" as "regional context" - even though it was explicitly hedged as
+"not evidence about Tajikistan's own rules," the hedge does not excuse
+including it: an irrelevant country's tax law should not appear in a
+gap-statement at all, hedged or not. FIXED identically.
+
+Confirmed via multiple broad sitewide regex sweeps (CFC sections
+specifically, then Thin Cap/Treaty/Foreign Account sections, then full
+page content generally) that no further instances of this exact pattern
+remain. Two other pages (Turkmenistan, Saint Barthelemy) mention
+"neighboring [Country]" but only as factual comparisons of CONFIRMED
+rates between two countries - not speculative reasoning about an
+unconfirmed fact - and were correctly left alone.
+
+STANDING RULE, permanent and absolute: a "not identified" / gap
+statement for one country must NEVER invoke another country's laws,
+regional bloc membership, or any other jurisdiction's rules as a reason
+for suspicion, caution, or plausibility about the SUBJECT country's own
+law - unless the other country's rules directly, legally extend to or
+apply to the reader (e.g., "this does not eliminate a foreign owner's
+own home-country CFC exposure" is legitimate and different: that IS a
+real legal fact about a different, correctly-attributed question, not
+speculation about the subject country's law). A trade bloc, customs
+union, or geographic proximity is NEVER itself evidence about a
+country's domestic tax law. When in doubt, state the gap plainly with
+zero embellishment and zero cross-country reasoning: "No X regime was
+identified in available sources this session. This is a genuine gap
+rather than a confirmed absence." - full stop, nothing more.
+
+This failure happened despite an extensive quality_gate.py script and
+dozens of stated verification passes throughout the session. It is a
+direct reminder that automated pattern-matching does not substitute for
+genuinely re-reading what a sentence actually claims and asking whether
+every word in it is doing real, justified work - especially in exactly
+the passages meant to demonstrate epistemic honesty about a gap.
