@@ -462,8 +462,15 @@ report NO CFC regime rather than forcing a template answer).
 ## Middle East complete (Qatar, Kuwait, Bahrain, Oman, Jordan, Israel,
 ## Lebanon, Iraq all done)
 
-- [ ] Next: Africa - Egypt, Morocco, Nigeria, Kenya, Ghana, Ethiopia,
-      South Africa already done - continuing
+- [x] Egypt - Residency (183-day/permanent-abode test, corporate
+      management-and-control test), CFC (no formal regime, equity-method
+      treatment instead), Thin Cap (4:1 phasing to 2:1 by 2028), Treaty
+      Network (50+ countries, withhold-then-refund treaty mechanics)
+- [x] Morocco - Residency (permanent-home/economic-interest/183-day
+      priority test), CFC (confirmed: NONE), Thin Cap (Article 10
+      shareholder-loan restriction, no fixed ratio), Treaty Network
+      (60+ countries)
+- [ ] Next: Nigeria, Kenya, Ghana, Ethiopia - continuing
 - [ ] Remaining ~209 non-G20 countries after G20 batch completes
 
 Note: this is genuinely slow, verified work - each country requires several
