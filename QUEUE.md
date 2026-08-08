@@ -2774,3 +2774,75 @@ building new pages.
 REMAINING: 24 placeholder pages (Europe: 12, Americas: 11) - note
 Guernsey is now fully complete (rates fixed + narrative built), Europe
 count updated accordingly from prior 14.
+
+
+## LESOTHO DEFINITIVE FIX + SOURCING PAGE CORRECTIONS - August 8, 2026
+
+User rejected the fixed-but-still-inadequate Lesotho CFC language
+("No regime was identified... genuine gap") as unacceptable end-state
+content, with a clear, absolute standing instruction: every section
+must give a real, definitive answer - either the rules exist (explained)
+or they definitively do not (confirmed) - never a report of what was or
+wasn't found in "available sources."
+
+Went back to Lesotho and fetched the ENTIRE primary Income Tax Order
+1993 directly from LesLII (Lesotho's official legal database) rather
+than relying on secondary summaries. This resolved every open item on
+the page with genuine primary-sourced answers:
+
+- CFC: no classic CFC attribution regime exists, but Section 106 ("Tax
+  Havens") gives the Commissioner discretionary power to reverse the
+  tax effect of a transaction routing income through a tax-haven-
+  connected entity - a real, different, specifically-described
+  mechanism, not a gap.
+- Thin Capitalization: Section 36 sets a specific 3:1 debt-to-equity
+  ratio for non-money-lending resident companies.
+- Residency: Sections 5 and 6 give the exact statutory tests (182-day
+  individual test; three-part corporate test).
+- Treaty Network: resolved the UK-Lesotho treaty conflict definitively
+  using the UK Government's own officially-titled "terminated" archive
+  document as the most authoritative source available, overriding an
+  incorrect 2025 secondary source.
+- Foreign Account Reporting: tightened to a definitive statement rather
+  than a search-result report.
+
+Also fixed one more inadequate hedge in the Foreign Account Reporting
+section's phrasing sitewide-pattern-consistent-style (definitive
+statement instead of "was identified").
+
+STANDING RULE, absolute and permanent: no section on any page may ever
+present a research process outcome ("no sources show," "not identified
+in available sources," "according to two sources") as if it were the
+final answer. Every section must either (a) state the confirmed rule
+with its mechanism, or (b) state a definitive negative ("X does not
+exist under [statute/authority]") - and when neither is achievable from
+available sources, the correct action is to go find better sources
+(including fetching primary legislation directly, as done here for
+Lesotho) rather than publish the search status itself as content. This
+applies retroactively - every existing "not identified"/"genuine gap"
+page across the site should be revisited over time with deeper primary-
+source research rather than treated as acceptable permanent end states.
+
+## ABOUT / TRUSTED RESOURCES PAGE CORRECTIONS - August 8, 2026
+
+User flagged that the About page's "How the data is sourced" section
+named PwC specifically as "the majority" source, which reads as an
+admission of over-reliance on one secondary compiler rather than
+describing a real sourcing hierarchy. Rewrote it to describe sourcing
+in tiers without naming any single firm as dominant: national tax
+authorities and primary law first, Big Four/second-tier firm guides
+second, independent data compilations as further corroboration - with
+a pointer to the full Trusted Resources page.
+
+User also asked whether specific resources (KPMG's Corporate Tax Rates
+Table, Tax Foundation's global corporate rate compilation) were being
+used. Verified both are real, live, high-quality resources. Honest
+answer: neither was specifically pulled from by name during this
+session's country-page research (PwC, KPMG country-specific profiles,
+GSL, Freeman Law, Orbitax, and others were used instead) - but both are
+genuinely valuable and were added to trusted-resources.html: KPMG's
+table (OECD-Data-Explorer-sourced, most useful for OECD/major-economy
+cross-checks) alongside the existing KPMG Global entry, and Tax
+Foundation's compilation (226 jurisdictions, full Pillar Two/QDMTT/IIR/
+UTPR adoption status per jurisdiction, sourced from OECD/PwC/Bloomberg
+Tax) in a new "Data and comparison resources" section.
