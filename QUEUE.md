@@ -1092,3 +1092,41 @@ Saint Vincent and the Grenadines, Sint Maarten, Suriname, Turks and
 Caicos), then the 7 restored countries (Iran, Syria, Yemen, Belarus,
 Monaco, San Marino, Vatican City), then remaining Africa/Americas/
 Asia-Pacific/Europe/Middle East placeholders by region.
+
+
+## Session update 4 - August 8, 2026 (continued, same session) - Caribbean batch begins
+
+2 Caribbean countries verified and pushed: Anguilla, Antigua and
+Barbuda. Running session total: 18 countries.
+
+Real remaining placeholder count: 86 (88 minus these 2).
+
+- [x] Anguilla - REAL CORRECTION FOUND AND FIXED: the page previously
+      stated "0% - no VAT, sales tax, or GST" for Anguilla. This was
+      outdated - Anguilla introduced a 13% Goods and Services Tax (GST)
+      effective July 1, 2022, replacing several older indirect taxes.
+      Corrected the quickchart rate cell and one-sentence summary, not
+      just the narrative section. CFC: No (confirmed via GSL), Thin
+      Cap: not identified, Foreign Account Reporting (CRS since 2017,
+      CbC MCAA since 2019), Treaty Network (16 TIEAs named per GSL -
+      explicitly distinguished a UK "TIEA" from a lower-quality source's
+      claim of a full "Anguilla-UK tax treaty" with residency tie-
+      breaker language, since GSL's more specific classification is
+      TIEA not comprehensive DTA)
+- [x] Antigua and Barbuda - Residency (183-day test, or permanent-home
+      + 30-day + USD 20,000 flat-tax Permanent Residency Programme
+      route), CFC: No (confirmed via GSL + 2 other independent
+      sources), Thin Cap: not identified, Foreign Account Reporting
+      (CRS since 2018, MLI signed 2025 but not yet in force, CbC MCAA
+      since 2024 - flagged CBI program provides no US tax relief for
+      US persons), Treaty Network (12 DTTs confirmed via 2 independent
+      sources with consistent named-partner lists: 9 CARICOM neighbors
+      + Sweden, Switzerland, UAE - explicitly no US/UK/Germany/Canada/
+      France treaty, flagged as genuinely limited rather than assumed
+      broad by analogy to other Caribbean states)
+
+Next up: continuing Caribbean batch - Aruba, Bermuda, British Virgin
+Islands, Cayman Islands, Dominica, Grenada, Guyana, Haiti, Montserrat,
+Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin
+(French), Saint Pierre and Miquelon, Saint Vincent and the Grenadines,
+Sint Maarten, Suriname, Turks and Caicos.
