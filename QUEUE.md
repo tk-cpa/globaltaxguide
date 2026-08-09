@@ -2891,3 +2891,60 @@ gap language across the rest of the site, flagged as outstanding after
 the Lesotho fix, has NOT been done yet and should be treated as a real,
 undone task - not deprioritized simply because it wasn't immediately
 raised again.
+
+
+## Session log - August 08, 2026 (continued - sitewide quality sweep)
+
+- **Sitewide programmatic sweep run this session** (live fetch of all 229
+  country pages via GitHub Contents API, not raw-CDN which can cache stale):
+  - Placeholder count corrected again: **21 placeholder pages remain**
+    (not 98 as this file's prior session-start snapshot claimed - most of
+    that gap had already been closed in sessions not fully logged here).
+    Full current list: Congo Republic, Cuba, El Salvador, Guatemala,
+    Honduras, Nicaragua, Puerto Rico, Saint Vincent and the Grenadines,
+    Jersey, Liechtenstein, Isle of Man, Moldova, Georgia, Greenland,
+    Azerbaijan, Armenia, Faroe Islands, Saint Barthelemy, Sint Maarten,
+    Saint Martin (French), Falkland Islands.
+  - Banned hedge-phrase sweep found 2 violations, both now fixed:
+    **Haiti** and **Solomon Islands** both had "flagged as an honest gap"
+    (or equivalent research-status prose) in their CFC/Thin Cap/Foreign
+    Account Reporting sections. Fixed both by fetching the actual primary
+    income tax law (Haiti: Decret du 29 septembre 2005, Moniteur special
+    No.10; Solomon Islands: Income Tax Act Cap. 123, IRD consolidation to
+    14 Nov 2012) and reading the full text rather than re-searching
+    secondary summaries. Both now have real, cited, primary-law-sourced
+    CFC/Thin Cap/Foreign Account Reporting sections:
+    - Haiti: CFC = No (Art. 66 is a transfer-pricing anti-abuse rule in
+      the opposite direction, not a CFC regime); Thin Cap = no ratio rule,
+      but Art. 24(15) conditions interest deductibility on 15% WHT for
+      non-institutional lenders; Foreign Account Reporting = no individual
+      FBAR-equivalent, but Arts. 51/126 impose business-level foreign
+      portfolio/foreign-loan disclosure duties; Residency now cites
+      Arts. 4-5 directly instead of a secondary "one lower-quality source."
+    - Solomon Islands: CFC = No (Sec. 21(2) is a related-party arm's-length
+      transfer-pricing rule, Sec. 25 is a general anti-avoidance rule,
+      neither is a CFC regime); Thin Cap = Yes, Sec. 20(3) disallows
+      interest deduction on inter-company debt exceeding an arm's-length
+      loan-to-equity ratio as determined by the Commissioner (no fixed
+      numeric safe-harbor ratio in the statute itself).
+  - Link-integrity sweep (737 unique citation URLs sitewide, HTTP-checked
+    with retries and browser UA): 2 genuinely dead links found and fixed
+    - Cook Islands VAT guide PDF (persistent 503 on cookislands.gov.ck)
+      replaced with the live BTIB Business Trade and Investment Board tax
+      registration page; Montserrat ICTA PDF (persistent 503 on gov.ms)
+      replaced with the live AGC (Attorney General's Chambers) mirror.
+      5 other flagged URLs (IMF eLibrary, Lesotho LII, Appleby Global,
+      Lexology, Britannica) were confirmed as bot-blocking/WAF challenge
+      pages via retry with browser headers, not actually dead - left as-is
+      per the "403 on known-legitimate site" rule in MAINTENANCE.md 6.4.
+  - Rate-cell format sweep (all quickchart boxes sitewide against the
+    accepted `\d+(\.\d+)?%\*?` / Unverified / Varies pattern): 2 defects
+    found and fixed - United Kingdom had a non-standard 4th "CFC regime:
+    Yes" box (removed, reverted to the sitewide 3-box standard; the CFC
+    fact is already in the page body); Tuvalu's VAT/GST cell showed
+    "3-10%" (a real tiered rate but not a clean single percentage) -
+    changed the box to the accepted "Varies" token, kept the tiered detail
+    in the prose where it already was.
+
+- **Next up:** the 21 placeholder pages listed above, then a second pass
+  once those are done to re-verify nothing regressed.
