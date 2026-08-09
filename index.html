@@ -108,7 +108,6 @@ async function init() {
   const data = await res.json();
 
   document.getElementById('stat-total').textContent = data.length;
-  document.getElementById('stat-live').textContent = data.filter(c => c.status === 'published').length;
 
   const regions = ['All', ...new Set(data.map(c => c.region))];
   const filtersEl = document.getElementById('filters');
