@@ -3167,3 +3167,73 @@ raised again.
 
 - **17 of 21 placeholder pages now complete this session.** Final stretch:
   4 small Caribbean/Atlantic territories remain.
+
+
+## Session log - August 08, 2026 (continued - Sint Maarten, Saint Martin, Falkland Islands - PLACEHOLDER QUEUE COMPLETE)
+
+- Sint Maarten: worldwide taxation confirmed via OECD peer review + local
+  newspaper citing Article 49 ALL, over a lower-quality aggregator's
+  territorial claim. CFC No (own system predates NL's 2019 ATAD-driven CFC
+  regime and is unaffected by it, being a separate Kingdom constituent
+  country). Only 1 real bilateral DTT (Norway, 1989); relies on Kingdom-
+  internal BRK/BRNS for NL/Aruba/Curacao/BES relief. No treaty with French
+  St. Martin despite sharing the island.
+
+- Saint Martin (French side): five-year residence rule confirmed via
+  Article LO6314-4 CGCT and the official Collectivite de Saint-Martin tax
+  portal directly (primary source) - worldwide taxation of residents,
+  contradicting a lower-quality aggregator's territorial/remittance claim
+  which was disregarded. Unlike Saint-Barthelemy, Saint-Martin has its own
+  specific 2010 bilateral tax convention with the French State (confirmed
+  via Orbitax treaty text) rather than relying solely on French domestic
+  law. Flagged a very likely-wrong aggregator claim of "127 treaty
+  partners" as almost certainly confused with France's national network.
+
+- Falkland Islands: worldwide taxation confirmed via the Falkland Islands
+  Government's own official tax portal (residents declare all income incl.
+  overseas dividends/interest), contradicting a territorial-system claim
+  from an aggregator. CFC: none found; explicitly noted UK's own CFC
+  regime is UK national law and doesn't automatically extend to the
+  Falklands' separate tax system. Treaty network: primarily the 1997
+  UK-Falklands Order (SI 1997/2985, official UK legislation text used
+  directly), with Overseas-Territory access to UK's wider treaty network
+  possible but not automatic. Disregarded an unsupported "zero corporate
+  tax" marketing claim that contradicted the government's own published
+  21%/26% corporation tax rates.
+
+- **ALL 21 PLACEHOLDER PAGES NOW COMPLETE.** Full sitewide re-verification
+  run across all 229 live pages via GitHub Contents API: zero "build list
+  for this page" strings, zero banned hedge phrases, zero em-dashes
+  anywhere on the site.
+
+## NEW FINDING - CFC heading format non-compliance (43 pages, NOT part of
+## the placeholder queue - flagged for a future session, not yet started)
+
+- While verifying every CFC heading matches the required site format
+  (explicit "Yes" or "No" subheading per MAINTENANCE.md structure rules),
+  found 43 pages using non-compliant headings, the large majority reading
+  literally "Not identified" - which is the same class of research-status
+  language banned under MAINTENANCE 6.1, just not one of the exact
+  strings the earlier hedge-phrase sweep checked for. This was NOT
+  introduced this session; these are pre-existing pages from earlier
+  session batches.
+- Full list (43): Burkina Faso, Cabo Verde, Central African Republic,
+  Chad, Benin, Burundi, Comoros, Equatorial Guinea, Djibouti, Eritrea,
+  Gambia, Guinea-Bissau, Lesotho, Guinea, Liberia, Mali, Madagascar,
+  Mauritania, Mauritius, Niger, Sao Tome and Principe, Sierra Leone,
+  Somalia, Sudan, Togo, South Sudan, Suriname, Afghanistan, Bhutan,
+  Myanmar, North Korea, Tajikistan, Andorra, San Marino, Vatican City,
+  Iran, Palestine, Western Sahara, Somaliland, Saint Pierre and Miquelon,
+  Montserrat, Kiribati.
+- Three of these (Cabo Verde, Lesotho, Mauritius) already have a real
+  substantive non-Yes/No answer in the heading itself (e.g. Lesotho's
+  genuine "no classic CFC, but Income Tax Order Section 106 tax-haven
+  provision") - these only need the heading reformatted to Yes/No with
+  the real nuance preserved in prose, the same fix already applied this
+  session to Puerto Rico and the Faroe Islands.
+- The other ~40 say "Not identified" outright and need the full Haiti/
+  Solomon Islands treatment: fetch the actual primary tax law for each
+  country and determine a genuine Yes/No finding, not just a heading
+  rewrite.
+- This is flagged as a new, separate, large body of work - explicitly not
+  started this session pending direction on scope/priority.
