@@ -3434,3 +3434,27 @@ Ukraine, United Arab Emirates, Uruguay, Venezuela, Vietnam, Zambia, Zimbabwe.
 **Not yet started this pass:** the full CFC heading reformatting (150+
 pages), building the 20 missing jurisdictions, and the enhancement-tier
 items (treaty-network depth standard, personal-rate detail standard).
+
+
+## FBAR backfill running tally (update)
+
+**43 of 105 done.** Batch 3 (19 EU/EEA countries: Belgium, Ireland, Portugal,
+Greece, Poland, Czech Republic, Hungary, Bulgaria, Croatia, Estonia, Latvia,
+Lithuania, Luxembourg, Malta, Romania, Slovakia, Slovenia, Iceland, Austria)
+and batch 4 (South Korea, India, Mexico, Israel, Brazil, Indonesia, South
+Africa, Hong Kong) completed and verified clean (FBAR section present,
+exactly one Treaty Network heading, no duplicates).
+
+Notable findings surfaced during this batch (not just boilerplate):
+- **Israel is a real outlier on CRS timing** - implemented only since 2019,
+  confirmed directly via PwC, years later than peer economies despite its
+  2016 FATCA legislation later doubling as the CRS legal basis.
+- **Austria joined CRS in 2018**, a year later than most EU peers (most EU
+  states were 2017 first-wave; Austria was in the 2018 group specifically).
+- Domestic near-equivalent disclosure regimes correctly distinguished (not
+  conflated with true FBAR) for: Belgium (bank account disclosure line item),
+  South Korea (Specified Financial Transaction Information Act, KRW 500M
+  threshold), India (Schedule FA), Brazil (Capitais Brasileiros no Exterior
+  declaration, Central Bank, USD 100k threshold).
+
+**62 of 105 remaining.** Continuing in the same session.
