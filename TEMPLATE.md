@@ -304,3 +304,53 @@ Rate / VAT-GST Rate / Residency / CFC / Thin Capitalization / Foreign
 Bank Account Reporting / Treaty Network. (9 body sections, plus Official
 Tax Authority in the source-row, for 10 total data points - hero stat on
 index.html should be updated again once this rollout is complete.)
+
+
+## TWO NEW SECTIONS + FINAL SECTION ORDER (per user request)
+
+### Tax Year & Key Deadlines (new, placed 2nd - right after Tax System)
+
+Heading: exactly `<h2>Tax Year & Key Deadlines</h2>`
+
+Content: (1) the tax year itself - calendar year is the global default, but
+flag genuine exceptions clearly (e.g. UK 6 April-5 April, Japan 1 April-31
+March for corporate, Australia 1 July-30 June); (2) 2-4 genuinely key dates
+- the main individual filing/payment deadline, any extended deadline if
+one commonly exists, and the main corporate filing deadline if materially
+different from the individual one. This is NOT a full tax calendar -
+resist the urge to list every provisional-payment date. If a fact doesn't
+help someone plan around it in a five-second scan, leave it out.
+
+### Foreign Tax Credit (new, placed 10th - immediately before Treaty
+### Network, since both are double-tax relief mechanisms)
+
+Heading: exactly `<h2>Foreign Tax Credit</h2>`
+
+Content must state: (1) whether a foreign tax credit regime exists at all;
+(2) if yes, whether it's available to individuals, corporations, or both -
+this is the same individual/corporate scope-clarity standard already
+mandatory for CFC sections, applied here too; (3) the basic mechanism in
+one or two sentences (ordinary credit capped at domestic tax on the same
+income vs. full/exemption method vs. no credit at all); (4) if a specific,
+well-known form exists for claiming it (e.g., US Form 1116 for individuals
+/ Form 1118 for corporations), name it briefly - this does not need to
+become a forms-and-instructions guide, one clause is enough.
+
+### FINAL section order, updated
+
+1. Tax System
+2. Tax Year & Key Deadlines
+3. Corporate Tax Rate
+4. Personal Tax Rate
+5. VAT / GST Rate
+6. Residency
+7. CFC (Controlled Foreign Company) Rules
+8. Thin Capitalization
+9. Foreign Bank Account / Foreign Financial Asset Reporting
+10. Foreign Tax Credit
+11. Treaty Network
+(Official Tax Authority remains in the source-row, not a body section)
+
+11 body sections + 1 source-row item = 12 total data points per page once
+both new sections are rolled out. Hero stat and homepage explainer grid
+will need a further update once rollout is substantially complete.
