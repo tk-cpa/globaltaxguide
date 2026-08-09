@@ -4179,3 +4179,24 @@ user request - resuming in a future session).
 
 ## Structural uniformity: confirmed 100% (fixed earlier this session - UK
 and Aruba were the only 2 outliers, both resolved).
+
+
+## Official Tax Authority rollout - resumed after CFC fix, batches 6-8 (177/229, 77%)
+
+Batch 6 (29): all the African countries already researched this session
+for CFC purposes (Algeria, Benin, Burkina Faso, Burundi, Cameroon, CAR,
+Chad, Comoros, Congo DRC, Djibouti, Equatorial Guinea, Eritrea, Gambia,
+Guinea, Guinea-Bissau, Haiti, Lesotho, Liberia, Madagascar, Mali,
+Mauritania, Mauritius, Niger, Sao Tome and Principe, Sierra Leone, Somalia,
+Sudan, South Sudan, Togo).
+Batch 7 (8): Crown Dependencies/offshore centers (Cayman DITC, Bermuda Tax
+Commissioner, BVI ITA - confirmed via Ogier/Lexology, Jersey Revenue
+Jersey, Guernsey Revenue Service, Isle of Man Income Tax Division,
+Gibraltar Income Tax Office, Monaco Direction des Services Fiscaux).
+Batch 8 (12): OECS Caribbean + Central America (Belize BTS - domain
+bts.gov.bz confirmed via direct search, Antigua/Dominica/Grenada/St Kitts/
+St Lucia/St Vincent Inland Revenue Departments, Guyana GRA, El Salvador
+DGII, Honduras SAR, Nicaragua DGI, Cuba ONAT).
+
+**177 of 229 done (77%). 52 remaining**, mostly Pacific island nations and
+remaining small/limited-recognition territories. Continuing.
