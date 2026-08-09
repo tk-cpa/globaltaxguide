@@ -3313,3 +3313,47 @@ much larger body of work (primary-law research needed for ~40 countries'
 CFC status) and was intentionally not started here, since it is a different
 category of issue (missing findings on one specific sub-topic) from the
 "gave up on entire page due to language" pattern this sweep targeted.
+
+
+## Session log - August 08, 2026 (continued - North Korea full re-verification + CFC list start)
+
+- **North Korea: fully re-verified this session** (not just the treaty section
+  from the prior pass). Re-checked Corporate/Personal/VAT rates, Residency,
+  CFC, Thin Cap, and Foreign Account Reporting all against the primary DPRK
+  statutory text (WIPO Lex - Law on Foreign Investment, and separately the
+  Law on Foreign-Invested Business and Foreign Individual Tax). Found and
+  added a real new detail that was missing: Article 10's separate 20%/10%
+  withholding rate on dividends/interest/rent/royalties (distinct from the
+  25%/14%/10% enterprise income tax rate on business profits already on the
+  page), plus the specific 3-year exemption + 2-year 50% reduction terms for
+  qualifying 10+-year investments. Thin Capitalization upgraded from "genuine
+  gap, not confirmed" to "genuine absence, confirmed against both primary
+  statutes" - a materially stronger and more honest claim, backed by actually
+  reading both governing statutes for that specific point rather than a
+  single search pass.
+
+## NEW FINDING - missing jurisdictions (not yet addressed)
+
+- Spot-checked the countries.json index (229 entries) against a mental
+  checklist of the world's countries/territories and found at least one
+  clear, significant gap: **Curacao** is missing entirely - a major Dutch
+  Caribbean jurisdiction, referenced repeatedly during this session's own
+  research on Sint Maarten and Saint Martin (French) without anyone noticing
+  it wasn't in the index.
+- Likely also missing (not yet confirmed): the French overseas departments
+  (Guadeloupe, Martinique, French Guiana, Reunion, Mayotte - DOMs distinct
+  from Saint Barthelemy/Saint Martin's autonomous COM status), US territories
+  beyond Puerto Rico (Guam, American Samoa, US Virgin Islands, Northern
+  Mariana Islands), Saint Helena/Ascension/Tristan da Cunha, Svalbard, Aland
+  Islands, Norfolk Island, Christmas Island, Cocos (Keeling) Islands, Tokelau.
+- A rigorous cross-check against a comprehensive reference list (e.g. ISO
+  3166-1 plus commonly-tracked dependent territories) has NOT yet been done -
+  this was a quick manual scan, not exhaustive. Flagged as a new queue item:
+  full completeness audit of countries.json against the world.
+
+## Starting: 43-country CFC-heading-format list (from earlier finding)
+
+Beginning primary-law research pass on the ~40 countries whose CFC heading
+says "Not identified" (list logged earlier in this file). Three of the 43
+(Cabo Verde, Lesotho, Mauritius) already have real substantive findings and
+only need heading-format fixes, already noted separately.
