@@ -258,3 +258,49 @@ a normal read. Going forward: after drafting any prose sentence involving
 first-time reader would, not as the person who already knows what it's
 supposed to mean. If a sentence could be misread as a universal claim,
 rewrite it to be unambiguous, even at the cost of being slightly longer.
+
+
+## NEW SECTION - Tax System Basis (added per direct user request)
+
+New mandatory section, placed FIRST in the country body (before Corporate
+Tax Rate), since it's the foundational fact everything else depends on.
+
+Heading: exactly `<h2>Tax System</h2>`
+
+Content must cover TWO distinct things in the same section:
+
+1. **Basis of taxation**: territorial (only local-source income taxed),
+   worldwide (residents taxed on all income regardless of source), or
+   citizenship-based (the rare case - currently only the US and Eritrea
+   confirmed - where citizenship alone, not residence, creates a tax
+   filing obligation). State this plainly as the first sentence. Many
+   countries are genuinely hybrid (e.g., worldwide for residents,
+   territorial for non-residents) - say so rather than forcing a single
+   label where the reality is mixed.
+
+2. **Assessment mechanism**: how the tax actually gets collected and
+   finalized. DO NOT force a false binary ("self-assessment" vs
+   "administrative assessment") - most real systems are a genuine mix of:
+   - Withholding at source (employer withholding on wages, bank withholding
+     on interest, etc.)
+   - Taxpayer self-filing (a return the taxpayer prepares and submits)
+   - Authority-issued assessment notice (a formal document from the tax
+     authority - Steuerbescheid in Germany, avis d'imposition in France,
+     Notice of Assessment in Canada/Australia - confirming or adjusting
+     the taxpayer's own calculation)
+   Describe the ACTUAL mechanism for that specific country - which of
+   these elements exist, and how they combine - rather than picking one
+   label. This is a genuinely new research item per country, not just
+   restating existing content, and should be sourced properly like any
+   other fact on the page.
+
+This section should be BRIEF - 2-4 sentences covering both points. It is
+context-setting for everything that follows, not a full treatise.
+
+## Section order updated
+
+Tax System now comes FIRST: Tax System / Corporate Tax Rate / Personal Tax
+Rate / VAT-GST Rate / Residency / CFC / Thin Capitalization / Foreign
+Bank Account Reporting / Treaty Network. (9 body sections, plus Official
+Tax Authority in the source-row, for 10 total data points - hero stat on
+index.html should be updated again once this rollout is complete.)
