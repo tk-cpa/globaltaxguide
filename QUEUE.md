@@ -4076,3 +4076,47 @@ the legitimate extra FBAR section for countries with a genuine domestic
 regime + 6 with a legitimate extra "Political and Economic Status" section
 for disputed/limited-recognition territories) were confirmed structurally
 correct - no further action needed on those.
+
+
+## CFC heading consistency - MASSIVE progress (user's repeated complaint addressed at scale)
+
+User raised this concern twice: some pages spell out "CFC (Controlled
+Foreign Company)," some just say "CFC," some have it in odd combined
+headings. Did a full sitewide audit and fixed it at scale rather than
+one country at a time.
+
+**Key discovery: 91 of the ~106 non-conforming pages already had a clear,
+unambiguous Yes/No answer in the EXISTING prose - they just needed the
+HEADING reformatted, not new research.** Verified this by reading every
+single one before bulk-editing (not just trusting a keyword classifier):
+- 47 clear-verdict pages fixed in first bulk pass (44 No + 3 Yes)
+- 44 more fixed in second pass (my initial keyword classifier missed these
+  due to phrasing variety, but manual read confirmed all had clear answers)
+- 15 more fixed (local-regime-name headings like "CFC Rules (FAPI)" for
+  Canada, "(Subpart F / NCTI)" for US, "(NOKUS)" for Norway, "(Hinzurechnungsbesteuerung)"
+  for Austria/Germany, "(REFIPRES)" for Mexico, "(Transparencia Fiscal
+  Internacional)" for Spain, "(Section 9D)" for South Africa - all
+  reformatted to the Yes/No standard with local names preserved in prose)
+
+**Total: 106 pages reformatted to the standard "CFC (Controlled Foreign
+Company) Rules: Yes" / ": No" heading in this session alone**, all
+verified via post-write sitewide sweep (0 remaining non-standard headings
+found among the reformatted set).
+
+**18 pages needed genuine new primary-law research** (were showing "Not
+identified" with no real content): fixed so far this pass - Togo (CGI
+official text, TP mechanism confirmed), Niger (regional CEMAC/UEMOA pattern,
+confirmed via official DGI source), Sierra Leone (2016/2021 Finance Act
+evolution, official text), South Sudan (Taxation Act 2009, official NRA
+text, corroborated by Addleshaw Goddard/EY/KPMG silence on CFC), Sudan
+(genuine no-provision-found after real search, limited public documentation
+acknowledged honestly), Suriname (Dutch-language primary source confirms no
+TP regulation exists yet either, plus a live 2026 draft Transfer Pricing Law
+development flagged).
+
+**Remaining needing genuine research: Sao Tome and Principe, Somalia,
+Afghanistan, Bhutan, Myanmar, Tajikistan, San Marino, Iran, Palestine,
+Montserrat, Saint Pierre and Miquelon, Kiribati (12 pages).**
+
+Continuing without pausing for status updates, per explicit user
+instruction to keep going without stopping.
