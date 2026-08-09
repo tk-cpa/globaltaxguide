@@ -3876,3 +3876,68 @@ This list should also be treated as a floor, not a ceiling - the detection
 method is a keyword sweep and may have missed genuine ambiguous cases with
 unusual phrasing, similar to how earlier sweeps this session initially
 missed real issues until manually reviewed.
+
+
+## Session log - LLM/SEO improvements + Trusted Resources expansion + Cameroon fix
+
+**Cameroon CFC fixed**: replaced weak "Per PwC's Cameroon summary, there are
+no special provisions for CFCs" hedge-attribution with the actual primary-
+source finding (CGI Article 19, transfer pricing not CFC, already confirmed
+earlier this session) - user correctly called out that attributing a
+factual finding to "per PwC" instead of stating it as researched fact with
+PwC as a supporting citation is weak practice.
+
+**Trusted Resources page**: fixed the SAME outdated "not independently
+verified" philosophy language already corrected on about.html earlier this
+session (this page had an independent copy of the same stale text). Added
+3 new confirmed-free second-tier sources: BDO World Wide Tax News (rate-
+change tracking + Pillar Two tracker across 160+ jurisdictions), BDO Tax
+Publications ("Doing Business In..." country guides), RSM International
+Tax Planning Guide.
+
+**LLM/SEO honest audit performed** (user asked directly "how are we doing"
+- gave a real answer, not a reassurance):
+- Already solid: llms.txt (16KB, AI-crawler-oriented), robots.txt
+  (explicitly allows GPTBot/ClaudeBot/PerplexityBot/Google-Extended/CCBot/
+  ChatGPT-User by name), sitemap.xml (234 URLs), basic title/description/
+  canonical tags on every page.
+- Real gaps found and FIXED this pass: zero schema.org structured data
+  anywhere on the site, zero Open Graph tags, no explicit author/publisher
+  entity connecting content back to tk.cpa.
+
+**Schema.org + Open Graph rollout - sitewide, all 229 country pages**:
+Added Article-type JSON-LD (author: tk.cpa Organization, publisher: Global
+Tax Guide Organization, dateModified from each page's own "last verified"
+date, mainEntityOfPage) plus Open Graph and Twitter Card meta tags to every
+country page. Explicitly verified NO last names appear anywhere in the
+schema markup (hard rule compliance) - only "tk.cpa" as the org name.
+
+Methodology notes:
+- Built and validated the template on Germany first (tested JSON validity
+  before any bulk action).
+- First rollout attempt used 6 parallel workers and produced 159 apparent
+  "errors" - investigated before assuming success/failure either way;
+  confirmed via a direct sequential retest that these were GitHub API rate-
+  limiting artifacts, not real bugs (the single sequential retest of a
+  "failed" page succeeded immediately). Re-ran the full batch sequentially
+  with per-page retry logic (3 attempts) instead of parallel - 158/159
+  succeeded on retry.
+- The one genuine remaining case (Western Sahara) had a real, separate,
+  previously-undiscovered bug: it used an absolute stylesheet path
+  (/assets/styles.css) instead of the relative path (../assets/styles.css)
+  every other country page uses - fixed this alongside adding its schema
+  block.
+- Final verification: re-fetched all 229 pages fresh and confirmed (a) zero
+  pages missing schema.org markup, (b) zero pages with invalid/malformed
+  JSON-LD (parsed every single one programmatically).
+- Live-site deployment lag observed again (same phenomenon as the earlier
+  Benin/Czech Republic false-alarm cache issue) - given the volume of
+  pushes in this batch (229 files), took approximately 15-20 seconds for
+  GitHub Pages to fully propagate versus the usual few seconds for a
+  single-page edit. Confirmed resolved via direct live-site recheck before
+  reporting success.
+
+**Not yet started**: the "official tax authority link per country" request
+(e.g., IRS for the US, CRA for Canada, HMRC for the UK) - this is a new,
+separate, large backlog item (229 pages) that has not been scoped or
+started yet, flagged here so it isn't lost.
