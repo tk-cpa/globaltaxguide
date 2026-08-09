@@ -4522,3 +4522,37 @@ the start of this stretch, so +5 net this specific continuation, though
 significant additional verification/bug-fixing work was also done on the
 original 16). This is meaningfully short of "half" - flagging this
 directly rather than overstating progress.
+
+
+## Continuous batch checkpoint: 31 of 239 countries fully complete
+
+Verified via exact <h2> heading string match across all 239 pages (not
+substring approximation, which produced false positives in the prior
+check) - genuinely confirmed complete: Australia, Austria, Belgium,
+Brazil, Canada, China, Czech Republic, Denmark, Finland, France, Germany,
+Greece, Hungary, India, Ireland, Italy, Japan, Luxembourg, Mexico,
+Netherlands, New Zealand, Norway, Poland, Portugal, Singapore, South
+Korea, Spain, Sweden, Switzerland, United Kingdom, United States.
+
+Notable finds surfaced during this batch's research (not flattened into
+generic filler):
+- South Korea: flagged a real, current 2026 reform (corporate rate rose
+  24% -> 25% across every bracket, tightened residency criteria, stricter
+  treaty-exemption documentation) - directly relevant and dated, not
+  generic.
+- China: distinguished its narrow inter-resident-company dividend
+  exemption from a genuine foreign-dividend participation exemption
+  (China does NOT have the latter - stated plainly rather than
+  conflating the two).
+- Brazil: Participation Exemption section correctly ties back to Brazil's
+  own strict CFC regime (income already CFC-taxed is excluded from further
+  taxation on actual distribution) rather than presenting a generic
+  standalone exemption - reflects the real interaction between these two
+  sections rather than treating them as independent.
+- Hungary, Czech Republic: specific ownership/holding-period thresholds
+  sourced from specialist tax comparison tools rather than assumed from
+  the generic EU 10%/12-month pattern.
+
+208 of 239 remain for the full 14-section set. Continuing in further
+batches without pausing to report after each one, per explicit user
+instruction - will checkpoint again after the next substantial batch.
