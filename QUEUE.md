@@ -3851,3 +3851,28 @@ specific list, plus the sweep methodology itself should be re-run
 periodically since new pages get added/edited.
 
 Continuing without pausing for status reports.
+
+
+## CFC scope-clarity fixes continued (5 of 29 done)
+
+Added: Colombia (confirmed BOTH individuals and legal entities covered by
+the ECE regime, Estatuto Tributario Articles 882-893, with different
+attribution mechanics per taxpayer type). Czech Republic - IMPORTANT
+DIFFERENT FINDING: confirmed via Grant Thornton's direct statutory analysis
+that Czech CFC rules apply ONLY to corporate/legal-entity taxpayers -
+individuals owning a foreign company directly (no Czech corporate entity in
+the chain) are entirely OUTSIDE the regime. This is a genuinely different
+and important answer from Peru/Chile/Colombia (which cover both) -
+demonstrates exactly why this audit item matters: the real answer varies
+country to country and cannot be assumed or left generic.
+
+**5 of 29 flagged pages fixed: Peru, Chile, Colombia, Czech Republic** (plus
+Peru was the originating fix). **24 remaining**: Cameroon, Congo (DRC),
+Croatia, Cyprus, Denmark, Egypt, Estonia, Ethiopia, Gibraltar, Iceland,
+Ireland, Italy, Jordan, Kenya, Maldives, Malta, Namibia, Nepal, Nigeria,
+Pakistan, Romania, Senegal, Tanzania, Tuvalu, Ukraine, Yemen.
+
+This list should also be treated as a floor, not a ceiling - the detection
+method is a keyword sweep and may have missed genuine ambiguous cases with
+unusual phrasing, similar to how earlier sweeps this session initially
+missed real issues until manually reviewed.
