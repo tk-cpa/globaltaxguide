@@ -170,3 +170,31 @@ to companies only, or also to individual/entrepreneur borrowers?), Foreign
 Bank Account Reporting (individuals only, or entities too?), and Residency
 (the two tests - individual and corporate - must each be stated separately
 and not conflated).
+
+
+## NEW STANDARD - Official Tax Authority link per country (added per user request)
+
+Every country page should include the name and official website of that
+country's main tax authority (or authorities, where there are separate
+bodies for direct vs. indirect tax) - e.g. IRS for the US, CRA for Canada,
+HMRC for the UK. This is separate from the "Sources" citation list (which
+covers secondary compilations like PwC/EY/BDO) - the tax authority link is
+the actual government body a reader would contact or file with.
+
+**Placement**: a new line at the top of the source-row, before "Sources:",
+formatted as:
+`Official tax authority: [Full Name] ([acronym if applicable]) - [domain,
+not full URL, to keep it scannable]`
+
+Example (United States):
+`Official tax authority: Internal Revenue Service (IRS) - irs.gov`
+
+Where a country has genuinely separate authorities for direct and indirect
+tax (e.g., a country with a separate customs/VAT authority), name both.
+Only include authorities that are real and independently confirmed - do not
+guess a plausible-sounding name/acronym.
+
+This is a large rollout across all 229 country pages - being done in
+batches, prioritizing major/well-documented economies first where the
+correct authority name is easy to confirm with high confidence, then
+working through the rest.
