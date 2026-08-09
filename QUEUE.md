@@ -4896,3 +4896,20 @@ confidence, rather than presenting uniform certainty across very
 non-uniform jurisdictions.
 
 89 remain. Continuing immediately.
+
+
+## 176/249 complete - crossed 70%
+
+Added Ghana, Senegal, Cote d'Ivoire, DRC, Gabon, Ethiopia, Mauritius (7)
+and Guernsey, Jersey, Isle of Man, Cayman Islands, BVI, Turks and Caicos,
+Anguilla, Montserrat, Bermuda, Eritrea (10) - 17 more this stretch. All
+verified: zero duplicate headings, zero attribution-noise instances.
+
+Notable: Bermuda's genuinely major 2025 introduction of a 15% Pillar
+Two-aligned Corporate Income Tax for large multinational groups correctly
+threaded through all 6 new sections (not just noted once and ignored
+elsewhere) - Tax System, Tax Year, PE, Hybrid, Participation, and FTC
+sections all reflect the CIT's actual scope-limited nature (in-scope
+groups only, general no-income-tax position otherwise unchanged).
+
+73 remain. Continuing immediately.
