@@ -198,3 +198,63 @@ This is a large rollout across all 229 country pages - being done in
 batches, prioritizing major/well-documented economies first where the
 correct authority name is easy to confirm with high confidence, then
 working through the rest.
+
+
+## POLICY REVERSAL #1 - CFC heading format (per direct user correction)
+
+The earlier "Yes"/"No" in the heading itself is REVOKED. User does not want
+verdicts baked into section titles. New standard:
+
+Heading is always exactly: `<h2>CFC (Controlled Foreign Company) Rules</h2>`
+- no "Yes", no "No", no verdict of any kind in the heading text.
+
+The actual finding goes in the FIRST SENTENCE of the prose immediately
+below, stated plainly: "[Country] has no CFC regime." or "[Country] has the
+following CFC regime: [description]." Do not bury the verdict later in the
+paragraph - it should be the very first thing a reader sees under the
+heading, just not in the heading itself.
+
+## POLICY REVERSAL #2 - Foreign Bank Account / Foreign Financial Asset
+## Reporting section (per direct user correction)
+
+The earlier policy ("only include this section if a genuine domestic
+regime exists, omit entirely otherwise") is REVOKED. New standard:
+
+**This section is MANDATORY on every single country page, with no
+exceptions.** If a genuine domestic regime exists, describe it in full
+(threshold, filing body, penalties, primary source). If no such regime
+exists, the section still appears, with a plain, direct statement: "No
+foreign bank account or foreign financial asset reporting regime exists in
+[Country]." Do not omit the section either way - the point is 100%
+structural consistency across every page, not selectively hiding a
+"boring" answer.
+
+This does NOT reverse the OTHER part of the earlier FBAR correction: this
+section must still never contain US-specific content (FinCEN Form 114,
+Form 8938, "US citizens must file...") on any non-US country's page. That
+part of the earlier fix stands. What's reversed is only the
+include/omit-the-whole-section decision - the section itself is now always
+present, the US-boilerplate ban within it remains in force.
+
+**Newly confirmed additional genuine domestic regimes** (missed in the
+original sweep, found via direct user tip-off): Kazakhstan (National Bank
+of Kazakhstan account-registration and quarterly reporting requirement
+under the Law "On Currency Regulation and Currency Control" - a resident
+opening a foreign bank account must obtain an account number from the NBK
+and, for legal entities, file quarterly reports). This is now the 12th
+country with a genuine regime. Given this was missed despite an earlier
+supposedly-thorough sweep, treat the current 12-country "genuine regime"
+list as provisional, not exhaustive - a fresh per-country check is
+warranted rather than assuming the existing list is complete.
+
+## Lesson logged: writing clarity self-check
+
+User caught a real, embarrassing bug: Afghanistan's CFC section, as
+originally written, read (on a plain reading) as if claiming ALL foreign
+companies worldwide are taxed by Afghanistan - a sentence that was
+technically defensible if parsed very carefully but genuinely confusing on
+a normal read. Going forward: after drafting any prose sentence involving
+"foreign companies" or similar broad-sounding phrases, re-read it as a
+first-time reader would, not as the person who already knows what it's
+supposed to mean. If a sentence could be misread as a universal claim,
+rewrite it to be unambiguous, even at the cost of being slightly longer.
