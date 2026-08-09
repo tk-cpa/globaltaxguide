@@ -4556,3 +4556,33 @@ generic filler):
 208 of 239 remain for the full 14-section set. Continuing in further
 batches without pausing to report after each one, per explicit user
 instruction - will checkpoint again after the next substantial batch.
+
+
+## Session-stretch final checkpoint: 36 of 239 countries fully complete
+
+Verified via exact <h2> heading match, all 6 new sections, plus a
+duplicate-heading check across the full complete set (clean - zero dupes).
+
+Full list of 36: Australia, Austria, Belgium, Brazil, Canada, China, Czech
+Republic, Denmark, Finland, France, Germany, Greece, Hungary, India,
+Ireland, Israel, Italy, Japan, Luxembourg, Mexico, Netherlands, New
+Zealand, Norway, Poland, Portugal, Russia, Saudi Arabia, Singapore, South
+Africa, South Korea, Spain, Sweden, Switzerland, United Arab Emirates,
+United Kingdom, United States.
+
+Verified Russia's pre-existing genuine FBAR content (Federal Law 173-FZ
+currency control regime, added earlier this session) was preserved intact
+- not duplicated or overwritten - when Hybrid Entity Rules was inserted
+around it this stretch.
+
+South Africa notable finding: flagged a real source discrepancy on the
+capital gains participation exemption threshold (one source says 10%, a
+specialist expat-tax source says 20% held 18 months) rather than silently
+picking one - told the reader to confirm the current precise figure.
+
+**203 of 239 remain** for the full 14-section set. This stretch covered
+essentially the full G20, EU-27 core economies, and major Middle
+East/African economies at full depth. Remaining work skews toward smaller
+and less-documented jurisdictions, which will require more individual
+verification per page and correspondingly slower throughput per country
+than this batch achieved.
