@@ -3071,3 +3071,26 @@ raised again.
 - **Remaining placeholder pages (12):** Liechtenstein, Isle of Man,
   Moldova, Georgia, Greenland, Azerbaijan, Armenia, Faroe Islands, Saint
   Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
+
+
+## Session log - August 08, 2026 (continued - Liechtenstein)
+
+- Liechtenstein: clean sourcing, no conflicts across PwC, Chambers and
+  Partners, Moore Global, GSL, and OECD residency PDF. Residency = SteG
+  Art. 2(1)(b), habitual abode >6 months. CFC: No, confirmed independently
+  by 3+ authoritative sources; passive-income switch-over rule (foreign
+  dividends/gains taxable if foreign entity is low-taxed AND >50% passive
+  income) noted as the actual anti-deferral mechanism in place of CFC.
+  Thin cap: none; annual safe-harbour interest rates published by the
+  tax administration instead. Treaty network: 23 DTTs listed by name via
+  PwC (most current/authoritative source used over conflicting treaty-count
+  claims elsewhere), no US DTT but a US TIEA exists. CRS from 2014/2017,
+  CbC MCAA from 2016/2017.
+
+- **Remaining placeholder pages (11):** Isle of Man, Moldova, Georgia,
+  Greenland, Azerbaijan, Armenia, Faroe Islands, Saint Barthelemy, Sint
+  Maarten, Saint Martin (French), Falkland Islands.
+
+- **10 of 21 placeholder pages now complete this session** (El Salvador,
+  Guatemala, Honduras, Nicaragua, Cuba, Republic of Congo, Puerto Rico,
+  Saint Vincent and the Grenadines, Jersey, Liechtenstein). Halfway point.
