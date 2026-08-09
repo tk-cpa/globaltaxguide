@@ -3821,3 +3821,33 @@ Miquelon, Montserrat, Kiribati - plus Cabo Verde, Lesotho, Mauritius
 (heading-format-only).
 
 Continuing.
+
+
+## NEW STANDARD - CFC scope clarity (individual vs corporate vs both)
+
+User flagged directly on Peru's page: the CFC section said "a Peruvian
+resident" without specifying whether that means individuals, corporations,
+or both - genuinely ambiguous. Fixed Peru (confirmed: applies to BOTH,
+sourced from a specialist Peruvian tax-law analysis directly addressing
+individual investors via offshore vehicles, corroborated by Gestion). Added
+this as a MANDATORY requirement in TEMPLATE.md going forward: every CFC
+"Yes" section must explicitly state individual/corporate/both scope, and
+the same specificity requirement extends to Thin Cap, FBAR, and Residency
+sections (which have the same individual-vs-corporate ambiguity risk).
+
+**Sitewide sweep for this specific gap**: programmatically checked all CFC
+"Yes"/real-regime sections (after filtering out false positives - pages
+that already specify scope with different wording, and pages with a bare
+heading but "No" answer in the prose where scope doesn't apply). Found 29
+genuine ambiguous pages after filtering: Cameroon, Chile, Colombia, Congo
+(DRC), Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Ethiopia,
+Gibraltar, Iceland, Ireland, Italy, Jordan, Kenya, Maldives, Malta,
+Namibia, Nepal, Nigeria, Pakistan, Romania, Senegal, Tanzania, Tuvalu,
+Ukraine, Yemen.
+
+**Fixed so far: Peru, Chile** (both confirmed via primary-source research
+to apply to BOTH individuals and corporate entities). 27 remaining on this
+specific list, plus the sweep methodology itself should be re-run
+periodically since new pages get added/edited.
+
+Continuing without pausing for status reports.
