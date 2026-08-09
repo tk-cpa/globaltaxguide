@@ -416,3 +416,38 @@ own coverage of low-tax entities).
 points once fully rolled out. Hero stat and homepage explainer grid need
 another update pass once this is substantially complete - do not update
 prematurely while most pages still show the old, smaller count.
+
+
+## *** CRITICAL STYLE RULE - NO INLINE SOURCE ATTRIBUTION IN BODY PROSE ***
+## (per direct, strongly-worded user correction)
+
+BANNED PATTERNS in body prose, effective immediately, retroactively being
+removed sitewide:
+- "Confirmed via [source]:"
+- "Confirmed directly via [source]:"
+- "confirmed via a specialist [x] source"
+- "per [source]"
+- Any inline phrase in the body text that names where a fact came from or
+  vouches for the source's credibility
+
+WHY: This site IS the trusted source. Citations belong in ONE place - the
+source-row at the bottom of each page, where they already exist. Repeating
+"confirmed via X" in every paragraph is not rigor, it's noise - it reads
+as if the page itself doesn't trust its own facts and needs to keep
+proving its homework sentence by sentence. State facts directly and
+plainly, the way an authoritative reference does. The verification still
+happens - it just doesn't need to be narrated in the prose.
+
+CORRECT: "Curacao's corporate profit tax is 22%, with a reduced ~2-3%
+effective rate for qualifying e-zone companies."
+
+WRONG: "Confirmed via a specialist Curacao tax source: the corporate
+profit tax is 22%, with a reduced effective rate of approximately 2-3%
+for qualifying e-zone companies."
+
+This applies to ALL body sections (Tax System, Corporate/Personal/VAT,
+Residency, PE, CFC, Thin Cap, Hybrid Entity, FBAR, Participation
+Exemption, FTC, Treaty Network) - write every fact as a direct, plain
+statement. Genuine uncertainty or a real source conflict can still be
+flagged plainly ("sources conflict on X" or "confirm current figure
+directly") - that's different from narrating routine verification.
