@@ -106,3 +106,39 @@ practice's client base.
    sitewide - lower priority, since these are enhancement passes on pages
    that otherwise already function, versus items 1-4 which are structural
    gaps or outright missing content.
+
+
+## CFC section: no generic "other countries have their own rules" filler
+
+A recurring bad pattern: adding a caveat like "this doesn't override CFC
+rules that may exist in a beneficial owner's home jurisdiction (e.g., US
+Subpart F/GILTI)" to a CFC section, as a supposedly helpful disclaimer.
+DO NOT do this by default. It is an obvious universal truth that applies to
+literally every country on Earth - every sovereign's own tax laws remain
+unaffected by any other country's absence of a CFC regime, everywhere,
+always. Stating it explicitly, especially with an arbitrarily-chosen example
+country, adds zero information and reads as random filler.
+
+**The only legitimate case for this kind of caveat**: the jurisdiction is a
+dependency, collectivity, or constituent country of one SPECIFIC named
+sovereign state, where a reader could plausibly and reasonably assume the
+territory automatically inherited that specific parent's CFC regime, given
+the real constitutional/administrative relationship. Examples where this is
+genuinely warranted: Faroe Islands (autonomous, but part of the Kingdom of
+Denmark - reader might assume Danish CFC rules apply), Saint Barthelemy and
+Saint-Martin (French collectivities - reader might assume French CFC rules
+apply), Falkland Islands and Isle of Man (UK-connected - reader might assume
+UK CFC rules apply). In these cases, name ONLY the actual specific parent
+country - never a generic or arbitrary example unrelated to that
+jurisdiction's real political status.
+
+Do NOT add this caveat to a jurisdiction with no such specific relationship
+(e.g., Cook Islands, Andorra, Armenia - self-governing/independent states
+with no single obviously-assumed "parent" whose rules a reader would
+mistakenly think apply). For these, state the CFC finding plainly and stop.
+
+Puerto Rico and Bermuda are different again - not a caveat, but the actual
+substantive answer (PR's CFC exposure IS a matter of US federal law; Bermuda
+has a real statutory provision in its own CIT Act addressing double-counting
+with foreign CFC regimes). Keep this kind of content when it is the genuine
+core answer to the "does CFC apply" question, not a bolted-on disclaimer.
