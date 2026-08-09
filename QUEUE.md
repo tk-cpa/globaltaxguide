@@ -3941,3 +3941,25 @@ Methodology notes:
 (e.g., IRS for the US, CRA for Canada, HMRC for the UK) - this is a new,
 separate, large backlog item (229 pages) that has not been scoped or
 started yet, flagged here so it isn't lost.
+
+
+## Official Tax Authority rollout - batch 1 (20 major economies done)
+
+Added the "Official tax authority: [Name] - [domain]" line to source-row
+on: United States (IRS), Canada (CRA), United Kingdom (HMRC), Germany
+(BZSt + BMF), France (DGFiP), Australia (ATO), Japan (NTA), China (STA),
+India (Income Tax Department/CBDT), Brazil (Receita Federal), Mexico (SAT),
+Singapore (IRAS), Switzerland (FTA), Netherlands (Belastingdienst), Italy
+(Agenzia delle Entrate), Spain (Agencia Tributaria/AEAT), South Korea
+(NTS), Russia (FNS), South Africa (SARS), United Arab Emirates (FTA).
+
+Methodology note: source-row phrasing varies across pages ("Source:" vs
+"Sources:" vs "Primary and secondary sources consulted:") - regex handled
+the first two variants automatically, UK needed a manual fix for its
+unique phrasing. Worth checking for other phrasing variants as this rollout
+continues across the remaining ~209 pages.
+
+**219 pages remaining** for this new backlog item (229 total - 20 batch 1 -
+Russia already had it from an earlier different edit, wait Russia WAS
+included in batch 1 count above). Continuing in batches, prioritizing
+countries where the correct authority name/URL is confidently known.
