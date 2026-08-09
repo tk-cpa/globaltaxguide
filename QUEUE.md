@@ -4403,3 +4403,43 @@ Hero stat on index.html already updated to "9" data points - will need
 updating again to "10" once Tax System rollout is further along or
 complete, and the explainer grid on the homepage should get a 10th tile
 for Tax System too.
+
+
+## Two more new sections: Tax Year & Key Deadlines + Foreign Tax Credit
+
+Both added per direct user request/discussion, in the agreed final order
+(Tax System -> Tax Year & Deadlines -> Corporate -> Personal -> VAT ->
+Residency -> CFC -> Thin Cap -> FBAR -> Foreign Tax Credit -> Treaty
+Network). TEMPLATE.md updated with full specs for both.
+
+**16 of 239 done for BOTH new sections simultaneously** (same batch as the
+Tax System rollout: United States, Canada, United Kingdom, Japan,
+Australia, Ireland, New Zealand, Austria, Belgium, Denmark, France,
+Germany, Greece, Netherlands, Norway, Portugal).
+
+Real nuance surfaced and handled honestly rather than flattened: Belgium
+and France do NOT use a straightforward foreign tax credit for most treaty
+income - they apply an EXEMPTION-with-progression method (excluding
+foreign income from the domestic base while still counting it toward the
+progressive rate) for most treaty categories, with only a narrow credit
+mechanism in limited cases. Stated this directly on both pages rather than
+describing them as having a standard FTC like the US/Canada/UK/Germany
+model.
+
+Verified section order correct via spot-check (Germany: Tax System, Tax
+Year & Key Deadlines, Corporate, Personal, VAT, Residency, CFC, Thin Cap,
+Foreign Tax Credit, Treaty Network - all 10 headings present and in
+correct sequence).
+
+**New finding, logged for follow-up, not yet acted on**: Germany's Thin
+Capitalization heading still reads "Thin Capitalization / Interest
+Limitation (Zinsschranke)" - the same local-regime-name-in-heading pattern
+already fixed for CFC headings sitewide, but never extended to Thin Cap
+headings. Given other countries likely have the same issue (Austria's
+Zinsschranke, similar local-named thin-cap/interest-limitation regimes
+elsewhere), this should be swept and fixed the same way CFC headings were,
+as a future task.
+
+**223 of 239 remaining** for both new sections. Tax System alone is now at
+17/239 (Eritrea done solo, not yet given Tax Year/FTC treatment since its
+own domestic mechanism wasn't confirmed).
