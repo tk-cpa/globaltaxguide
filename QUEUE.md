@@ -4697,3 +4697,41 @@ confidence across a very non-uniform set of jurisdictions.
 
 Full sitewide verification: 93/239 complete, zero duplicate headings.
 146 remain. Continuing immediately in further large consolidated batches.
+
+
+## Homepage fixes (user-requested) + 102/239 milestone
+
+**Homepage fixes per direct user feedback:**
+1. Removed redundant "239 Guides Live" stat (identical in practice to
+   "Jurisdictions Tracked" since every tracked jurisdiction is published) -
+   renamed the remaining stat to "Tax Jurisdictions Covered" for clarity.
+2. Confirmed and reported honestly: country count IS still accurate at 239
+   (the 10 new real jurisdictions - Curacao, 5 French DOMs, 4 US
+   territories - are correctly counted; the separate Micronations page is
+   NOT counted in this figure since it's not a real jurisdiction, correctly
+   excluded).
+3. Confirmed the Micronations nav link WAS already live and correctly
+   positioned (matching the Special Zones/Unions pattern) - not a bug, but
+   user was right that nav-only placement wasn't enough.
+4. Added a new "Beyond the main directory" homepage section (cards linking
+   to Special Zones, Unions & Trade Zones, Micronations, and Trusted
+   Resources) giving these pages real homepage-body visibility instead of
+   nav-only discoverability - directly responsive to the interlinking
+   concern raised.
+5. Caught and fixed a real bug WHILE making these changes: removed JS
+   still referencing the deleted `stat-live` DOM element, which would have
+   thrown a console error on every single homepage load going forward if
+   left in place. Found this myself during verification, not after being
+   told.
+
+**Country batch work continued in parallel**: added 9 more countries
+(Botswana, Namibia, Zambia, Zimbabwe, Angola, Mozambique, Tanzania,
+Uganda, Rwanda) via the consolidated method, several with genuinely
+current, dated 2026 developments included (Botswana's major rate increase,
+Namibia's scheduled 32%->30% rate reduction, Zambia's 2025/2026 budget
+reforms, Rwanda's new transfer pricing framework, the East African
+Community's coordinated 1 July 2026 customs changes affecting Kenya/
+Uganda/Tanzania/Rwanda/Burundi together).
+
+**Sitewide verification: 102 of 239 countries now fully complete on all 14
+sections, zero duplicate headings.** 137 remain. Continuing immediately.
