@@ -3458,3 +3458,44 @@ Notable findings surfaced during this batch (not just boilerplate):
   declaration, Central Bank, USD 100k threshold).
 
 **62 of 105 remaining.** Continuing in the same session.
+
+
+## FBAR backfill running tally (update 2)
+
+**56 of 105 done.** Batch 5 (Gulf: Saudi Arabia, UAE, Qatar, Kuwait, Bahrain,
+Oman - all 2018 CRS cohort, UAE detail sourced directly from its own MOF
+FATCA/CRS page) and batch 6 (Nigeria, Ghana, Malaysia, Thailand, Turkiye,
+Kenya, Morocco) completed and verified clean.
+
+**Two genuine non-participant/uncertain findings surfaced this batch (not
+boilerplate):**
+- **Morocco is a real current CRS non-participant** - voluntarily committed
+  to 2025 but had not exchanged as of the most recent OECD tracking, with
+  the Global Forum process identifying 2028 as its realistic first-exchange
+  year.
+- **Kenya's status is unsettled** - UK HMRC's own official Reportable
+  Jurisdictions list explicitly excluded Kenya for the 2022 reporting year
+  while noting "arrangements... remain in place," and earlier OECD tracking
+  had Kenya among uncommitted developing countries. Flagged as needing
+  direct confirmation rather than asserting a clean yes/no.
+- Thailand's CRS participation is notably recent (signed March 2022, first
+  exchange September 2023) versus most peers' 2017/2018 timeline - flagged
+  explicitly rather than treated as identical to the standard pattern.
+
+**49 of 105 remaining:** Albania, Algeria, Angola, Argentina, Bangladesh,
+Bolivia, Bosnia and Herzegovina, Botswana, Cameroon, Chile, Colombia, Congo
+(DRC), Costa Rica, Cote d'Ivoire, Cyprus, Dominican Republic, Ecuador, Egypt,
+Ethiopia, Iraq, Jordan, Kosovo, Lebanon, Montenegro, Mozambique, Namibia,
+Nepal, North Macedonia, Pakistan, Panama, Paraguay, Peru, Philippines,
+Rwanda, Senegal, Serbia, Sri Lanka, Taiwan, Tanzania, Tunisia, Uganda,
+Ukraine, Uruguay, Venezuela, Vietnam, Zambia, Zimbabwe.
+
+Note: several of these (Algeria, Angola, Bosnia and Herzegovina, Botswana,
+Congo DRC, Cote d'Ivoire, Egypt, Namibia, North Macedonia, Philippines,
+Serbia, Sri Lanka, Tanzania, Vietnam, Zimbabwe) appeared on an OECD list of
+"developing countries not asked to commit and that have not yet set a date"
+for CRS - meaning the correct finding for several of these may genuinely be
+"not a CRS participant" rather than the standard "participates, first
+exchange in year X" pattern used for the rest of this backfill. Each still
+needs individual confirmation before writing, since this OECD list itself
+carries a caveat that it is "subject to continuous revision."
