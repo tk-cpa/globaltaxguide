@@ -3978,3 +3978,17 @@ Department), Vietnam (GDT), Philippines (BIR), New Zealand (IRD), Israel
 via the regex pattern (no manual fixes needed this batch).
 
 **48 of 229 done. 181 remaining.** Continuing in batches.
+
+
+## Official Tax Authority rollout - batch 3 (30 more, 78 total)
+
+Added: Bulgaria (NRA), Croatia (Porezna uprava), Slovakia (Financna
+sprava), Slovenia (FURS), Estonia (MTA), Latvia (VID), Lithuania (VMI),
+Luxembourg (ACD), Malta (CFR), Cyprus (Tax Department), Kuwait (Ministry
+of Finance/Tax Authority), Bahrain (NBR), Oman (OTA), Kazakhstan (SRC),
+Ukraine (State Tax Service), Pakistan (FBR), Bangladesh (NBR), Sri Lanka
+(IRD), Nigeria (FIRS), Kenya (KRA), Ghana (GRA), Egypt (ETA), Morocco
+(DGI), Tunisia (DGI), Uganda (URA), Tanzania (TRA), Rwanda (RRA), Ethiopia
+(ERCA), Zambia (ZRA), Zimbabwe (ZIMRA). All succeeded cleanly.
+
+**78 of 229 done. 151 remaining.** Continuing.
