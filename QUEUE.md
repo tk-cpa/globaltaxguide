@@ -4846,3 +4846,19 @@ uncertainty flags, which are correct to keep.
 
 TEMPLATE.md policy already locked in from this same conversation: citations
 live only in the source-row going forward, never narrated in body prose.
+
+
+## Continuing 14-section rollout with clean writing standard: 134/249
+
+Added Bulgaria, Romania, Georgia, Armenia, Kosovo, Costa Rica, Guatemala,
+Panama, Trinidad and Tobago, Uruguay, Venezuela, Bahamas (12 more) - all
+written directly per the new no-attribution standard from TEMPLATE.md,
+verified zero instances of "confirmed via" in the new content.
+
+Notable: Uruguay's genuinely major January 2026 reform correctly captured
+- historically territorial-leaning treatment of foreign income replaced
+with direct taxation of residents' foreign capital income (12%, or 8% if
+withheld at source) plus a look-through rule targeting offshore
+structures - a real, current, substantive policy shift, not filler.
+
+115 remain. Continuing immediately.
