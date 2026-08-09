@@ -4808,3 +4808,41 @@ Guam, American Samoa, US Virgin Islands, Northern Mariana Islands.
 it with the same rigor as any other fact on this site before writing it
 down - a checkpoint note is not exempt from the same verification
 standard as the actual content.
+
+
+## *** ATTRIBUTION-LANGUAGE CLEANUP: COMPLETE SITEWIDE *** (per direct, strongly-worded user correction)
+
+Full sitewide removal of inline "Confirmed via X" / "per PwC" / "confirmed
+directly via/from X" source-attribution phrasing from all body prose,
+across all 249 pages. This was a large, multi-pass effort:
+
+1. Built and tested a conservative regex cleanup (after an initial
+   over-aggressive version broke grammar mid-sentence - caught and fixed
+   before running broadly).
+2. First broad run hit a genuine GitHub API secondary rate-limit lockout
+   from parallel request volume - required an extended cooldown wait
+   (~15 minutes total across several checks) rather than continuing to
+   probe aggressively, which would have extended the lockout further.
+   Used the wait productively researching real content for thin pages.
+3. Discovered after the lockout resolved that the FIRST burst had actually
+   already cleaned the vast majority of the site (579 instances -> 6)
+   before failing - re-verified this directly rather than assuming.
+4. Ran two more targeted passes catching additional phrasing variants
+   ("per PwC's current X summary", "Confirmed directly and consistently
+   via", "Confirmed directly from the same primary source") that the
+   first regex missed.
+5. Fixed the final 2 genuine stragglers (Congo-DRC, Kenya) individually
+   by hand rather than another blind regex pass, given how few remained.
+6. Ran a FINAL comprehensive sitewide check with an explicit carve-out for
+   legitimate epistemic-uncertainty language ("was not confirmed from a
+   primary source this session") - confirmed this is fundamentally
+   different from routine attribution narration and should stay, per the
+   policy's own stated exception for flagging genuine uncertainty.
+
+**Result: 0 remaining instances of inline source-attribution noise
+sitewide, verified directly against all 249 fetched pages.** The only
+remaining "confirmed"-adjacent language sitewide is 6 legitimate
+uncertainty flags, which are correct to keep.
+
+TEMPLATE.md policy already locked in from this same conversation: citations
+live only in the source-row going forward, never narrated in body prose.
