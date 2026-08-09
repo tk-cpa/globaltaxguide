@@ -4364,3 +4364,42 @@ dates, physical locations, and legal status via Wikipedia, MicroWiki, and
 DeFacto Borders for each, including the specific, charming, directly
 sourced detail that Molossia's founder Kevin Baugh actually does pay
 Storey County, Nevada property tax and jokingly calls it "foreign aid."
+
+
+## NEW SECTION: Tax System (basis of taxation + assessment mechanism)
+
+Per direct user request/advice discussion: added a new mandatory first
+section to every page, placed before Corporate Tax Rate. Covers TWO
+things: (1) territorial/worldwide/citizenship-based taxation basis, (2)
+how the tax is actually assessed - explicitly avoiding a false binary
+("self-assessment" vs "administrative assessment" only) since most real
+systems are a genuine mix of withholding, filing, and an authority-issued
+assessment notice. TEMPLATE.md updated with the full spec.
+
+**17 of 239 done so far**: United States, Canada, Japan, Australia,
+Ireland, New Zealand, United Kingdom, Austria, Belgium, Denmark, France,
+Germany, Greece, Netherlands, Norway, Portugal (16, all sourced against a
+real IMF working paper - "Managing Income Tax Compliance through Self-
+Assessment" - which gives exact adoption years for self-assessment
+countries and explicitly lists which advanced economies still use
+administrative assessment), plus Eritrea (the second citizenship-based
+taxation country alongside the US, natural companion entry - flagged
+honestly that Eritrea's own domestic assessment mechanism was NOT found
+in this pass and needs separate confirmation, rather than guessing).
+
+Notable finding worth remembering: Germany's own PwC source states
+directly "There is no self-assessment" - a genuinely useful, concrete,
+non-hedged fact. France is administrative assessment for PERSONAL income
+tax specifically per the IMF source (this is a PIT-specific classification,
+not necessarily true of French corporate tax administration - worth
+keeping in mind if this section is later extended to comment on corporate
+assessment separately).
+
+**222 of 239 remaining.** This is a large, genuinely new research item
+(the assessment-mechanism half specifically) - continuing in batches
+rather than attempting to rush all 239 without real verification.
+
+Hero stat on index.html already updated to "9" data points - will need
+updating again to "10" once Tax System rollout is further along or
+complete, and the explainer grid on the homepage should get a 10th tile
+for Tax System too.
