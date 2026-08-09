@@ -3641,3 +3641,93 @@ correct and left untouched. index.html itself correctly keeps the bare
 `href="index.html#directory"`. Verified via GitHub's raw content (bypassing
 the site's own CDN cache) that all 7 fixes are correctly committed. Site's
 live CDN cache (max-age=600s) will catch up within 10 minutes on its own.
+
+
+## Special Zones / Unions pages - first review this session (August 08, 2026)
+
+User asked directly whether special zones and other nuances had been
+checked - they had NOT been reviewed at all until this prompt. Read both
+pages fully for the first time this session:
+
+- **zones.html**: content itself is solid (Labuan, Madeira, Canary Islands
+  ZEC, DMCC, JAFZA, QFC, BES islands, Aruba/Curacao/Sint Maarten all covered
+  with real rates and mechanisms) - but found a stale hardcoded "208
+  countries and territories" claim (actual count is 229 and changes as
+  pages are added). Fixed by removing the hardcoded number entirely rather
+  than replacing it with another number that will just go stale again.
+- **unions.html**: same stale "208" issue, found and fixed identically.
+  Content quality otherwise good - explicitly and honestly scopes what it
+  does NOT cover (ASEAN, Mercosur, AfCFTA, GCC, bilateral FTAs) rather than
+  pretending completeness.
+- **about.html**: found a more substantive problem - the page's own stated
+  sourcing philosophy said "where a rate could not be independently
+  confirmed, this project says so explicitly rather than guessing" - this
+  describes exactly the OLD behavior that prompted the Abkhazia/South
+  Ossetia correction earlier this session (defaulting to "not confirmed"
+  instead of searching local-language primary sources). Fixed the copy to
+  describe the corrected standard.
+- Not yet reviewed with the same scrutiny: disclaimer.html, trusted-
+  resources.html, search.html, map.html - spot-checked for the "208" string
+  only (none found), not read in full for content/philosophy staleness the
+  way about.html/zones.html/unions.html were.
+
+## HONEST OVERALL STATE (as of this checkpoint) - NOT 10/10, NOT fully validated
+
+Explicitly NOT claiming completeness. Known open items, organized by
+category:
+
+**Structural gaps (content missing entirely):**
+- 20 confirmed-missing jurisdictions, not yet built (Curacao, BES islands,
+  French DOMs, US territories beyond Puerto Rico, Saint Helena, Svalbard,
+  Aland, Norfolk/Christmas/Cocos Islands, Tokelau) - and this list itself
+  was a spot-check against a reference list, not exhaustively verified
+  against an authoritative source like full ISO 3166 + dependent-territory
+  tracking, so there could be more.
+- CFC heading inconsistency: ~150+ pages need reformatting to Yes/No
+  standard (97 bare "CFC Rules," 33 "Not identified" needing real primary-
+  law research, ~15 one-off local-name-only headings). Only 1 of these
+  (Burkina Faso) has been fixed so far.
+
+**Policy corrections applied this session but NOT yet exhaustively
+re-verified against fresh primary research:**
+- Foreign Bank Account section: fixed the STRUCTURAL/POLICY problem
+  (removed US-law boilerplate from 171 pages, kept 9 genuine regimes,
+  added Russia) - but this was based on EXISTING page content, not a fresh
+  country-by-country primary-source check of all ~219 "no genuine regime"
+  pages. Some of those may have a real domestic regime that simply wasn't
+  found in earlier research (the same failure mode Russia illustrated -
+  Russia had ZERO section before this session despite having a very real,
+  well-documented regime). This is a genuine open risk, not fully closed.
+
+**Enhancement-tier items not yet started:**
+- Treaty-network depth standard (named partners for small networks, US-
+  treaty-status confirmation) not yet applied sitewide.
+- Personal-rate detail standard (bracket structure minimum) not yet applied
+  sitewide.
+- Discussed potential new data points (withholding tax rates, estate/
+  inheritance/gift tax, special new-resident regimes, economic substance)
+  - none added yet, intentionally deferred until the structural backlog
+  above is closed.
+
+**QA process gaps - stated plainly:**
+- Link-checking has only ever been SAMPLED (~27 of what's likely 1,000+
+  outbound links across the site), never exhaustive.
+- Most fixes this session were triggered by either (a) automated pattern-
+  matching sweeps, which have repeatedly had blind spots (missed Curacao
+  entirely on first pass, missed the FBAR boilerplate pattern until
+  directly flagged, missed the "corporate tax position" phrasing despite
+  being on 218 pages, never independently discovered the zones.html/
+  unions.html/about.html issues until directly asked to check), or (b)
+  direct user review catching something automation didn't. This is an
+  important pattern: automated sweeps in this project have a demonstrated
+  track record of missing real, sometimes sitewide issues. A genuinely
+  complete QA pass would require systematic human or more rigorous
+  automated review of every page's full content, not just targeted
+  pattern searches for known-bad phrases.
+- No exhaustive re-verification has been done this session for the
+  majority of the site's ~229 pages' underlying tax-rate accuracy (as
+  opposed to the structural/formatting fixes documented throughout this
+  file) - most pages' core rate content is inherited from prior sessions
+  and has not been re-checked against current primary sources this
+  session, which the project's own MAINTENANCE.md standard says should
+  happen ("prior-session verifications are expired").
