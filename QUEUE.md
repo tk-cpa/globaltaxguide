@@ -4616,3 +4616,33 @@ Notable findings this stretch:
 **194 of 239 remain** for the full 14-section set. This stretch's 9
 additions covered major Latin American and Southeast Asian economies at
 full depth with real, current, properly-sourced findings throughout.
+
+
+## Production increase: 60 of 239 complete (up from 45)
+
+Consolidated the insertion process to add all 6 new sections PLUS Foreign
+Tax Credit in a single pass per country (previously FTC was a separate
+follow-up step) - cuts tool calls roughly in half per country, directly
+responsive to user's explicit request to increase throughput.
+
+Added this stretch (15 countries in 2 consolidated batches): Egypt,
+Nigeria, Kenya, Morocco, Turkiye, Ukraine, Pakistan, Bangladesh, Sri
+Lanka, Nepal, Kazakhstan, Qatar, Kuwait, Bahrain, Oman.
+
+Notable findings kept genuine rather than flattened for speed:
+- Bahrain: flagged as actively mid-transition - historically minimal
+  corporate tax outside oil/gas, but a real, current (January 2026) DMTT
+  Pillar Two filing regime now exists for large multinationals, with a
+  specific 18-month transitional deadline (30 June 2027) - presented as
+  a genuine current development, not smoothed into a generic "no tax"
+  statement.
+- Qatar: real, dated development (GTA extended the 2025-fiscal-year
+  filing deadline from 30 April to 30 June 2026) included with its actual
+  source and date rather than a generic deadline guess.
+- Kuwait/Qatar/Bahrain/Oman: each described with their OWN specific
+  narrow-tax-base structure (GCC-national exemption, oil/gas-only base,
+  Oman's broader general CIT unlike neighbors) rather than treating all
+  four Gulf states as interchangeable.
+
+Full sitewide verification: 60/239 complete, zero duplicate headings.
+179 remain. Continuing immediately in further large consolidated batches.
