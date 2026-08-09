@@ -4879,3 +4879,20 @@ the earlier primary-source finding over the new generic source rather than
 overwriting correct content with a lower-quality contradicting claim.
 
 105 remain. Continuing immediately.
+
+
+## 160/249 complete - Middle East and Southeast Asia batch added
+
+Added Jordan, Lebanon, Iraq, Libya, Tunisia, Algeria, Syria, Yemen (8) and
+Hong Kong, Macau, Taiwan, Cambodia, Mongolia, Myanmar, Laos, Brunei (8) -
+16 more this stretch. All verified: zero duplicate headings, zero
+attribution-noise instances in new content.
+
+Notable: Syria flagged honestly as a genuinely unsettled area given the
+late-2024 change in national government - stated plainly rather than
+assuming pre-2024 administrative practice still holds. Iraq, Libya, Yemen
+similarly flagged where administrative fragmentation genuinely limits
+confidence, rather than presenting uniform certainty across very
+non-uniform jurisdictions.
+
+89 remain. Continuing immediately.
