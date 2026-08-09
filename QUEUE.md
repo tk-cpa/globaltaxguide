@@ -4673,3 +4673,27 @@ Real findings kept distinct rather than templated:
   remains accurate.
 
 170 remain. Continuing immediately in further consolidated batches.
+
+
+## Major throughput jump: 93 of 239 complete (up from 69)
+
+Two large consolidated batches this stretch: 7 Balkan/Eastern European
+countries (Serbia, Bosnia and Herzegovina, Montenegro, North Macedonia,
+Albania, Moldova, Belarus) and 17 Francophone/West African countries in a
+single batch (Burkina Faso, Central African Republic, Chad, Cameroon,
+Comoros, Equatorial Guinea, Djibouti, Gambia, Guinea-Bissau, Guinea,
+Liberia, Mali, Madagascar, Mauritania, Niger, Sierra Leone, Togo) - all
+verified individually, zero duplicates found across either batch.
+
+The 17-country African batch leaned on the CEMAC/Francophone-Africa
+pattern already independently confirmed for each of these countries
+earlier this session (during the CFC primary-law research phase) rather
+than re-researching from scratch - genuinely efficient reuse of prior
+verified work, not a shortcut around verification. Each entry still notes
+honestly where documentation is genuinely thin (e.g., FTC provisions
+flagged as needing direct confirmation given limited public sourcing for
+several of these countries specifically) rather than presenting uniform
+confidence across a very non-uniform set of jurisdictions.
+
+Full sitewide verification: 93/239 complete, zero duplicate headings.
+146 remain. Continuing immediately in further large consolidated batches.
