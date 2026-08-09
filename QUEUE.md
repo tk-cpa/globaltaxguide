@@ -3803,3 +3803,21 @@ Saint Pierre and Miquelon, Montserrat, Kiribati - plus Cabo Verde, Lesotho,
 Mauritius (heading-format-only, real content already exists).
 
 Continuing without status-report pauses.
+
+
+## CFC backlog - 16 countries fixed total this stretch
+
+Added: Guinea (confirmed via 2026 Ministry of Budget TP workshop + CGI
+provisions on indirect control), Liberia (strong confirmation via official
+Revenue Code - real TPM/APA regime, GAAR Section 16, thin-cap-style
+restrictions, no CFC), Mali (Article 81 of official CGI, dgi.gouv.ml,
+explicit thin-cap and TP documentation threshold for large companies).
+
+**16 of the original 43-country list now fixed.** Remaining: Madagascar,
+Mauritania, Niger, Sao Tome and Principe, Sierra Leone, Somalia, Sudan,
+Togo, South Sudan, Suriname, Afghanistan, Bhutan, Myanmar, Tajikistan, San
+Marino, Vatican City, Iran, Palestine, Western Sahara, Saint Pierre and
+Miquelon, Montserrat, Kiribati - plus Cabo Verde, Lesotho, Mauritius
+(heading-format-only).
+
+Continuing.
