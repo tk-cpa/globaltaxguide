@@ -24,6 +24,12 @@
     "status": "published"
   },
   {
+    "name": "American Samoa",
+    "slug": "american-samoa",
+    "region": "Oceania",
+    "status": "published"
+  },
+  {
     "name": "Andorra",
     "slug": "andorra",
     "region": "Europe",
@@ -498,6 +504,12 @@
     "status": "published"
   },
   {
+    "name": "Guam",
+    "slug": "guam",
+    "region": "Oceania",
+    "status": "published"
+  },
+  {
     "name": "Guatemala",
     "slug": "guatemala",
     "region": "Americas",
@@ -930,6 +942,12 @@
     "status": "published"
   },
   {
+    "name": "Northern Mariana Islands",
+    "slug": "northern-mariana-islands",
+    "region": "Oceania",
+    "status": "published"
+  },
+  {
     "name": "Norway",
     "slug": "norway",
     "region": "Europe",
@@ -1311,6 +1329,12 @@
     "name": "Tuvalu",
     "slug": "tuvalu",
     "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "US Virgin Islands",
+    "slug": "us-virgin-islands",
+    "region": "Oceania",
     "status": "published"
   },
   {
