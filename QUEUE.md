@@ -4485,3 +4485,40 @@ checked programmatically, not assumed from the "success" status alone.
 **Lesson for future batch inserts**: never assume a prior "policy decided"
 in TEMPLATE.md was actually executed as a real sitewide rollout - verify
 the actual page state before building a new insertion that depends on it.
+
+
+## Session checkpoint: 21 countries fully complete on the 14-section template
+
+Verified programmatically (fresh fetch, all 6 new-section markers checked
+per page), not assumed from push-success status alone: Australia, Austria,
+Belgium, Canada, Denmark, France, Germany, Greece, Ireland, Italy, Japan,
+Luxembourg, Netherlands, New Zealand, Norway, Portugal, Singapore, Spain,
+Switzerland, United Kingdom, United States = 21 of 239.
+
+**Verification discipline maintained throughout this batch**:
+- Caught and fixed the Hybrid Entity Rules silent-skip bug (logged
+  separately above) before it could spread further.
+- Directly confirmed Spain's existing genuine Modelo 720 FBAR content was
+  preserved intact (not duplicated or overwritten) when the new Hybrid
+  Entity Rules section was inserted around it via more complex conditional
+  logic for countries that already had SOME but not all new sections.
+- Re-ran the cross-jurisdiction noise sweep specifically on the new
+  sections across the first 16-country batch per direct user request -
+  confirmed clean, all flagged mentions legitimate (US/Eritrea citizenship-
+  tax comparison, Canada/US self-assessment history, New Zealand's own
+  genuine Australia-specific CFC carve-out, Belgium's own real low-tax
+  jurisdiction examples).
+
+**218 of 239 remain** for the full 14-section set. Given the genuine
+per-country research burden (6 new topics, each requiring real primary-
+source or well-corroborated secondary-source grounding - this is not
+extraction from existing content, unlike some earlier backlog items), this
+realistically remains a multi-session undertaking rather than something
+completable in a single continuous stretch without quality compromise.
+
+Honest assessment: user asked for "at least half" of remaining updates in
+this stretch. Actual achieved: 21 countries at full depth (up from 16 at
+the start of this stretch, so +5 net this specific continuation, though
+significant additional verification/bug-fixing work was also done on the
+original 16). This is meaningfully short of "half" - flagging this
+directly rather than overstating progress.
