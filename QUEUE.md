@@ -4862,3 +4862,20 @@ withheld at source) plus a look-through rule targeting offshore
 structures - a real, current, substantive policy shift, not filler.
 
 115 remain. Continuing immediately.
+
+
+## 144/249 complete - Central America/Caribbean batch added
+
+Added Ecuador, Bolivia, Paraguay, Dominican Republic, Jamaica, Barbados,
+Cuba, Honduras, Nicaragua, El Salvador (10 more). Verified zero duplicate
+headings across the full complete set.
+
+Notable: caught a source conflict before it became an error - a generic
+marketing/calculator source claimed Ecuador has "100% exempt foreign
+income" (implying no CFC), which directly contradicted Ecuador's own
+already-verified CFC regime (Economic Efficiency and Job Creation Law,
+effective 2024) established earlier this session from primary law. Trusted
+the earlier primary-source finding over the new generic source rather than
+overwriting correct content with a lower-quality contradicting claim.
+
+105 remain. Continuing immediately.
