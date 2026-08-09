@@ -3612,3 +3612,32 @@ against stale-SHA write failures.
 updated, 11 needed no change (the pages using different summary phrasing
 that never had this issue), 0 errors.** Spot-checked 8 random pages post-fix
 for readability - all read cleanly.
+
+
+## Navigation bug fix - "Jurisdictions" link broken on every root-level page except homepage
+
+User reported: clicking "Directory" (labeled "Jurisdictions" in the nav) from
+the About page did nothing.
+
+**Root cause confirmed:** the nav bar's Jurisdictions link used a bare
+`href="#directory"` fragment on every root-level page. A bare fragment link
+only scrolls to an element with that id ON THE SAME PAGE - it does not
+navigate elsewhere first. Since only index.html actually has an element with
+id="directory" (the country grid section), clicking this link from any other
+root-level page did nothing at all, because no such element exists on those
+pages.
+
+**Scope:** checked all 7 known root-level sibling pages (about.html,
+disclaimer.html, search.html, map.html, zones.html, unions.html,
+trusted-resources.html) - all 7 had the identical bug.
+
+**Not affected:** country pages under /countries/ already correctly use
+`href="../#directory"` (relative path navigates to the parent directory's
+index.html, then the fragment scroll works) - verified this pattern is
+correct and left untouched. index.html itself correctly keeps the bare
+`href="#directory"` since that IS the same-page anchor case.
+
+**Fix:** changed all 7 root-level pages from `href="#directory"` to
+`href="index.html#directory"`. Verified via GitHub's raw content (bypassing
+the site's own CDN cache) that all 7 fixes are correctly committed. Site's
+live CDN cache (max-age=600s) will catch up within 10 minutes on its own.
