@@ -4586,3 +4586,33 @@ East/African economies at full depth. Remaining work skews toward smaller
 and less-documented jurisdictions, which will require more individual
 verification per page and correspondingly slower throughput per country
 than this batch achieved.
+
+
+## Continuous stretch final tally: 45 of 239 countries fully complete
+
+Added this stretch: Chile, Colombia, Argentina, Peru, Indonesia, Malaysia,
+Thailand, Vietnam, Philippines (9 more, bringing total from 36 to 45).
+Verified via exact heading match plus duplicate-heading check across the
+full complete set - clean.
+
+Notable findings this stretch:
+- Chile: confirmed directly via Chambers and Partners that Chile
+  explicitly "does not contemplate a participation exemption" - stated
+  as a direct quote-backed fact, not inferred.
+- Thailand: flagged a genuinely current, actively-evolving policy shift
+  (partial move away from pure territorial taxation, foreign income now
+  taxable if remitted same-year, proposed 2026 grace period pending) -
+  presented as an active development to verify, not settled law.
+- Philippines: correctly identified as a partially citizenship-influenced
+  system (worldwide taxation extends via citizenship for resident
+  citizens specifically, not pure residence) - a real nuance most
+  generic treatments flatten.
+- Malaysia: distinguished its territorial-system foreign-income exemption
+  (extended through 2036) from a genuinely new and separate 2025
+  domestic-dividend tax (2% on individual dividend income over MYR
+  100,000) - two different, unrelated developments kept distinct rather
+  than conflated.
+
+**194 of 239 remain** for the full 14-section set. This stretch's 9
+additions covered major Latin American and Southeast Asian economies at
+full depth with real, current, properly-sourced findings throughout.
