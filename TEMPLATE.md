@@ -142,3 +142,31 @@ substantive answer (PR's CFC exposure IS a matter of US federal law; Bermuda
 has a real statutory provision in its own CIT Act addressing double-counting
 with foreign CFC regimes). Keep this kind of content when it is the genuine
 core answer to the "does CFC apply" question, not a bolted-on disclaimer.
+
+
+## CFC section: MUST specify who the regime applies to (individuals, corporations, or both)
+
+Flagged directly by the user on Peru's page - a CFC verdict that just says "a
+Peruvian resident" without stating whether that means individuals,
+corporate entities, or both is genuinely ambiguous and not an acceptable
+final state. This is likely a widespread gap, not isolated to Peru.
+
+**Mandatory going forward**: every CFC section stating "Yes" (a real regime
+exists) must explicitly state whether the regime reaches:
+- Individuals only (natural persons)
+- Corporate/legal entities only
+- Both (most common - state this explicitly rather than leaving it
+  ambiguous via a generic "resident" or "taxpayer" reference)
+
+Do not rely on words like "resident," "taxpayer," or "person" alone to imply
+scope - these are frequently ambiguous in translation from the primary
+source and readers should not have to guess. If the primary source itself
+doesn't clearly resolve this, say so explicitly rather than defaulting to
+an unstated assumption.
+
+This same specificity requirement extends to other sections that use
+similarly vague scope language - Thin Capitalization (does the rule apply
+to companies only, or also to individual/entrepreneur borrowers?), Foreign
+Bank Account Reporting (individuals only, or entities too?), and Residency
+(the two tests - individual and corporate - must each be stated separately
+and not conflated).
