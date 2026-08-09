@@ -3135,3 +3135,35 @@ raised again.
 
 - **Remaining placeholder pages (7):** Azerbaijan, Armenia, Faroe Islands,
   Saint Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
+
+
+## Session log - August 08, 2026 (continued - Azerbaijan, Armenia, Faroe Islands)
+
+- Azerbaijan: real CFC regime (Yes, 2020) - tax-haven-incorporated
+  subsidiaries only, >50% ownership threshold (MNE Tax's detailed source
+  used over Freeman Law's conflicting >20% figure, flagged). Real thin cap
+  (2019, interbank-rate-based cap, not debt/equity ratio).
+
+- Armenia: CFC No (Freeman Law direct). Real thin cap: 2x Central Bank
+  settlement rate cap, plus a separate negative-equity interest
+  disallowance rule for non-bank lenders. Treaty count triangulated across
+  3 sources (45/50/51) to "approximately 50."
+
+- Faroe Islands: fiscally autonomous from Denmark - flagged explicitly
+  that Denmark's own well-documented CFC regime does NOT extend to the
+  Faroe Islands automatically. No CFC-specific Faroese provision found
+  despite genuine multi-query search (including Faroese-language terms);
+  presented as a structural finding tied to the territory's small scale
+  and broad 18% worldwide-income corporate rate, not as a research gap -
+  and explicitly caught/fixed two research-status phrasings in this
+  page before finalizing (CFC heading reformatted to Yes/No convention;
+  FBAR section reworded from "was not independently confirmed" to a
+  direct verify-with-TAKS instruction). Real thin cap ratio confirmed
+  (4:1 debt/equity). Primary-source residency test from OECD-quoted
+  Faroese Tax Act Section 1.
+
+- **Remaining placeholder pages (4):** Saint Barthelemy, Sint Maarten,
+  Saint Martin (French), Falkland Islands.
+
+- **17 of 21 placeholder pages now complete this session.** Final stretch:
+  4 small Caribbean/Atlantic territories remain.
