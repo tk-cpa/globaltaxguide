@@ -3992,3 +3992,21 @@ Ukraine (State Tax Service), Pakistan (FBR), Bangladesh (NBR), Sri Lanka
 (ERCA), Zambia (ZRA), Zimbabwe (ZIMRA). All succeeded cleanly.
 
 **78 of 229 done. 151 remaining.** Continuing.
+
+
+## Official Tax Authority rollout - batch 4 (25 more, 103 total)
+
+Added: Hong Kong (IRD), Taiwan (National Taxation Bureau), Cambodia (GDT),
+Mongolia (MTA), Nepal (IRD), Myanmar (IRD), Uzbekistan (State Tax
+Committee), Azerbaijan (State Tax Service), Georgia (RS), Armenia (SRC),
+Jamaica (TAJ), Trinidad and Tobago (BIR), Bahamas (Dept of Inland Revenue),
+Barbados (BRA), Panama (DGI), Costa Rica (Direccion General de
+Tributacion), Dominican Republic (DGII), Guatemala (SAT), Uruguay (DGI),
+Ecuador (SRI), Bolivia (SIN), Paraguay (DNIT), Venezuela (SENIAT), Fiji
+(FRCS), Papua New Guinea (IRC). All succeeded cleanly.
+
+**103 of 229 done (45%). 126 remaining** - mostly smaller/less-documented
+jurisdictions, offshore financial centers, and disputed/limited-recognition
+territories where the correct authority name needs individual
+confirmation rather than being pulled from general knowledge. Continuing
+in future turns.
