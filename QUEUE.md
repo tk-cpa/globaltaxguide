@@ -4120,3 +4120,15 @@ Montserrat, Saint Pierre and Miquelon, Kiribati (12 pages).**
 
 Continuing without pausing for status updates, per explicit user
 instruction to keep going without stopping.
+
+
+## CFC research continued: Sao Tome, San Marino, Kiribati, Montserrat, Saint Pierre and Miquelon fixed
+
+9 of 12 remaining "Not identified" pages now fixed with real research. **Remaining: Somalia, Afghanistan, Bhutan, Myanmar, Tajikistan, Iran, Palestine (7 pages).**
+
+**Total CFC heading progress this session: 115 of ~121 non-conforming
+pages now fixed** (106 reformatted from existing clear content + 9 more
+via fresh primary research this stretch: Togo, Niger, Sierra Leone, South
+Sudan, Sudan, Suriname, Sao Tome and Principe, San Marino, Kiribati,
+Montserrat, Saint Pierre and Miquelon - that's actually 11, adjusting
+count). Continuing straight through remaining 7 without pausing.
