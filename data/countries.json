@@ -12,6 +12,12 @@
     "status": "published"
   },
   {
+    "name": "Aland Islands",
+    "slug": "aland-islands",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
     "name": "Albania",
     "slug": "albania",
     "region": "Europe",
@@ -180,6 +186,12 @@
     "status": "published"
   },
   {
+    "name": "British Indian Ocean Territory",
+    "slug": "british-indian-ocean-territory",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
     "name": "British Virgin Islands",
     "slug": "british-virgin-islands",
     "region": "Americas",
@@ -261,6 +273,18 @@
     "name": "China",
     "slug": "china",
     "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Christmas Island",
+    "slug": "christmas-island",
+    "region": "Oceania",
+    "status": "published"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "slug": "cocos-keeling-islands",
+    "region": "Oceania",
     "status": "published"
   },
   {
@@ -930,6 +954,12 @@
     "status": "published"
   },
   {
+    "name": "Norfolk Island",
+    "slug": "norfolk-island",
+    "region": "Oceania",
+    "status": "published"
+  },
+  {
     "name": "North Korea",
     "slug": "north-korea",
     "region": "Asia-Pacific",
@@ -1014,6 +1044,12 @@
     "status": "published"
   },
   {
+    "name": "Pitcairn Islands",
+    "slug": "pitcairn-islands",
+    "region": "Oceania",
+    "status": "published"
+  },
+  {
     "name": "Poland",
     "slug": "poland",
     "region": "Europe",
@@ -1065,6 +1101,12 @@
     "name": "Saint Barthelemy",
     "slug": "saint-barthelemy",
     "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "slug": "saint-helena-ascension-and-tristan-da-cunha",
+    "region": "Africa",
     "status": "published"
   },
   {
@@ -1236,6 +1278,12 @@
     "status": "published"
   },
   {
+    "name": "Svalbard",
+    "slug": "svalbard",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
     "name": "Sweden",
     "slug": "sweden",
     "region": "Europe",
@@ -1287,6 +1335,12 @@
     "name": "Togo",
     "slug": "togo",
     "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Tokelau",
+    "slug": "tokelau",
+    "region": "Oceania",
     "status": "published"
   },
   {
