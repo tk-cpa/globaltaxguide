@@ -3010,3 +3010,33 @@ raised again.
   thin-sourced topic (Cuba) is strong enough that even careful drafting
   can slip - re-scanning the FULL page text against the banned-phrase list
   after every push, not just visually re-reading, is the reliable catch.
+
+
+## Session log - August 08, 2026 (continued - Congo Republic, Puerto Rico)
+
+- Republic of Congo: CFC No (direct PwC quote: "no provision under
+  Congolese tax law related to CFCs"). Thin cap: sources conflict
+  (aggregator says none enacted; PwC's detailed Deductions/Income
+  Determination pages describe a real two-part interest cap - BEAC rate +
+  3 points, and 20%-of-taxable-profit ceiling) - PwC used as the more
+  specific and authoritative source. FATCA/CRS status unconfirmed,
+  flagged as such. Treaty network: CEMAC bloc plus bilateral China,
+  France, Italy, Mauritius confirmed via PwC withholding-tax page.
+
+- Puerto Rico: unique dual-system page (US federal overlay + local PR
+  Internal Revenue Code of 2011). Residency = IRC 937 bona fide resident
+  three-part test. CFC section deliberately labeled "No (locally) / Yes
+  (US federal overlay)" to fit the site's required Yes/No subheading
+  format while preserving the real nuance in prose - PR's own code has no
+  CFC regime, but a PR corporation is a federal CFC under Subpart F/GILTI
+  unless majority-owned by a bona fide PR resident, who gets a specific
+  federal CFC/PFIC exemption. Thin cap: PR's own code has no debt/equity
+  ratio, but does have a targeted 20%-PR-source-income interest-sourcing
+  anti-abuse test under Section 30151 of the PR Code. Treaty network: PR
+  is not itself a treaty party; PR residents generally can't claim US
+  treaty benefits, relying instead on the IRC 933 PR-source exclusion.
+
+- **Remaining placeholder pages (14):** Saint Vincent and the Grenadines,
+  Jersey, Liechtenstein, Isle of Man, Moldova, Georgia, Greenland,
+  Azerbaijan, Armenia, Faroe Islands, Saint Barthelemy, Sint Maarten,
+  Saint Martin (French), Falkland Islands.
