@@ -4778,3 +4778,33 @@ push - the 10 new pages do NOT yet have the full 14-section treatment,
 they were built with all 14 sections from scratch as new pages, so they
 ARE already complete on this dimension too - confirmed via the page
 template used, which included all 14 sections in the initial build).
+
+
+## CORRECTION to the earlier "already complete" claim + accurate final tally
+
+The earlier checkpoint claiming all 20 obscure jurisdictions were already
+14-section-complete was WRONG for 10 of them (Curacao, 5 French DOMs, 4 US
+territories) - these were built EARLIER this session before the 14-section
+framework existed, so they only had the original ~9-section template.
+Caught this myself via direct re-verification immediately after making the
+claim (a verification-script bug involving &amp; HTML-entity encoding
+initially made even the NEW 10 pages look incomplete too - fixed the
+check, then discovered the real, separate issue with the older 10).
+
+**Fixed properly**: added all 6 new sections (including Foreign Tax
+Credit, which a second wrong assumption said was "probably already there"
+- checked directly, found it wasn't, added it for real) to all 10 older
+pages: Curacao, Guadeloupe, Martinique, French Guiana, Reunion, Mayotte,
+Guam, American Samoa, US Virgin Islands, Northern Mariana Islands.
+
+**Final accurate verification, checked directly rather than assumed:**
+- Total countries.json: 249 (confirmed)
+- All 20 originally-identified obscure jurisdictions: present (confirmed)
+- All 20 obscure jurisdictions: now genuinely 14-section-complete (confirmed)
+- Total countries fully complete on the 14-section standard: 122 of 249
+- Zero duplicate headings anywhere in the complete set (confirmed)
+
+**Lesson**: when I make a claim about site state in a checkpoint, verify
+it with the same rigor as any other fact on this site before writing it
+down - a checkpoint note is not exempt from the same verification
+standard as the actual content.
