@@ -3963,3 +3963,18 @@ continues across the remaining ~209 pages.
 Russia already had it from an earlier different edit, wait Russia WAS
 included in batch 1 count above). Continuing in batches, prioritizing
 countries where the correct authority name/URL is confidently known.
+
+
+## Official Tax Authority rollout - batch 2 (28 more, 48 total)
+
+Added: Sweden (Skatteverket), Norway (Skatteetaten), Denmark
+(Skattestyrelsen), Finland (Vero), Iceland (Skatturinn), Poland (KAS),
+Austria (BMF), Belgium (FPS Finance), Ireland (Revenue), Portugal (AT),
+Greece (AADE), Czech Republic (Financni sprava), Hungary (NAV), Romania
+(ANAF), Turkiye (GIB), Indonesia (DJP), Malaysia (LHDN), Thailand (Revenue
+Department), Vietnam (GDT), Philippines (BIR), New Zealand (IRD), Israel
+(Israel Tax Authority), Saudi Arabia (ZATCA), Qatar (GTA), Argentina
+(AFIP), Chile (SII), Colombia (DIAN), Peru (SUNAT). All succeeded cleanly
+via the regex pattern (no manual fixes needed this batch).
+
+**48 of 229 done. 181 remaining.** Continuing in batches.
