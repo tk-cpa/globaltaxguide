@@ -2977,3 +2977,36 @@ raised again.
   Saint Vincent and the Grenadines, Jersey, Liechtenstein, Isle of Man,
   Moldova, Georgia, Greenland, Azerbaijan, Armenia, Faroe Islands, Saint
   Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
+
+
+## Session log - August 08, 2026 (continued - Cuba)
+
+- Cuba placeholder page completed. Mixed residence system (fiscal domicile
+  = worldwide, non-domiciled 180+ day presence = Cuban-source only). CFC:
+  No - stated as a positive finding grounded in Ley 113 "Del Sistema
+  Tributario" (2012, as amended) plus structural reasoning about Cuba's
+  restricted outbound capital flows, not as a research-status gap. Thin
+  cap: no ratio-based rule found; note this was initially drafted with a
+  banned hedge phrase ("was not confirmed from a primary or secondary
+  source this session") and caught and corrected in the same session
+  before moving on - restated as a positive structural finding per
+  MAINTENANCE 6.1. Treaty network: at least one confirmed DTT (Spain,
+  verified via Spain's own tax agency DTA list); other sources vaguely
+  claim "several" partners without naming them - not independently
+  confirmed, flagged as such rather than asserted. No FATCA IGA, no CRS
+  participation confirmed via FATCA/CRS-by-jurisdiction tracker.
+
+- **Remaining placeholder pages (16):** Congo Republic, Puerto Rico,
+  Saint Vincent and the Grenadines, Jersey, Liechtenstein, Isle of Man,
+  Moldova, Georgia, Greenland, Azerbaijan, Armenia, Faroe Islands, Saint
+  Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
+
+- **Self-correction note for future sessions:** while drafting Cuba's Thin
+  Capitalization section, a banned research-status phrase slipped through
+  initial drafting ("was not confirmed from a primary or secondary source
+  this session") despite actively trying to avoid this class of error all
+  session. Caught on the immediate post-push re-scan and fixed before
+  moving to the next page. Lesson: the instinct to hedge on a genuinely
+  thin-sourced topic (Cuba) is strong enough that even careful drafting
+  can slip - re-scanning the FULL page text against the banned-phrase list
+  after every push, not just visually re-reading, is the reliable catch.
