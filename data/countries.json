@@ -426,6 +426,12 @@
     "status": "published"
   },
   {
+    "name": "French Guiana",
+    "slug": "french-guiana",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
     "name": "French Polynesia",
     "slug": "french-polynesia",
     "region": "Asia-Pacific",
@@ -482,6 +488,12 @@
   {
     "name": "Grenada",
     "slug": "grenada",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Guadeloupe",
+    "slug": "guadeloupe",
     "region": "Americas",
     "status": "published"
   },
@@ -756,6 +768,12 @@
     "status": "published"
   },
   {
+    "name": "Martinique",
+    "slug": "martinique",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
     "name": "Mauritania",
     "slug": "mauritania",
     "region": "Africa",
@@ -764,6 +782,12 @@
   {
     "name": "Mauritius",
     "slug": "mauritius",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Mayotte",
+    "slug": "mayotte",
     "region": "Africa",
     "status": "published"
   },
@@ -987,6 +1011,12 @@
     "name": "Qatar",
     "slug": "qatar",
     "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Reunion",
+    "slug": "reunion",
+    "region": "Africa",
     "status": "published"
   },
   {
