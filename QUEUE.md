@@ -3357,3 +3357,80 @@ Beginning primary-law research pass on the ~40 countries whose CFC heading
 says "Not identified" (list logged earlier in this file). Three of the 43
 (Cabo Verde, Lesotho, Mauritius) already have real substantive findings and
 only need heading-format fixes, already noted separately.
+
+
+## Session log - August 08, 2026 (continued - Template v1 locked + backfill started)
+
+Following direct user feedback flagging: (1) confirmed 20 missing jurisdictions
+beyond Curacao, (2) inconsistent treaty-network depth, (3) inconsistent
+personal-rate detail, (4) severe CFC heading format inconsistency (data
+below), (5) general QC/publish-readiness concern - decided to STOP ad-hoc
+country-by-country fixing and lock a canonical template first. See TEMPLATE.md
+(new file, root of repo) for the full spec: exact required heading text and
+order for all 8 sections, minimum content standard per section, and a
+prioritized rollout plan.
+
+**Heading-consistency audit (ran across all 229 pages):**
+- CFC heading variants found: 97 pages bare "CFC Rules" (no verdict), 71
+  pages "...Rules: No" (current standard), 33 pages "...Not identified", 11
+  "...Yes", plus ~15 one-off country-specific-name variants (Section 9D,
+  FAPI, NOKUS, Hinzurechnungsbesteuerung, REFIPRES, Transparencia Fiscal
+  Internacional, etc.) - all need reformatting to the Yes/No standard with
+  local names moved to prose. This is a BIGGER scope than the ~43-country
+  estimate made earlier in this session - true scope is 150+ pages once
+  bare "CFC Rules" headings are counted.
+- Foreign Bank Account / Foreign Financial Asset Reporting section is
+  MISSING ENTIRELY from 105 of 229 pages (46%) - appears to be an early
+  build batch (mostly major economies + large African countries) that
+  predates this section becoming a standard template requirement.
+- Exactly 1 page (Northern Cyprus) still had the raw legacy combined
+  "Residency, CFC, Thin Cap & Treaty Network" heading, never split into the
+  standard structure. FIXED this pass - Northern Cyprus now has 4 separate
+  sections, and its treaty-network claim was corrected in the process (TRNC
+  has exactly ONE tax agreement, with Turkey - not zero, as the old combined
+  section had claimed; sourced from the US State Department's Investment
+  Climate Statement on Cyprus).
+
+**Missing jurisdictions confirmed via rigorous cross-check (not just a mental
+scan this time): 20 total** - Curacao, Bonaire/Sint Eustatius/Saba,
+Guadeloupe, Martinique, French Guiana, Reunion, Mayotte, Guam, American
+Samoa, US Virgin Islands, Northern Mariana Islands, Saint Helena/Ascension/
+Tristan da Cunha, Pitcairn Islands, British Indian Ocean Territory, Svalbard,
+Aland Islands, Norfolk Island, Christmas Island, Cocos (Keeling) Islands,
+Tokelau. None built yet.
+
+**Foreign Bank Account backfill in progress (item 2 of TEMPLATE.md rollout
+plan) - 17 of 105 done this pass:**
+United States (special case - the FBAR/FATCA origin jurisdiction and the
+sole major CRS non-participant, written distinctly from the standard
+template), Germany, France, United Kingdom, Canada, Australia, Switzerland,
+Japan, China, Singapore, Netherlands, Italy, Spain, Sweden, Norway, Denmark,
+Finland.
+
+Methodology: CRS participation year sourced from the OECD's own CRS-MCAA
+signatory list and AEOI commitments list (both fetched via search snippets,
+since the OECD's own PDFs block direct automated fetching - a real
+limitation worth noting for future sessions). Domestic near-equivalent
+disclosure regimes flagged where they exist and are narrower than FBAR
+(Canada's T1135, Japan's foreign asset statement, Italy's RW section, Spain's
+Modelo 720) rather than treated as equivalent. FATCA IGA status confirmed
+per country. Every batch re-fetched and checked post-push for exactly one
+Treaty Network heading (no duplicates) and presence of the new section.
+
+**Remaining on the Foreign Bank Account backfill: 88 of 105.** Full
+remaining list: Albania, Algeria, Angola, Argentina, Austria, Bahrain,
+Bangladesh, Belgium, Bolivia, Bosnia and Herzegovina, Botswana, Brazil,
+Bulgaria, Cameroon, Chile, Colombia, Congo (DRC), Costa Rica, Cote d'Ivoire,
+Croatia, Cyprus, Czech Republic, Dominican Republic, Ecuador, Egypt, Estonia,
+Ethiopia, Ghana, Greece, Hong Kong SAR, Hungary, Iceland, India, Indonesia,
+Iraq, Ireland, Israel, Jordan, Kenya, Kosovo, Kuwait, Latvia, Lebanon,
+Lithuania, Luxembourg, Malaysia, Malta, Mexico, Montenegro, Morocco,
+Mozambique, Namibia, Nepal, Nigeria, North Macedonia, Oman, Pakistan, Panama,
+Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russia,
+Rwanda, Saudi Arabia, Senegal, Serbia, Slovakia, Slovenia, South Africa,
+South Korea, Sri Lanka, Taiwan, Tanzania, Thailand, Tunisia, Turkiye, Uganda,
+Ukraine, United Arab Emirates, Uruguay, Venezuela, Vietnam, Zambia, Zimbabwe.
+
+**Not yet started this pass:** the full CFC heading reformatting (150+
+pages), building the 20 missing jurisdictions, and the enhancement-tier
+items (treaty-network depth standard, personal-rate detail standard).
