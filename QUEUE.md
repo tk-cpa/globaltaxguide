@@ -4286,3 +4286,33 @@ Territory, Svalbard, Aland Islands, Norfolk Island, Christmas Island,
 Cocos (Keeling) Islands, Tokelau.
 
 Continuing without pausing.
+
+
+## MISSING JURISDICTIONS - 10 of 20 done
+
+Added since last checkpoint: Guam, US Virgin Islands, Northern Mariana
+Islands (all 3 "mirror code" US territories - the US Internal Revenue Code
+applies AS their own local tax law, live/current, confirmed via 26 U.S.C.
+931 and the JCT's own description - corporate 21%, personal top 37%,
+matching current US federal rates exactly since the mirroring is dynamic).
+American Samoa built as a genuinely DIFFERENT, non-mirror-code case -
+confirmed directly via the IRS's own official page: American Samoa's tax
+code is frozen at the US Internal Revenue Code as it stood on 31 December
+2000, not the current code - meaning real, materially different rates
+(corporate graduated to 35%, personal top rate 39.6%, both pre-TCJA
+figures) apply there versus the other three mirror-code territories. This
+distinction was verified via multiple independent sources (IRS, LegalClarity,
+Croner-i, PaycheckCity) rather than assumed - a genuinely interesting and
+correct finding that most casual treatments of "US territories" would
+flatten into one uniform answer.
+
+**10 of 20 confirmed-missing jurisdictions now built, registered in
+countries.json and sitemap.xml, full 8-section template + schema.org/OG
+tags on every page.**
+
+**10 remaining**: Bonaire/Sint Eustatius/Saba, Saint Helena/Ascension/
+Tristan da Cunha, Pitcairn Islands, British Indian Ocean Territory,
+Svalbard, Aland Islands, Norfolk Island, Christmas Island, Cocos (Keeling)
+Islands, Tokelau.
+
+Continuing without pausing.
