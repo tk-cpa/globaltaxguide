@@ -31,7 +31,7 @@
 <section class="hero">
   <div class="hero__inner">
     <div class="hero__eyebrow">From the makers of cpavalidated.com</div>
-    <h1>Tax Rates for Every Country on Earth</h1>
+    <h1>Tax Rates for Every Major Jurisdiction</h1>
     <p>Corporate rate, personal rate, residency rules, CFC rules, treaty network, and VAT/GST - concise, citable, and free. No logins, no paywalls.</p>
     <form class="hero__search" onsubmit="return false;" autocomplete="off">
       <div class="hero__search-wrap">
@@ -115,12 +115,10 @@ async function init() {
     const filtered = data.filter(c => activeRegion === 'All' || c.region === activeRegion);
     grid.innerHTML = filtered.map(c => {
       const statusClass = c.status === 'published' ? 'is-published' : 'is-pending';
-      const tag = c.status === 'published' ? 'Guide live' : 'Coming soon';
       const href = c.status === 'published' ? `countries/${c.slug}.html` : '#';
-      const tagEl = `<span class="tag">${tag}</span>`;
       return c.status === 'published'
-        ? `<a class="country-card ${statusClass}" href="${href}">${c.name}${tagEl}</a>`
-        : `<span class="country-card ${statusClass}">${c.name}${tagEl}</span>`;
+        ? `<a class="country-card ${statusClass}" href="${href}">${c.name}</a>`
+        : `<span class="country-card ${statusClass}">${c.name}</span>`;
     }).join('');
   }
 
