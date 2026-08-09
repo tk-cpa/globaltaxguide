@@ -3040,3 +3040,34 @@ raised again.
   Jersey, Liechtenstein, Isle of Man, Moldova, Georgia, Greenland,
   Azerbaijan, Armenia, Faroe Islands, Saint Barthelemy, Sint Maarten,
   Saint Martin (French), Falkland Islands.
+
+
+## Session log - August 08, 2026 (continued - SVG, Jersey)
+
+- Saint Vincent and the Grenadines: Residency confirmed via SVG's own
+  Income Tax Act interpretation section (submitted to OECD directly) -
+  primary-source quality. Remittance-basis carve-out for non-domiciled
+  residents' foreign income. CFC: No. Thin cap: none found. FATCA IGA
+  2014, CRS 2016 confirmed, with a caveat that SVG-registered offshore
+  LLCs/IBCs are structurally carved out of ordinary tax and largely
+  outside AEOI in practice per offshore-services sources - noted as such.
+  Treaty network: US, Canada, Denmark, Norway, Sweden, Switzerland, UK,
+  UAE, confirmed via US State Dept and Caribbean-Tax sources.
+
+- Jersey: Residency via PwC (six-month test / place of abode / habitual
+  substantial visits). CFC: source conflict resolved - one blog source
+  claims Jersey has CFC rules, but PwC's detailed Group Taxation page
+  (which explicitly covers transfer pricing and anti-avoidance) makes no
+  mention of a CFC regime and Moore Global corroborates; resolved to No
+  per source specificity/authority, discrepancy flagged and the
+  contradicting source still cited for transparency per site practice.
+  Thin cap: arm's-length-basis interest restriction (Comptroller
+  discretion), not a ratio. FATCA 2014, CRS 2016 (CRS 2.0 from 2026)
+  confirmed via PwC Other Issues page. Treaty network: 15 full DTAs +
+  38 TIEAs confirmed via PwC; older 2016 KPMG source's "limited
+  agreements" list flagged as unconfirmed/possibly outdated rather than
+  merged in as fact.
+
+- **Remaining placeholder pages (12):** Liechtenstein, Isle of Man,
+  Moldova, Georgia, Greenland, Azerbaijan, Armenia, Faroe Islands, Saint
+  Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
