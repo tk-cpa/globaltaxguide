@@ -354,3 +354,65 @@ become a forms-and-instructions guide, one clause is enough.
 11 body sections + 1 source-row item = 12 total data points per page once
 both new sections are rolled out. Hero stat and homepage explainer grid
 will need a further update once rollout is substantially complete.
+
+
+## THREE MORE NEW SECTIONS + updated final order (per user request)
+
+### Permanent Establishment (new - split out from Residency)
+
+Heading: exactly `<h2>Permanent Establishment</h2>`
+
+Content: what specifically triggers a taxable corporate presence for a
+non-resident entity - fixed place of business, dependent agent PE,
+construction/service PE day-count thresholds, and any digital/significant-
+economic-presence rules. This is a CORPORATE question, distinct from
+individual Residency, and was previously often buried or absent - now gets
+its own section.
+
+### Hybrid Entity / Anti-Hybrid Rules (new)
+
+Heading: exactly `<h2>Hybrid Entity Rules</h2>`
+
+Content: (1) how the jurisdiction classifies foreign entities for tax
+purposes (does it have a "check-the-box"-style elective system like the
+US, or fixed classification by entity type?); (2) whether the jurisdiction
+has enacted ATAD2-style anti-hybrid rules denying deductions or requiring
+inclusion where a hybrid mismatch would otherwise produce a double
+deduction or deduction-without-inclusion outcome; (3) brief note on how
+the jurisdiction's own domestic entities (e.g., US LLCs, UK LPs) are
+commonly used or treated in cross-border structuring, where genuinely
+relevant and well-documented - not speculative.
+
+### Participation Exemption / Dividend Exemption Regime (new)
+
+Heading: exactly `<h2>Participation Exemption</h2>`
+
+Content: whether a participation exemption exists for qualifying
+dividends and/or capital gains from a subsidiary, the minimum ownership
+threshold and holding period required to qualify, and any subject-to-tax
+or anti-abuse conditions attached (a common feature - many participation
+exemptions are conditioned on the underlying subsidiary being subject to
+a minimum level of tax abroad, to prevent stacking with the CFC section's
+own coverage of low-tax entities).
+
+## FINAL section order (locked)
+
+1. Tax System
+2. Tax Year & Key Deadlines
+3. Corporate Tax Rate
+4. Personal Tax Rate
+5. VAT / GST Rate
+6. Residency
+7. Permanent Establishment
+8. CFC (Controlled Foreign Company) Rules
+9. Thin Capitalization
+10. Hybrid Entity Rules
+11. Foreign Bank Account / Foreign Financial Asset Reporting
+12. Participation Exemption
+13. Foreign Tax Credit
+14. Treaty Network
+
+14 body sections + Official Tax Authority in source-row = 15 total data
+points once fully rolled out. Hero stat and homepage explainer grid need
+another update pass once this is substantially complete - do not update
+prematurely while most pages still show the old, smaller count.
