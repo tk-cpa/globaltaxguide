@@ -3499,3 +3499,69 @@ for CRS - meaning the correct finding for several of these may genuinely be
 exchange in year X" pattern used for the rest of this backfill. Each still
 needs individual confirmation before writing, since this OECD list itself
 carries a caveat that it is "subject to continuous revision."
+
+
+## MAJOR POLICY CORRECTION - Foreign Bank Account section (August 08, 2026)
+
+User feedback: the Foreign Bank Account section was wrong in concept, not
+just execution. Two problems: (1) it was being added to every page even
+where no genuine domestic regime exists, defaulting to "no domestic
+equivalent, but here is institutional CRS/FATCA participation info" - which
+isn't what the section should be for; (2) every page carried boilerplate US
+law text ("Separately, US citizens and Green Card holders... must file
+FinCEN Form 114 (FBAR)... Form 8938...") which does not belong on a non-US
+country's profile - that content belongs only on the United States page.
+
+**New standing rule for this section going forward:** only include a
+Foreign Bank Account / Foreign Financial Asset Reporting section on a
+country's page if that country has ITS OWN genuine domestic law requiring
+ITS residents to report their foreign (out-of-country) financial accounts/
+assets TO ITS OWN tax or currency-control authority - analogous to Canada's
+Form T1135 (foreign property >CAD 100k) or Russia's Federal Law 173-FZ
+currency-control account notification regime. Never include: (a) generic
+CRS/FATCA institutional participation info alone (that belongs, if
+anywhere, folded into Treaty Network or omitted), (b) any US-law content
+(FinCEN Form 114, Form 8938, FBAR terminology) on any page except the
+United States' own.
+
+**Sitewide sweep executed (not just the pages fixed this session):**
+- Scanned all 229 pages. Found 181 pages carried a Foreign Bank Account
+  section, and 171 of those non-US pages contained the US FinCEN/Form 8938
+  boilerplate - meaning this was a sitewide pattern predating this session,
+  not something introduced only in the recent backfill batch.
+- **Removed the section entirely from 171 pages** where no genuine domestic
+  regime exists (this reverses the "add to every page" approach from
+  earlier in this session - that approach was wrong per the corrected
+  policy).
+- **Kept and rewrote 9 pages with genuine domestic regimes**, stripping
+  the US-law boilerplate and expanding the real domestic-regime detail:
+  Canada (Form T1135, CAD 100k threshold), Brazil (Capitais Brasileiros no
+  Exterior, USD 100k threshold, Central Bank filing), India (Schedule FA,
+  no minimum threshold, Black Money Act penalties), Japan (Statement of
+  Overseas Assets, JPY 50 million threshold), South Korea (Specified
+  Financial Transaction Information Act, KRW 500 million threshold), Italy
+  (Quadro RW + IVAFE wealth tax), Spain (Modelo 720, three EUR 50k
+  category thresholds, post-2022 CJEU-driven penalty revision), Belgium
+  (tax-return disclosure + National Bank Central Point of Contact
+  registration), France (Form 3916 account-existence disclosure, no
+  threshold, EUR 1,500/10,000 penalties).
+- **Added Russia** (previously had no section at all) - the specific
+  example the user named. Real regime: Federal Law No. 173-FZ currency
+  control notification (account opening/closing within 1 month) plus
+  annual fund-movement reporting, with a 183-day/RUB 600k OECD-country
+  exemption and Article 15.25 administrative penalties. Sourced from
+  multiple law-firm summaries directly quoting the statutory articles.
+- Caught and fixed one drafting error during this pass: a stray
+  non-Latin character accidentally inserted into the Belgium rewrite
+  ("点de Contact Central" instead of "Point de Contact Central") - caught
+  on immediate re-read, not by an automated check, reinforcing that
+  automated string sweeps alone are not sufficient QA.
+- Full post-sweep verification: 0 non-US pages reference FinCEN Form 114
+  or Form 8938; exactly 11 pages now carry the section (the 9 rewritten +
+  Russia + United States); every page confirmed to have exactly one
+  Treaty Network heading (no structural breakage from the mass removal).
+
+**Note for future country research:** when researching a country not yet
+checked for this section, only add it if a genuine self-reporting regime is
+found - do not default to a boilerplate "no domestic equivalent, but here's
+CRS participation" entry.
