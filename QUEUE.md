@@ -4443,3 +4443,45 @@ as a future task.
 **223 of 239 remaining** for both new sections. Tax System alone is now at
 17/239 (Eritrea done solo, not yet given Tax Year/FTC treatment since its
 own domestic mechanism wasn't confirmed).
+
+
+## Three more sections added + a real bug caught and fixed mid-task
+
+Added Permanent Establishment, Hybrid Entity Rules, and Participation
+Exemption per direct user request. TEMPLATE.md updated with final locked
+14-section order.
+
+**Bug caught during verification, not before**: the bulk-insert script for
+Hybrid Entity Rules depended on the Foreign Bank Account section already
+existing (inserting immediately before it). But the "FBAR section is
+mandatory on every page" policy decided earlier this session was only ever
+written into TEMPLATE.md - it was NEVER actually executed as a real
+rollout. So for the 11 of 16 countries in this batch without a genuine FBAR
+regime, the marker didn't exist, and Hybrid Entity Rules was silently
+skipped. A defensive guard in the code (`if idx2 != -1`) prevented actual
+file corruption - the operation simply didn't run for those 11 - but the
+batch still reported "success" because the OTHER two sections (Permanent
+Establishment, Participation Exemption) inserted correctly against
+different, valid markers. This is exactly the kind of silent partial
+failure that's dangerous precisely because it doesn't look like a failure.
+
+**Caught via direct verification, not assumption**: ran a full header list
+check on Germany immediately after the batch, saw only 12 of 14 expected
+headings, investigated before reporting anything as done.
+
+**Fixed properly**: for the affected 11 countries (UK, Australia, Ireland,
+New Zealand, Austria, Denmark, Germany, Greece, Netherlands, Norway,
+Portugal), added BOTH the missing Hybrid Entity Rules section AND finally
+executed the overdue mandatory Foreign Bank Account "no regime" section in
+the same fix - properly worded per-country rather than generic boilerplate
+(e.g. Netherlands' entry references its own Box 3 wealth-tax return
+capturing foreign assets, Denmark's references its own pre-filled
+assessment system).
+
+**Full verification re-run after the fix**: all 16 countries in this batch
+now confirmed to have all 14 expected sections in the correct order -
+checked programmatically, not assumed from the "success" status alone.
+
+**Lesson for future batch inserts**: never assume a prior "policy decided"
+in TEMPLATE.md was actually executed as a real sitewide rollout - verify
+the actual page state before building a new insertion that depends on it.
