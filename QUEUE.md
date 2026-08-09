@@ -3565,3 +3565,50 @@ United States' own.
 checked for this section, only add it if a genuine self-reporting regime is
 found - do not default to a boilerplate "no domestic equivalent, but here's
 CRS participation" entry.
+
+
+## One-sentence summary fix - sitewide (August 08, 2026)
+
+User feedback: liked the one-sentence summaries a lot, but flagged awkward
+"[Country]'s corporate tax position:" phrasing (e.g. "Brazil's corporate tax
+position: 34...") as confusing - wanted plain "Corporate tax:" instead.
+
+**Scope check found this was sitewide, not isolated:** 218 of 229 pages
+carried this exact "'s corporate tax position:" phrasing - a template
+pattern baked in from an early build stage across nearly the entire site.
+
+**Second bug found while fixing the first:** many of the same summaries were
+missing "%" signs entirely after bare rate numbers - e.g. "34" instead of
+"34%", "9" instead of "9%", "45" instead of "45%". Also sitewide, not
+isolated to the flagged example.
+
+**Fix applied via regex across all 218 affected pages in one pass, each
+re-verified individually:**
+1. Removed "[Country]'s corporate tax position:" -> "Corporate tax:"
+   (mechanical, safe - country name is already in the page H1, doesn't need
+   repeating in the summary).
+2. Added missing "%" after bare numbers immediately following "Corporate
+   tax:", "Personal income tax:", or "VAT/consumption tax:" labels, only
+   where a "%" wasn't already present.
+
+**Caught a real regex bug during testing, before it touched any live page:**
+the first version of the %-insertion regex used a negative lookahead
+`(?!%)` that could backtrack into a shorter match - e.g. "15.825%" would
+incorrectly become "15%.825%" because the regex backed off from matching the
+full decimal to find a position where the lookahead succeeded. Caught this
+on the Germany test case specifically, fixed by switching to an optional
+capture-and-check pattern instead of a lookahead, retested on all 8 samples
+before running sitewide. Lesson: regex fixes touching 200+ pages need to be
+tested against a diverse sample (including decimal numbers, multi-rate
+values, and edge cases) before running at scale, not just the one example
+that prompted the fix.
+
+**Fresh-SHA discipline maintained:** re-fetched each page immediately before
+writing (not reusing the earlier bulk-fetch SHA), per the standing protocol
+against stale-SHA write failures.
+
+**Verification: 0/229 pages still contain "corporate tax position" phrasing;
+0/229 show the double-% backtracking bug pattern; 218 pages successfully
+updated, 11 needed no change (the pages using different summary phrasing
+that never had this issue), 0 errors.** Spot-checked 8 random pages post-fix
+for readability - all read cleanly.
