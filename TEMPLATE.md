@@ -451,3 +451,49 @@ Exemption, FTC, Treaty Network) - write every fact as a direct, plain
 statement. Genuine uncertainty or a real source conflict can still be
 flagged plainly ("sources conflict on X" or "confirm current figure
 directly") - that's different from narrating routine verification.
+
+
+## CLEANUP COMPLETE (sitewide) - verified, not just claimed
+
+Per direct user correction (screenshot showing the pattern in the wild),
+executed a full sitewide removal of inline source-attribution phrasing
+("Confirmed via X", "confirmed directly via X", "Per PwC") from body
+prose across all 249 pages. This required THREE passes because the first
+two regex attempts had real bugs (caught via testing, not shipped blind):
+1. First regex broke grammar on abbreviations like "U.S.C." by treating
+   internal periods as sentence boundaries - caught in testing, redesigned.
+2. Second regex missed dash-prefixed and parenthetical variants - caught
+   via post-deployment verification, added.
+3. Remaining ~20 mid-sentence "verb-phrase" cases (structurally different,
+   "confirmed via" acting as the sentence's main verb) were fixed by hand,
+   one at a time, to guarantee correct grammar rather than risk further
+   regex corruption.
+
+Also fixed in the same pass, discovered while investigating the
+attribution issue:
+- Missing "%" signs on rate figures (a genuine factual error, e.g. "rate
+  is 25." instead of "rate is 25%.") - affected dozens of pages,
+  concentrated in an earlier bulk-generation batch. Fixed via a
+  callback-based regex that checks for already-present "%" before
+  inserting (caught and fixed a backtracking bug that corrupted
+  "23.87%" into "23%.87%" before deployment).
+- Generic unfilled boilerplate sentence ("Registration thresholds,
+  zero-rated and exempt categories... see the source link below for the
+  full detail on this jurisdiction") - a placeholder that added no real
+  value - removed sitewide, two phrasing variants.
+- Cross-page self-reference noise ("as already described elsewhere on
+  this page", "(see France's own page on this site)") - removed.
+- A handful of pre-existing capitalization bugs (lowercase "the" starting
+  a sentence after a period) - fixed as found, unrelated to the main
+  cleanup but caught during verification.
+
+**Final verified state (re-checked directly, not assumed): 0 pages with
+body-prose "confirmed via" language, 0 pages with the boilerplate
+sentence, 0 pages with genuinely missing % signs (range-aware check).**
+
+## POLICY LOCKED IN: no inline source attribution, ever, going forward
+
+This is not just a retroactive cleanup - it is now the permanent writing
+standard for every future page and edit. State facts directly. Citations
+live only in the source-row. No "confirmed via", no "per X", no narrating
+which source said what mid-paragraph.
