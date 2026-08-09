@@ -4913,3 +4913,22 @@ sections all reflect the CIT's actual scope-limited nature (in-scope
 groups only, general no-income-tax position otherwise unchanged).
 
 73 remain. Continuing immediately.
+
+
+## 177/249 - Eritrea orphan bug fixed, session handoff prepared
+
+Found and fixed a real bug during final verification for session handoff:
+Eritrea had a pre-existing "Tax System" section from earlier work, which
+caused the batch insertion script's bundled Tax-System+Tax-Year check to
+skip inserting Tax Year entirely (the check only looked for Tax System's
+presence, not Tax Year's, before deciding to skip both). Checked sitewide
+for the same "orphan" pattern - confirmed isolated to Eritrea only, fixed
+directly.
+
+Also confirmed azerbaijan genuinely still needs the 6 new sections
+(it was touched earlier only for the "confirmed via" attribution cleanup,
+not the section rollout - those are two different workstreams and
+touching a page for one doesn't mean the other is done).
+
+Session ending here at user's request (context getting large) - full
+handoff prompt prepared for continuation in a new chat.
