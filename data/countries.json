@@ -1,8 +1,32 @@
 [
   {
+    "name": "Abkhazia",
+    "slug": "abkhazia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Afghanistan",
+    "slug": "afghanistan",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Albania",
+    "slug": "albania",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
     "name": "Algeria",
     "slug": "algeria",
     "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Andorra",
+    "slug": "andorra",
+    "region": "Europe",
     "status": "published"
   },
   {
@@ -12,15 +36,153 @@
     "status": "published"
   },
   {
+    "name": "Anguilla",
+    "slug": "anguilla",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Argentina",
+    "slug": "argentina",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Armenia",
+    "slug": "armenia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Aruba",
+    "slug": "aruba",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Australia",
+    "slug": "australia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Austria",
+    "slug": "austria",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Azerbaijan",
+    "slug": "azerbaijan",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Bahamas",
+    "slug": "bahamas",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Bahrain",
+    "slug": "bahrain",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Bangladesh",
+    "slug": "bangladesh",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Barbados",
+    "slug": "barbados",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Belarus",
+    "slug": "belarus",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Belgium",
+    "slug": "belgium",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Belize",
+    "slug": "belize",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
     "name": "Benin",
     "slug": "benin",
     "region": "Africa",
     "status": "published"
   },
   {
+    "name": "Bermuda",
+    "slug": "bermuda",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Bhutan",
+    "slug": "bhutan",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Bolivia",
+    "slug": "bolivia",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
     "name": "Botswana",
     "slug": "botswana",
     "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Brazil",
+    "slug": "brazil",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "British Virgin Islands",
+    "slug": "british-virgin-islands",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Brunei",
+    "slug": "brunei",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Bulgaria",
+    "slug": "bulgaria",
+    "region": "Europe",
     "status": "published"
   },
   {
@@ -42,339 +204,15 @@
     "status": "published"
   },
   {
+    "name": "Cambodia",
+    "slug": "cambodia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
     "name": "Cameroon",
     "slug": "cameroon",
     "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Central African Republic",
-    "slug": "central-african-republic",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Chad",
-    "slug": "chad",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Comoros",
-    "slug": "comoros",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Congo (Republic)",
-    "slug": "congo-republic",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Congo (DRC)",
-    "slug": "congo-drc",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Cote d'Ivoire",
-    "slug": "cote-divoire",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Djibouti",
-    "slug": "djibouti",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Egypt",
-    "slug": "egypt",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Equatorial Guinea",
-    "slug": "equatorial-guinea",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Eritrea",
-    "slug": "eritrea",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Eswatini",
-    "slug": "eswatini",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Ethiopia",
-    "slug": "ethiopia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Gabon",
-    "slug": "gabon",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Gambia",
-    "slug": "gambia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Ghana",
-    "slug": "ghana",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Guinea",
-    "slug": "guinea",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Guinea-Bissau",
-    "slug": "guinea-bissau",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Kenya",
-    "slug": "kenya",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Lesotho",
-    "slug": "lesotho",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Liberia",
-    "slug": "liberia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Libya",
-    "slug": "libya",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Madagascar",
-    "slug": "madagascar",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Malawi",
-    "slug": "malawi",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Mali",
-    "slug": "mali",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Mauritania",
-    "slug": "mauritania",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Mauritius",
-    "slug": "mauritius",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Morocco",
-    "slug": "morocco",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Mozambique",
-    "slug": "mozambique",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Namibia",
-    "slug": "namibia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Niger",
-    "slug": "niger",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Nigeria",
-    "slug": "nigeria",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Rwanda",
-    "slug": "rwanda",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Sao Tome and Principe",
-    "slug": "sao-tome-and-principe",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Senegal",
-    "slug": "senegal",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Seychelles",
-    "slug": "seychelles",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Sierra Leone",
-    "slug": "sierra-leone",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Somalia",
-    "slug": "somalia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "South Africa",
-    "slug": "south-africa",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "South Sudan",
-    "slug": "south-sudan",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Sudan",
-    "slug": "sudan",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Tanzania",
-    "slug": "tanzania",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Togo",
-    "slug": "togo",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Tunisia",
-    "slug": "tunisia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Uganda",
-    "slug": "uganda",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Zambia",
-    "slug": "zambia",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Zimbabwe",
-    "slug": "zimbabwe",
-    "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Antigua and Barbuda",
-    "slug": "antigua-and-barbuda",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Argentina",
-    "slug": "argentina",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Bahamas",
-    "slug": "bahamas",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Barbados",
-    "slug": "barbados",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Belize",
-    "slug": "belize",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Bermuda",
-    "slug": "bermuda",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Bolivia",
-    "slug": "bolivia",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Brazil",
-    "slug": "brazil",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "British Virgin Islands",
-    "slug": "british-virgin-islands",
-    "region": "Americas",
     "status": "published"
   },
   {
@@ -390,213 +228,21 @@
     "status": "published"
   },
   {
+    "name": "Central African Republic",
+    "slug": "central-african-republic",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Chad",
+    "slug": "chad",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
     "name": "Chile",
     "slug": "chile",
     "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Colombia",
-    "slug": "colombia",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Costa Rica",
-    "slug": "costa-rica",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Cuba",
-    "slug": "cuba",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Dominica",
-    "slug": "dominica",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Dominican Republic",
-    "slug": "dominican-republic",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Ecuador",
-    "slug": "ecuador",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "El Salvador",
-    "slug": "el-salvador",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Grenada",
-    "slug": "grenada",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Guatemala",
-    "slug": "guatemala",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Guyana",
-    "slug": "guyana",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Haiti",
-    "slug": "haiti",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Honduras",
-    "slug": "honduras",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Jamaica",
-    "slug": "jamaica",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Mexico",
-    "slug": "mexico",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Nicaragua",
-    "slug": "nicaragua",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Panama",
-    "slug": "panama",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Paraguay",
-    "slug": "paraguay",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Peru",
-    "slug": "peru",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Puerto Rico",
-    "slug": "puerto-rico",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Saint Kitts and Nevis",
-    "slug": "saint-kitts-and-nevis",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Saint Lucia",
-    "slug": "saint-lucia",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Saint Vincent and the Grenadines",
-    "slug": "saint-vincent-and-the-grenadines",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Suriname",
-    "slug": "suriname",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Trinidad and Tobago",
-    "slug": "trinidad-and-tobago",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Turks and Caicos",
-    "slug": "turks-and-caicos",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "United States",
-    "slug": "united-states",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Uruguay",
-    "slug": "uruguay",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Venezuela",
-    "slug": "venezuela",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Afghanistan",
-    "slug": "afghanistan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Australia",
-    "slug": "australia",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Bangladesh",
-    "slug": "bangladesh",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Bhutan",
-    "slug": "bhutan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Brunei",
-    "slug": "brunei",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Cambodia",
-    "slug": "cambodia",
-    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -606,237 +252,63 @@
     "status": "published"
   },
   {
-    "name": "Fiji",
-    "slug": "fiji",
+    "name": "Colombia",
+    "slug": "colombia",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Comoros",
+    "slug": "comoros",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Congo (DRC)",
+    "slug": "congo-drc",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Congo (Republic)",
+    "slug": "congo-republic",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Cook Islands",
+    "slug": "cook-islands",
     "region": "Asia-Pacific",
     "status": "published"
   },
   {
-    "name": "Hong Kong SAR",
-    "slug": "hong-kong-sar",
-    "region": "Asia-Pacific",
+    "name": "Costa Rica",
+    "slug": "costa-rica",
+    "region": "Americas",
     "status": "published"
   },
   {
-    "name": "India",
-    "slug": "india",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Indonesia",
-    "slug": "indonesia",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Japan",
-    "slug": "japan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Kazakhstan",
-    "slug": "kazakhstan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Kyrgyzstan",
-    "slug": "kyrgyzstan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Laos",
-    "slug": "laos",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Macau SAR",
-    "slug": "macau-sar",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Malaysia",
-    "slug": "malaysia",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Maldives",
-    "slug": "maldives",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Mongolia",
-    "slug": "mongolia",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Myanmar",
-    "slug": "myanmar",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Nepal",
-    "slug": "nepal",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "New Zealand",
-    "slug": "new-zealand",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "North Korea",
-    "slug": "north-korea",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Pakistan",
-    "slug": "pakistan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Papua New Guinea",
-    "slug": "papua-new-guinea",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Philippines",
-    "slug": "philippines",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Samoa",
-    "slug": "samoa",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Singapore",
-    "slug": "singapore",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "South Korea",
-    "slug": "south-korea",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Sri Lanka",
-    "slug": "sri-lanka",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Taiwan",
-    "slug": "taiwan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Tajikistan",
-    "slug": "tajikistan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Thailand",
-    "slug": "thailand",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Timor-Leste",
-    "slug": "timor-leste",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Turkmenistan",
-    "slug": "turkmenistan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Uzbekistan",
-    "slug": "uzbekistan",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Vanuatu",
-    "slug": "vanuatu",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Vietnam",
-    "slug": "vietnam",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Albania",
-    "slug": "albania",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Andorra",
-    "slug": "andorra",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Austria",
-    "slug": "austria",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Belarus",
-    "slug": "belarus",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Belgium",
-    "slug": "belgium",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Bosnia and Herzegovina",
-    "slug": "bosnia-and-herzegovina",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Bulgaria",
-    "slug": "bulgaria",
-    "region": "Europe",
+    "name": "Cote d'Ivoire",
+    "slug": "cote-divoire",
+    "region": "Africa",
     "status": "published"
   },
   {
     "name": "Croatia",
     "slug": "croatia",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Cuba",
+    "slug": "cuba",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Curacao",
+    "slug": "curacao",
+    "region": "Americas",
     "status": "published"
   },
   {
@@ -858,9 +330,87 @@
     "status": "published"
   },
   {
+    "name": "Djibouti",
+    "slug": "djibouti",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Dominica",
+    "slug": "dominica",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Egypt",
+    "slug": "egypt",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "El Salvador",
+    "slug": "el-salvador",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "slug": "equatorial-guinea",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Eritrea",
+    "slug": "eritrea",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
     "name": "Estonia",
     "slug": "estonia",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Eswatini",
+    "slug": "eswatini",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Ethiopia",
+    "slug": "ethiopia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Falkland Islands",
+    "slug": "falkland-islands",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Faroe Islands",
+    "slug": "faroe-islands",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Fiji",
+    "slug": "fiji",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -876,9 +426,39 @@
     "status": "published"
   },
   {
+    "name": "French Polynesia",
+    "slug": "french-polynesia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Gabon",
+    "slug": "gabon",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Gambia",
+    "slug": "gambia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
     "name": "Germany",
     "slug": "germany",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Ghana",
+    "slug": "ghana",
+    "region": "Africa",
     "status": "published"
   },
   {
@@ -894,9 +474,63 @@
     "status": "published"
   },
   {
+    "name": "Greenland",
+    "slug": "greenland",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Grenada",
+    "slug": "grenada",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Guatemala",
+    "slug": "guatemala",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
     "name": "Guernsey",
     "slug": "guernsey",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Guinea",
+    "slug": "guinea",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "slug": "guinea-bissau",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Guyana",
+    "slug": "guyana",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Haiti",
+    "slug": "haiti",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Honduras",
+    "slug": "honduras",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Hong Kong SAR",
+    "slug": "hong-kong-sar",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -912,6 +546,30 @@
     "status": "published"
   },
   {
+    "name": "India",
+    "slug": "india",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Indonesia",
+    "slug": "indonesia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Iran",
+    "slug": "iran",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Iraq",
+    "slug": "iraq",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
     "name": "Ireland",
     "slug": "ireland",
     "region": "Europe",
@@ -924,9 +582,27 @@
     "status": "published"
   },
   {
+    "name": "Israel",
+    "slug": "israel",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
     "name": "Italy",
     "slug": "italy",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Jamaica",
+    "slug": "jamaica",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Japan",
+    "slug": "japan",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -936,15 +612,81 @@
     "status": "published"
   },
   {
+    "name": "Jordan",
+    "slug": "jordan",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Kazakhstan",
+    "slug": "kazakhstan",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Kenya",
+    "slug": "kenya",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Kiribati",
+    "slug": "kiribati",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
     "name": "Kosovo",
     "slug": "kosovo",
     "region": "Europe",
     "status": "published"
   },
   {
+    "name": "Kuwait",
+    "slug": "kuwait",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "slug": "kyrgyzstan",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Laos",
+    "slug": "laos",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
     "name": "Latvia",
     "slug": "latvia",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Lebanon",
+    "slug": "lebanon",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Lesotho",
+    "slug": "lesotho",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Liberia",
+    "slug": "liberia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Libya",
+    "slug": "libya",
+    "region": "Africa",
     "status": "published"
   },
   {
@@ -966,9 +708,75 @@
     "status": "published"
   },
   {
+    "name": "Macau SAR",
+    "slug": "macau-sar",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Madagascar",
+    "slug": "madagascar",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Malawi",
+    "slug": "malawi",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Maldives",
+    "slug": "maldives",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Mali",
+    "slug": "mali",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
     "name": "Malta",
     "slug": "malta",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Marshall Islands",
+    "slug": "marshall-islands",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Mauritania",
+    "slug": "mauritania",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Mexico",
+    "slug": "mexico",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "slug": "micronesia",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -984,9 +792,57 @@
     "status": "published"
   },
   {
+    "name": "Mongolia",
+    "slug": "mongolia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
     "name": "Montenegro",
     "slug": "montenegro",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Montserrat",
+    "slug": "montserrat",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Morocco",
+    "slug": "morocco",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Mozambique",
+    "slug": "mozambique",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Myanmar",
+    "slug": "myanmar",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Namibia",
+    "slug": "namibia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Nauru",
+    "slug": "nauru",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Nepal",
+    "slug": "nepal",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -996,8 +852,56 @@
     "status": "published"
   },
   {
+    "name": "New Caledonia",
+    "slug": "new-caledonia",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Nicaragua",
+    "slug": "nicaragua",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Niger",
+    "slug": "niger",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Nigeria",
+    "slug": "nigeria",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Niue",
+    "slug": "niue",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "North Korea",
+    "slug": "north-korea",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
     "name": "North Macedonia",
     "slug": "north-macedonia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Northern Cyprus",
+    "slug": "northern-cyprus",
     "region": "Europe",
     "status": "published"
   },
@@ -1005,6 +909,60 @@
     "name": "Norway",
     "slug": "norway",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Oman",
+    "slug": "oman",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Pakistan",
+    "slug": "pakistan",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Palau",
+    "slug": "palau",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Palestine",
+    "slug": "palestine",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Panama",
+    "slug": "panama",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Papua New Guinea",
+    "slug": "papua-new-guinea",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Peru",
+    "slug": "peru",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Philippines",
+    "slug": "philippines",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -1020,6 +978,18 @@
     "status": "published"
   },
   {
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Qatar",
+    "slug": "qatar",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
     "name": "Romania",
     "slug": "romania",
     "region": "Europe",
@@ -1032,15 +1002,105 @@
     "status": "published"
   },
   {
+    "name": "Rwanda",
+    "slug": "rwanda",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "slug": "saint-barthelemy",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "slug": "saint-kitts-and-nevis",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Lucia",
+    "slug": "saint-lucia",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Martin (French)",
+    "slug": "saint-martin-french",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "slug": "saint-pierre-and-miquelon",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "slug": "saint-vincent-and-the-grenadines",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Samoa",
+    "slug": "samoa",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
     "name": "San Marino",
     "slug": "san-marino",
     "region": "Europe",
     "status": "published"
   },
   {
+    "name": "Sao Tome and Principe",
+    "slug": "sao-tome-and-principe",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Senegal",
+    "slug": "senegal",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
     "name": "Serbia",
     "slug": "serbia",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Seychelles",
+    "slug": "seychelles",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Sierra Leone",
+    "slug": "sierra-leone",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Sint Maarten",
+    "slug": "sint-maarten",
+    "region": "Americas",
     "status": "published"
   },
   {
@@ -1056,9 +1116,69 @@
     "status": "published"
   },
   {
+    "name": "Solomon Islands",
+    "slug": "solomon-islands",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Somalia",
+    "slug": "somalia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Somaliland",
+    "slug": "somaliland",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "South Africa",
+    "slug": "south-africa",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "South Korea",
+    "slug": "south-korea",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "South Ossetia",
+    "slug": "south-ossetia",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "South Sudan",
+    "slug": "south-sudan",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
     "name": "Spain",
     "slug": "spain",
     "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Sudan",
+    "slug": "sudan",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Suriname",
+    "slug": "suriname",
+    "region": "Americas",
     "status": "published"
   },
   {
@@ -1074,243 +1194,45 @@
     "status": "published"
   },
   {
-    "name": "Ukraine",
-    "slug": "ukraine",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "United Kingdom",
-    "slug": "united-kingdom",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Vatican City",
-    "slug": "vatican-city",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Bahrain",
-    "slug": "bahrain",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Iran",
-    "slug": "iran",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Iraq",
-    "slug": "iraq",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Israel",
-    "slug": "israel",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Jordan",
-    "slug": "jordan",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Kuwait",
-    "slug": "kuwait",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Lebanon",
-    "slug": "lebanon",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Oman",
-    "slug": "oman",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Palestine",
-    "slug": "palestine",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Qatar",
-    "slug": "qatar",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Saudi Arabia",
-    "slug": "saudi-arabia",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
     "name": "Syria",
     "slug": "syria",
     "region": "Middle East",
     "status": "published"
   },
   {
-    "name": "Turkiye (Turkey)",
-    "slug": "turkiye",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "United Arab Emirates",
-    "slug": "united-arab-emirates",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Yemen",
-    "slug": "yemen",
-    "region": "Middle East",
-    "status": "published"
-  },
-  {
-    "name": "Armenia",
-    "slug": "armenia",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Azerbaijan",
-    "slug": "azerbaijan",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Georgia",
-    "slug": "georgia",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Greenland",
-    "slug": "greenland",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "New Caledonia",
-    "slug": "new-caledonia",
+    "name": "Taiwan",
+    "slug": "taiwan",
     "region": "Asia-Pacific",
     "status": "published"
   },
   {
-    "name": "Abkhazia",
-    "slug": "abkhazia",
-    "region": "Europe",
+    "name": "Tajikistan",
+    "slug": "tajikistan",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
-    "name": "South Ossetia",
-    "slug": "south-ossetia",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Northern Cyprus",
-    "slug": "northern-cyprus",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Somaliland",
-    "slug": "somaliland",
+    "name": "Tanzania",
+    "slug": "tanzania",
     "region": "Africa",
     "status": "published"
   },
   {
-    "name": "Transnistria",
-    "slug": "transnistria",
-    "region": "Europe",
+    "name": "Thailand",
+    "slug": "thailand",
+    "region": "Asia-Pacific",
     "status": "published"
   },
   {
-    "name": "Western Sahara (SADR)",
-    "slug": "western-sahara",
+    "name": "Timor-Leste",
+    "slug": "timor-leste",
+    "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Togo",
+    "slug": "togo",
     "region": "Africa",
-    "status": "published"
-  },
-  {
-    "name": "Aruba",
-    "slug": "aruba",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Faroe Islands",
-    "slug": "faroe-islands",
-    "region": "Europe",
-    "status": "published"
-  },
-  {
-    "name": "Sint Maarten",
-    "slug": "sint-maarten",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Saint Martin (French)",
-    "slug": "saint-martin-french",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Saint Barthelemy",
-    "slug": "saint-barthelemy",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Saint Pierre and Miquelon",
-    "slug": "saint-pierre-and-miquelon",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Anguilla",
-    "slug": "anguilla",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Montserrat",
-    "slug": "montserrat",
-    "region": "Americas",
-    "status": "published"
-  },
-  {
-    "name": "Cook Islands",
-    "slug": "cook-islands",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Niue",
-    "slug": "niue",
-    "region": "Asia-Pacific",
-    "status": "published"
-  },
-  {
-    "name": "Solomon Islands",
-    "slug": "solomon-islands",
-    "region": "Asia-Pacific",
     "status": "published"
   },
   {
@@ -1320,9 +1242,39 @@
     "status": "published"
   },
   {
-    "name": "Kiribati",
-    "slug": "kiribati",
+    "name": "Transnistria",
+    "slug": "transnistria",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Tunisia",
+    "slug": "tunisia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Turkiye (Turkey)",
+    "slug": "turkiye",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Turkmenistan",
+    "slug": "turkmenistan",
     "region": "Asia-Pacific",
+    "status": "published"
+  },
+  {
+    "name": "Turks and Caicos",
+    "slug": "turks-and-caicos",
+    "region": "Americas",
     "status": "published"
   },
   {
@@ -1332,26 +1284,68 @@
     "status": "published"
   },
   {
-    "name": "Marshall Islands",
-    "slug": "marshall-islands",
+    "name": "Uganda",
+    "slug": "uganda",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "United Arab Emirates",
+    "slug": "united-arab-emirates",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "united-kingdom",
+    "region": "Europe",
+    "status": "published"
+  },
+  {
+    "name": "United States",
+    "slug": "united-states",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Uzbekistan",
+    "slug": "uzbekistan",
     "region": "Asia-Pacific",
     "status": "published"
   },
   {
-    "name": "Palau",
-    "slug": "palau",
+    "name": "Vanuatu",
+    "slug": "vanuatu",
     "region": "Asia-Pacific",
     "status": "published"
   },
   {
-    "name": "Micronesia (Federated States of)",
-    "slug": "micronesia",
-    "region": "Asia-Pacific",
+    "name": "Vatican City",
+    "slug": "vatican-city",
+    "region": "Europe",
     "status": "published"
   },
   {
-    "name": "Nauru",
-    "slug": "nauru",
+    "name": "Venezuela",
+    "slug": "venezuela",
+    "region": "Americas",
+    "status": "published"
+  },
+  {
+    "name": "Vietnam",
+    "slug": "vietnam",
     "region": "Asia-Pacific",
     "status": "published"
   },
@@ -1362,15 +1356,27 @@
     "status": "published"
   },
   {
-    "name": "French Polynesia",
-    "slug": "french-polynesia",
-    "region": "Asia-Pacific",
+    "name": "Western Sahara (SADR)",
+    "slug": "western-sahara",
+    "region": "Africa",
     "status": "published"
   },
   {
-    "name": "Falkland Islands",
-    "slug": "falkland-islands",
-    "region": "Americas",
+    "name": "Yemen",
+    "slug": "yemen",
+    "region": "Middle East",
+    "status": "published"
+  },
+  {
+    "name": "Zambia",
+    "slug": "zambia",
+    "region": "Africa",
+    "status": "published"
+  },
+  {
+    "name": "Zimbabwe",
+    "slug": "zimbabwe",
+    "region": "Africa",
     "status": "published"
   }
 ]
