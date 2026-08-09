@@ -2948,3 +2948,32 @@ raised again.
 
 - **Next up:** the 21 placeholder pages listed above, then a second pass
   once those are done to re-verify nothing regressed.
+
+
+## Session log - August 08, 2026 (continued - placeholder page build-out)
+
+- **4 Central America placeholder pages completed this session** (full
+  Residency/CFC/Thin Cap/Foreign Account Reporting/Treaty Network build,
+  all territorial or near-territorial systems):
+  - El Salvador: CFC No, thin cap = targeted 3x-assets/equity related-party
+    rule (not a general debt cap), 1 DTT (Spain), no CRS/no FATCA IGA.
+  - Guatemala: CFC No, thin cap = sources conflict (law firm source cites
+    3:1 ratio, aggregator says none - law firm source used, flagged),
+    zero DTTs, no CRS/no FATCA IGA, genuinely territorial.
+  - Honduras: CFC No, thin cap = none, zero DTTs but has a US TIEA and a
+    FATCA IGA (confirmed via Treasury IGA jurisdiction list), CRS status
+    unconfirmed - flagged as such rather than assumed.
+  - Nicaragua: CFC No, thin cap = none, sources conflict on treaty count
+    (one low-quality aggregator claims 1 treaty; three higher-quality
+    sources including a professional Worldwide Corporate Tax Guide say
+    zero) - resolved to zero per source-quality triage, FATCA/CRS status
+    unconfirmed - flagged as such.
+  - All four verified live at HTTP 200 after push, all four re-fetched via
+    Contents API post-push to confirm the write actually persisted, all
+    four checked for zero em-dashes and zero remaining "build list for
+    this page" placeholder string before moving to the next page.
+
+- **Remaining placeholder pages (17):** Congo Republic, Cuba, Puerto Rico,
+  Saint Vincent and the Grenadines, Jersey, Liechtenstein, Isle of Man,
+  Moldova, Georgia, Greenland, Azerbaijan, Armenia, Faroe Islands, Saint
+  Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
