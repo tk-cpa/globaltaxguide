@@ -4253,3 +4253,36 @@ Open Graph rollout (229/229), navigation bug fix (7/7 root pages).
 standard (not applied), personal-rate detail standard (not applied), and
 the flagged follow-up domain-verification pass on the final ~19-entry
 Official Tax Authority batch noted above.
+
+
+## MISSING JURISDICTIONS - build-out started (6 of 20 done)
+
+Built and registered (full 8-section template, schema.org/OG tags, countries.json + sitemap.xml entries):
+- Curacao: real, well-documented jurisdiction. Corporate 22% (e-zone reduced
+  ~2-3%), personal progressive to 46.5%, turnover tax (OB) 6%. Official tax
+  authority confirmed: Belastingdienst van Curacao - belastingdienst.cw.
+  No CFC, no thin cap, limited external treaty network (BRK intra-Kingdom
+  arrangement is the primary relief mechanism, same pattern as Aruba/Sint
+  Maarten already on the site).
+- Guadeloupe, Martinique, Reunion, French Guiana, Mayotte (5 French DROMs):
+  built as a batch since they share mainland France's own corporate (25%)
+  and personal (progressive to 45%) tax code in full - genuinely DIFFERENT
+  from Saint-Barthelemy/Saint-Martin/French Polynesia/New Caledonia, which
+  have their OWN separate tax codes. Confirmed via LegalClarity, Stripe,
+  and the French Customs Authority's own official guidance: Guadeloupe/
+  Martinique/Reunion share an 8.5% VAT (2.1% reduced), while French Guiana
+  and Mayotte have NO VAT at all - a real, sourced distinction, not
+  guessed. All 5 have the octroi de mer (dock dues) import tax, confirmed
+  via a 2026 reform law (Law 2026-103, effective 1 July 2026). DOM income
+  tax reduction under CGI Article 197 confirmed with the correct
+  differentiated caps (30%/EUR 2,450 for Guadeloupe/Martinique/Reunion,
+  40%/EUR 4,050 for French Guiana/Mayotte). CFC: Yes (full French Article
+  209 B regime applies, unlike the autonomous collectivities).
+
+**14 remaining of the original 20**: Bonaire/Sint Eustatius/Saba, Guam,
+American Samoa, US Virgin Islands, Northern Mariana Islands, Saint Helena/
+Ascension/Tristan da Cunha, Pitcairn Islands, British Indian Ocean
+Territory, Svalbard, Aland Islands, Norfolk Island, Christmas Island,
+Cocos (Keeling) Islands, Tokelau.
+
+Continuing without pausing.
