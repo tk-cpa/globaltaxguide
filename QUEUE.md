@@ -3776,3 +3776,30 @@ only fixes, real answer already researched).
 separate, larger pool not yet started.
 
 Continuing without further status-report interruptions per user directive.
+
+
+## CFC backlog - continued (12 countries fixed total this stretch)
+
+Added since last checkpoint: Djibouti (territorial system confirmed via
+official CGI Article 25 - structural reason no CFC needed, strict
+territoriality), Eritrea (no CFC in Income Tax Proclamation 103/1994; noted
+the genuinely distinct citizenship-based diaspora tax under Proclamation
+67/1995 as separate context, not a CFC substitute), Gambia (confirmed via
+Addleshaw Goddard direct quote - only a general arm's-length principle
+under the Income and VAT Act, no dedicated TP or CFC regime), Guinea-Bissau
+(genuine no-provision-found finding after real search, not a lazy default).
+
+**12 of the original 43-country CFC list now fixed**: Burkina Faso, Central
+African Republic, Chad, Benin, Burundi, Comoros, Equatorial Guinea,
+Djibouti, Eritrea, Gambia, Guinea-Bissau (11) plus earlier session fixes to
+Andorra and Armenia (technically outside the 43-list but same defect type) =
+13 total pages corrected this stretch.
+
+**Remaining on the original 43-country list**: Guinea, Liberia, Mali,
+Madagascar, Mauritania, Niger, Sao Tome and Principe, Sierra Leone, Somalia,
+Sudan, Togo, South Sudan, Suriname, Afghanistan, Bhutan, Myanmar,
+Tajikistan, San Marino, Vatican City, Iran, Palestine, Western Sahara,
+Saint Pierre and Miquelon, Montserrat, Kiribati - plus Cabo Verde, Lesotho,
+Mauritius (heading-format-only, real content already exists).
+
+Continuing without status-report pauses.
