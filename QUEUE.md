@@ -3094,3 +3094,44 @@ raised again.
 - **10 of 21 placeholder pages now complete this session** (El Salvador,
   Guatemala, Honduras, Nicaragua, Cuba, Republic of Congo, Puerto Rico,
   Saint Vincent and the Grenadines, Jersey, Liechtenstein). Halfway point.
+
+
+## Session log - August 08, 2026 (continued - Isle of Man, Moldova, Georgia, Greenland)
+
+- Isle of Man: CFC No, Thin Cap No - both confirmed directly via PwC quotes,
+  corroborated. Residency uses 183-day / 91-day-4-year-average test;
+  company residency Section 2N of Income Tax Act 1970 (OECD-sourced quote).
+  Treaty network precisely dated (31 Dec 2024, PwC): 11 comprehensive DTAs,
+  13 limited-scope, 39 TIEAs.
+
+- Moldova: CFC No confirmed via Freeman Law. Thin cap = bank-lending-rate
+  cap, not a debt/equity ratio (PwC Deductions page). **Caught and fixed
+  a real drafting bug this pass**: the Residency paragraph was pushed with
+  a literal unfinished sentence ("A company is resident if...") - caught
+  on the immediate post-push re-read (not just the automated hedge-phrase
+  regex, which doesn't catch truncation) and fixed in a follow-up commit.
+  Also resolved an internal PwC page-dating conflict (50 vs 51 treaties)
+  by using the more recently-dated PwC page. Lesson reinforced: verification
+  must include actually reading the pushed prose, not just scanning for
+  banned strings - truncation and incomplete sentences won't trip a
+  regex-based check.
+
+- Georgia: CFC No, Thin Cap No, both confirmed via PwC directly and
+  corroborated 3-4x independently. Residency = Tax Code Art. 34 (183-day
+  test, OECD-sourced direct quote) plus HNWI asset-based alternative route.
+  Distributed-profits corporate system (0% on retained earnings) noted as
+  structural reason no CFC regime exists. **Caught and fixed** a second
+  research-status phrase slip in the FBAR section ("was not independently
+  confirmed from a primary source this session") - same pattern as the
+  Cuba catch earlier this session - fixed immediately after push.
+
+- Greenland: genuine CFC regime confirmed (Yes) - control + >10% financial
+  assets + substantially-lower foreign tax rate test, no white/black list,
+  confirmed via PwC and a Greenland trade/investment source. Real thin cap
+  ratio confirmed and its 2023 legislative change tracked: 2:1 debt/equity
+  through 2023, raised to 4:1 from the 2024 income year. Treaty network is
+  narrow (Denmark, Faroe Islands, Iceland, Norway for general tax; a wider
+  employee-tax-only treaty list separately).
+
+- **Remaining placeholder pages (7):** Azerbaijan, Armenia, Faroe Islands,
+  Saint Barthelemy, Sint Maarten, Saint Martin (French), Falkland Islands.
