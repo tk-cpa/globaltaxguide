@@ -4043,3 +4043,36 @@ of Finance), Iraq (General Commission for Taxes), Jordan (ISTD), Lebanon
 **101 remaining** - continuing in future batches, prioritizing verification
 via web_search over the unreliable bash HTTP method for any domain I'm not
 highly confident about from established knowledge.
+
+
+## Structural uniformity audit (user-requested)
+
+Ran a full structural comparison of every page's h2 heading sequence.
+Result: only 2 genuine outliers out of 229 pages (99.1% uniform before this
+fix, 100% after):
+
+- **United Kingdom**: had a materially different structure - wrong section
+  order (VAT placed after Treaty Network instead of position 3), non-
+  standard heading names ("Residency Rules," "Thin Capitalization /
+  Interest Deductibility," "CFC Rules," "VAT Guide"), and an extra "Other
+  Reporting Notes" section. Investigation showed that section was
+  functionally identical to the "no domestic FBAR regime, but here's
+  CRS/FATCA participation" content already stripped from 171 other pages
+  earlier this session - it just used a different heading name that evaded
+  the earlier sweep's search pattern. Fully rewritten: correct 7-section
+  order and heading text, "Other Reporting Notes" removed (consistent with
+  the standing FBAR policy - UK has no genuine domestic regime), and CFC
+  section updated with individual-vs-corporate scope clarity (UK CFC rules
+  apply to corporate taxpayers via Part 9A; individuals fall outside it,
+  covered instead by separate Transfer of Assets Abroad rules).
+- **Aruba**: used "Turnover / Consumption Tax" instead of "VAT / GST Rate"
+  as the heading. The underlying content was already accurate (Aruba
+  genuinely has no VAT, uses a 7% combined turnover tax instead) - only the
+  heading text needed normalizing to match the sitewide standard, content
+  left as-is.
+
+The remaining 227 pages (210 with the standard 7-section pattern + 11 with
+the legitimate extra FBAR section for countries with a genuine domestic
+regime + 6 with a legitimate extra "Political and Economic Status" section
+for disputed/limited-recognition territories) were confirmed structurally
+correct - no further action needed on those.
