@@ -4646,3 +4646,30 @@ Notable findings kept genuine rather than flattened for speed:
 
 Full sitewide verification: 60/239 complete, zero duplicate headings.
 179 remain. Continuing immediately in further large consolidated batches.
+
+
+## 69 of 239 complete - remaining EU/EEA batch added
+
+Added Croatia, Slovenia, Slovakia, Lithuania, Latvia, Estonia, Iceland,
+Malta, Cyprus (9 more) via the consolidated single-pass insertion method.
+Verified: 69/239 complete sitewide, zero duplicate headings.
+
+Real findings kept distinct rather than templated:
+- Slovakia and Lithuania: both flagged with their actual 2026 corporate
+  rate increases (21%->24% and 16%->17% respectively) sourced from Tax
+  Foundation's dated 2026 European rate data, not presented as static.
+- Estonia and Latvia: correctly described their genuinely unusual
+  distribution-based corporate tax systems (tax only on distributed
+  profit, not profit as earned) and how this creates a functional
+  participation-exemption-like effect for retained earnings, rather than
+  forcing them into the standard EU 10%/12-month template that doesn't
+  actually apply to their structure.
+- Malta: explicitly flagged the real distinction between its 35% headline
+  corporate rate and its much lower effective rate (driven by the
+  imputation/refund system), rather than letting a bare "low rate" claim
+  stand without that critical context.
+- Cyprus: flagged its January 2026 comprehensive tax reform as a recent,
+  substantial, dated development rather than assuming static content
+  remains accurate.
+
+170 remain. Continuing immediately in further consolidated batches.
