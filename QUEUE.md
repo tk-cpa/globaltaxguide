@@ -4316,3 +4316,51 @@ Svalbard, Aland Islands, Norfolk Island, Christmas Island, Cocos (Keeling)
 Islands, Tokelau.
 
 Continuing without pausing.
+
+
+## NEW: Micronations & Self-Declared States page (user request, "funky completeness")
+
+Built a new dedicated page (micronations.html) covering all 18 micronations
+the user named, structured honestly rather than treated as real
+jurisdictions - added to the main site nav (all 239 pages) and sitemap.xml.
+
+**Handled per the Christiania model requested** (brief intro + link to the
+real host country's actual tax page) for 11 entities with a clean,
+identifiable host jurisdiction: Molossia, Slowjamastan, Zaqistan, Conch
+Republic, Talossa (all -> United States), Freetown Christiania, Kingdom of
+Elleore (both -> Denmark), Republic of Uzupis (-> Lithuania), Principality
+of Seborga (-> Italy), Principality of Wy, Empire of Atlantium (both ->
+Australia).
+
+**Handled with more nuance where the real facts warranted it, rather than
+forcing the same clean template**:
+- Murrawarri Republic: flagged as categorically different from the others -
+  a genuine Indigenous Australian sovereignty assertion tied to real
+  colonization history, not a joke/art project - while still correctly
+  noting Australian tax law applies as a matter of current positive law.
+  Explicitly stated the guide takes no position on the underlying justice
+  of the claim.
+- Principality of Sealand: genuinely ambiguous - occupied in 1967 in
+  international waters, but the UK's 1987 extension of territorial waters
+  to 12nm now places it within UK-claimed waters on paper, though the UK
+  has never enforced actual jurisdiction there. Presented both facts rather
+  than picking one.
+- Free Republic of Liberland: real jurisdictional gap on a Danube
+  floodplain neither Croatia nor Serbia actively administers - Croatia
+  bans entry and treats visits as illegal crossings, but doesn't collect
+  tax there either. Stated plainly that there is no clean single answer,
+  rather than forcing one.
+- Elgaland-Vargaland, Westarctica, Glacier Republic, Asgardia: genuine
+  edge cases with NO applicable real tax jurisdiction - global/conceptual
+  claim with no fixed territory (Elgaland-Vargaland), genuine Antarctic
+  terra nullius under a treaty that suspends all claims (Westarctica), a
+  one-off Greenpeace ad campaign with no ongoing presence (Glacier
+  Republic), and an orbiting satellite governed by the Outer Space Treaty's
+  prohibition on national claims (Asgardia). Said so directly rather than
+  picking a nearby country by default.
+
+This required real research per entity (not assumed) - confirmed founding
+dates, physical locations, and legal status via Wikipedia, MicroWiki, and
+DeFacto Borders for each, including the specific, charming, directly
+sourced detail that Molossia's founder Kevin Baugh actually does pay
+Storey County, Nevada property tax and jokingly calls it "foreign aid."
