@@ -4964,3 +4964,32 @@ after a cooldown; core rate limit was back to 5000/5000 remaining on retry.
 
 63 remain (249 - 189 - 1 already counted correctly... see current incomplete
 list recomputed at top of next session). Continuing immediately.
+
+
+## 195/249 complete - continued after rate-limit cooldown cleared
+
+Lockout cleared on its own; core rate limit was 5000/5000 on retry. Wrote
+the previous checkpoint to this file, then re-verified sitewide before
+continuing: 189/249 confirmed, 0 dupes, 0 orphans.
+
+Added 6 more jurisdictions with genuinely-researched content (including
+FBAR, since all 6 were also missing it): Eswatini, Falkland Islands, Faroe
+Islands, Fiji, French Polynesia, Gibraltar.
+
+Notable: correctly applied the parent-jurisdiction CFC/anti-hybrid caveat
+rule from TEMPLATE.md for Falkland Islands (UK), Faroe Islands (Denmark),
+and French Polynesia (France) - named only the actual specific parent in
+each case, consistent with the Faroe Islands/Denmark and Falkland
+Islands/UK precedent already established earlier this project. Also caught
+a second application of the same principle: French Polynesia is confirmed
+CRS-participating (reports account info to foreign authorities) even though
+its own income-tax regime is genuinely autonomous from France - these are
+separate questions and one should not be assumed to answer the other.
+
+Honest flags added: Eswatini has no FTC regime at all (confirmed primary
+fact, not a gap) and no participation exemption. Falkland Islands and Fiji
+CRS/AEOI status could not be confirmed to primary-source standard this
+session - flagged directly on the page rather than guessed.
+
+Verified sitewide after this batch: 195/249 complete, 0 dupes, 0 orphans.
+54 remain. Continuing immediately.
