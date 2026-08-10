@@ -4993,3 +4993,36 @@ session - flagged directly on the page rather than guessed.
 
 Verified sitewide after this batch: 195/249 complete, 0 dupes, 0 orphans.
 54 remain. Continuing immediately.
+
+
+## 201/249 complete - two more bugs found and fixed while working through the queue
+
+Added 6 more jurisdictions: Greenland, Grenada, Guyana, Haiti, Kiribati,
+Liechtenstein. All with genuinely-researched FBAR sections too.
+
+Two real, unrelated bugs found and fixed while touching these pages (not
+part of the 6-section rollout itself, found incidentally):
+
+1. Greenland and Maldives were both missing the entire Corporate Tax Rate
+   H2 section - the rate was only ever stated in the one-sentence summary,
+   never given its own section. Both also had a stray orphaned closing
+   </p> tag inside the one-sentence-summary div (malformed HTML left over
+   from earlier work). Checked sitewide: confirmed isolated to exactly
+   these 2 pages out of 249. Restored the missing heading with the correct
+   rate on both, fixed the malformed div on both, re-verified directly.
+
+2. Maldives' CFC section still had a banned inline source-attribution
+   phrase ("Confirmed directly and specifically via a Legal 500 Country
+   Comparative Guide:") despite the prior session's claim of 0 remaining
+   instances sitewide. Checked sitewide for the same and closely related
+   patterns: confirmed isolated to this 1 instance out of 249 pages - the
+   earlier cleanup was not actually fully complete, it just correctly
+   caught everything except this one. Removed the attribution phrase,
+   kept the substantive claim, re-verified directly.
+
+Both bug classes checked sitewide before and after the fix, not assumed
+fixed from a single page edit.
+
+Verified sitewide after this batch: 201/249 complete, 0 dupes, 0 pages
+missing Corporate Tax Rate heading, 0 remaining attribution-language
+instances. 48 remain. Continuing immediately.
