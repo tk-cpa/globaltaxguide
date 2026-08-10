@@ -5113,3 +5113,25 @@ Principe, Timor-Leste, Suriname), San Marino, Seychelles, small French/Dutch
 territories (Saint Barthelemy, Saint Martin French, Saint Pierre and
 Miquelon, Sint Maarten, Wallis and Futuna), Puerto Rico, Kyrgyzstan,
 Tajikistan, Turkmenistan, Uzbekistan, and Maldives (per above).
+
+
+## 219/249 complete
+
+Added 6 more jurisdictions with genuinely-researched FBAR sections: Samoa,
+San Marino, Seychelles, Suriname, Tonga, Tuvalu.
+
+Verified sitewide after this batch: 219/249 complete, 0 dupes. 30 remain.
+
+Remaining list is now almost entirely the genuinely hard cluster: disputed/
+limited-recognition territories (Abkhazia, Afghanistan, Iran, North Korea,
+Northern Cyprus, Palestine, Somalia, Somaliland, South Ossetia, South Sudan,
+Sudan, Transnistria, Vatican City, Western Sahara - 14 of the 30), small
+French/Dutch Caribbean and Pacific territories (Saint Barthelemy, Saint
+Martin French, Saint Pierre and Miquelon, Sint Maarten, Wallis and Futuna),
+remaining small Pacific/island states (Palau, Sao Tome and Principe,
+Solomon Islands, Timor-Leste, Vanuatu), three Central Asian states
+(Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan), Puerto Rico, and
+Maldives (still needs its 6 sections - see prior note, only bugs were
+fixed on it earlier this session, not the actual rollout).
+
+Continuing immediately.
