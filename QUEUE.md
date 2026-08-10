@@ -5155,3 +5155,33 @@ remaining Pacific/island states (Sao Tome and Principe, Solomon Islands,
 Timor-Leste), Puerto Rico, and Maldives (still needs its 6 sections).
 
 Continuing immediately.
+
+
+## 230/249 complete
+
+Added 5 more jurisdictions with genuinely-researched FBAR sections:
+Maldives (finally - the 6 new sections, distinct from the earlier bug fixes
+on this page), Puerto Rico, Sao Tome and Principe, Solomon Islands,
+Timor-Leste.
+
+Notable: Puerto Rico's FBAR section required different framing than the
+standard template - Puerto Rico is a US territory whose financial
+institutions are treated as US institutions under FATCA, not a foreign
+jurisdiction exchanging information with the US, so the generic "no FBAR
+regime, US persons still file FBAR" boilerplate doesn't fit. Wrote a
+Puerto-Rico-specific version clarifying that PR itself is not a foreign
+country for FBAR purposes, but a bona fide PR resident who is a US person
+still has ordinary FBAR/8938 obligations for their own non-US, non-PR
+foreign accounts.
+
+Verified sitewide after this batch: 230/249 complete, 0 dupes. 19 remain -
+entirely the disputed/limited-recognition cluster (Abkhazia, Afghanistan,
+Iran, North Korea, Northern Cyprus, Palestine, Somalia, Somaliland, South
+Ossetia, South Sudan, Sudan, Transnistria, Vatican City, Western Sahara -
+14 of 19) plus the small French/Dutch territories (Saint Barthelemy, Saint
+Martin French, Saint Pierre and Miquelon, Sint Maarten, Wallis and Futuna).
+
+Continuing immediately with the small French/Dutch territories batch before
+tackling the disputed-territory cluster, which per TEMPLATE.md requires
+extra care (primary-language sources for non-English jurisdictions, honest
+flagging of governance uncertainty rather than false confidence).
