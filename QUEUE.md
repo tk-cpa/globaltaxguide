@@ -5135,3 +5135,23 @@ Maldives (still needs its 6 sections - see prior note, only bugs were
 fixed on it earlier this session, not the actual rollout).
 
 Continuing immediately.
+
+
+## 225/249 complete
+
+Added 6 more jurisdictions with genuinely-researched FBAR sections:
+Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, Palau, Vanuatu.
+
+Verified sitewide after this batch: 225/249 complete, 0 dupes. 24 remain.
+
+All four Central Asian states and both remaining standard Pacific
+jurisdictions from the prior queue are now done. What's left is now almost
+entirely: the 14-strong disputed/limited-recognition cluster (Abkhazia,
+Afghanistan, Iran, North Korea, Northern Cyprus, Palestine, Somalia,
+Somaliland, South Ossetia, South Sudan, Sudan, Transnistria, Vatican City,
+Western Sahara), small French/Dutch territories (Saint Barthelemy, Saint
+Martin French, Saint Pierre and Miquelon, Sint Maarten, Wallis and Futuna),
+remaining Pacific/island states (Sao Tome and Principe, Solomon Islands,
+Timor-Leste), Puerto Rico, and Maldives (still needs its 6 sections).
+
+Continuing immediately.
