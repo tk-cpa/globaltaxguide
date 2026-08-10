@@ -4932,3 +4932,35 @@ touching a page for one doesn't mean the other is done).
 
 Session ending here at user's request (context getting large) - full
 handoff prompt prepared for continuation in a new chat.
+
+
+## 189/249 complete - session continuation, new-chat handoff picked up cleanly
+
+Verified the handoff state exactly: 177/249 complete, 72 incomplete, 0 dupes,
+0 orphans - matched before doing anything else.
+
+Added 12 more jurisdictions across two batches, all with genuinely-researched
+FBAR sections added too (discovered all 72 incomplete pages were also missing
+Foreign Bank Account entirely, not just the 6 newer template sections):
+Andorra, Antigua and Barbuda, Aruba, Belize, Benin, Bhutan, Azerbaijan,
+Burundi, Cabo Verde, Republic of Congo, Cook Islands, Dominica.
+
+Bonus bug found and fixed sitewide (not in prior handoff): 111 pages had a
+duplicated "Micronations" nav link in the header. Fixed all 111, re-verified
+sitewide: 0 remaining instances across all 249 pages.
+
+Honest flags added to new content per policy (genuine gaps flagged plainly,
+never papered over): Benin and Republic of Congo have no confirmed
+participation exemption regime in primary sources found this session -
+stated as such rather than assuming a French-style regime mere-fille exists.
+Cabo Verde has a genuine source conflict on CRS status (2022 update lists it
+newly added; 2025 compilations still list it non-CRS) - both sources named
+on the page rather than picking one silently.
+
+Hit a GitHub API secondary rate-limit lockout (403) during final sitewide
+re-verification after batch 2 - stopped rather than keep probing, per the
+lesson already documented above in this file. Lockout cleared on its own
+after a cooldown; core rate limit was back to 5000/5000 remaining on retry.
+
+63 remain (249 - 189 - 1 already counted correctly... see current incomplete
+list recomputed at top of next session). Continuing immediately.
