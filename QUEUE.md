@@ -5365,3 +5365,52 @@ Registered in sitemap.xml.
 
 Remaining backlog: sub-national variation flags for ~8 heavily decentralized
 countries, and the 600+-URL citation link-verification pass.
+
+
+## Sub-national variation flags added: US, Canada, Switzerland, UAE, India, Brazil, Nigeria, Malaysia
+
+Built the last recommended item from the earlier strategic review. Rather
+than full state/province/canton pages (rejected then as unbounded scope
+creep), added a genuinely researched flag sentence to the Tax System
+section of each of the 8 countries identified as decentralized enough to
+mislead at national-level-only. Not boilerplate - each is specific to that
+country's actual sub-national structure:
+
+- US: state income tax range (0% to combined rates exceeding federal alone).
+- Canada: provincial top marginal rate range (mid-40s to 54%+).
+- Switzerland: enhanced the existing cantonal/communal mention into an
+  explicit "confirm before relying on a headline figure" flag.
+- UAE: clarified federal CT is actually uniform across all 7 emirates - the
+  real variation is Free Zone vs mainland status, not emirate-by-emirate,
+  correcting what could otherwise be a misleading assumption; pointed to
+  zones.html.
+- India: income tax is central (doesn't vary by state) but GST has a state
+  component (SGST) and stamp duty/professional tax/property tax are
+  independently state-set.
+- Brazil: the most consequential of the 8 - state ICMS (17-35%) and
+  municipal ISS (2-5%) vary significantly, plus flagged the live 2026-2033
+  CBS/IBS VAT reform transition.
+- Nigeria: state PIT administration under federal PITA bands, state-specific
+  charges (Lagos Land Use Charge), and the genuinely live, unresolved
+  Lagos/Rivers vs. federal government constitutional dispute over VAT
+  collection authority, still pending Nigerian Supreme Court resolution as
+  of the most recent sources checked this session - flagged as unsettled
+  rather than assumed resolved.
+- Malaysia: Sabah and Sarawak's unique Article 95B/112C state sales tax
+  authority (mainly petroleum products) that doesn't exist in Peninsular
+  Malaysia, plus a pointer to Labuan's separate regime already in zones.html.
+
+Implementation: appended each addition as a continuation of the existing
+Tax System <p> paragraph (not a new H2) to preserve the uniform 14-section
+structure across all 249 pages - a 15th section on only 8 pages would have
+broken template consistency.
+
+Verified directly after push: all 8 additions landed with 0 em-dashes.
+Full sitewide re-verification after this batch: all 249 pages still
+14-section complete, 0 dupes, 0 em-dashes sitewide.
+
+*** This closes out every item from the strategic review requested earlier
+this session. Remaining backlog is now just the exhaustive 600+-URL
+citation link-verification pass, which was flagged as expensive (~1 search
+per URL) and was requested by the user but left incomplete in an earlier
+session - resume if instructed. ***
