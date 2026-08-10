@@ -5216,3 +5216,57 @@ stable-country template, and no inherited-regime assumptions without the
 actual specific parent relationship being real and named.
 
 Continuing immediately with this final cluster.
+
+
+## *** 249/249 COMPLETE - full 14-section template rollout finished ***
+
+Every jurisdiction on globaltaxguide.com now has all 14 template sections.
+Final batch added: Iran, North Korea, Palestine, Somalia, Western Sahara,
+Abkhazia, South Ossetia, Transnistria, Northern Cyprus, Somaliland,
+Vatican City, Afghanistan, South Sudan, Sudan.
+
+Final sitewide verification (fetched all 249 pages fresh, not trusted from
+push responses):
+- 249/249 complete on all 6 required sections (Tax System, Tax Year, PE,
+  Hybrid Entity Rules, Participation Exemption, Foreign Tax Credit)
+- 0 duplicate headings
+- 0 orphaned sections
+- 0 pages missing FBAR/Foreign Financial Asset Reporting section
+- 0 em-dashes sitewide (checked full corpus, not just this session's edits)
+- 0 remaining inline source-attribution language violations (checked full
+  corpus against the banned "confirmed via" pattern family)
+- 0 pages missing the Corporate Tax Rate heading
+
+For the disputed/limited-recognition cluster specifically, genuine primary-
+source research was used rather than defaulted assumptions: Russian-
+language-sourced statutory detail for Abkhazia (1994 framework law, 2024
+Russia treaty), South Ossetia (Tax Code mirroring Russia's own), and
+Transnistria (2011 unified income tax law); direct WIPO Lex primary-text
+citation for North Korea's Law on Foreign Investment; honest flagging of
+genuine governance/documentation limitations for Somalia (very recent
+May 2025 ITA overhaul, still evolving), Iran (sanctions-driven documentation
+gaps), Afghanistan (territorial system, July 2026 rate reform), and
+Palestine (Paris Protocol tax-clearance structure); and the "not applicable
+- governed by the administering power" pattern correctly applied to Western
+Sahara and Vatican City rather than forcing content where none genuinely
+exists.
+
+Two genuine bugs found and fixed along the way this session, neither
+mentioned in the original handoff (see earlier entries in this file for
+full detail): (1) a sitewide duplicate "Micronations" nav link affecting
+111 pages, and (2) Greenland and Maldives both missing their entire
+Corporate Tax Rate heading plus a malformed summary-div closing tag, plus
+one remaining inline-attribution-language violation on Maldives that a
+prior session's "0 remaining" claim had missed.
+
+Remaining backlog per earlier QUEUE.md entries and this session's strategic
+review with the user (see "Strategic review requested by user" entry
+above): treaty-network depth standard and personal-rate detail standard
+were designed but not yet applied sitewide; some Official Tax Authority
+links are still missing; exhaustive source-link verification across ~600+
+unique citation URLs was requested and left incomplete; new unions.html
+entries for GCC, WAEMU, CEMAC, EAEU, and SACU were researched and
+recommended but not yet built; a new CRS/FATCA/BEPS multilateral tax-
+transparency page was recommended but not yet built; sub-national variation
+flags for ~8 heavily decentralized countries (US, Canada, Switzerland, UAE,
+India, Brazil, Nigeria, Malaysia) were recommended but not yet built.
