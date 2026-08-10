@@ -5307,3 +5307,61 @@ GCC through SACU then the not-covered section then source-row cleanly.
 Still on backlog: the new CRS/FATCA/BEPS transparency page, sub-national
 variation flags for ~8 decentralized countries, and the 600+-URL link-
 verification pass.
+
+
+## New page built: transparency.html (Global Tax Transparency: CRS, FATCA, MCAA, BEPS Pillar Two)
+
+Built the multilateral tax-transparency page recommended in the earlier
+strategic review, covering the four frameworks that sit above every
+country's own domestic law: CRS, FATCA, the Multilateral Convention on
+Mutual Administrative Assistance in Tax Matters, and BEPS Pillar Two
+(global minimum tax). Genuinely researched, not boilerplate:
+
+- CRS: OECD's own May 22, 2026 commitment table figure (113 committed),
+  noted the 116-120+ range across secondary sources depending on
+  definition, explicitly flagged the US non-participation asymmetry.
+- FATCA: ~113 IGA jurisdictions per US Treasury, Model 1 vs Model 2
+  distinction, explained why it's structurally non-reciprocal despite
+  CRS being modeled on it.
+- Multilateral Convention: OECD's own current "over 150 jurisdictions"
+  figure (more current/authoritative than Wikipedia's 2025 count),
+  correctly noted the US IS a full party here despite not doing CRS,
+  and that 17 jurisdictions participate via territorial extension.
+- BEPS Pillar Two: 15% rate, EUR 750m threshold, IIR/UTPR/QDMTT mechanics,
+  the US Side-by-Side System taking effect 2026 (US-parented groups
+  exempted from other countries' IIR/UTPR but still subject to QDMTTs),
+  China/India undecided as of mid-2026, first GloBE returns due June 2026.
+- A dedicated section explaining how the four frameworks relate to and
+  differ from each other, since that relationship (not just each
+  framework in isolation) is what practitioners actually need.
+- Honest "what this page doesn't cover" section: no country-by-country
+  table (that's what each country's own page is for), no GloBE compliance
+  mechanics, CARF and Pillar One both flagged as out of scope.
+
+CRITICAL - avoided recreating the orphan-page problem already documented
+in this file (the 32 pages with no inbound anchor links, reachable only
+via search): added a "Tax Transparency" nav link to the main site nav
+across ALL 249 country pages AND all 10 root-level pages (zones, unions,
+micronations, about, trusted-resources, index, map, search, mission,
+disclaimer). First batch of 249 hit 43 SHA conflicts from concurrent
+writes (six-way ThreadPoolExecutor racing on stale SHAs) - retried those
+43 sequentially with fresh fetches immediately before each PUT, all
+succeeded on retry. Also added a specific cross-reference paragraph on
+unions.html linking to the new page, since a reader landing on unions.html
+looking for "does the GCC exchange tax information" would otherwise have
+no signal that this page exists.
+
+Full sitewide re-verification after the nav rollout (not just spot-checked):
+- All 249 country pages still 14-section complete, 0 dupes, 0 orphans
+- 0 em-dashes sitewide
+- 0 pages missing the new Tax Transparency nav link (249/249 country pages
+  + all 10 root pages confirmed individually)
+- transparency.html itself verified: correct heading structure, one-sentence
+  summary div closes correctly (a bug caught and fixed before push - had
+  initially closed it with </p> instead of </div>), 0 em-dashes, 0
+  attribution-language violations
+
+Registered in sitemap.xml.
+
+Remaining backlog: sub-national variation flags for ~8 heavily decentralized
+countries, and the 600+-URL citation link-verification pass.
