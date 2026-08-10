@@ -5026,3 +5026,38 @@ fixed from a single page edit.
 Verified sitewide after this batch: 201/249 complete, 0 dupes, 0 pages
 missing Corporate Tax Rate heading, 0 remaining attribution-language
 instances. 48 remain. Continuing immediately.
+
+
+## Strategic review requested by user - findings logged for next session
+
+User asked: (1) are all tiny real jurisdictions covered and should micronations.html
+be removed, (2) what special sections exist, (3) are all multi-country tax
+arrangements covered, (4) should sub-national jurisdictions get separate pages.
+
+Findings (not yet acted on - awaiting user direction on priority):
+- Confirmed: all 249 real jurisdictions covered down to Pitcairn Islands (pop ~50).
+  micronations.html covers a categorically different thing (fake self-declared
+  entities with no real tax authority) - recommended KEEPING it as-is, not merging.
+- unions.html currently has only 4 entries (EU, CARICOM, CIS, USMCA) and already
+  self-discloses that ASEAN, Mercosur, AfCFTA, GCC are not covered.
+- Researched and confirmed genuine tax-specific (not just tariff) content exists for:
+  GCC Unified VAT Agreement (very current - May 2026 Saudi-approved amendments let
+  members set VAT above the 5% floor unilaterally), WAEMU/UEMOA (8 states, real
+  CIT/VAT harmonization directives, already cited piecemeal in Benin/Congo pages
+  without its own entry), CEMAC (6 states, same pattern, already cited piecemeal),
+  EAEU (Russia/Belarus/Kazakhstan/Armenia/Kyrgyzstan, real customs union + new
+  destination-VAT e-commerce regime effective July 2026, currently only a passing
+  mention inside the CIS paragraph), SACU (South Africa/Botswana/Lesotho/Eswatini/
+  Namibia, real customs union with revenue-sharing formula, touches Eswatini
+  already built this session).
+- Recommended a NEW page (not a unions.html entry) for CRS/FATCA/BEPS Pillar Two
+  multilateral tax-transparency cooperation - different in kind from trade blocs,
+  currently only exists scattered across 249 individual FBAR sections.
+- On sub-national jurisdictions: recommended AGAINST full state/province/canton
+  pages (unbounded scope), but recommended a short "Sub-national Variation" flag
+  on the ~8 countries genuinely decentralized enough to mislead at national-level-only
+  (US, Canada, Switzerland, UAE, India, Brazil, Nigeria, Malaysia) - not built yet.
+
+None of this has been built - awaiting user priority call on whether to build
+GCC/WAEMU/CEMAC/EAEU/SACU unions entries, the transparency page, and/or the
+sub-national flags now vs. after the core 249-jurisdiction rollout finishes.
