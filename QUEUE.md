@@ -5270,3 +5270,40 @@ recommended but not yet built; a new CRS/FATCA/BEPS multilateral tax-
 transparency page was recommended but not yet built; sub-national variation
 flags for ~8 heavily decentralized countries (US, Canada, Switzerland, UAE,
 India, Brazil, Nigeria, Malaysia) were recommended but not yet built.
+
+
+## unions.html expanded: GCC, WAEMU, CEMAC, EAEU, SACU added
+
+Built out the 5 union entries recommended in the earlier strategic review
+(see "Strategic review requested by user" entry above), all backed by real
+research this session:
+
+- GCC Unified VAT Agreement: 2016 framework, 5% floor, May 2026 amendments
+  letting members set VAT above the floor unilaterally (Saudi 15%, Bahrain
+  10%, UAE/Oman/Kuwait/Qatar still at 5%, Kuwait/Qatar not fully
+  implemented domestically).
+- WAEMU/UEMOA (8 members): CIT/VAT base harmonization via Council-of-
+  Ministers directives, not just a tariff union.
+- CEMAC (6 members): same pattern as WAEMU, plus the cross-border interest
+  compliance rule already cited on the Republic of Congo page.
+- EAEU (5 members): genuine customs union + new July 2026 e-commerce VAT
+  regime, distinguished from the looser CIS entry above it.
+- SACU (5 members): world's oldest customs union (1910), common external
+  tariff, revenue-sharing formula that's a majority of government revenue
+  for Lesotho/Eswatini in some years.
+
+Also updated the "what this page doesn't cover" disclaimer: removed GCC
+from the not-covered list (now covered), and gave ASEAN/Mercosur/AfCFTA an
+honest one-line characterization (real blocs, tariff/market-access only,
+no domestic tax-base harmonization) rather than just naming them as gaps,
+consistent with the recommendation to give these the same light USMCA-style
+treatment rather than full entries, since their tax substance is genuinely
+thin.
+
+Verified directly after push: all 5 new h2 headings present in correct
+order, 0 em-dashes, disclaimer and source-row both updated, page renders
+GCC through SACU then the not-covered section then source-row cleanly.
+
+Still on backlog: the new CRS/FATCA/BEPS transparency page, sub-national
+variation flags for ~8 decentralized countries, and the 600+-URL link-
+verification pass.
