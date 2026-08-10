@@ -5089,3 +5089,27 @@ WAEMU/UEMOA, CEMAC, EAEU, SACU) plus a recommended new page for CRS/FATCA/
 BEPS multilateral tax-transparency cooperation. None of this built yet -
 awaiting user priority call on sequencing vs. finishing the 249-jurisdiction
 rollout. Continuing the core rollout for now per explicit "keep going" instruction.
+
+
+## 213/249 complete
+
+Added 6 more jurisdictions with genuinely-researched FBAR sections: New
+Caledonia, Niue, Papua New Guinea, Saint Kitts and Nevis, Saint Lucia,
+Saint Vincent and the Grenadines.
+
+Note: Maldives remains on the incomplete list. Earlier this session Maldives
+was touched only to fix its missing-Corporate-Tax-Rate-heading bug and to
+remove an inline source-attribution phrase - it was never actually given the
+6 new template sections. Flagging clearly so a future session doesn't assume
+Maldives is done just because it was recently touched.
+
+Verified sitewide after this batch: 213/249 complete, 0 dupes. 36 remain,
+now concentrated almost entirely in the harder cluster: disputed/limited-
+recognition territories (Abkhazia, Afghanistan, Iran, North Korea, Northern
+Cyprus, Palestine, Somalia, Somaliland, South Ossetia, South Sudan, Sudan,
+Transnistria, Vatican City, Western Sahara), a few small Pacific/Caribbean
+islands (Palau, Samoa, Tonga, Tuvalu, Vanuatu, Solomon Islands, Sao Tome and
+Principe, Timor-Leste, Suriname), San Marino, Seychelles, small French/Dutch
+territories (Saint Barthelemy, Saint Martin French, Saint Pierre and
+Miquelon, Sint Maarten, Wallis and Futuna), Puerto Rico, Kyrgyzstan,
+Tajikistan, Turkmenistan, Uzbekistan, and Maldives (per above).
