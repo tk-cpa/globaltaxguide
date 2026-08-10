@@ -5061,3 +5061,31 @@ Findings (not yet acted on - awaiting user direction on priority):
 None of this has been built - awaiting user priority call on whether to build
 GCC/WAEMU/CEMAC/EAEU/SACU unions entries, the transparency page, and/or the
 sub-national flags now vs. after the core 249-jurisdiction rollout finishes.
+
+
+## 207/249 complete - continuing after strategic review discussion
+
+Added 6 more jurisdictions with genuinely-researched FBAR sections: Lesotho,
+Malawi, Marshall Islands, Micronesia (FSM), Monaco, Nauru.
+
+Notable: Lesotho's page structure has no separate CFC heading (its discretionary
+"tax haven" anti-avoidance provision, Section 106, is folded into the Residency
+section from earlier work rather than getting its own CFC heading) - used a
+fallback anchor (Residency, Thin Capitalization) for this page's insertion
+rather than the standard Corporate Tax Rate/CFC anchors. Verified the resulting
+heading order is sensible; flagging here as a minor pre-existing structural
+deviation worth normalizing in a future dedicated pass, not fixed this session
+since it's a judgment call (does Lesotho's Section 106 deserve to be recast as
+a "CFC" heading when the page's own analysis explains why it structurally isn't
+one) rather than a mechanical fix.
+
+Verified sitewide after this batch: 207/249 complete, 0 dupes. 42 remain.
+
+User also requested a strategic review of site structure this session (see
+prior entry): confirmed all real jurisdictions down to Pitcairn Islands are
+covered, recommended keeping micronations.html separate (different in kind,
+not overlapping), and identified real gaps in unions.html (GCC VAT framework,
+WAEMU/UEMOA, CEMAC, EAEU, SACU) plus a recommended new page for CRS/FATCA/
+BEPS multilateral tax-transparency cooperation. None of this built yet -
+awaiting user priority call on sequencing vs. finishing the 249-jurisdiction
+rollout. Continuing the core rollout for now per explicit "keep going" instruction.
