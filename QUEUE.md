@@ -5185,3 +5185,34 @@ Continuing immediately with the small French/Dutch territories batch before
 tackling the disputed-territory cluster, which per TEMPLATE.md requires
 extra care (primary-language sources for non-English jurisdictions, honest
 flagging of governance uncertainty rather than false confidence).
+
+
+## 235/249 complete - only the disputed-territory cluster remains
+
+Added the last 5 "standard" jurisdictions with genuinely-researched FBAR
+sections: Saint Barthelemy, Saint-Martin (French side), Saint Pierre and
+Miquelon, Sint Maarten, Wallis and Futuna.
+
+Honest flag: CRS participating-jurisdiction status could not be confirmed
+to primary-source standard this session for 4 of these 5 (Saint Barthelemy,
+Saint-Martin, Saint Pierre and Miquelon, Wallis and Futuna) - these small
+French overseas collectivities don't appear clearly on the general CRS
+participant lists checked this session, unlike larger French territories.
+Flagged directly on each page rather than guessed. Sint Maarten's CRS
+status was confirmed directly (appears on current participant lists).
+
+Verified sitewide after this batch: 235/249 complete, 0 dupes. 14 remain -
+this is now EXCLUSIVELY the disputed/limited-recognition cluster: Abkhazia,
+Afghanistan, Iran, North Korea, Northern Cyprus, Palestine, Somalia,
+Somaliland, South Ossetia, South Sudan, Sudan, Transnistria, Vatican City,
+Western Sahara.
+
+Per TEMPLATE.md and the session's own prior lessons, this cluster requires
+extra care: primary-language sources for non-English jurisdictions (Russian
+for Abkhazia/South Ossetia/Transnistria), honest flagging of genuine
+governance uncertainty for fragmented-authority states (Somalia, Sudan,
+Afghanistan, Palestine) rather than false confidence borrowed from a
+stable-country template, and no inherited-regime assumptions without the
+actual specific parent relationship being real and named.
+
+Continuing immediately with this final cluster.
