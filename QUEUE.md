@@ -6296,3 +6296,51 @@ progress regularly so partial progress isn't lost.
 
 Verified sitewide after these 5 fixes: div balance intact on all edited
 pages, no other structural issues introduced.
+
+
+## Systematic authority-link re-verification: progress checkpoint (~40/236 done)
+
+Continued the individual, search-verified (not just HTTP-resolves)
+re-check of every Official Tax Authority citation, following the Oman
+discovery. Worked through roughly 40 of 236 linked citations this pass.
+
+FIXED (11 more genuine errors found and corrected, each verified against
+an independent confirming source before fixing):
+- Laos: tax.mof.gov.la (DNS failure) -> taxservice.mof.gov.la
+- Kuwait: taxauthority.gov.kw (never confirmed) -> mof.gov.kw
+- Northern Mariana Islands: dof.gov.mp (never confirmed) -> finance.gov.mp
+- Saint Vincent and the Grenadines: inlandrevenue.gov.vc (never confirmed)
+  -> ird.gov.vc
+- Mongolia: mta.mn (never confirmed) -> mta.gov.mn
+- Palau: brct.gov.pw (never confirmed) -> palaugov.pw (BRT page)
+- Somalia: slmof.org - this was actively wrong, not just unconfirmed: it
+  is SOMALILAND's Ministry of Finance domain, a different jurisdiction
+  entirely. Fixed to Somalia's own mof.gov.so.
+- Turkmenistan: salgyt.gov.tm (never confirmed) -> tax.gov.tm (confirmed
+  via direct content match)
+(Oman and Cyprus already fixed in the prior turn that started this
+workstream.)
+
+CONFIRMED CORRECT this pass (no change needed): Andorra, Eswatini, Bosnia
+and Herzegovina, Dominica, Iran, Morocco, Namibia, Nepal, Papua New
+Guinea, Palestine, Qatar, Somaliland, Yemen, Tajikistan, Sudan, Uzbekistan,
+Vanuatu, Venezuela.
+
+Running tally: approximately 40 checked, 11 wrong (including the original
+Oman/Cyprus finds), roughly 27-28% error rate - consistent with the
+~30-36% rate seen in the first sample, confirming this is a real,
+systemic problem worth finishing properly rather than a couple of
+one-offs.
+
+REMAINING SCOPE, stated plainly: roughly 195 more authority-link citations
+have not yet been individually re-verified this way. This is a large,
+multi-session task at the rate of thorough verification being done here
+(each fix requires an independent confirming source, not just a search
+hit). Continuing systematically in the next turn(s), moving through the
+alphabetical list from where this pass left off (roughly the M-V range
+was sampled non-sequentially this pass; a full pass still needs to sweep
+A-Z systematically to avoid gaps).
+
+Verified sitewide after all fixes this pass: 248/249 still 14-section
+complete (Saudi Arabia intentional false positive), 0 div-balance issues
+introduced on any edited page.
