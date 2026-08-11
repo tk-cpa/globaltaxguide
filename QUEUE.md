@@ -6869,3 +6869,69 @@ content was independently confirmed correct via the GitHub API. This is
 expected CDN propagation delay, not a content or push failure - flagging
 this explicitly rather than either falsely claiming the live site is
 already updated or leaving the distinction unstated.
+
+
+## Treaty sweep batch 2: 2 real factual errors caught and fixed, 3 vagueness fixes, 2 confirmed already-excellent
+
+Continuing the treaty-network sweep. This batch surfaced something more
+serious than vagueness twice - actual wrong claims, not just imprecision:
+
+- Bolivia (FACTUAL ERROR CORRECTED): page claimed Bolivia had "unilaterally
+  terminated" its tax treaties with Spain, the UK, Luxembourg, Netherlands,
+  and Switzerland. This was wrong - confirmed via two independent current
+  sources (PwC's Bolivia summary and the US State Department's 2024
+  Investment Climate Statement) that Bolivia's treaties with Spain and the
+  UK remain in force today. The error appears to have conflated Bolivia's
+  real, well-documented 2012 termination of its bilateral INVESTMENT
+  treaties (BITs) with the US and 21 other countries with its separate,
+  still-active double TAX treaty network - different instruments entirely.
+  Corrected to the accurate 9-country list (Argentina, France, Germany,
+  Spain, Sweden, UK, plus Andean Community members Colombia/Ecuador/Peru).
+- Zambia (FACTUAL ERROR CORRECTED): page listed Mauritius as a treaty
+  partner; PwC's current Zambia listing does not include Mauritius at all.
+  Corrected to PwC's exact 22-country list (Botswana, Canada, China,
+  Denmark, Finland, France, Germany, India, Ireland, Italy, Japan, Kenya,
+  Morocco, Netherlands, Norway, Seychelles, South Africa, Sweden,
+  Switzerland, Tanzania, Uganda, UAE, UK), also replacing the vague
+  "roughly 18" with the precise, sourced 22.
+- Andorra: replaced "10-15+ depending on source vintage" with the specific
+  15-country named list and individual signing/in-force dates, separating
+  actually-signed treaties from four still-in-negotiation partners
+  (Germany, Austria, Belgium, Switzerland) that shouldn't be counted yet.
+
+CONFIRMED ALREADY EXCELLENT, no fix needed (verified the existing content
+against fresh research rather than assuming the regex hit meant a real
+problem):
+- New Zealand: "41 DTAs" already correct per NZ's own IRD; "roughly 18"
+  refers only to the separate, harder-to-pin-down TIEA count, already
+  properly distinguished from the treaty count.
+- Vanuatu: already has an unusually rigorous writeup - correctly states
+  1 real DTA (New Zealand), properly distinguishes ~13-14 TIEAs, and
+  explicitly documents and corrects a prior "19 treaties" error that had
+  conflated TIEAs with DTAs. No changes needed.
+- Cuba: already honestly explains why more than the 1 confirmed partner
+  (Spain) can't be stated with confidence, rather than being lazily vague.
+- El Salvador: the "several countries" flagged by the regex sweep referred
+  to separate bilateral investment-protection agreements, not tax
+  treaties; the actual treaty count (1, Spain) was already exact.
+
+METHODOLOGICAL NOTE: the Bolivia and Zambia errors, plus the earlier
+Somalia/Somaliland mix-up and Nigeria/Argentina institutional renames,
+point to a recurring failure pattern worth naming explicitly: conflating
+one type of international agreement (investment treaties, TIEAs, regional
+frameworks) with actual bilateral double tax treaties, or including a
+country that belongs to a similar-sounding but different context. Every
+treaty-network fix in this sweep is now being cross-checked specifically
+for this pattern, not just checked for a plausible-sounding number.
+
+Running total from the full treaty-vagueness sweep: 8 countries fixed
+with real sourced data (Ghana, Namibia, Senegal, Uruguay, Zimbabwe,
+Bolivia, Zambia, Andorra), 2 of which were substantive factual
+corrections rather than just precision improvements. ~30 more entries
+remain from the original 41-hit sweep (mostly larger-network countries:
+Belgium, France, Italy, Hungary, Bulgaria, Finland, Estonia, Slovenia,
+Morocco, Malaysia, Bosnia, Albania, Bangladesh, Croatia, India, Canada,
+Sweden, and others).
+
+Verified sitewide (fresh re-fetch): 248/249 still 14-section complete,
+0 div-balance issues on any page touched this batch.
