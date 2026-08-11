@@ -5600,3 +5600,47 @@ genuinely not exist.
 
 Verified sitewide after this batch: 249/249 still 14-section complete, 0
 em-dashes.
+
+
+## Crawlability / LLM-discoverability audit (user asked directly, checked don't assumed)
+
+Checked every fundamental rather than assuming they were fine:
+
+- robots.txt: exists, explicitly Allow: / for GPTBot, ChatGPT-User, ClaudeBot,
+  anthropic-ai, Claude-Web, PerplexityBot, Google-Extended, CCBot, and *.
+  References the sitemap. Confirmed good.
+- sitemap.xml: 256 URLs, 0 country pages missing (all 249 present).
+- noindex: 0 pages have any noindex directive. Confirmed clean.
+- canonical tags: present on all 249 pages, 0 missing.
+- <title> and meta description: present on all 249 pages, 0 missing.
+- JSON-LD structured data (Article schema): present on all 249 pages, 0
+  missing; spot-validated as syntactically correct JSON on Germany.
+- lang="en" attribute: confirmed present.
+
+Real gap found: llms.txt existed but was badly stale - said "229 total"
+when the site is actually at 249, and entirely missing 20 real, complete
+country pages (Aland Islands, American Samoa, Bonaire/Sint Eustatius/Saba,
+British Indian Ocean Territory, Christmas Island, Cocos Islands, Curacao,
+French Guiana, Guadeloupe, Guam, Martinique, Mayotte, Norfolk Island,
+Northern Mariana Islands, Pitcairn Islands, Reunion, Saint Helena group,
+Svalbard, Tokelau, US Virgin Islands) plus entirely missing 6 root pages
+including transparency.html (the newest page, built this session) and
+micronations.html, trusted-resources.html, map.html, search.html,
+disclaimer.html. Regenerated llms.txt programmatically from the live
+countries.json rather than hand-editing, so it can't silently drift out of
+sync again the same way. Verified after push: 249/249 country slugs
+present, transparency.html and micronations.html both present, header
+count claim matches actual count (249).
+
+Bonus bug caught while investigating: US Virgin Islands was miscategorized
+as region "Oceania" in countries.json (it's Caribbean/Americas). Fixed the
+region field directly; this also would have silently corrupted the
+regenerated llms.txt's regional grouping if not caught first.
+
+This closes out the crawlability/LLM-discoverability check the user asked
+for directly. Actual Google/LLM indexing status (whether pages have
+actually been crawled and appear in search results yet) cannot be checked
+from this environment - that requires Google Search Console access or a
+live site: search, which depends on crawl timing outside this session's
+control. The technical prerequisites for good indexing are now all
+confirmed correct.
