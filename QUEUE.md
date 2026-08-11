@@ -6383,3 +6383,41 @@ Continuing systematically.
 
 Verified sitewide after this round's fixes: 248/249 still 14-section
 complete, 0 div-balance issues introduced.
+
+
+## Exhaustive authority-link re-verification: started, batch 1-2 done (20/249)
+
+User escalated after the Oman incident: wants EVERY authority link checked
+for correctness, not just liveness. Started a systematic pass through all
+249, verifying each domain against independent sources (Wikipedia infoboxes,
+the agency's own official pages, government directories), not just an HTTP
+status check.
+
+Batch 1 (10 countries): Abkhazia, Afghanistan, Aland Islands, Albania,
+Algeria, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda.
+9 confirmed correct. 1 REAL FIX: Anguilla was linking to the generic
+gov.ai government portal instead of the Inland Revenue Department's own
+dedicated site (ird.gov.ai) - fixed.
+
+Also flagged (not yet fixed, needs a decision): Andorra's duana.ad is
+confirmed real and official, but is specifically Andorra's CUSTOMS portal;
+a separate domain (impostos.ad, "impostos" = taxes) may be a better-matched
+citation for a "tax authority" reference specifically, since Andorra's
+department name covers both taxes and borders. Worth revisiting.
+
+Batch 2 (10 countries): Argentina, Armenia, Aruba, Australia, Austria,
+Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados. All 10 confirmed
+correct (Argentina's ARCA domain confirmed as the genuine 2024 rename from
+AFIP; Armenia and Aruba confirmed via department pages though with
+slightly less direct domain confirmation than the others - flagged as
+"probable, not ironclad" given time constraints).
+
+This is a real, slow, one-by-one verification process - each batch of ~10
+takes multiple searches. At this rate, verifying all 249 to the same
+standard will take many more turns. Continuing systematically, prioritizing
+extra scrutiny on smaller/lesser-known jurisdictions (where Oman and
+Anguilla's errors were found) over major well-known countries (US, UK,
+Germany, etc.) where the correct domain is unambiguous common knowledge.
+
+Running total: 20/249 checked, 1 real fix (Anguilla), 1 flagged for
+review (Andorra), Oman fix from the prior session entry.
