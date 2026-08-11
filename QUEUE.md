@@ -6766,3 +6766,53 @@ Sao Tome and Principe, Nigeria (FIRS->NRS institutional change), Andorra
 
 Verified sitewide after all fixes: 248/249 still 14-section complete,
 0 div-balance issues.
+
+
+## Treaty-network vagueness sweep: 5 fixed with real named lists, 1 self-caught error corrected
+
+Swept the whole site again for vague treaty-count language ("a number of
+countries", "several countries", unnamed ranges). Found 41 hits total;
+worked through the worst offenders (zero-information phrases) first,
+fetching primary/detailed secondary sources directly for each and
+replacing with exact counts and full named lists:
+
+- Ghana: fetched GRA's own official DTA page directly - 14 treaties named
+  (Belgium, Czech Republic, Denmark, France, Germany, Italy, Mauritius,
+  Morocco, Netherlands, Qatar, Singapore, South Africa, Switzerland, UK),
+  including two 2024 additions (Qatar, Morocco). Primary source cited.
+- Namibia: PwC's Namibia summary - 11 treaties named (Botswana, France,
+  Germany, India, Malaysia, Mauritius, Romania, Russia, South Africa,
+  Sweden, UK).
+- Senegal: PwC's Senegal withholding-tax table - 16 bilateral treaties
+  named with rates (Belgium, Canada, China/Taiwan, France, Italy,
+  Lebanon, Luxembourg, Mauritania, Morocco, Norway, Portugal, Qatar,
+  Spain, Tunisia, Turkiye, UK), plus the separate WAEMU multilateral rate.
+- Uruguay: already had a long partial list; expanded from 18 to the full
+  25 confirmed via KPMG's detailed treaty listing, added the pending-not-
+  yet-in-force Colombia treaty, cited KPMG as source.
+- Zimbabwe: no single source gave a clean full list; used the confirmed
+  approximate total (19) and expanded named partners from 5 to 10,
+  explicitly flagging that the exact total isn't consistently confirmed
+  across sources rather than forcing false precision.
+
+SELF-CAUGHT PROCESS ERROR, corrected before claiming completion: my first
+attempt at the Uruguay fix edited the text in a Python variable but never
+called put_file to actually save it - only a follow-up citation edit got
+pushed, silently leaving the real content unchanged. Caught this by
+re-fetching fresh and comparing against what I expected to see, rather
+than trusting the earlier tool output. Redid it properly and then
+re-verified all five fixes (Ghana, Namibia, Senegal, Uruguay, Zimbabwe)
+with fresh fetches confirming the actual live content, not assumed state.
+
+Remaining from the 41-hit sweep: ~36 more instances, mostly "roughly X"/
+"approximately X-Y" patterns on larger countries (Belgium, France, Italy,
+Hungary, Bulgaria, Finland, Estonia, Slovenia, Morocco, Malaysia,
+Bosnia, Albania, Bangladesh, Croatia, India, Canada, Sweden, and others)
+where the existing figure may already be reasonably precise but hasn't
+been individually re-verified against a primary source this pass. Cuba,
+El Salvador, Ghana(done), Libya, Philippines still need work on the
+"several countries" / imprecise-range instances.
+
+Verified sitewide after this batch (via fresh re-fetch, not assumption):
+248/249 still 14-section complete, 0 div-balance issues on any edited
+page.
