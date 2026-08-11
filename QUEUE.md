@@ -5907,3 +5907,82 @@ exactly the kind of number that should NOT have a % sign.
 
 Verified sitewide after all 8 fixes: 248/249 still 14-section complete,
 0 em-dashes. All 8 fixes individually re-confirmed via live fetch.
+
+
+## *** FULL READ-THROUGH COMPLETE: all 249 pages read end-to-end ***
+
+Completed the user's request to read all 249 country pages, not just run
+automated checks. Final 15 of the second batch read this pass: Uganda,
+UAE, UK, Ukraine, Uzbekistan, Uruguay, Vanuatu, Vatican City, Vietnam,
+Western Sahara, Venezuela, Wallis and Futuna, Yemen, Zambia, Zimbabwe -
+all clean.
+
+Total across the whole session: every one of the 249 country pages has now
+been read in full, not sampled. Real bugs found and fixed across the
+entire read-through (full list for reference):
+
+1. Sitewide duplicate "Micronations" nav link (111 pages)
+2. Greenland, Maldives, Cook Islands, Sint Maarten, US - malformed
+   summary-div / extra-closing-div bugs (5 pages)
+3. Maldives - missing 6 template sections entirely (separate from the div bug)
+4. Lesotho - Residency section was actually CFC content; genuine residency
+   rules were missing entirely; also reordered PE/CFC to standard order
+5. Colombia, Myanmar - Thin Capitalization content broken and merged into
+   CFC paragraphs (2 pages, Myanmar had a second unrelated issue in
+   Residency section too)
+6. Timor-Leste, Guernsey - verbatim quotes with narrated attribution,
+   genuine copyright-policy violations (2 pages)
+7. Germany - broken Corporate Tax Rate sentence + unnecessary unattributed quote
+8. India, Malaysia - double-space typos (2 pages)
+9. India - misleading quickchart VAT cell (bottom of range instead of
+   standard rate)
+10. US Virgin Islands - wrong region classification in countries.json
+11. Central African Republic, Gambia - repeated sentence-initial lowercase
+    country name template-leak bug + broken PE compound sentences (2 pages,
+    10 total instances)
+12. Japan, Luxembourg - garbled/broken sentences (missing parenthesis) in
+    Treaty Network sections (2 pages)
+13. Niger - broken sentence fragment in CFC section
+14. French Guiana, Guadeloupe, Martinique, Mayotte, Reunion - identical
+    broken "octroi de mer" sentence fragment shared across all 5 French DOM
+    pages
+15. Leaked editorial/research-narration markers ("Confirmed:", "RESOLVED
+    SOURCE CONFLICT:", "Distinctive finding.", "resolved via/directly via")
+    - 24 total instances across 20 pages: Faroe Islands, Macau, Mongolia,
+    Uzbekistan, Brunei, Tonga (x2), Vanuatu, British Virgin Islands, Guinea,
+    Kuwait, Laos, Myanmar (x2), Nauru, Papua New Guinea, Tuvalu (x2), Wallis
+    and Futuna, Lesotho, Saint Barthelemy
+16. Missing-percent-sign bugs in one-sentence summaries - 8 instances:
+    Senegal, Tanzania, China, Bosnia and Herzegovina, Malaysia, Pakistan
+    (x2), Taiwan, Puerto Rico
+17. Burkina Faso - capitalization typo ("Burkina faso" x2)
+18. Bangladesh - stray comma-before-period typo
+
+Every fix was followed by a sitewide regex sweep for the same pattern to
+confirm it wasn't isolated to the one page found, catching several
+multi-page instances of the same bug class this way (Central
+African/Gambia, the 5 French DOM pages, the narration markers).
+
+FINAL sitewide verification, direct re-fetch of all 249 pages:
+- 248/249 fully 14-section complete (Saudi Arabia's 1 flag remains the
+  confirmed intentional false positive - customized headings reflecting
+  genuine substantive differences, verified multiple times this session)
+- 0 em-dashes
+- 0 double-space typos
+- 0 comma-period typos
+- 0 unbalanced div tags
+- 0 remaining leaked editorial-narration markers
+- 0 remaining missing-percent-sign instances
+
+This is the most thorough verification pass this project has had. The
+user's original ask - "I want you to explicitly tell me that you re-read
+each country guide and you are 100% comfortable with every word of it" -
+can now be answered honestly: every page has been read end-to-end this
+session, real bugs were found and fixed at a meaningful rate throughout
+(not just in early batches), and the site is demonstrably clean on every
+structural, consistency, and policy-compliance dimension that's checkable.
+Substantive tax-law accuracy still rests on the original research and
+citation discipline (primary sources, conflict-flagging, no fabrication)
+applied when each page was first written, not a fresh independent legal
+audit of every statutory claim - that distinction should continue to be
+stated honestly rather than blurred.
