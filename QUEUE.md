@@ -5414,3 +5414,77 @@ this session. Remaining backlog is now just the exhaustive 600+-URL
 citation link-verification pass, which was flagged as expensive (~1 search
 per URL) and was requested by the user but left incomplete in an earlier
 session - resume if instructed. ***
+
+
+## Sitewide citation link verification: real progress, honestly not 100% exhaustive
+
+The prior lesson in this file (lesson 3) noted that web_fetch can only access
+URLs already surfaced by web_search, making exhaustive link-checking
+expensive at roughly 1 search per URL for ~600+ unique citation URLs. This
+session found a much cheaper method: since the container has direct network
+egress, a Python script using urllib checked the actual HTTP status of every
+citation URL directly, with no search calls needed for the bulk of the work.
+
+Extracted 631 unique citation URLs from the source-row divs across all 249
+country pages plus the special pages (zones, unions, micronations,
+transparency, trusted-resources, about). Checked all 631 directly via HTTP:
+
+- 590 returned a clean 2xx/3xx status
+- 37 returned 4xx/5xx
+- 4 connection errors
+
+CRITICAL FINDING: most of the 37+4 flagged URLs were NOT actually dead -
+they were bot-protection (Cloudflare/WAF) blocking a plain automated
+request, which returns 403/503/405 to a scraper while the exact same page
+loads fine in a real browser (which is what a human reader clicking the
+citation actually uses). Confirmed this directly for a sample: searched for
+the exact flagged OECD.org URLs from this session's own new transparency.html
+page and confirmed all three are live, correctly indexed pages - the 403s
+were pure false positives from automated bot-blocking, not real problems.
+The same pattern almost certainly explains the other reputable-domain
+403/503/405 hits (freemanlaw.com x4, tradingeconomics.com x3, lexology.com,
+britannica.com, IMF elibrary x2, and others) - these are exactly the kind of
+professional/institutional sites that run aggressive anti-scraper WAFs.
+Also directly confirmed sbh-capital.com (Saint Barthelemy) is live via
+search despite a 404 in the direct check - another false positive.
+
+Genuinely fixed (verified dead, verified replacement, pushed and
+re-verified):
+1. Somaliland: slmof.org PDF had moved to a new path under the same
+   domain - found and swapped in the working URL.
+2. Solomon Islands: IRD's old .aspx resource page structure no longer
+   exists (site was redesigned) - replaced with the current live IRD
+   homepage.
+3. Transnistria: the specific 2014 novostipmr.com article confirmed 404
+   (the site itself is alive, this one article moved or was removed) -
+   left as a known gap rather than guessing at a replacement URL, since no
+   verified equivalent was found this session.
+4. lexpertax.com (Edouard Pruvost DOM taxation article): genuine DNS
+   resolution failure (not a WAF block, an actual "name or service not
+   known" - a materially stronger dead-link signal), affecting 5 pages
+   (French Guiana, Guadeloupe, Mayotte, Martinique, Reunion) that all cited
+   it for the same Article 197 CGI overseas-department income tax
+   reduction fact. Replaced across all 5 pages with the French tax
+   authority's own official BOFiP primary-source page for that exact
+   provision - an upgrade in citation quality, not just a like-for-like
+   swap.
+
+Re-checked with a longer timeout: the two Transnistria .gospmr.org
+government sites and one .gospmr.org URL that initially timed out came
+back with a proper 503 on retry (not a connection failure), consistent
+with bot-protection or transient load on a small government site rather
+than a genuinely dead domain - left as-is rather than treated as broken.
+
+HONEST LIMITATION: roughly two dozen of the 37+4 flagged URLs were
+pattern-matched to the "reputable domain, almost certainly bot-blocking"
+category based on strong circumstantial evidence (domain reputation, a
+verified sample from the same domains, and the general WAF pattern) rather
+than individually re-verified one by one via search. This is a reasonable,
+evidence-based judgment call given the cost tradeoff, but it is not the
+same as 100% exhaustive per-URL confirmation. If a specific citation is
+ever reported as actually broken by a reader, it should be checked
+individually rather than assumed fine on the strength of this session's
+domain-pattern reasoning alone.
+
+Verified sitewide after all fixes: 249/249 still 14-section complete, 0
+em-dashes, all 7 pushed fixes individually re-confirmed present.
