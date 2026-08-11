@@ -5719,3 +5719,57 @@ when each was originally written (primary-source citation, conflict-
 flagging, no fabrication) rather than a fresh line-by-line re-audit of
 every fact on every page, which was not performed and should not be implied
 as complete.
+
+
+## Batch-100 read-through: checkpoint after ~50 countries
+
+User asked to read 100 countries in bigger batches. Progress so far:
+fetched 100 not-yet-individually-read country pages, ran a tuned heuristic
+pre-screen (dangling editorial references, broken-rate-sentences, quote+
+attribution-narration, possible merged CFC/ThinCap sections, duplicate
+sentences, double periods, non-14 heading counts) to prioritize, then
+actually read ~50 full page bodies end-to-end so far (Aland Islands through
+Congo-DRC alphabetically within the batch), not just relying on the
+heuristic flags.
+
+Real bugs found and fixed this pass:
+1. Faroe Islands: leftover research-narration opener ("Confirmed: the
+   Faroe Islands has...") - checked sitewide after, 0 remaining instances
+   of that specific opener pattern.
+2. Austria: genuine factual inconsistency - one-sentence summary said the
+   55% top personal rate applies "until 2029, then 50%" while the body
+   correctly said "postponed to 2030." Verified the correct year via
+   primary/secondary sources (Tax Foundation, PwC-adjacent sources) -
+   2030 is correct. Fixed the summary to match the correct body text.
+3. Bangladesh: stray comma-before-period typo in CFC section ("rules,.").
+   Checked sitewide after, 0 remaining instances of that exact pattern.
+4. Central African Republic: a genuinely significant, repeated bug -
+   "the central african republic" (uncapitalized) appearing at sentence-
+   start in multiple places, plus a broken compound sentence in the PE
+   section ("A non-the Central African Republic-resident entity has a the
+   Central African Republic permanent establishment") - reads like a
+   template placeholder substitution that wasn't grammar-adjusted. Fixed
+   all 6 instances on the page.
+5. Gambia: the exact same bug class as CAR, independently - "the Gambia
+   does not/has a" at sentence-start (3 instances) plus the identical
+   broken PE compound sentence pattern. Fixed all 4 instances.
+6. Ran a sitewide regex sweep for this specific bug class (sentence-initial
+   lowercase "the [Country]" + "non-the [Country]" compounds) after fixing
+   both known instances - confirmed 0 remaining occurrences anywhere on
+   the site, so this was genuinely isolated to these 2 pages, not a wider
+   pattern.
+
+Everything else read in this batch (Aland Islands, Afghanistan, American
+Samoa, Abkhazia, Albania, Algeria, Andorra, Angola, Armenia, Anguilla,
+Antigua and Barbuda, Argentina, Australia, Aruba, Bahrain, Bahamas,
+Bangladesh, Azerbaijan, Barbados, Belarus, Benin, Belgium, Belize,
+Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, British Indian Ocean
+Territory, Brazil, BES Islands, Botswana, British Virgin Islands,
+Bulgaria, Burkina Faso, Brunei, Burundi, Cambodia, Cabo Verde, Cameroon)
+came back clean on full read.
+
+Full sitewide re-verification after this batch: 248/249 still 14-section
+complete (Saudi Arabia confirmed intentional false positive, as
+documented in an earlier entry), 0 em-dashes, 0 remaining instances of any
+bug pattern found this session. Continuing the remaining ~50 countries in
+the 100-batch next.
