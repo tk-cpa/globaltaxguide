@@ -6521,3 +6521,84 @@ Running tally: approximately 74 authority citations individually checked,
 18 confirmed wrong and fixed total - error rate holding at roughly 24%.
 
 REMAINING: continuing alphabetically from Comoros onward (~165 more).
+
+
+## User escalation on Aruba: real research-narration violation found and
+## fixed, plus a wider sweep of the same underlying problem
+
+User flagged Aruba's Treaty Network section as completely unacceptable -
+correctly. It read as unresolved meta-commentary ("A genuine conflict
+across sources worth flagging in detail rather than resolving with a
+single number... Confirm current status directly before relying on
+treaty relief") rather than a clear factual answer. This is the same
+underlying violation as the earlier-fixed "Confirmed:"/"Resolved:" markers,
+just in different words that my earlier regex sweep didn't catch.
+
+Did real primary-source research on Aruba specifically (not just pattern-
+matching) and got a genuinely resolved answer: Aruba has NO network of
+external bilateral double tax treaties with foreign sovereign countries.
+Its double-tax relief comes from two distinct, real sources: (1) the
+Belastingregeling voor het Koninkrijk (BRK), an intra-Kingdom arrangement
+- confirmed via a detailed academic tax-law source that Aruba is
+specifically the ONE Dutch Caribbean territory still under the original
+multilateral BRK, since Curacao and Sint Maarten have since replaced it
+with their own updated bilateral regulations (BNC, BNS) - with the actual
+dividend rate (7.5%, reduced to 5% at 25%+ ownership) confirmed; and (2) a
+small number of standalone bilateral Tax Information Exchange Agreements
+Aruba has concluded directly with third countries (confirmed: United
+States, and Spain via the actual 2008 treaty text). Completely rewrote the
+section with this resolved, confident, sourced explanation.
+
+Given this was a different textual pattern than the earlier narration
+sweep caught, ran a new sitewide sweep for phrases like "worth flagging",
+"confirm current status directly", "before relying on treaty relief" and
+found 27 pages. Triaged each rather than blanket-fixing: many were
+legitimate, defensible caveats about genuinely pending/unresolved external
+facts (Australia's proposed-but-not-yet-law residency test, Bermuda's
+untested new CIT agency, Kuwait's and Qatar's pending GCC-wide VAT
+timeline, Thailand's pending 2026 remittance legislation, South Ossetia's
+genuinely unresolved diplomatic treaty status) - these describe real,
+external uncertainty rather than research laziness, so were left as-is.
+
+Fixed with real research where the hedge was avoiding a resolvable fact:
+- Cabo Verde: had a hedge AND a stray unmatched parenthesis (syntax bug).
+  Replaced with a clear list from the US State Department's Cabo Verde
+  Commercial Guide (6 in-force partners: Portugal, Macau, Spain, Guinea-
+  Bissau, Senegal, Luxembourg), separately noting 3 more signed-but-not-
+  yet-in-force per PwC.
+- Armenia: replaced a "treat approximately 50 as a reasonable estimate"
+  hedge with the exact verified figure (51, per GSL's named list). ALSO
+  caught and fixed a separate, more serious problem in the same paragraph:
+  the old text flatly asserted "Armenia has an income tax treaty with the
+  United States" - this is actually wrong/misleading; the real position is
+  that the US treats the old USSR treaty as applying but Armenia does not
+  officially recognize it, so no US taxpayer can actually rely on treaty
+  benefits in practice. Fixed to state the real, disputed position.
+- Congo-Republic: the substantive content was already reasonably specific
+  (named partners); removed only the trailing unresolved-hedge disclaimer
+  sentence rather than rewriting the whole paragraph.
+- Cook Islands: resolved a genuine "2 sources disagree, discrepancy
+  unconfirmed" hedge into a clear, dated, named answer - no comprehensive
+  DTA network, but a narrow NZ-specific taxing-rights agreement plus
+  confirmed TIEAs with Australia (2009), New Zealand (2009), Netherlands,
+  and Canada (2015).
+
+Left as lower-priority, not yet resolved: five pages (Palestine, Saint-
+Martin French, Saint Pierre and Miquelon, Sao Tome and Principe, Wallis
+and Futuna) share an identical narrow caveat about CRS/AEOI participation
+status specifically not being confirmed. Attempted to resolve this via the
+OECD's own published CRS participating-jurisdictions list but did not get
+a clean per-country answer this pass - noting this honestly rather than
+guessing. Sint Maarten also still has a genuine, unresolved treaty-status
+conflict (Netherlands-Sint Maarten bilateral treaty ratification status)
+not yet fixed.
+
+Verified sitewide after all fixes: 248/249 still 14-section complete,
+0 em-dashes, 0 div-balance issues on all edited pages.
+
+HONEST TAKEAWAY for continuation: the "different words, same violation"
+problem this Aruba incident revealed means the site likely still has more
+instances of unresolved hedging that don't match any regex pattern swept
+so far. A more effective future approach would be manually reading Treaty
+Network sections specifically (the section type where this recurs most)
+rather than relying on keyword sweeps to catch every phrasing variant.
