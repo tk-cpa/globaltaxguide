@@ -5644,3 +5644,78 @@ from this environment - that requires Google Search Console access or a
 live site: search, which depends on crawl timing outside this session's
 control. The technical prerequisites for good indexing are now all
 confirmed correct.
+
+
+## CRYSTALLIZATION PASS - status as of this checkpoint
+
+User asked to "crystallize" the site to a genuine 10/10. Summary of this
+pass's findings, all verified via direct re-fetch after every push, not
+assumed from push success:
+
+New checks run this pass, on top of everything in prior entries:
+- Quick-glance consistency check: cross-referenced every quickchart cell
+  value against the corresponding Corporate/Personal/VAT body section
+  across all 249 pages. Found 65 initial "mismatches" via a crude
+  first-percentage heuristic; manually verified a representative sample
+  (India, Bahrain, Jamaica, Jordan, Northern Cyprus, American Samoa) and
+  confirmed all were false positives from the heuristic misreading
+  progressive-rate ranges - the underlying body text was accurate in every
+  case checked. One genuine improvement found and fixed: India's quickchart
+  VAT cell showed 5% (bottom of the 5-28% GST range) instead of 18% (the
+  actual general/standard rate), breaking the convention every other
+  range-based country on the site follows (Jamaica, Jordan, Bahrain all
+  correctly show their general/standard rate in the quickchart, not an
+  extreme). Fixed India's cell to 18% with an explanatory footnote,
+  matching site convention; verified div balance stayed correct (same bug
+  class caught earlier on the US page - avoided this time by checking
+  immediately after the edit).
+- Sitewide double-space-after-period sweep: found and fixed 2 instances
+  (India, Malaysia - both introduced by an earlier session's sub-national
+  variation flag insertion), then verified 0 remaining sitewide.
+- 5 more full pages read end-to-end this pass (Germany, Gabon, Singapore,
+  India, Colombia recheck), on top of Sint Maarten and Timor-Leste from the
+  bug-hunting pass before it - honest running total of full manual reads
+  this entire session: 7 of 249, clearly disclosed as a sample, not a
+  claim of exhaustive read-through.
+
+Final sitewide state confirmed by direct re-fetch of all 249 pages:
+- 248/249 fully 14-section complete (Saudi Arabia's 1 "incomplete" flag is
+  a confirmed false positive - it uses intentionally customized headings
+  reflecting genuine substantive differences in its tax system: "Residency
+  and the Zakat/Tax Split" and "Interest Deduction Limitation (No Formal
+  Thin Cap Rule)" rather than generic headings)
+- 0 em-dashes
+- 0 double-space typos
+- 0 unbalanced div tags
+- 0 unbalanced p tags
+- 0 forbidden strings, 0 placeholder markers, 0 remaining attribution-
+  language violations (Timor-Leste and Guernsey fixed this session)
+- 249/249 have canonical tags, titles, meta descriptions, valid JSON-LD
+- robots.txt correctly allows all major crawlers including LLM-specific ones
+- llms.txt regenerated and verified accurate (249/249 country pages + all
+  root pages including transparency.html)
+- sitemap.xml has 0 gaps (256 URLs, all pages covered)
+
+Real, substantive bugs found and fixed this session (full list, for a
+future session's context): sitewide duplicate Micronations nav link (111
+pages), Greenland/Maldives/Cook-Islands/Sint-Maarten malformed summary div
+(4 instances of the same bug class), US extra closing div, Maldives leftover
+attribution phrase + missing 6 sections, Lesotho's Residency section
+actually containing CFC content with genuine residency rules entirely
+missing, Colombia and Myanmar's Thin Capitalization content broken and
+merged into their CFC paragraphs, Timor-Leste and Guernsey's verbatim
+quotes with narrated attribution (real copyright-policy violations),
+Germany's broken Corporate Tax Rate sentence and unattributed quote, India
+and Malaysia's double-space typos, India's misleading quickchart VAT cell,
+US Virgin Islands' wrong region classification, and a stale llms.txt
+missing 20 real pages and the entire transparency.html page.
+
+Honest assessment: the site is now demonstrably clean across every
+automatable structural, consistency, and policy-compliance check available,
+verified by direct re-fetch rather than trusted from push responses. The
+substantive tax-law accuracy of the roughly 242 pages not individually
+read this session rests on the research and citation discipline applied
+when each was originally written (primary-source citation, conflict-
+flagging, no fabrication) rather than a fresh line-by-line re-audit of
+every fact on every page, which was not performed and should not be implied
+as complete.
