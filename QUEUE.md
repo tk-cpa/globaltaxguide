@@ -6181,3 +6181,74 @@ into "done."
 
 Verified sitewide after the one fix: 249/249 pages still readable, 248/249
 14-section complete, 0 em-dashes.
+
+
+## Real primary-source fixes: Oman, Cyprus link, and 7 more treaty-count hedges
+
+User directly and correctly called out Oman's "37-43 countries depending on
+the source" as exactly the kind of hedge that shouldn't exist given the
+stated verification standard - a fair critique. Fixed it properly:
+
+- Oman: found the Oman Tax Authority's own official DTA table
+  (tms.taxoman.gov.om/portal/double-tax-agreements) listing all 44 treaty
+  partners by name with Royal Decree numbers and effective dates. Replaced
+  the hedge with the exact verified count and full named list, and added
+  the specific primary-source URL as a citation. Noted Bahrain and
+  Kazakhstan were ratified per PwC (Sept 2025) but don't yet appear on the
+  government's own list.
+- Cyprus: user reported tax.mof.gov.cy broken in their own browser (not
+  just the automated check). Confirmed via search - the Cyprus Tax
+  Department migrated to the unified gov.cy portal structure
+  (gov.cy/mof-tax/en/). Fixed the link.
+
+Given finding one hedge meant there were likely more, ran a sitewide sweep
+for the exact same pattern ("depending on the source", "sources vary",
+"roughly X-Y countries/treaties") and found 12 pages. Resolved with real
+primary/authoritative sources where a clean answer existed:
+
+- Peru: PwC (both corporate and individual pages) names exactly 8
+  comprehensive treaties + new UK treaty (Jan 2026) = 9. Fixed.
+- Bahrain: GSL's detailed named-partner list gives exactly 50 DTTs + 9
+  TIEAs, matching the government's own recent treaty announcements (UAE,
+  Oman, Jan 2025). Fixed.
+- Hong Kong: Hong Kong's own Financial Services and Treasury Bureau states
+  59 signed CDTAs as of July 2026 (genuinely current, official source).
+  Fixed.
+- Netherlands: ICLG's 2026 Corporate Tax Laws report states 98 in force.
+  Fixed.
+- Portugal: Portugal's own tax portal (portaldasfinancas.gov.pt) states
+  exactly 79 signed, 78 in force, 1 pending. Fixed with exact figures.
+- Slovakia: two independent current sources (GSL, EURAXESS Slovakia) both
+  confirm 75. Fixed.
+- Paraguay: PwC names Paraguay's treaty partners exactly - Chile, Qatar,
+  Taiwan, UAE, Uruguay = 5. Fixed.
+
+Left unresolved, honestly, rather than degraded with weaker data:
+- Libya: found US State Dept coverage of Libya's BITs (37 signed/26 in
+  force) but no equally authoritative DTT-specific count beating what was
+  already there; left as-is rather than replace with something less
+  supported.
+- Tajikistan: no clean authoritative total found this pass; existing text
+  (which already explains the 25-vs-40 discrepancy and picks the more
+  specific figure with reasoning) left as-is.
+- Senegal: found confirmed named partners (UK 2015, France, WAEMU
+  framework, UAE 2018/2023) but no clean total count from a primary
+  source; the existing vague "a number of countries" phrasing was not
+  improved this pass since inventing a number without support would repeat
+  the same problem in a different form.
+
+Cayman Islands and Northern Cyprus's "depending on the source" flags
+turned out to be a different topic (exemption-period length, tax bracket
+figures, not treaty counts) - not addressed this pass, noted for a future
+pass focused specifically on that pattern.
+
+Verified sitewide after all fixes: 248/249 still 14-section complete
+(Saudi Arabia confirmed intentional false positive), 0 em-dashes, 0
+div-balance issues across all edited pages.
+
+Honest framing for the user: this is real progress, not a complete sweep.
+The underlying pattern (numeric hedges instead of resolved primary-source
+answers) very likely exists elsewhere on the site beyond just treaty
+counts - personal/corporate rate ranges, withholding rate ranges, and
+other numeric claims could have the same issue and haven't been
+systematically swept for this specific pattern yet.
