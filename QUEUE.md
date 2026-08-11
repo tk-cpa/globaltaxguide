@@ -5816,3 +5816,29 @@ individually verified as legitimate normal English usage rather than a bug.
 
 Verified sitewide after all fixes: 248/249 still 14-section complete
 (Saudi Arabia confirmed intentional false positive), 0 em-dashes.
+
+
+## Read-through progress: batch 2 at 60/135, running total ~180/249 full reads
+
+Continued the systematic read-through requested by the user. This session:
+fixed Myanmar's and Saint Barthelemy's remaining leaked editorial markers
+(confirming the narration-bug class is now fully eliminated sitewide, 24
+total instances across the whole session), then resumed reading fresh
+pages: Nepal, Namibia, Netherlands, New Zealand, New Caledonia, Nicaragua,
+Niger, Nigeria, Niue, North Korea, North Macedonia, Northern Mariana
+Islands, Norfolk Island, Northern Cyprus, Norway, Oman, Palestine, Palau,
+Pakistan, Panama - 20 more full reads, on top of the ~40 already read in
+this second 135-page batch and the 100 read in the first pass.
+
+One real bug found and fixed: Niger's CFC section had a broken sentence
+fragment ("Niger's CGI." standing alone with no verb, same defect class as
+the earlier French DOM "octroi de mer" fragments) - fixed by merging it
+into the surrounding sentence.
+
+Everything else in this batch read clean.
+
+Verified sitewide after this batch: 248/249 still 14-section complete
+(Saudi Arabia confirmed intentional false positive), 0 em-dashes.
+
+Running total of full page reads this session: approximately 180 of 249.
+75 remain in the second 135-page batch, continuing next.
