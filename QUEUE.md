@@ -6072,3 +6072,41 @@ requires multiple searches to properly check rates, thresholds, and key
 structural rules against current law). Continuing with more major
 economies and then working through the rest systematically, tracking
 progress transparently rather than claiming completion prematurely.
+
+
+## Fact re-verification continued: 6 more major economies checked
+
+Canada, Australia, Brazil, South Korea, Italy, Spain - headline corporate/
+personal/VAT rates cross-checked against multiple current 2026 sources
+(PwC, TaxAtlas, Trading Economics, Chambers, official government pages
+where available).
+
+Found and fixed: Canada's VAT/GST Rate section was missing a percent sign
+("combined federal/provincial 5-15." should be "5-15%.") - same bug class
+as the earlier percent-sign sweep, this one wasn't caught by that regex
+pass since it was a range ending in a bare period rather than a single
+number. Fixed and verified.
+
+Everything else confirmed accurate as stated:
+- Canada: 15% federal corporate (+ 8-15% provincial), 33% federal top
+  personal (+ 11.5-21.8% provincial), 5-15% combined GST/HST - all correct.
+- Australia: 30% standard corporate (25% base rate entities), 45% top
+  personal, 10% GST - all correct.
+- Brazil: 34% corporate (25% IRPJ + 9% CSLL), 27.5% top personal - correct
+  (already verified in detail earlier this session).
+- South Korea: 25% top corporate bracket, 45% top personal, 10% VAT - all
+  correct. Noted South Korea's effective top personal rate with the 10%
+  local income tax surcharge reaches ~49.5%, but assessed this as a minor,
+  common-convention omission (stating the national headline rate) rather
+  than a bug requiring a fix - a materially smaller and more typical gap
+  than Japan's case, where the omitted component was a large flat local
+  tax rather than a small percentage-of-tax surtax.
+- Italy: 24% IRES, 43% top IRPEF, 22% VAT - all correct.
+- Spain: 25% corporate, 47% top personal (regional variation to 54%,
+  already correctly noted in body text), 21% VAT - all correct.
+
+Running total of countries genuinely fact-checked against current primary/
+secondary sources this workstream: 13 (US, UK, Germany, France, China,
+India, Japan, Canada, Australia, Brazil, South Korea, Italy, Spain). One
+substantive multi-point gap found and fixed (Japan), one missing-percent
+typo found and fixed (Canada). Continuing with more countries.
