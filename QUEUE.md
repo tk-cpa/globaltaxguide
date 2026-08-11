@@ -6252,3 +6252,47 @@ answers) very likely exists elsewhere on the site beyond just treaty
 counts - personal/corporate rate ranges, withholding rate ranges, and
 other numeric claims could have the same issue and haven't been
 systematically swept for this specific pattern yet.
+
+
+## *** CRITICAL FINDING: Official Tax Authority link error rate much higher than assumed ***
+
+User caught Oman's tax.gov.om as wrong (never confirmed correct anywhere,
+despite resolving to a live server via robots.txt block - this is why the
+earlier HTTP-based link check treated it as fine). This exposed a real gap:
+the earlier "authority link verification" work checked whether links
+RESOLVED, not whether they were the CORRECT domain for the named authority.
+Those are different checks, and the difference matters exactly in cases
+like this where a plausible-sounding wrong domain happens to also be live.
+
+Started a genuine, individual re-verification of every Official Tax
+Authority citation - confirmed correct via independent search (Wikipedia
+infoboxes, agency Facebook/LinkedIn pages, direct government fetches),
+not just "resolves." This is a fundamentally different and much stricter
+check than anything done before.
+
+Checked so far (14 countries): 5 WRONG, 9 confirmed correct - a ~36% error
+rate in this sample, far higher than assumed. Fixed all 5 found wrong:
+
+- Oman: tax.gov.om -> taxoman.gov.om (user-flagged)
+- Laos: tax.mof.gov.la (confirmed DNS failure) -> taxservice.mof.gov.la
+  (confirmed real via Lao government trade portal notice)
+- Kuwait: taxauthority.gov.kw (never confirmed anywhere) -> mof.gov.kw
+  (confirmed via Wikidata, Facebook, Thomson Reuters)
+- Northern Mariana Islands (CNMI): dof.gov.mp (never confirmed) ->
+  finance.gov.mp (confirmed via direct fetch, IRS.gov references)
+- Saint Vincent and the Grenadines: inlandrevenue.gov.vc (never confirmed)
+  -> ird.gov.vc (confirmed via direct fetch of live content)
+
+Confirmed correct in this batch: Andorra (duana.ad), Eswatini (ers.org.sz),
+Bosnia and Herzegovina (uino.gov.ba), Dominica (ird.gov.dm), Iran
+(intamedia.ir).
+
+Given this error rate, a full systematic re-verification of all 236
+authority links (not a sample) is now clearly warranted and underway.
+This is a large task - realistically requiring many more search calls
+across the rest of the list, which spans ~230 more countries. Continuing
+now in batches, fixing anything wrong immediately and checkpointing
+progress regularly so partial progress isn't lost.
+
+Verified sitewide after these 5 fixes: div balance intact on all edited
+pages, no other structural issues introduced.
