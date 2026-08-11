@@ -5569,3 +5569,34 @@ more research time, but none were guessed at or left with a fabricated URL.
 
 Verified sitewide after all pushes: 249/249 still 14-section complete, 0
 em-dashes.
+
+
+## Homepage subhead refined + 3 more authority links (232/249)
+
+Homepage: user provided a stronger, more specific subhead listing actual
+provision names (CFC, participation exemption, thin cap, FTC, residency,
+foreign asset reporting, hybrid entity rules). Tightened for site
+consistency before pushing: matched exact site terminology ("CFC rules"
+not "controlled foreign corporation", to match the "CFC (Controlled
+Foreign Company)" heading used identically across all 249 pages), replaced
+"&" with "and" in flowing prose (reserving "&" for short nav-style labels),
+and dropped the trailing "& more..." ellipsis for a cleaner close. Pushed
+and verified.
+
+Authority links: found and added 3 more this round - Guinea-Bissau
+(dgci.mef.gw), Northern Cyprus (maliye.gov.ct.tr, confirmed via Wikipedia's
+own infobox as the TRNC Ministry of Finance's official site), Montserrat
+(mcrs.ms/inland-revenue/). Eritrea searched but no confirmable official
+tax-authority domain found - left as plain text, genuine gap.
+
+Running total: 232/249 (93%) pages now have a live, verified Official Tax
+Authority link, up from 0 at the start of this thread. 17 remain as honest
+gaps: British Indian Ocean Territory, Eritrea, Kiribati, Marshall Islands,
+Micronesia, Nauru, Niue, North Korea, Saint Barthelemy, Saint Pierre and
+Miquelon, San Marino, Sao Tome and Principe, South Ossetia, Syria, Tuvalu,
+Wallis and Futuna, Western Sahara - mostly tiny, isolated, or disputed
+jurisdictions where a dedicated public-facing tax authority website may
+genuinely not exist.
+
+Verified sitewide after this batch: 249/249 still 14-section complete, 0
+em-dashes.
