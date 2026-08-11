@@ -6504,3 +6504,20 @@ Running tally: approximately 68 authority citations individually checked,
 16 confirmed wrong and fixed total - error rate holding at roughly 23-24%.
 
 REMAINING: continuing alphabetically from Canada onward (~170 more).
+
+
+## Authority link re-verification round 6: 2 more fixes (Cayman Islands, Chad)
+
+FIXED:
+- Cayman Islands: ditc.gov.ky (never confirmed) -> ditc.ky (confirmed
+  repeatedly across the department's own official site)
+- Chad: impots.gouv.td (never confirmed) -> finances.gouv.td (DGI is
+  hosted under the Ministry of Finance's domain, confirmed via direct
+  page fetch)
+
+CONFIRMED CORRECT: Central African Republic, Chile, China, Colombia.
+
+Running tally: approximately 74 authority citations individually checked,
+18 confirmed wrong and fixed total - error rate holding at roughly 24%.
+
+REMAINING: continuing alphabetically from Comoros onward (~165 more).
