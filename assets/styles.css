@@ -73,6 +73,45 @@ a { color: inherit; }
 .site-nav__search { display: flex; align-items: center; opacity: 0.65 !important; }
 .site-nav__search:hover { opacity: 1 !important; color: var(--teal-deep); }
 
+/* Resources dropdown - pure HTML/CSS via <details>, no JS required */
+.site-nav__dropdown { position: relative; }
+.site-nav__dropdown summary {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  opacity: 0.75;
+  list-style: none;
+}
+.site-nav__dropdown summary::-webkit-details-marker { display: none; }
+.site-nav__dropdown:hover summary,
+.site-nav__dropdown[open] summary { opacity: 1; color: var(--teal-deep); }
+.site-nav__chevron { transition: transform 0.15s ease; opacity: 0.7; flex-shrink: 0; }
+.site-nav__dropdown[open] .site-nav__chevron { transform: rotate(180deg); }
+.site-nav__dropdown-menu {
+  position: absolute;
+  top: calc(100% + 16px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: 0 16px 32px rgba(17,17,17,0.14);
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  min-width: 210px;
+  z-index: 30;
+}
+.site-nav__dropdown-menu a {
+  padding: 10px 14px;
+  border-radius: 7px;
+  opacity: 0.82;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.site-nav__dropdown-menu a:hover { background: var(--teal-pastel); opacity: 1; color: var(--teal-deep); }
+
 /* Mobile hamburger menu - pure CSS, no JS required */
 .nav-toggle-checkbox { display: none; }
 .nav-toggle-label {
@@ -106,6 +145,19 @@ a { color: inherit; }
   .site-nav a { padding: 10px 0; width: 100%; opacity: 0.85; }
   .site-nav__search { order: -1; padding-top: 4px; }
   .nav-toggle-checkbox:checked ~ .site-nav { display: flex; }
+  .site-nav__dropdown { width: 100%; }
+  .site-nav__dropdown summary { padding: 10px 0; width: 100%; opacity: 0.85; }
+  .site-nav__dropdown-menu {
+    position: static;
+    transform: none;
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    padding: 0 0 4px 18px;
+    background: transparent;
+    min-width: 0;
+  }
+  .site-nav__dropdown-menu a { padding: 8px 0; opacity: 0.75; }
 }
 
 .hero {
