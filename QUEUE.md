@@ -7056,3 +7056,42 @@ word-by-word. 10 real issues found and fixed total (6 in batch 1, 4 in
 batch 2), including one internal math error (Antigua/Barbuda's CARICOM
 list) and two non-answers replaced with real research (Bahamas, BES
 Islands). Continuing to batch 3 (cayman-islands onward) next.
+
+
+## BATCH 3 COMPLETE: canada through czech-republic (alphabetical, 20 countries)
+
+FIXED (3 real issues, including one from an earlier session that had been
+flagged but not actually resolved):
+- Canada: "roughly 90-95" -> specific figure (95) with named major
+  partners, sourced from TaxAtlas and Dept of Finance Canada.
+- Cayman Islands: "25-30 years depending on the source consulted" for the
+  tax exemption certificate - this was a genuinely resolvable ambiguity,
+  not real uncertainty. Checked 7 independent sources including PwC
+  directly: the actual structure is a 20-year initial undertaking,
+  extendable by 10 more years, for a 30-year maximum - the "25-30" was an
+  averaging artifact, not a real range. Fixed to state the real
+  mechanism precisely.
+- Croatia: "more than 60-65 countries" -> specific figure (66) sourced
+  from Expat Focus.
+
+CONFIRMED ALREADY GOOD after full read-through: Central African Republic,
+Chad (both honestly describe CEMAC-only limited networks), Chile, China
+(114, dated to 30 June 2026, genuinely specific), Christmas Island,
+Cocos Islands, Colombia (15, with OECD accession context), Comoros
+(honestly flagged as limited with a pending-ratification treaty
+identified), Congo-DRC (2 real partners named), Congo-Republic (4 named
+plus CEMAC), Cook Islands (correctly describes its narrow NZ-only
+arrangement), Costa Rica (5, named), Cote d'Ivoire (12 named plus WAEMU),
+Cuba (already reviewed in an earlier pass, honest treatment confirmed
+still accurate), Curacao (correctly explains the BRK intra-Kingdom
+mechanism), Cyprus (link fixed in an earlier session, re-verified still
+correct), Czech Republic (99, dated to official MoF list, with a real
+current detail about suspended Belarus treaty articles).
+
+Verified sitewide after batch 3 fixes: 0 div-balance issues across all
+20 pages (fresh re-fetch).
+
+## RUNNING TOTAL: 60 of 249 pages (24%) fully audited word-by-word across
+three batches. 13 real issues found and fixed total. Continuing to batch
+4 (dominica onward - wait, alphabetically after czech-republic comes
+denmark) next.
