@@ -5874,3 +5874,36 @@ Verified sitewide after this batch: 248/249 still 14-section complete,
 
 Running total of full page reads this session: approximately 200 of 249.
 55 remain in the second 135-page batch (indices 80-135).
+
+
+## Missing-percent-sign bugs: found and fixed 8 instances via targeted sweep
+
+While reading through the second 135-country batch, caught Senegal's
+one-sentence summary missing a % sign ("maximum 43." should be "maximum
+43%."). Ran a full sitewide sweep for the same bug class (a documented
+past-bug pattern per this file's own history) and found 7 more genuine
+instances, all confined to one-sentence summaries specifically (the body
+Corporate/Personal/VAT sections were correct in every case checked - this
+appears to be an artifact specific to how summaries were originally
+generated, not a body-content problem):
+
+- Tanzania: "16 for certain B2C" and "15-18 Zanzibar" -> added %
+- China: "13%, 9, or 6 by category" -> "13%, 9%, or 6%"
+- Bosnia and Herzegovina: "8%-10 by entity (FBiH 10; RS 8; Brcko 10)" ->
+  added % to all four bare numbers
+- Malaysia: "10% (sales tax) / 8 (service tax)" -> added % to the 8
+- Pakistan: two separate instances in the same summary - "45 non-salaried"
+  and "15-16 services" -> both fixed
+- Taiwan: "18/20/21 by income type" -> "18%/20%/21%"
+- Puerto Rico: "4 B2B/designated services" -> "4%"
+
+Ran a broad regex sweep across all 249 summaries specifically (not just
+body text) using several false-positive filters (currency thresholds like
+"USD 10,000" and years correctly excluded). The remaining ~30 flagged
+candidates from the sweep were individually reviewed and confirmed to be
+false positives - almost all were dollar/currency-threshold amounts (EUR,
+USD, BZD, MVR, NPR, etc.) rather than missing rate percentages, which is
+exactly the kind of number that should NOT have a % sign.
+
+Verified sitewide after all 8 fixes: 248/249 still 14-section complete,
+0 em-dashes. All 8 fixes individually re-confirmed via live fetch.
