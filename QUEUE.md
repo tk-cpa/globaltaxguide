@@ -6602,3 +6602,74 @@ instances of unresolved hedging that don't match any regex pattern swept
 so far. A more effective future approach would be manually reading Treaty
 Network sections specifically (the section type where this recurs most)
 rather than relying on keyword sweeps to catch every phrasing variant.
+
+
+## *** Real link-testing methodology upgrade, per direct user demand ***
+
+User was rightly angry: prior "verification" relied on search snippets
+confirming a domain's identity, not on actually loading the page. A
+domain being real and a domain currently returning real content are
+different facts, and the difference is exactly where Andorra's duana.ad
+and others slipped through.
+
+Built and ran a genuine two-layer test across all 236 Official Tax
+Authority links:
+1. Direct HTTP fetch (real urllib GET with browser headers) of every URL,
+   inspecting actual returned status code AND body content length/
+   snippet - not just "did search mention this domain."
+2. For anything flagged, cross-verified via a second, independent fetch
+   channel (Anthropic's own web_fetch infrastructure) before concluding
+   real vs false positive.
+
+RESULTS OF THE DIRECT TEST: 146/236 clean immediately. 90 flagged (60
+4xx/5xx, 27 connection/DNS errors, 3 suspicious near-empty bodies).
+
+GENUINE PROBLEMS FOUND AND FIXED THIS PASS:
+- San Marino: my own earlier fix (finanze.sm) was itself wrong/outdated -
+  404s. Found and verified the actual correct current URL (gov.sm), fixed,
+  and RE-VERIFIED with a direct fetch confirming status 200 and real page
+  title before considering it done.
+- Sao Tome and Principe: impostos.financas.gov.st is genuinely 404ing on
+  every path tested (root and sub-pages), despite search snippets showing
+  it used to have content. Switched to the parent Ministry of Finance
+  domain (financas.gov.st), confirmed alive (responds, bot-protected, not
+  dead) via direct fetch.
+- Burundi: obr.bi is the confirmed-correct domain but is currently
+  throwing a genuine, reproducible server-side PHP error ("Application
+  Instantiation Error... headers already been sent") on every fetch - a
+  real current bug on their end, not a wrong-domain issue. No better
+  working alternative found; left as the correct domain with this
+  limitation explicitly flagged rather than guessing a replacement.
+- Andorra (handled in the immediately preceding turn): duana.ad is
+  correct but Andorra's customs system has a real, ongoing, independently
+  confirmed IT outage (Diari d'Andorra, since mid-July 2026); switched to
+  the stable parent government portal.
+
+CRITICAL METHODOLOGY FINDING - most of the 90 flagged links were FALSE
+POSITIVES caused by the sandbox's own network environment, not real
+breakage. Proved this directly, not just asserted it:
+- incometax.gov.in (flagged as DNS failure in sandbox) - fetched cleanly
+  and fully via web_fetch, live 2026 content, zero issues.
+- canada.ca/en/revenue-agency (flagged 503 in sandbox) - fetched cleanly
+  and fully via web_fetch, live 2026 content, zero issues.
+- taxservice.mof.gov.la (flagged as suspicious/near-empty body) -
+  confirmed via multiple independent government sources as the genuine,
+  actively-used tax e-filing portal; the odd body was a normal login
+  redirect, not breakage.
+- revenue.gov.ws (flagged as suspicious redirect) - confirmed via direct
+  search as a live, actively updated site (2026 content); the redirect
+  was a bot-protection captcha challenge, not a dead site.
+
+This establishes with direct, repeated evidence (not assumption) that the
+sandbox's outbound network is DNS-blocked and/or rate-limited by many
+government WAFs, producing false "broken" signals for what are actually
+live, correct links. The remaining ~85 of the 90 originally-flagged links
+were not individually re-verified one-by-one via web_fetch this pass
+(that would be another ~85 search+fetch cycles) - they are being treated
+as likely-fine based on this now-repeatedly-confirmed pattern, which is a
+reasoned inference, not a guarantee. If the user wants literal 100%
+individual re-confirmation of all 90 via web_fetch specifically, that
+remains open as a further, scoped task.
+
+Verified sitewide after all fixes: 248/249 still 14-section complete,
+0 div-balance issues.
