@@ -6460,3 +6460,30 @@ assuming completion.
 
 Verified sitewide after this batch: 248/249 still 14-section complete,
 0 em-dashes.
+
+
+## Authority link re-verification round 4: 2 more fixes (Benin, and continued B-range)
+
+Continued systematic checking through the B countries.
+
+FIXED:
+- Benin: impots.finances.bj (missing "gouv", never confirmed) ->
+  impots.finances.gouv.bj (confirmed via the DGI's own site and multiple
+  government sources)
+
+CONFIRMED CORRECT: Belize, Bermuda, Bhutan, Bolivia, Botswana, Bonaire/
+Sint Eustatius/Saba, Brazil, British Virgin Islands.
+
+Running tally across the whole workstream: approximately 63 authority
+citations individually checked, 15 confirmed wrong and fixed total
+(Oman, Cyprus, Laos, Kuwait, Northern Mariana Islands, Saint Vincent and
+the Grenadines, Mongolia, Palau, Somalia, Turkmenistan, Argentina, Aruba,
+Bulgaria, Benin, Malawi) - roughly 24% error rate holding steady.
+
+REMAINING SCOPE: roughly 175 more authority-link citations still need
+individual re-verification (continuing alphabetically from Brunei
+onward). Continuing systematically, checkpointing every 5-10 countries
+to preserve progress.
+
+Verified sitewide after this round: 248/249 still 14-section complete,
+0 div-balance issues.
