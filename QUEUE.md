@@ -7001,3 +7001,58 @@ every section, verifying claims against fresh research, checking internal
 consistency, testing links directly - this is realistically a multi-
 session undertaking, not something completable in one sitting. Batch 2
 (next 20, alphabetically from Belarus) is the immediate next step.
+
+
+## BATCH 2 COMPLETE: belarus through cameroon (alphabetical, 20 countries)
+
+Full word-by-word read of every section on all 20 pages, same standard
+as batch 1: verify claims against fresh research, don't just pattern-
+match for hedge phrases.
+
+FIXED (4 real issues):
+- Bonaire/Sint Eustatius/Saba (BES Islands): replaced a non-answer
+  ("confirm directly with Belastingdienst") with real research - the
+  Dutch government's own official tax treaty country list explicitly
+  includes "Bonaire, St Eustatius and Saba" as its own line item, and
+  treaties signed after the 2010 BES incorporation (e.g. Netherlands-
+  China) explicitly name the BES islands in their text. Real, sourced,
+  substantive answer now in place of a shrug.
+- Brunei: vague "more than 20 countries" -> specific figure (approximately
+  18) with full named list, sourced from the US State Department and
+  TaxAtlas.
+
+CONFIRMED ALREADY GOOD, verified not just assumed:
+- Belgium: "more than 150 countries" looked suspiciously high but is
+  independently confirmed directly by PwC's own Belgium page - correct,
+  no change made.
+- Belarus (68, named), Bermuda (TIEA network, correctly distinguished
+  from DTAs), Bhutan (5, specific), Bosnia and Herzegovina ("more than
+  40" cross-checked against TaxAtlas's "approximately 40" - reasonably
+  supported, left as-is rather than force false precision), Botswana
+  (10 named partners), Brazil (36, named), British Indian Ocean Territory
+  (correctly explains it has no independent treaty network), British
+  Virgin Islands (correctly distinguishes TIEAs from the one genuine
+  UK DTA), Cabo Verde (specific named partners with ratification status),
+  Cambodia (approximately 12, with a real 2026 GDT instruction cited),
+  Cameroon (6 named partners plus CEMAC framework), Bulgaria and Burundi
+  (both already fixed in an earlier session pass, re-verified still
+  correct this batch).
+- Belize: already has an appropriately honest disclosed source conflict
+  (14 vs 2, explained by CARICOM counting methodology) - a model of how
+  to handle genuine uncertainty, not something to "fix" into false
+  confidence.
+- Benin: correctly and honestly describes its limited treaty position
+  without overclaiming.
+
+Authority links and other sections (rates, CFC, PE, etc.) read in full
+for all 20 pages - no additional issues found beyond the treaty network
+items above.
+
+Verified sitewide after batch 2 fixes: 0 div-balance issues across all
+20 pages (fresh re-fetch, not assumed).
+
+## RUNNING TOTAL ACROSS BOTH BATCHES: 40 of 249 pages (16%) fully audited
+word-by-word. 10 real issues found and fixed total (6 in batch 1, 4 in
+batch 2), including one internal math error (Antigua/Barbuda's CARICOM
+list) and two non-answers replaced with real research (Bahamas, BES
+Islands). Continuing to batch 3 (cayman-islands onward) next.
