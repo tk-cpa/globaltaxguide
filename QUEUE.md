@@ -5842,3 +5842,35 @@ Verified sitewide after this batch: 248/249 still 14-section complete
 
 Running total of full page reads this session: approximately 180 of 249.
 75 remain in the second 135-page batch, continuing next.
+
+
+## Read-through progress: batch 2 at 80/135, running total ~200/249 full reads
+
+Continued the read-through: Papua New Guinea, Paraguay, Peru, Pitcairn
+Islands, Philippines, Poland, Portugal, Puerto Rico, Qatar, Rwanda,
+Reunion, Russia, Romania, Saint Barthelemy, Saint Helena/Ascension/
+Tristan da Cunha, Saint Pierre and Miquelon, Saint Lucia, Saint-Martin
+(French), Saint Kitts and Nevis, Saint Vincent and the Grenadines - 20
+more full reads.
+
+No new bugs found this round (all clean). Two pages (PNG Treaty Network,
+Saint Barthelemy Personal Tax Rate) initially looked like they still had
+the leaked-marker bug from the cached read batch, but live-fetch
+verification confirmed both were already fixed earlier this session - the
+reading batch was built from a pre-fix cache snapshot. Flagging this
+explicitly since it's a good discipline: always verify against a live
+fetch before concluding a fix didn't take, not just the cached read file.
+
+One borderline case reviewed and deliberately NOT changed: Saint Pierre
+and Miquelon's Corporate Tax Rate section quotes its own official tax
+authority (DSF) directly by name with a very short (3-word) quote ("very
+similar"). This is different from the banned "confirmed via secondary
+source" narration pattern - naming and briefly quoting the actual primary
+government source is normal sourced writing, not research-process
+narration, so it was left as-is.
+
+Verified sitewide after this batch: 248/249 still 14-section complete,
+0 em-dashes.
+
+Running total of full page reads this session: approximately 200 of 249.
+55 remain in the second 135-page batch (indices 80-135).
