@@ -6005,3 +6005,70 @@ or disputed jurisdictions flagged in earlier entries as plausibly having
 no public-facing tax authority website at all.
 
 Verified sitewide: 248/249 still 14-section complete, 0 em-dashes.
+
+
+## *** New workstream started: genuine statutory fact re-verification ***
+
+User explicitly requested going beyond structural/consistency checks to
+actually re-verify substantive tax facts against current primary/
+authoritative sources - the real independent legal audit, not just
+checking that pages are well-formed. Started this as a new, ongoing
+workstream, beginning with the highest-traffic major economies where
+errors matter most and rates are most likely to have moved since original
+research.
+
+Verified this pass (7 countries, headline corporate/personal/VAT rates
+cross-checked against multiple current 2026 sources):
+
+- United States: 21% federal corporate, 37% top personal, 0% federal VAT -
+  CONFIRMED ACCURATE, no changes needed.
+- United Kingdom: 25% main corporate rate (19% small profits), 45% top
+  personal, 20% VAT - CONFIRMED ACCURATE. Noted a minor cosmetic label
+  inconsistency (UK page says "VAT standard rate" instead of the site's
+  usual "VAT / GST rate" label) - not fixed yet, flagged for a future pass.
+- Germany: 15.825% combined corporate (15% + 5.5% solidarity surcharge),
+  45% top personal, 19% VAT - CONFIRMED ACCURATE (already fixed earlier
+  this session).
+- France: 25% corporate, 45% top personal, 20% VAT - CONFIRMED ACCURATE.
+- China: 25% corporate, 45% top personal, 13% VAT - CONFIRMED ACCURATE
+  (percent-sign bug already fixed earlier this session).
+- India: 25% base domestic corporate rate, 39% top personal (effective,
+  matching current Trading Economics/Ministry of Finance figures), 18%
+  GST general rate - CONFIRMED ACCURATE (quickchart cell already fixed
+  earlier this session for the range-vs-standard-rate issue).
+- JAPAN - REAL SUBSTANTIVE GAPS FOUND AND FIXED:
+  1. Corporate Tax Rate section stated only the 23.2% national statutory
+     rate, with no mention anywhere on the page that the effective
+     combined rate (national + local enterprise tax + special corporate
+     business tax + corporate inhabitant tax) is materially higher, at
+     approximately 30-31.5% for most companies. Also missing: a new
+     defense-capabilities surtax (4% on base national corporate tax)
+     effective for fiscal years beginning on or after April 1, 2026,
+     adding roughly one further percentage point. Fixed the body section
+     to state both figures clearly.
+  2. Personal Tax Rate section said "45% plus 2.1% surtax" - this omitted
+     the local inhabitant tax entirely, which is a flat ~10% (far larger
+     than the 2.1% reconstruction surtax, which is itself only 2.1% OF
+     the national tax amount, not 2.1 additional percentage points on
+     income). The combined effective top marginal rate is approximately
+     55%, not the ~45.9% implied by the prior text. This was a genuinely
+     significant understatement, not a minor rounding issue. Fixed the
+     body section AND updated the quickchart summary cell from "45%" to
+     "55%*" with an explanatory footnote, since the discrepancy was large
+     enough that leaving the quick-glance number wrong while fixing only
+     the body prose would have left a misleading page.
+
+This confirms the user's prediction: genuine re-verification against
+current sources does turn up real, substantive issues beyond what
+structural/consistency checking can catch - Japan's personal rate was
+understating the true top marginal burden by roughly 9 percentage points.
+
+Verified sitewide after the Japan fixes: 248/249 still 14-section
+complete, 0 em-dashes, div balance correct.
+
+This workstream is realistically a multi-session undertaking to cover all
+249 pages with genuine primary-source re-verification (each country
+requires multiple searches to properly check rates, thresholds, and key
+structural rules against current law). Continuing with more major
+economies and then working through the rest systematically, tracking
+progress transparently rather than claiming completion prematurely.
