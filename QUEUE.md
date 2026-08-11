@@ -6487,3 +6487,20 @@ to preserve progress.
 
 Verified sitewide after this round: 248/249 still 14-section complete,
 0 div-balance issues.
+
+
+## Authority link re-verification round 5: 1 more fix (Burundi)
+
+Continued through Brunei-Cameroon range.
+
+FIXED:
+- Burundi: obr.gov.bi (only appeared as a subdomain, ekori.obr.gov.bi, not
+  the main site) -> obr.bi (confirmed as the actual main OBR domain via
+  direct fetch, Facebook, X/Twitter)
+
+CONFIRMED CORRECT: Brunei, Burkina Faso, Cabo Verde, Cambodia, Cameroon.
+
+Running tally: approximately 68 authority citations individually checked,
+16 confirmed wrong and fixed total - error rate holding at roughly 23-24%.
+
+REMAINING: continuing alphabetically from Canada onward (~170 more).
