@@ -1,5 +1,5 @@
-# Global Tax Guide
-> Free, sourced tax-rate reference (corporate rate, personal rate, VAT/GST rate) for every country and territory in the world, including offshore jurisdictions, special tax zones, and disputed/partially-recognized states. Produced by tk.cpa AI Lab, makers of cpavalidated.com.
+# tk.cpa Global Tax Guide
+> The international tax practitioner's trusted resource for global tax rates and critical cross-border provisions, including CFC rules, participation exemptions, thin capitalization, foreign tax credits, residency rules, foreign asset reporting, and hybrid entity rules, for every country and territory on Earth, including disputed and limited-recognition jurisdictions. Free, sourced, no logins or paywalls. Produced by tk.cpa AI Lab, makers of cpavalidated.com.
 
 ## Core pages
 - [Homepage / Directory](https://globaltaxguide.com/)
@@ -7,14 +7,21 @@
 - [Mission](https://globaltaxguide.com/mission.html)
 - [Special Tax Zones](https://globaltaxguide.com/zones.html)
 - [Unions & Trade Zones](https://globaltaxguide.com/unions.html)
+- [Global Tax Transparency (CRS, FATCA, MCAA, BEPS Pillar Two)](https://globaltaxguide.com/transparency.html)
+- [Micronations & Self-Declared States](https://globaltaxguide.com/micronations.html)
+- [Trusted Resources](https://globaltaxguide.com/trusted-resources.html)
+- [Map](https://globaltaxguide.com/map.html)
+- [Search](https://globaltaxguide.com/search.html)
+- [Disclaimer](https://globaltaxguide.com/disclaimer.html)
 
-## Country and territory pages (229 total)
+## Country and territory pages (249 total)
 
 ### Africa
 - [Algeria](https://globaltaxguide.com/countries/algeria.html)
 - [Angola](https://globaltaxguide.com/countries/angola.html)
 - [Benin](https://globaltaxguide.com/countries/benin.html)
 - [Botswana](https://globaltaxguide.com/countries/botswana.html)
+- [British Indian Ocean Territory](https://globaltaxguide.com/countries/british-indian-ocean-territory.html)
 - [Burkina Faso](https://globaltaxguide.com/countries/burkina-faso.html)
 - [Burundi](https://globaltaxguide.com/countries/burundi.html)
 - [Cabo Verde](https://globaltaxguide.com/countries/cabo-verde.html)
@@ -45,12 +52,15 @@
 - [Mali](https://globaltaxguide.com/countries/mali.html)
 - [Mauritania](https://globaltaxguide.com/countries/mauritania.html)
 - [Mauritius](https://globaltaxguide.com/countries/mauritius.html)
+- [Mayotte](https://globaltaxguide.com/countries/mayotte.html)
 - [Morocco](https://globaltaxguide.com/countries/morocco.html)
 - [Mozambique](https://globaltaxguide.com/countries/mozambique.html)
 - [Namibia](https://globaltaxguide.com/countries/namibia.html)
 - [Niger](https://globaltaxguide.com/countries/niger.html)
 - [Nigeria](https://globaltaxguide.com/countries/nigeria.html)
+- [Reunion](https://globaltaxguide.com/countries/reunion.html)
 - [Rwanda](https://globaltaxguide.com/countries/rwanda.html)
+- [Saint Helena, Ascension and Tristan da Cunha](https://globaltaxguide.com/countries/saint-helena-ascension-and-tristan-da-cunha.html)
 - [Sao Tome and Principe](https://globaltaxguide.com/countries/sao-tome-and-principe.html)
 - [Senegal](https://globaltaxguide.com/countries/senegal.html)
 - [Seychelles](https://globaltaxguide.com/countries/seychelles.html)
@@ -78,6 +88,7 @@
 - [Belize](https://globaltaxguide.com/countries/belize.html)
 - [Bermuda](https://globaltaxguide.com/countries/bermuda.html)
 - [Bolivia](https://globaltaxguide.com/countries/bolivia.html)
+- [Bonaire, Sint Eustatius and Saba](https://globaltaxguide.com/countries/bonaire-sint-eustatius-saba.html)
 - [Brazil](https://globaltaxguide.com/countries/brazil.html)
 - [British Virgin Islands](https://globaltaxguide.com/countries/british-virgin-islands.html)
 - [Canada](https://globaltaxguide.com/countries/canada.html)
@@ -86,17 +97,21 @@
 - [Colombia](https://globaltaxguide.com/countries/colombia.html)
 - [Costa Rica](https://globaltaxguide.com/countries/costa-rica.html)
 - [Cuba](https://globaltaxguide.com/countries/cuba.html)
+- [Curacao](https://globaltaxguide.com/countries/curacao.html)
 - [Dominica](https://globaltaxguide.com/countries/dominica.html)
 - [Dominican Republic](https://globaltaxguide.com/countries/dominican-republic.html)
 - [Ecuador](https://globaltaxguide.com/countries/ecuador.html)
 - [El Salvador](https://globaltaxguide.com/countries/el-salvador.html)
 - [Falkland Islands](https://globaltaxguide.com/countries/falkland-islands.html)
+- [French Guiana](https://globaltaxguide.com/countries/french-guiana.html)
 - [Grenada](https://globaltaxguide.com/countries/grenada.html)
+- [Guadeloupe](https://globaltaxguide.com/countries/guadeloupe.html)
 - [Guatemala](https://globaltaxguide.com/countries/guatemala.html)
 - [Guyana](https://globaltaxguide.com/countries/guyana.html)
 - [Haiti](https://globaltaxguide.com/countries/haiti.html)
 - [Honduras](https://globaltaxguide.com/countries/honduras.html)
 - [Jamaica](https://globaltaxguide.com/countries/jamaica.html)
+- [Martinique](https://globaltaxguide.com/countries/martinique.html)
 - [Mexico](https://globaltaxguide.com/countries/mexico.html)
 - [Montserrat](https://globaltaxguide.com/countries/montserrat.html)
 - [Nicaragua](https://globaltaxguide.com/countries/nicaragua.html)
@@ -114,6 +129,7 @@
 - [Suriname](https://globaltaxguide.com/countries/suriname.html)
 - [Trinidad and Tobago](https://globaltaxguide.com/countries/trinidad-and-tobago.html)
 - [Turks and Caicos](https://globaltaxguide.com/countries/turks-and-caicos.html)
+- [US Virgin Islands](https://globaltaxguide.com/countries/us-virgin-islands.html)
 - [United States](https://globaltaxguide.com/countries/united-states.html)
 - [Uruguay](https://globaltaxguide.com/countries/uruguay.html)
 - [Venezuela](https://globaltaxguide.com/countries/venezuela.html)
@@ -171,8 +187,19 @@
 - [Vietnam](https://globaltaxguide.com/countries/vietnam.html)
 - [Wallis and Futuna](https://globaltaxguide.com/countries/wallis-and-futuna.html)
 
+### Oceania
+- [American Samoa](https://globaltaxguide.com/countries/american-samoa.html)
+- [Christmas Island](https://globaltaxguide.com/countries/christmas-island.html)
+- [Cocos (Keeling) Islands](https://globaltaxguide.com/countries/cocos-keeling-islands.html)
+- [Guam](https://globaltaxguide.com/countries/guam.html)
+- [Norfolk Island](https://globaltaxguide.com/countries/norfolk-island.html)
+- [Northern Mariana Islands](https://globaltaxguide.com/countries/northern-mariana-islands.html)
+- [Pitcairn Islands](https://globaltaxguide.com/countries/pitcairn-islands.html)
+- [Tokelau](https://globaltaxguide.com/countries/tokelau.html)
+
 ### Europe
 - [Abkhazia](https://globaltaxguide.com/countries/abkhazia.html)
+- [Aland Islands](https://globaltaxguide.com/countries/aland-islands.html)
 - [Albania](https://globaltaxguide.com/countries/albania.html)
 - [Andorra](https://globaltaxguide.com/countries/andorra.html)
 - [Armenia](https://globaltaxguide.com/countries/armenia.html)
@@ -225,6 +252,7 @@
 - [Slovenia](https://globaltaxguide.com/countries/slovenia.html)
 - [South Ossetia](https://globaltaxguide.com/countries/south-ossetia.html)
 - [Spain](https://globaltaxguide.com/countries/spain.html)
+- [Svalbard](https://globaltaxguide.com/countries/svalbard.html)
 - [Sweden](https://globaltaxguide.com/countries/sweden.html)
 - [Switzerland](https://globaltaxguide.com/countries/switzerland.html)
 - [Transnistria](https://globaltaxguide.com/countries/transnistria.html)
@@ -248,3 +276,4 @@
 - [Turkiye (Turkey)](https://globaltaxguide.com/countries/turkiye.html)
 - [United Arab Emirates](https://globaltaxguide.com/countries/united-arab-emirates.html)
 - [Yemen](https://globaltaxguide.com/countries/yemen.html)
+
