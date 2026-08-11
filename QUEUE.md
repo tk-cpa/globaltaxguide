@@ -5773,3 +5773,46 @@ complete (Saudi Arabia confirmed intentional false positive, as
 documented in an earlier entry), 0 em-dashes, 0 remaining instances of any
 bug pattern found this session. Continuing the remaining ~50 countries in
 the 100-batch next.
+
+
+## Leaked editorial/research-narration markers: fully eliminated sitewide (22 total instances)
+
+Found and fixed a recurring bug class this session: paragraph openers or
+mid-sentence insertions that narrate the research/verification process
+itself rather than stating the fact - "Confirmed:", "RESOLVED SOURCE
+CONFLICT:", "Distinctive finding.", "resolved via/directly via X:", "MAJOR
+STRUCTURAL REFORM." These violate the site's own no-research-narration
+policy (the same family of issue as the "confirmed via PwC" attribution
+violations fixed earlier, just a different surface form - these don't name
+an external source, they narrate Claude's own verification process).
+
+Full list of pages fixed for this specific bug class across the session:
+Faroe Islands, Macau, Mongolia, Uzbekistan, Brunei, Tonga (2 separate
+instances, different sections), Vanuatu, British Virgin Islands, Guinea,
+Kuwait, Laos, Myanmar (2 separate instances, different sections), Nauru,
+Papua New Guinea, Tuvalu (2 separate instances), Wallis and Futuna,
+Lesotho, Saint Barthelemy. Several also had a broken sentence fragment
+requiring reconstruction, not just deletion of the marker (Mongolia,
+Uzbekistan).
+
+Distinguished carefully from legitimate normal usage of "resolved" and
+"distinctive" as ordinary words in context (Cyprus's "resolved via treaty
+tie-breaker rules," Nigeria's "unresolved constitutional dispute," North
+Korea's "unresolved gap," South Ossetia's "treat as unresolved," Tonga's
+"unresolved conflict," Wallis and Futuna's "Limited."/"None."/"Progressive."
+one-word terse-answer style) - none of these were touched, since they are
+stating facts, not narrating the research process.
+
+Also fixed in the same pass: two genuinely broken/garbled sentences (Japan
+and Luxembourg Treaty Network sections, both missing a parenthesis and
+reading as nonsense once you try to parse them).
+
+Ran the sweep with progressively broader regex patterns across four full
+passes as each pass revealed variants the prior pattern missed (colon vs
+period endings, "via" vs "directly via" vs bare "Resolved:", mid-sentence
+vs paragraph-opening placement). Final pass confirmed zero remaining
+genuine instances sitewide, with only one flagged candidate (Cyprus)
+individually verified as legitimate normal English usage rather than a bug.
+
+Verified sitewide after all fixes: 248/249 still 14-section complete
+(Saudi Arabia confirmed intentional false positive), 0 em-dashes.
