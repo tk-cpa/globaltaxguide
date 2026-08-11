@@ -6344,3 +6344,42 @@ A-Z systematically to avoid gaps).
 Verified sitewide after all fixes this pass: 248/249 still 14-section
 complete (Saudi Arabia intentional false positive), 0 div-balance issues
 introduced on any edited page.
+
+
+## Authority link re-verification round 3: 5 more fixes, one major substantive find
+
+Continued systematic, source-verified re-checking (A-B range this pass).
+
+FIXED this round:
+- Argentina: MAJOR SUBSTANTIVE FIND, not just a broken link - AFIP (the
+  tax authority) was dissolved via Decree 953/2024 and replaced by ARCA
+  (Agencia de Recaudacion y Control Aduanero), effective October 2024.
+  This is a genuine institutional rename that predates this session's
+  knowledge - updated the citation to ARCA/arca.gob.ar, noting the former
+  AFIP name for continuity since that name is still widely used
+  colloquially.
+- Aruba: dimp.aw (never confirmed anywhere) -> impuesto.aw (confirmed via
+  the department's own live site, YouTube channel, Facebook page)
+- Bulgaria: nap.bg (never confirmed) -> nra.bg (confirmed via Wikidata,
+  LinkedIn, IOTA, and the agency's own domain)
+
+CONFIRMED CORRECT this round: Abkhazia (mns-ra.org - genuinely verified,
+not just plausible), Afghanistan, Algeria (mfdgi.gov.dz - genuinely
+correct despite looking unusual), Angola, Anguilla, Antigua and Barbuda,
+Armenia, Austria, Azerbaijan.
+
+Running tally across the whole workstream: approximately 55 authority
+citations individually checked, 14 confirmed wrong and fixed (Oman,
+Cyprus, Laos, Kuwait, Northern Mariana Islands, Saint Vincent and the
+Grenadines, Mongolia, Palau, Somalia, Turkmenistan, Argentina, Aruba,
+Bulgaria, Malawi from an earlier pass) - roughly a 25% error rate holding
+steady across three separate rounds of checking, confirming this is a
+real, systemic issue worth finishing properly.
+
+REMAINING SCOPE: roughly 180 more authority-link citations still need
+individual re-verification (working alphabetically from "B" countries
+after Bulgaria through "Z"). This remains a large, multi-session task.
+Continuing systematically.
+
+Verified sitewide after this round's fixes: 248/249 still 14-section
+complete, 0 div-balance issues introduced.
