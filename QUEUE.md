@@ -6816,3 +6816,56 @@ El Salvador, Ghana(done), Libya, Philippines still need work on the
 Verified sitewide after this batch (via fresh re-fetch, not assumption):
 248/249 still 14-section complete, 0 div-balance issues on any edited
 page.
+
+
+## Navbar redesign: Resources dropdown consolidation, sitewide rollout complete
+
+Per user request, consolidated the crowded 9-item desktop nav into a
+cleaner structure: Search icon, Jurisdictions, Map, Resources (dropdown:
+Special Zones, Micronations, Unions & Trade Zones, Tax Transparency,
+Trusted Resources), About, CPA Validated. Colors/background left
+unchanged (white) per explicit user instruction - user wants to stay
+within the existing teal/coral palette and didn't want a new color
+scheme implemented right now.
+
+Implementation: pure HTML/CSS via a <details>/<summary> element, no
+JavaScript - consistent with the site's existing no-JS mobile hamburger
+pattern. On desktop, opens as a small elegant dropdown card (rounded
+corners, subtle shadow, teal-pastel hover highlight, small chevron that
+rotates on open). On mobile, the same dropdown collapses into an inline
+expandable sub-list within the existing vertical flat menu, deliberately
+preserving what the user said they already like about the phone
+experience - mobile behavior is not meaningfully changed, just gets one
+additional collapsible group instead of 5 more flat items.
+
+Rollout process: added new CSS rules to assets/styles.css first, verified
+on one test page (Germany) with a direct re-fetch confirming the exact
+expected HTML before proceeding, then rolled out to all 249 country pages
+via scripted find-and-replace. Hit the documented GitHub API secondary
+rate-limit/SHA-conflict pattern at high concurrency (183 initial 409
+conflicts) - resolved via a lower-concurrency retry (114 more succeeded),
+then a final fully sequential pass for the remainder (all 114 succeeded).
+
+Root-level pages needed individual handling since each had small,
+page-specific variations in the existing nav HTML (self-referencing pages
+omit their own link - e.g., search.html omits the search icon,
+micronations.html omits its own Micronations link, mission.html uses a
+different Jurisdictions anchor format than other root pages). Fixed each
+of index.html, zones.html, unions.html, micronations.html,
+transparency.html, trusted-resources.html, about.html, map.html,
+search.html, disclaimer.html, and mission.html individually, verifying
+each one's exact existing format before writing its specific replacement
+rather than assuming one pattern fit all.
+
+FINAL VERIFICATION (via direct re-fetch of all 260 pages - 249 country +
+11 root - not assumption): 100% of pages now have the new dropdown nav,
+zero pages still have the old flat 9-link version, zero div-balance
+issues introduced anywhere.
+
+Live-site propagation note: GitHub Pages / its CDN can take several
+minutes to reflect a push; a live check immediately after rollout still
+showed the old nav on the live URL even though the underlying repo
+content was independently confirmed correct via the GitHub API. This is
+expected CDN propagation delay, not a content or push failure - flagging
+this explicitly rather than either falsely claiming the live site is
+already updated or leaving the distinction unstated.
