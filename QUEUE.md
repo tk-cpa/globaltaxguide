@@ -5986,3 +5986,22 @@ citation discipline (primary sources, conflict-flagging, no fabrication)
 applied when each page was first written, not a fresh independent legal
 audit of every statutory claim - that distinction should continue to be
 stated honestly rather than blurred.
+
+
+## Authority links: 4 more found, 236/249 (95%) now live
+
+Continued the authority-link backlog: San Marino (finanze.sm), Kiribati
+(mfed.gov.ki), Micronesia/FSM (dofa.gov.fm), Sao Tome and Principe
+(impostos.financas.gov.st - their dedicated tax portal, confirmed live
+with current 2024-2026 strategic-plan content). All 4 verified via direct
+re-fetch after push.
+
+13 remain unlinked: British Indian Ocean Territory, Eritrea, Marshall
+Islands, Nauru, Niue, North Korea, Saint Barthelemy, Saint Pierre and
+Miquelon, South Ossetia, Syria, Tuvalu, Wallis and Futuna, Western Sahara -
+searched for Eritrea this round specifically and found no confirmable
+official site; the rest are largely the same category of tiny, isolated,
+or disputed jurisdictions flagged in earlier entries as plausibly having
+no public-facing tax authority website at all.
+
+Verified sitewide: 248/249 still 14-section complete, 0 em-dashes.
