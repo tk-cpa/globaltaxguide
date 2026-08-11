@@ -5488,3 +5488,34 @@ domain-pattern reasoning alone.
 
 Verified sitewide after all fixes: 249/249 still 14-section complete, 0
 em-dashes, all 7 pushed fixes individually re-confirmed present.
+
+
+## Homepage (index.html) redesign
+
+User requested a strategic review of the homepage tone/branding and found
+a real content gap: the stat row said "14 Data Points Per Country" but the
+explainer grid below only listed 9 cards, contradicting the site's own
+stat. Fixed as part of a broader hero redesign:
+
+- H1 changed from "Tax Laws of Planet Earth, Jurisdiction by Jurisdiction"
+  (too informal for the target professional/CPA audience) through an
+  interim "Global Tax Guide" to the final "tk.cpa Global Tax Guide" per
+  explicit user direction.
+- Confirmed the hero H1 CSS already applies text-transform: uppercase, so
+  the visual result is identical regardless of source casing - kept
+  "tk.cpa" lowercase in the HTML source per the site's own established
+  content rule (tk.cpa always lowercase, enforced sitewide) while still
+  getting the bold all-caps hero look. No tradeoff, both goals satisfied.
+- Eyebrow changed from "From the makers of cpavalidated.com" (consumer-app
+  register) to "A tk.cpa AI Lab Initiative" (more institutional).
+- Subhead rewritten per user's exact wording: "The international tax
+  practitioner's trusted resource for global tax rates and key
+  international tax provisions, such as foreign tax credits, residency
+  rules, and hybrid rules."
+- Explainer grid expanded from 9 to all 14 cards, in the same order as the
+  actual per-country page structure (Tax System through Treaty Network),
+  so the count now matches the stat and doubles as a preview of page
+  structure for a first-time visitor.
+
+Verified after each push: card count matches stat exactly, 0 em-dashes,
+correct order.
