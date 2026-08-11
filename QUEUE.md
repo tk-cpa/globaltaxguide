@@ -6935,3 +6935,69 @@ Sweden, and others).
 
 Verified sitewide (fresh re-fetch): 248/249 still 14-section complete,
 0 div-balance issues on any page touched this batch.
+
+
+## *** NEW METHODOLOGY: Full word-by-word batch audit, 20 countries at a time ***
+
+Per direct user instruction: prior sweeps (regex-pattern-matching for
+hedge language, sampling authority links) were not sufficient - the user
+kept finding real issues after being told things were checked. Starting
+over with a genuinely different process: full read-through of every
+section of every page, 20 countries per batch, checking factual
+consistency, internal math, treaty precision, and authority links
+together, not as separate passes.
+
+## BATCH 1 COMPLETE: abkhazia through barbados (alphabetical, 20 countries)
+
+Real issues found and fixed (6 total, more than any regex sweep caught
+for this range):
+
+1. Albania: vague "more than 40 countries" -> resolved to "approximately
+   45" with named recent treaties (UK, Ireland) and pending ratifications
+   (France, Greece, Netherlands, Romania) sourced from TaxAtlas 2026 and
+   PwC.
+2. Algeria: vague "Canada and other partners" -> resolved to "approximately
+   28" with named examples and dates (France 1999/2002, UK 2015/2016/2017,
+   UAE 2001/2004).
+3. Antigua and Barbuda: REAL INTERNAL MATH ERROR - text said "9 CARICOM
+   neighbors" but named 10 countries, incorrectly including Barbados.
+   Verified against CARICOM's own official DTA signatory list, which does
+   NOT include Barbados. Removed Barbados from the list, fixing the count
+   back to a consistent 9+3=12.
+4. Bahamas: replaced a non-answer ("confirm current treaty partners
+   directly with Bahamian tax authorities") with actual findings - two
+   sources conflict on whether Bahamas has 0 or 1 comprehensive DTT
+   (explicitly flagged as unresolved rather than picking one arbitrarily),
+   and the well-documented 33-country TIEA network (fully named) is now
+   stated precisely instead of omitted.
+5. Bangladesh: vague "more than 40 countries" -> resolved to the
+   government-sourced (BIDA) exact figure of 36, with named partners and
+   signing years.
+6. Barbados: unexplained range fixed by identifying the actual reason for
+   the count discrepancy (CARICOM Treaty counted as 1 vs 10 by different
+   sources - Barbados' own government counts it as 10), plus added a
+   real, specific, verified fact: Norway's DTA with Barbados was
+   terminated effective January 1, 2024.
+
+CONFIRMED ALREADY GOOD after full read-through (not just treaty section -
+every section read): Abkhazia, Afghanistan, Aland Islands, American
+Samoa, Andorra (from a prior session's fix), Angola, Anguilla, Argentina
+(from this session's earlier AFIP->ARCA fix), Armenia, Aruba (from this
+session's earlier fix), Australia, Austria, Azerbaijan, Bahrain (from
+this session's earlier fix).
+
+Authority links spot-verified via direct fetch this batch (all confirmed
+genuinely live, not just resolving): Azerbaijan (taxes.gov.az), Bahamas
+(inlandrevenue.finance.gov.bs), Bangladesh (nbr.gov.bd), Barbados
+(bra.gov.bb).
+
+Verified sitewide after all batch-1 fixes: 0 div-balance issues across
+all 20 touched/reviewed pages (checked via fresh re-fetch, not assumed).
+
+## HONEST SCOPE STATEMENT
+
+This was 20 of 249 pages (8%). At this level of genuine rigor - reading
+every section, verifying claims against fresh research, checking internal
+consistency, testing links directly - this is realistically a multi-
+session undertaking, not something completable in one sitting. Batch 2
+(next 20, alphabetically from Belarus) is the immediate next step.
