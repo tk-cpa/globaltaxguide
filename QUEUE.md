@@ -7567,3 +7567,37 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 ## PROGRESS: 60 of ~109 remaining countries in the post-mexico range now
 have their first genuine full-section read. Continuing immediately with
 the next batch (slovakia onward).
+
+
+## BATCH (slovakia range) COMPLETE: slovakia through tanzania (20 countries, FIRST genuine full 14-section read for this range)
+
+FIXED (2 real issues, both found via full-section reading only):
+- Slovakia: same stray-CFC-sentence bug found in Estonia, Latvia,
+  Lithuania - Participation Exemption opened with an unrelated CFC-rule
+  framing sentence ("CFC-adjacent rules tax all income associated with
+  non-genuine arrangements"). Fixed, stated the actual exemption plainly.
+  This is now the 5th occurrence of this exact templating bug found and
+  fixed - ran a final sitewide check for the specific phrase afterward,
+  confirmed zero remaining instances anywhere on the site.
+- Somalia: CFC section cited the superseded "Revenue Act 2016" while
+  every other section of the same page correctly cites the current
+  "Income Tax Act 2025 (ITA 2025, effective May 11, 2025)" that replaced
+  it - a stale cross-reference. Fixed for internal consistency.
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Slovenia, Solomon
+Islands, Somaliland, South Africa, South Korea, South Ossetia
+(exceptionally well-sourced given its unrecognized-state status - directly
+cites specific articles of its own Tax Code throughout), South Sudan,
+Spain, Sri Lanka, Sudan, Suriname, Svalbard (correctly explains its
+distinct-from-mainland-Norway tax status), Sweden (honestly flags a real
+source-count range for treaties rather than forcing false precision),
+Switzerland, Syria (handles the post-Assad transition honestly), Taiwan,
+Tajikistan (already has an honest, well-reasoned treatment of a genuine
+source conflict on treaty count - a model for how to handle this kind of
+uncertainty), Tanzania.
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## PROGRESS: 80 of ~109 remaining countries in the post-mexico range now
+have their first genuine full-section read. Continuing immediately with
+the next batch (thailand onward) to finish this remaining scope.
