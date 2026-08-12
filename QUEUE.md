@@ -7714,3 +7714,46 @@ fetch, and 9 straight spot-checks of the remainder all came back genuinely
 fine, giving high but not absolute confidence in the rest. The honest
 gap: ~39 authority links carry inferred-but-not-individually-confirmed
 status.
+
+
+## Final authority-link push: 16 more individually confirmed via independent search
+
+Continued closing out the remaining unconfirmed authority links from the
+55-item gap identified earlier. Individually confirmed via independent
+search evidence (agency's own Facebook/traffic data, Wikipedia infoboxes,
+official document hosting, or direct live-page content) - not just
+inferred from pattern:
+
+Algeria (mfdgi.gov.dz - confirmed via real traffic data and ranking for
+genuine Algerian tax search terms), Antigua and Barbuda (ird.gov.ag -
+extensively confirmed, multiple live sub-pages), Armenia
+(petekamutner.am - confirmed as the tax authority's own email domain),
+Bahrain (nbr.gov.bh - extensively confirmed via KPMG references and
+official portal pages), Bermuda (gov.bm/office-tax-commissioner -
+confirmed), British Virgin Islands (bvi.gov.vg - extensively confirmed),
+Brunei (mofe.gov.bn - confirmed via Wikipedia infobox and multiple
+sub-pages), Burkina Faso (dgi.gov.bf - confirmed as the genuine official
+DGI portal, despite older SSL setup), Cabo Verde (dnre.gov.cv - DNRE
+entity confirmed as the real customs/tax body), Comoros (dgi.gouv.km -
+confirmed via live webmail portal and the agency's own Facebook page),
+Costa Rica (hacienda.go.cr - extensively confirmed with genuinely
+current August 2026 news content), Cote d'Ivoire (dgi.gouv.ci -
+extensively confirmed, live content), Djibouti (budget.gouv.dj -
+initially looked suspicious but directly confirmed correct: the DGI is
+hosted at budget.gouv.dj/dgi/, including 2024-2025 official reports),
+Eswatini (ers.org.sz - directly confirmed live), Ethiopia (erca.gov.et -
+confirmed via live customs.erca.gov.et subdomain), Greece (aade.gr -
+confirmed via Wikipedia's own official-website link).
+
+NOT confirmed, flagged honestly rather than guessed: Equatorial Guinea
+(haciendaeg.com) - two separate search attempts did not turn up
+independent confirmation either way. Left as-is; genuinely unresolved.
+
+Running total across the whole authority-link verification effort
+(spanning this entire session): approximately 69 of the 92 originally
+sandbox-flagged links now individually confirmed via independent
+evidence. Approximately 23 remain unconfirmed (neither individually
+verified nor found wrong) - inferred likely-fine based on an extremely
+consistent pattern (roughly 25 consecutive confirmations this session
+with zero further false positives found beyond the genuine fixes already
+made), but not each individually proven.
