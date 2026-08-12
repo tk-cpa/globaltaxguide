@@ -7346,3 +7346,26 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 full section reads. 76 remain (christmas-island already done - correcting
 count: actually 20 done of 96, so 76 remain, covering ecuador through
 mexico). Continuing immediately, same standard, no narrowing this time.
+
+
+## REDO BATCH 2 COMPLETE: ecuador through ghana (20 countries, genuine full 14-section reads)
+
+FIXED (1 real issue):
+- Estonia: stray/misplaced sentence in Participation Exemption section
+  ("Estonia's CFC rules tax all income associated with non-genuine
+  arrangements") that belonged logically in the CFC section, not here,
+  and disrupted the flow of the actual participation-exemption answer.
+  Rewrote for clarity, kept the substantive point (distribution-based
+  system achieves a similar practical outcome to participation
+  exemption) without the disconnected CFC reference.
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Ecuador, Egypt,
+El Salvador, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Falkland
+Islands, Faroe Islands, Fiji, Finland, France, French Guiana, French
+Polynesia, Gabon, Gambia, Georgia, Germany, Ghana.
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## REDO PROGRESS: 40 of 96 flagged pages (42%) genuinely re-audited with
+full section reads. 56 remain (gibraltar through mexico). Continuing
+immediately, same full standard.
