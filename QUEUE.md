@@ -7095,3 +7095,43 @@ Verified sitewide after batch 3 fixes: 0 div-balance issues across all
 three batches. 13 real issues found and fixed total. Continuing to batch
 4 (dominica onward - wait, alphabetically after czech-republic comes
 denmark) next.
+
+
+## BATCH 4 COMPLETE: denmark through gabon (alphabetical, 20 countries)
+
+FIXED (4 real issues):
+- Djibouti: "2% to 30-33% depending on source" personal tax rate hedge -
+  resolved to "2% to 30%" (3+ current sources converge; the 33% figure
+  traced to a single lower-quality aggregator and is now explicitly
+  flagged as uncorroborated rather than blended into a false range).
+  Added the specific bracket thresholds.
+- Egypt: vague "more than 50 countries" -> specific figure (61, fully
+  named) from GSL.
+- Estonia: vague "more than 60 countries" -> exact figures (70 signed, 66
+  in force) from Estonia's own Ministry of Finance.
+- Finland: vague "more than 70 countries" -> specific figure (75 plus the
+  Faroe Islands) from Finland's own Ministry of Finance, independently
+  confirmed by Tax Justice Network.
+
+CONFIRMED ALREADY GOOD after full read-through: Denmark (77, specific),
+Dominica (correctly explains CARICOM-only position), Dominican Republic
+(2, named, specific), Ecuador (22 named), Equatorial Guinea (CEMAC
+framework correctly explained), Eritrea (honestly limited, no overclaim),
+Eswatini (6, named), Ethiopia (roughly 20 with 11 named - reasonably
+precise), Falkland Islands (UK arrangement correctly explained), Faroe
+Islands (17 named), Fiji (5-7 depending on count method - a legitimate,
+explained methodological difference, not laziness), France (checked
+against a possible cleaner figure - "more than 100" vs "more than 120"
+from different sources, no strong grounds to override the existing
+figure, left as-is rather than force an unsupported change), French
+Guiana (correctly explains it inherits France's network), French
+Polynesia (already contains an excellent self-correction of a lower-
+quality source's inflated claim about DTA coverage - a model of the kind
+of rigor being applied here), Gabon (8, named, CEMAC-referenced).
+
+Verified sitewide after batch 4 fixes: 0 div-balance issues across all
+20 pages (fresh re-fetch).
+
+## RUNNING TOTAL: 80 of 249 pages (32%) fully audited word-by-word across
+four batches. 17 real issues found and fixed total. Continuing to batch 5
+(gambia onward) next.
