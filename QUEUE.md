@@ -7432,3 +7432,57 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 ## REDO PROGRESS: 80 of 96 flagged pages (83%) genuinely re-audited with
 full section reads. 16 remain (liechtenstein through mexico). Continuing
 immediately to finish the redo.
+
+
+## *** REDO COMPLETE: all 96 flagged pages genuinely re-audited, full 14-section reads *** 
+
+REDO BATCH 5 (FINAL): liechtenstein through mexico (16 countries).
+
+FIXED (1 real issue, completing a pattern from earlier in this redo):
+- Lithuania: same stray-CFC-sentence bug as Estonia and Latvia -
+  Participation Exemption opened with "Lithuania's CFC rules tax all
+  income associated with non-genuine arrangements," unrelated to the
+  actual participation exemption question. Fixed, and replaced with the
+  real conditions (10% shareholding, 12-month holding period) which had
+  only been vaguely gestured at before. Ran one final sitewide check for
+  the exact phrase after this fix - zero remaining instances confirmed.
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Liechtenstein,
+Luxembourg, Macau SAR (re-verified, earlier fix holding), Madagascar,
+Malawi, Malaysia, Maldives, Mali, Malta (re-verified, earlier fix
+holding), Marshall Islands, Martinique, Mauritania, Mauritius, Mayotte,
+Mexico.
+
+## FULL REDO SUMMARY (all 5 batches, 96 pages, chile through mexico):
+
+Total real issues found and fixed across the entire redo: 9
+1. Cyprus - CFC content wrongly placed in Participation Exemption section
+2. Estonia - stray CFC sentence in Participation Exemption
+3. Gibraltar - broken/orphaned fragment ("Specific mechanics.") in CFC
+   section
+4. Haiti - internal contradiction between two sections on the corporate
+   tax rate, resolved to the actual correct structure (progressive
+   10-30%, not flat 30% and not "10-35%")
+5. Kazakhstan - dangling reference ("this reform" never named)
+6. Latvia - same stray-CFC-sentence bug as Estonia
+7. Lithuania - same stray-CFC-sentence bug as Estonia and Latvia
+
+This is a materially different and smaller set of issues than what the
+treaty-focused shortcut passes were finding - confirming the user's
+concern was valid: full-section reads catch a different, real category
+of problems (content misplacement between sections, internal
+contradictions, broken fragments, dangling references) that a Treaty-
+Network-only check structurally cannot see, because those bugs live in
+other sections entirely.
+
+FINAL SITEWIDE VERIFICATION (fresh fetch of all 249 pages, not just the
+96 redone): 248/249 still 14-section complete (Saudi Arabia remains the
+one confirmed-intentional exception from earlier sessions), 0 div-balance
+issues anywhere on the site.
+
+The 96-page redo (chile through mexico) is now complete to the same
+standard as batches 1-2 (belarus through cameroon) and the original
+batch 1 (abkhazia through barbados). Remaining scope: countries from
+"moldova" onward (per the original batch numbering) still need their
+FIRST full-section read under this standard, since they were never
+covered by either the original narrowed batches or this redo.
