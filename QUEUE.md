@@ -8335,3 +8335,32 @@ Verified sitewide: all 12 touched/checked pages structurally clean
 (div-balance ok).
 
 Continuing sequentially without further pauses.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 11-15 of 249
+
+PAGE 11 - Argentina: clean, earlier ARCA institutional-rename fix holding
+correctly throughout the page.
+PAGE 12 - Armenia: FIXED - a formatting artifact where the CFC section
+was a bare, oddly-quoted two-word fragment (\"No CFC rules.\") instead of
+normal prose consistent with the rest of the site. Rewrote as a proper
+sentence.
+PAGE 13 - Aruba: clean (earlier domain fix holding); thorough, well-
+sourced page overall including detailed BRK/BNC/BNS intra-Kingdom treaty
+mechanism explanation.
+PAGE 14 - Australia: clean, no issues - comprehensive and well-sourced
+throughout (four-test residency framework, 2023/2024 thin cap reform
+detail, FITO credit mechanism all correctly and specifically described).
+PAGE 15 - Austria: FIXED - the Treaty Network section was a single bare,
+uncited sentence (\"Austria has signed 100 double taxation treaties\")
+standing out sharply against the rest of an otherwise very detailed,
+well-sourced page. Replaced with the accurate current figure (93 in
+force, per ICLG's 2026 report) plus real additional detail (Russia/
+Belarus partial suspensions, 7 separate TIEAs).
+
+Running total this pass: 15 of 249 pages read in full. 11 real fixes
+made across the pass so far.
+
+Verified sitewide: all 5 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
