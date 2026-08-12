@@ -7135,3 +7135,78 @@ Verified sitewide after batch 4 fixes: 0 div-balance issues across all
 ## RUNNING TOTAL: 80 of 249 pages (32%) fully audited word-by-word across
 four batches. 17 real issues found and fixed total. Continuing to batch 5
 (gambia onward) next.
+
+
+## BATCH 5 COMPLETE: gambia through iceland (alphabetical, 20 countries)
+
+*** MAJOR FINDING this batch: a genuine systemic templating error, not
+just vagueness ***
+
+While reading Gambia's Tax System section, found it described as using
+"the standard French-derived Code General des Impots structure" -
+factually wrong. Gambia is a common-law former British colony, not
+Francophone. This looked like a copy-paste artifact from the Francophone
+West Africa template (Senegal/Benin/etc.), so immediately swept ALL 249
+pages for the same phrase rather than fixing Gambia alone and moving on.
+
+Found 20 total pages using this phrase. Checked each individually against
+actual colonial/legal history rather than assuming all were wrong:
+- GENUINE ERRORS, FIXED: Gambia, Sierra Leone, and Liberia - all three
+  are common-law jurisdictions (British colonial history for the first
+  two; Liberia founded by freed American settlers with a US-law-derived
+  system) that had been incorrectly given Francophone tax-system
+  descriptions. Rewrote each with historically and legally accurate
+  framing (Gambia: Income and Value Added Tax Act 2012, GRA; Sierra
+  Leone: Income Tax Act 2000, NRA; Liberia: Liberia Revenue Code, LRA).
+- CONFIRMED NOT ERRORS after individual verification: Equatorial Guinea
+  and Guinea-Bissau are former Spanish and Portuguese colonies
+  respectively, but both are genuine WAEMU/CEMAC members whose tax codes
+  were harmonized to the French model via that membership regardless of
+  original colonial power - "French-derived" is accurate for them via a
+  different mechanism, not an error to fix.
+- The remaining 15 (Burkina Faso, Cameroon, Chad, CAR, Comoros, Cote
+  d'Ivoire, Djibouti, Gabon, Guinea, Madagascar, Mali, Mauritania, Niger,
+  Senegal, Togo) are all genuinely, correctly Francophone.
+
+While in this specific sentence pattern, also found and fixed a smaller
+but related bug: "Gambia"/"Sierra leone"/"Equatorial guinea"/"Guinea-
+bissau" appeared with incorrect lowercase second-word capitalization at
+the start of their Tax System sections (likely from the same templating
+process). Fixed all instances. Then swept ALL 249 pages specifically for
+this lowercase-second-word pattern to check for further instances beyond
+this cluster - found zero additional cases.
+
+OTHER FIX this batch:
+- Guyana: fixed a broken/ungrammatical sentence in the Treaty Network
+  section - a missing connector phrase left "neighbors the United
+  Kingdom (signed..." reading as a run-on non-sentence. Added "with
+  treaties covering" to restore grammatical sense.
+
+CONFIRMED ALREADY GOOD after full read-through: Georgia (55+, named),
+Germany (nearly 90, with real specific gaps noted - Brazil, Hong Kong,
+expired UAE treaty), Ghana (14, already fixed in an earlier pass, re-
+verified), Gibraltar (UK treaty specifics correct), Greece (57, with a
+real current Sweden-termination detail), Greenland (correctly
+distinguishes comprehensive vs employee-only treaty coverage), Grenada
+(3, CARICOM-sourced), Guadeloupe (correctly inherits France's network),
+Guam (correctly explains its technical mirror-code treaty position),
+Guatemala (correctly states zero comprehensive treaties, distinguishes
+BITs), Guernsey (14 named DTAs, dated to a Nov 2025 addition), Guinea (3,
+honest about limited named-partner data), Guyana (fixed above), Haiti
+(honestly limited, explicit on the US gap), Honduras (correctly states
+zero treaties), Hong Kong (59, already fixed in an earlier pass, re-
+verified), Hungary (84 per one source, reasonably specific), Iceland (44,
+government-sourced).
+
+Verified sitewide after all batch 5 fixes: 0 div-balance issues across
+all 20 pages (fresh re-fetch). Additionally verified via a full 249-page
+sweep (not just this batch) that no further "French-derived" errors or
+lowercase-capitalization instances of this specific pattern remain
+anywhere on the site.
+
+## RUNNING TOTAL: 100 of 249 pages (40%) fully audited word-by-word
+across five batches. 23 real issues found and fixed total, including one
+genuine multi-page systemic factual error (colonial/legal-system
+mischaracterization) that a treaty-count-only sweep would never have
+caught - this is exactly the kind of issue the word-by-word standard is
+designed to catch. Continuing to batch 6 (india onward) next.
