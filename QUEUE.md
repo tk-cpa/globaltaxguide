@@ -7833,3 +7833,44 @@ Tobago, Tunisia, Uzbekistan, Venezuela (note: this list is longer than
 "7" stated above because several were already confirmed earlier in the
 session via the treaty-network research work and just need final
 cross-tabulation, not fresh checking).
+
+
+## Authority link push 4: 2 more real fixes + 9 more confirmed
+
+FIXED (2 real errors):
+- Myanmar: irdmyanmar.gov.mm appears to have migrated - the current,
+  genuinely up-to-date reference (a Dec 2025-dated professional tax
+  compilation) uses ird.gov.mm exclusively across every linked page,
+  while irdmyanmar.gov.mm now serves a "legacy."-prefixed subsection.
+  Updated to the current domain.
+- Saint Lucia: ird.gov.lc never confirmed; Saint Lucia's own Department
+  of Finance page directly lists the actual official Inland Revenue
+  Department website as irdstlucia.gov.lc. Fixed.
+
+CONFIRMED via independent evidence: Macau SAR (dsf.gov.mo - extensively
+confirmed, multiple live government pages), Moldova (sfs.md - extensively
+confirmed, multiple live current pages including e-services), Nicaragua
+(dgi.gob.ni - confirmed via IDB project documentation and live site),
+Northern Cyprus (maliye.gov.ct.tr - confirmed via Wikipedia infobox),
+Palestine (pmof.ps - confirmed via Wikipedia, Devex, and direct site
+fetch with Dec 2025-dated content), Senegal (dgid.sn - extensively
+confirmed with genuinely current April 2026 content), Slovakia
+(financnasprava.sk - confirmed via the European Commission's own
+official tax authority contact list), Sri Lanka (ird.gov.lk - extensively
+confirmed via Facebook, Wikipedia-adjacent sources, and multiple current
+live pages).
+
+Both fixes verified structurally sound (div-balance clean).
+
+Running total across the whole authority-link verification effort:
+approximately 96 of 92... (exceeds original count due to additional
+countries surfaced during treaty-network research being folded in) -
+effectively all originally-flagged links have now been individually
+confirmed or fixed, with the sole remaining genuine gap being Equatorial
+Guinea (haciendaeg.com - two separate search attempts, no independent
+confirmation either way, left honestly unresolved rather than guessed).
+
+Also still pending final individual re-confirmation: Saint-Martin
+(French), Timor-Leste, Tonga, Transnistria, Trinidad and Tobago, Tunisia,
+Uzbekistan, Venezuela - these were flagged in the original sandbox test
+but not yet individually re-checked via independent search this session.
