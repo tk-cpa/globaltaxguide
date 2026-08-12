@@ -7486,3 +7486,31 @@ batch 1 (abkhazia through barbados). Remaining scope: countries from
 "moldova" onward (per the original batch numbering) still need their
 FIRST full-section read under this standard, since they were never
 covered by either the original narrowed batches or this redo.
+
+
+## BATCH (moldova range) COMPLETE: micronesia through norfolk-island (20 countries, FIRST genuine full 14-section read for this range)
+
+FIXED (1 real issue):
+- Nigeria: found an inconsistency created by an earlier session fix - the
+  Official Tax Authority citation had correctly been updated to NRS
+  (following the 2025 FIRS->NRS institutional rename), but the Tax System
+  section's body text still said "administered by the Federal Inland
+  Revenue Service (FIRS)". Updated the body text to match, keeping
+  "formerly FIRS" for context. Cross-checked Argentina's similar AFIP->
+  ARCA fix for the same inconsistency risk - Argentina's remaining AFIP
+  mentions are both intentional "formerly AFIP" context, not stale
+  references, so no fix needed there.
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Micronesia (FSM),
+Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique,
+Myanmar, Namibia (re-verified, earlier fix holding), Nauru, Nepal,
+Netherlands (re-verified, earlier fix holding), New Caledonia, New
+Zealand, Nicaragua (honest source-conflict disclosure on treaty
+existence, not a problem), Niger, Niue, Norfolk Island.
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## PROGRESS ON THE NEW RANGE (moldova onward, never previously covered by
+either the original batches or the redo): 20 of ~109 remaining countries
+now have their first genuine full-section read. Continuing immediately
+with the next batch (norway onward).
