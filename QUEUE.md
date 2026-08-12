@@ -7540,3 +7540,30 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 ## PROGRESS: 40 of ~109 remaining countries in the post-mexico range now
 have their first genuine full-section read. Continuing immediately with
 the next batch (romania onward).
+
+
+## BATCH (romania range) COMPLETE: romania through sint-maarten (20 countries, FIRST genuine full 14-section read for this range)
+
+No new issues found - genuinely clean batch. Full 14-section reads for
+all 20: Romania, Russia (well-documented 2025-2026 rate changes and
+treaty suspensions), Rwanda, Saint Barthelemy (correctly explains its
+autonomous 0% tax system), Saint Helena/Ascension/Tristan da Cunha
+(correctly explains this is three separate tax systems, not one),
+Saint Kitts and Nevis, Saint Lucia, Saint-Martin (French side, correctly
+distinguished from Dutch Sint Maarten), Saint Pierre and Miquelon
+(correctly notes its unique local VAT status among French collectivities),
+Saint Vincent and the Grenadines, Samoa, San Marino (re-verified, earlier
+session's link fix still holding), Sao Tome and Principe (re-verified,
+earlier link and factual-correction fixes both still holding, including
+its own self-documented correction of an earlier World Bank-rate
+confusion), Saudi Arabia (correctly explains the zakat/CIT dual system),
+Senegal (re-verified, earlier treaty-list fix holding), Serbia,
+Seychelles, Sierra Leone (re-verified, earlier Francophone-mislabeling
+fix holding), Singapore, Sint Maarten (re-verified, earlier broken-link
+fix holding).
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## PROGRESS: 60 of ~109 remaining countries in the post-mexico range now
+have their first genuine full-section read. Continuing immediately with
+the next batch (slovakia onward).
