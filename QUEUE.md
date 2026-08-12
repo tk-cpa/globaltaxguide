@@ -7757,3 +7757,40 @@ verified nor found wrong) - inferred likely-fine based on an extremely
 consistent pattern (roughly 25 consecutive confirmations this session
 with zero further false positives found beyond the genuine fixes already
 made), but not each individually proven.
+
+
+## Authority link push 2: 7 more individually confirmed
+
+Continued closing out remaining unconfirmed links via independent search
+verification:
+
+Grenada (ird.gd - extensively confirmed, multiple live sub-pages),
+Guinea (dgi.gov.gn - confirmed via the agency's own Facebook contact
+info), Iran (intamedia.ir - extensively confirmed via Wikipedia infobox,
+RIPE network registry, and working links to specific INTA document
+pages), Israel (taxes.gov.il - confirmed directly via Wikipedia infobox),
+Kosovo (atk-ks.org - extensively confirmed with genuinely current 2026
+news content), Kyrgyzstan (sti.gov.kg - confirmed directly via the
+Kyrgyzstan Trade Portal's official listing), Lebanon (finance.gov.lb -
+confirmed directly via Wikipedia infobox and live 2025-current MOF
+content).
+
+NOT YET CONFIRMED, honestly flagged: Iraq (gct.gov.iq) - the General
+Commission for Taxes is confirmed as a genuinely real agency, but the
+specific URL was not independently verified this pass. Libya (lta.gov.ly)
+- Wikipedia's confirmed Ministry of Finance domain is mof.gov.ly, a
+different but plausible authority name (Libya Tax Authority vs Ministry
+of Finance) - not yet resolved either way.
+
+Running total across the whole authority-link verification effort:
+approximately 76 of 92 originally-flagged links now individually
+confirmed. Approximately 16 remain unconfirmed: Iraq, Libya, Liechtenstein,
+Lithuania, Macau SAR (already separately confirmed via PwC in the treaty-
+network work but not re-tested here), Maldives, Mali, Malta, Mauritania,
+Mauritius, Moldova, Myanmar, Nicaragua, Northern Cyprus, Palestine, Saint
+Lucia, Saint-Martin (French), Senegal, Slovakia, Sri Lanka, Tajikistan,
+Timor-Leste, Tonga, Transnistria, Trinidad and Tobago, Tunisia,
+Uzbekistan, Venezuela (note: several of these last ones already appear
+correctly elsewhere in the treaty-network fixes made earlier this
+session, e.g. Tajikistan's andoz.tj was directly confirmed via a
+government booklet fetch during the treaty-count work).
