@@ -8075,3 +8075,53 @@ errors exist anywhere in a 249-page, thousands-of-facts reference site
 covering law that changes continuously. Confidence is high. Certainty of
 zero remaining issues is not something any amount of checking can
 honestly provide.
+
+
+## Source-conflict language resolution: 4 real resolutions this pass
+
+User challenged that "conflicting sources" / hedge verbiage remained
+unacceptable somewhere on the site and asked me to find and fix it
+without being told where. Ran a comprehensive sweep across ALL sections
+of all 249 pages for every phrasing of source-conflict/hedge language
+(sources vary, sources conflict, depending on source, some sources cite,
+other sources, not confirmed from a primary source, etc.) - found 62
+pages with some instance. Prioritized the ones stating an EXPLICIT,
+UNRESOLVED numeric conflict on a headline figure, since those are the
+highest-value fixes:
+
+- Grenada: "Sources vary between 25% and 28%" corporate tax rate -
+  RESOLVED. Multiple current 2025-2026 sources (TaxAtlas Jan 2026, North
+  Immigration May 2026) confirm 28% as the current correct rate; 25%
+  traces to an outdated period. Fixed both occurrences (Corporate Tax
+  Rate section and one-sentence summary) in a single pass.
+- Sint Maarten: "Sources conflict... 36.75% vs 47.5%" top personal rate -
+  RESOLVED, and not actually a real conflict at all: two respected
+  sources were measuring different things - 36.75% is the base bracket
+  top rate, 47.5% is the effective all-in rate once a local surtax is
+  layered on top. Explained the real relationship instead of leaving an
+  unresolved "conflict" framing.
+- Cabo Verde: "Sources conflict on CRS status" - RESOLVED using the most
+  authoritative possible source: the OECD Global Forum's own May 2026
+  press release confirms Cabo Verde has only committed to CRS exchange
+  starting September 2027, not currently participating - this directly
+  explains why older and newer secondary-source lists appeared to
+  disagree.
+- Tajikistan: "Sources vary... 25 vs 40" treaty count - RESOLVED, and
+  this was a genuine correction of an earlier session's wrong lean: two
+  independent, dated, credible sources (US State Dept 2024 report citing
+  Tajikistan's own government list, and TaxAtlas) both confirm 25; the
+  \"40\" figure was never actually sourced at all. An earlier version of
+  this page had wrongly treated the uncited higher number as more likely
+  correct - flagged and corrected as an explicit correction.
+
+REMAINING: many of the 62 flagged pages use \"not confirmed from a
+primary source this session\" as an honest disclosure of a genuine,
+often very obscure research gap (Nauru, Palau, Turkmenistan, Kiribati,
+etc. - small/isolated jurisdictions with limited public documentation).
+These were not force-resolved this pass since fabricating a citation to
+remove the hedge would be worse than the hedge itself. The explicit
+\"Sources conflict/vary\" cases with a real, findable resolution were
+prioritized and are now fully resolved; the harder-to-research \"could
+not confirm\" disclosures on obscure jurisdictions remain as honest gaps.
+
+Verified sitewide: all 4 fixed pages structurally clean (div-balance ok).
