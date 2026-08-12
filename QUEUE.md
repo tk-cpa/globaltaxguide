@@ -8448,3 +8448,32 @@ made across the pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 27-29 of 249
+
+PAGE 27 - Bonaire/Sint Eustatius/Saba: FIXED (2 hedges) - removed
+research-narration language from CFC and Thin Cap sections without
+fabricating unfound facts (genuine obscurity, real research attempted).
+Also added a real, confirmed detail found during research: the
+opbrengstbelasting rate increase from 5% to 7.5% effective Jan 1 2025.
+PAGE 28 - Bosnia and Herzegovina: clean, no issues - correctly and
+thoroughly handles the three-entity fragmented tax administration
+structure (FBiH/RS/Brcko).
+PAGE 29 - Botswana: FIXED (significant) - the page vaguely referenced
+\"recently implemented major tax rate increases\" in two separate
+sections without ever stating the actual current rate, reading as
+confusing and incomplete. Researched and found the real, well-
+corroborated current figures: corporate rate rose from 22% to 24.5%
+(not an earlier-proposed 23.5% figure found in one lower-quality
+source) effective July 1, 2026 under the new Income Tax Act 2026, and
+the personal top rate rose to 26.5% with a new 27.5% top bracket above
+BWP 400,000. Fixed all three affected sections with the specific,
+current, sourced figures.
+
+Running total this pass: 29 of 249 pages read in full. 18 real fixes
+made across the pass so far.
+
+Verified sitewide: all 3 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
