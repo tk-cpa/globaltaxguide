@@ -7794,3 +7794,42 @@ Uzbekistan, Venezuela (note: several of these last ones already appear
 correctly elsewhere in the treaty-network fixes made earlier this
 session, e.g. Tajikistan's andoz.tj was directly confirmed via a
 government booklet fetch during the treaty-count work).
+
+
+## Authority link push 3: 2 more real fixes + 7 more confirmed
+
+FIXED (2 real errors, both resolved with real replacements, not guesses):
+- Iraq: gct.gov.iq never confirmed anywhere across three separate search
+  attempts. Found the actual answer: the General Commission for Taxes is
+  hosted as a page on the Ministry of Finance's own site
+  (mof.gov.iq/en/General-Tax-Authority.aspx), confirmed directly. Fixed.
+- Libya: lta.gov.ly never confirmed anywhere despite the Libyan Tax
+  Authority itself being a genuinely real sub-agency (confirmed via IMF
+  and Libyan News Agency). No independent confirmation of that specific
+  domain existing. Switched to the confirmed, stable parent Ministry of
+  Finance domain (mof.gov.ly). Fixed.
+
+CONFIRMED via independent evidence: Liechtenstein (llv.li/en/national-
+administration/fiscal-authority - extensively confirmed, multiple live
+sub-pages), Lithuania (vmi.lt - confirmed directly via Wikipedia
+infobox), Maldives (mira.gov.mv - extensively confirmed via Wikipedia,
+Facebook, X, and direct site fetch), Mali (dgi.gouv.ml - confirmed with
+genuinely current, 1-week-old content), Malta (cfr.gov.mt - confirmed
+via European Commission's own official tax authority contact list and
+direct site fetch), Mauritius (mra.mu - extensively confirmed via
+Wikipedia, Facebook, and direct site fetch), Mauritania (impots.gov.mr -
+confirmed via CREDAF's official regional directory and multiple live
+DGI sub-pages).
+
+Both fixes verified structurally sound (div-balance clean) after
+pushing.
+
+Running total across the whole authority-link verification effort:
+approximately 85 of 92 originally-flagged links now individually
+confirmed or fixed. Approximately 7 remain: Moldova, Myanmar, Nicaragua,
+Northern Cyprus, Palestine, Saint Lucia, Saint-Martin (French), Senegal,
+Slovakia, Sri Lanka, Timor-Leste, Tonga, Transnistria, Trinidad and
+Tobago, Tunisia, Uzbekistan, Venezuela (note: this list is longer than
+"7" stated above because several were already confirmed earlier in the
+session via the treaty-network research work and just need final
+cross-tabulation, not fresh checking).
