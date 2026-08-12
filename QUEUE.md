@@ -7265,3 +7265,43 @@ substantive factual errors this batch alone (Kenya's overstated count,
 Indonesia's broken sentence) plus a genuine content-duplication bug
 (Iran). Nearly at the halfway point of the site. Continuing to batch 7
 (liechtenstein onward) next.
+
+
+## BATCH 7 COMPLETE: lebanon through mexico (alphabetical, 20 countries)
+
+FIXED (2 real issues):
+- Macau: "a comprehensive named-partner list was not compiled this
+  session" - this data was actually readily available and hadn't been
+  looked for hard enough. Fetched PwC's Macau SAR summary directly: 7
+  named comprehensive treaty partners (Cabo Verde, Cambodia, Mainland
+  China, Hong Kong SAR, Mozambique, Portugal, Vietnam) plus 15 TIEA
+  partners. Replaced the "not compiled" disclaimer with the real list.
+- Malta: vague "almost 70" -> specific figure (77) sourced from KPMG
+  Malta's dedicated treaty publication.
+
+CONFIRMED ALREADY GOOD after full read-through - this batch was
+unusually clean, reflecting well on prior sessions' work in this range:
+Lebanon (34, named), Lesotho (4 named partners, with a real detail about
+a non-force UK treaty), Liberia (1 DTT + 12 TIEAs, already fixed for the
+Francophone error in an earlier batch, re-verified), Libya (10-13,
+honestly ranged with named partners and context), Liechtenstein (23,
+extensively named), Lithuania (58, specific), Luxembourg (94 signed/88
+in force, with specific pending-treaty detail), Madagascar (4, specific),
+Malawi (8 named with real status detail on suspended/non-operational
+treaties), Malaysia (more than 70, reasonably supported by multiple
+sources), Maldives (correctly describes its narrow position with
+unilateral credit fallback), Mali (7, named via IMF source), Marshall
+Islands (correctly distinguishes 13 TIEAs from having no actual DTAs),
+Martinique (correctly inherits France's network), Mauritania (6, named -
+verified the internal math: France + Senegal + 4 Maghreb Union states =
+6, correct), Mauritius (45, with detailed pending/awaiting-signature
+breakdown), Mayotte (correctly inherits France's network), Mexico (60,
+with a specific named list of non-treaty countries too - a genuinely
+useful negative list).
+
+Verified sitewide after batch 7 fixes: 0 div-balance issues across all
+20 pages (fresh re-fetch).
+
+## RUNNING TOTAL: 140 of 249 pages (56%) fully audited word-by-word
+across seven batches. 29 real issues found and fixed total. Past the
+halfway point. Continuing to batch 8 (moldova onward) next.
