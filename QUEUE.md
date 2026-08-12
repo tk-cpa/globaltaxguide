@@ -7404,3 +7404,31 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 ## REDO PROGRESS: 60 of 96 flagged pages (63%) genuinely re-audited with
 full section reads. 36 remain (ireland through mexico). Continuing
 immediately, same full standard.
+
+
+## REDO BATCH 4 COMPLETE: ireland through libya (20 countries, genuine full 14-section reads)
+
+FIXED (2 real issues):
+- Kazakhstan: dangling reference - "Under this reform, differentiated
+  sector rates now apply" never actually named what "this reform" was
+  before using the phrase. Named it explicitly (Kazakhstan's new 2026
+  Tax Code).
+- Latvia: same stray-CFC-sentence bug found earlier in Estonia -
+  Participation Exemption opened with "Latvia's CFC rules tax all income
+  associated with non-genuine arrangements," a sentence that belongs in
+  the CFC section, not here. Rewrote for clarity, consistent with the
+  Estonia fix. (Checked Georgia's similar-looking passage too - Georgia's
+  version correctly explains WHY via "no CFC regime," so it was already
+  fine and not touched.)
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Ireland, Isle of
+Man, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kenya (re-verified,
+earlier correction holding), Kiribati (honestly limited, no overclaim),
+Kosovo, Kuwait, Kyrgyzstan, Laos, Lebanon, Lesotho, Liberia (re-verified,
+earlier Francophone-mislabeling correction holding), Libya.
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## REDO PROGRESS: 80 of 96 flagged pages (83%) genuinely re-audited with
+full section reads. 16 remain (liechtenstein through mexico). Continuing
+immediately to finish the redo.
