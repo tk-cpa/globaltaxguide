@@ -8415,3 +8415,36 @@ made across the pass so far.
 Verified sitewide: all 4 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 25-26, boilerplate candidates cleared
+
+Checked the 13 candidate pages flagged at the end of the last turn for
+the zero-tax-jurisdiction boilerplate bug (American Samoa, Brunei, Congo-
+DRC, El Salvador, Ethiopia, Guatemala, Honduras, Iraq, Jordan,
+Mozambique, Namibia, Nicaragua, Thailand). All 13 are false positives -
+each has a genuine income tax system, so \"foreign income is reported
+through the standard annual tax return\" is accurate for them. No fixes
+needed; the earlier broader search simply cast too wide a net.
+
+PAGE 25 - Bermuda: FIXED - found a 6th instance of the same zero-tax-
+jurisdiction boilerplate inconsistency already fixed on 5 other pages
+last turn (Anguilla, Bahamas, BVI, Cayman Islands, Turks and Caicos) -
+missed by the earlier exact-phrase sitewide search because Bermuda's
+\"has no income tax\" phrasing differed slightly. Fixed.
+
+PAGE 26 - Bhutan: FIXED - a real, significant internal contradiction:
+the Tax System section stated a 25% corporate rate while the Corporate
+Tax Rate section, immediately below it, stated 20% - directly
+conflicting. Neither figure was actually current. Researched and found
+the real answer: Bhutan's new Income Tax Act 2025 (effective January 1,
+2026) unified the corporate rate at 22% for all companies, replacing the
+prior tiered 25-30% structure. Fixed both sections to the correct,
+current, consistent figure.
+
+Running total this pass: 26 of 249 pages read in full. 16 real fixes
+made across the pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially without pausing.
