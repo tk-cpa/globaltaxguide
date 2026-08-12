@@ -8364,3 +8364,27 @@ made across the pass so far.
 Verified sitewide: all 5 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 16-20 of 249 - all clean
+
+PAGE 16 - Azerbaijan: clean, no issues - thorough and well-sourced
+(CFC ownership-threshold discrepancy already properly explained with
+reasoning for which source is preferred).
+PAGE 17 - Bahamas: clean, earlier boilerplate fix and treaty-conflict
+disclosure both holding correctly.
+PAGE 18 - Bahrain: clean, no issues - comprehensive Pillar Two DMTT
+detail throughout.
+PAGE 19 - Bangladesh: clean, earlier treaty-count fix (36, BIDA-sourced)
+holding correctly.
+PAGE 20 - Barbados: clean, earlier CARICOM-count and Norway-termination
+fixes holding correctly.
+
+Running total this pass: 20 of 249 pages read in full (first 20 done
+under this corrected sequential method, matching the size of the
+original \"batch 1\" from earlier in the session). 11 real fixes made
+across pages 1-15; pages 16-20 required no further changes.
+
+Verified sitewide: all 5 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
