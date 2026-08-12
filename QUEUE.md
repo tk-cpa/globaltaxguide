@@ -7210,3 +7210,58 @@ genuine multi-page systemic factual error (colonial/legal-system
 mischaracterization) that a treaty-count-only sweep would never have
 caught - this is exactly the kind of issue the word-by-word standard is
 designed to catch. Continuing to batch 6 (india onward) next.
+
+
+## BATCH 6 COMPLETE: india through latvia (alphabetical, 20 countries)
+
+FIXED (4 real issues, including one substantive factual error):
+
+- Kenya (FACTUAL ERROR CORRECTED): page stated "more than 30 double tax
+  treaties" - this was a real overstatement, not just imprecision. Two
+  independent current sources (TaxAtlas and a dated 2026 specialist
+  compilation with a full named list) both confirm the real figure is
+  15. Corrected with the full named list and noted the corrected number
+  explicitly as a correction to the prior page content.
+- Indonesia: found and fixed a genuinely broken/truncated sentence in
+  Participation Exemption - it ended mid-thought at "...however. " with
+  nothing following. Researched the real answer (Indonesia does have a
+  conditional reinvestment-based exemption for foreign dividends,
+  distinct from a broad European-style exemption) and replaced the
+  broken sentence with the substantive answer.
+- Iran: found a content-duplication bug - the Foreign Tax Credit section
+  simply repeated the Treaty Network section's "approximately 45 double
+  taxation agreements" sentence verbatim instead of describing the FTC
+  mechanism itself. Rewrote to properly answer what FTC mechanism exists
+  (relief via treaty network, no confirmed standalone unilateral credit)
+  without duplicating content. Checked sitewide for the same duplication
+  pattern in other countries' FTC sections - found no other instances.
+- Israel: vague "more than 50" -> specific figure (58) from TaxAtlas,
+  plus added a real detail (first UAE treaty, 2021/2022).
+
+CONFIRMED ALREADY GOOD after full read-through: India (94 comprehensive +
+8 limited-scope, specific), Iraq (roughly 15, named, honest about
+conflict/sanctions constraints), Ireland (78 signed/75 in force, dated
+and sourced), Isle of Man (11 comprehensive + 13 limited + 39 TIEAs,
+precisely dated), Italy (roughly 100, sourced to Agenzia delle Entrate
+directly), Jamaica (14, named with specific rates), Japan (90 conventions
+covering 157 jurisdictions, precisely dated to May 2026), Jersey (15
+named DTAs), Jordan (37, already fixed in an earlier session pass, re-
+verified still accurate), Kazakhstan (55, specific), Kiribati (honestly
+flagged as genuinely unconfirmed after checking the country's own tax
+authority directly - a model of appropriate disclosure, not laziness),
+Kosovo (21, dated and sourced to its own tax administration), Kuwait
+(20+ named, already fixed in an earlier session pass, re-verified),
+Kyrgyzstan (approximately 30, reasonably specific), Laos (12, specific).
+
+Latvia's "more than 60" was checked but no cleaner replacement figure was
+found this pass - left as-is rather than force an unsupported change.
+
+Verified sitewide after all batch 6 fixes: 0 div-balance issues across
+all 20 pages (fresh re-fetch).
+
+## RUNNING TOTAL: 120 of 249 pages (48%) fully audited word-by-word
+across six batches. 27 real issues found and fixed total, including 2
+substantive factual errors this batch alone (Kenya's overstated count,
+Indonesia's broken sentence) plus a genuine content-duplication bug
+(Iran). Nearly at the halfway point of the site. Continuing to batch 7
+(liechtenstein onward) next.
