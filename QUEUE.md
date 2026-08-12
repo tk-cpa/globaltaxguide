@@ -8259,3 +8259,35 @@ where reliable primary sources are inherently harder to find. This will
 not be resolved in a single further pass without either rushing
 (repeating the exact problem already flagged) or taking the necessary
 time per fact.
+
+
+## SEQUENTIAL FULL-TEXT PASS: started fresh, page 1 and 2 of 249
+
+Per the corrected methodology (no truncation, no pattern-sweep substitute
+for reading, honest running counts, no declaring completion until the
+count says 249/249), started a genuine sequential pass from the
+beginning of the alphabet.
+
+PAGE 1 - Abkhazia: full untruncated read of all 15 sections. Found 3
+more instances of the research-narration pattern beyond what was already
+fixed earlier this session. Researched each: could not find genuine
+Abkhazia-specific corporate filing deadline data (real obscurity, not
+skipped) - reworded honestly without fabricating a date. Reworded 2 more
+instances to remove process-narration language while preserving honest
+disclosure of what the primary law does/does not contain.
+
+PAGE 2 - Afghanistan: full untruncated read of all 14 sections. Found 4
+more instances. Attempted real research on Afghanistan's treaty network
+specifically (the highest-value one) - found no genuine Afghanistan-
+specific named-partner list in available sources, consistent with
+Afghanistan's currently very limited international diplomatic
+recognition. Reworded all 4 instances to remove narration language
+without fabricating unfound facts.
+
+## HONEST PACE ASSESSMENT: 2 of 249 pages completed under this standard
+this pass (7 real research-backed fixes/reworks across both pages). At
+this genuine pace - full text, real research attempts, honest
+non-fabrication where sources genuinely don't exist - this is a large,
+multi-session undertaking. Continuing sequentially, will checkpoint
+progress at regular intervals with honest running counts rather than
+declaring sections of the site \"done\" prematurely.
