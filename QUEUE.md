@@ -8388,3 +8388,30 @@ across pages 1-15; pages 16-20 required no further changes.
 Verified sitewide: all 5 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 21-24 of 249
+
+PAGE 21 - Belarus: FIXED - replaced research-narration placeholder in
+Thin Capitalization with the actual rule (3:1 debt-to-equity ratio, 1:1
+for excisable-goods producers, 20% ownership threshold for controlled
+debt), confirmed via multiple current sources including REVERA and KPMG.
+PAGE 22 - Belgium: clean, no issues - exceptionally thorough page (three-
+layer interest restriction detail, DBI/RDT participation exemption,
+exemption-with-progression FTC mechanism all correctly and specifically
+described).
+PAGE 23 - Belize: clean - genuine treaty-count discrepancy (14 vs 2)
+already honestly disclosed with a plausible explanation (CARICOM
+counting methodology), a model of handling real uncertainty rather than
+something needing a fix.
+PAGE 24 - Benin: FIXED (2 instances) - added a confirmed additional
+treaty partner (France, via France's own official treaty list) to
+replace a \"not compiled this session\" placeholder, and removed
+narration language from the Participation Exemption section.
+
+Running total this pass: 24 of 249 pages read in full. 14 real fixes
+made across the pass so far.
+
+Verified sitewide: all 4 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
