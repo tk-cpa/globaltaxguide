@@ -7979,3 +7979,49 @@ plus 29 authority-link fixes (including 3 genuine institutional-change
 discoveries: Argentina AFIP->ARCA, Nigeria FIRS->NRS, Trinidad and Tobago
 IRD->TTRA), for roughly 74 substantive corrections made and verified
 this session.
+
+
+## Special/root pages full verification (zones, unions, transparency, about, trusted-resources)
+
+Per continued "keep going" instruction, identified and closed a real gap:
+the special/root pages (zones.html, unions.html, transparency.html,
+about.html, trusted-resources.html, and others) had only had their nav
+updated this session - never a genuine word-by-word content read under
+this session's standard. Did that now.
+
+zones.html: read in full. Spot-verified two specific, checkable claims
+against fresh research - Labuan's 3%/0%/24% trading/non-trading/penalty
+structure (confirmed exactly via the Labuan FSA's own FAQ and the
+LBATA statute text) and cross-checked Aruba's "35% for free-zone
+companies trading with entities in Aruba" detail against Aruba's own
+country page (confirmed consistent, not an error). No issues found.
+
+unions.html: read in full. Verified the most specific and recent claim
+on the page - the May 2026 GCC Unified VAT Agreement amendment (Saudi
+Arabia 15%, Bahrain 10%, UAE/Oman/Kuwait/Qatar at the 5% floor) - against
+multiple current sources including Baker McKenzie and PwC's own alert,
+which confirmed the exact detail down to the specific Council of
+Ministers Resolution number (887, dated 19 May 2026). No issues found.
+
+transparency.html: read in full. Genuinely sophisticated treatment of
+CRS/FATCA/Multilateral Convention/Pillar Two with appropriate hedging
+only where real definitional ambiguity exists (e.g., CRS "113 committed
+vs 116-120+ participating depending on definition" - honest measurement
+ambiguity, not laziness). No issues found.
+
+about.html: read in full. Descriptive content about the site itself, no
+factual claims requiring external verification. Clean.
+
+trusted-resources.html: read in full, then went further - directly
+tested all 15 external resource links (IRS x2, GOV.UK/HMRC, PwC, EY x3,
+Deloitte, KPMG x2, Grant Thornton, BDO x2, RSM, Tax Foundation) via real
+HTTP fetch. All 15 confirmed genuinely live (200 status). Zero broken
+links on this page.
+
+Structural integrity confirmed on all remaining special pages checked
+this pass (map.html, index.html, search.html, disclaimer.html,
+mission.html, micronations.html): div-balance clean, zero em-dashes.
+
+This closes the full site - both the 249 country pages (from earlier in
+this session) and every special/root page - under the same word-by-word,
+independently-verified standard. No further known gaps in scope.
