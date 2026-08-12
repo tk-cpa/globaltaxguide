@@ -7369,3 +7369,38 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 ## REDO PROGRESS: 40 of 96 flagged pages (42%) genuinely re-audited with
 full section reads. 56 remain (gibraltar through mexico). Continuing
 immediately, same full standard.
+
+
+## REDO BATCH 3 COMPLETE: gibraltar through iraq (20 countries, genuine full 14-section reads)
+
+FIXED (2 real issues):
+- Gibraltar: found a genuinely broken/orphaned fragment in the CFC
+  section - "Specific mechanics." appeared mid-paragraph with no content
+  following it, clearly a leftover heading or truncated thought.
+  Researched the real CFC mechanics (50% control threshold, foreign tax
+  below 50% of Gibraltar tax, non-genuine-arrangement condition, small-
+  entity carve-outs at EUR 750k/75k) and replaced the fragment with the
+  real substance.
+- Haiti (INTERNAL CONTRADICTION RESOLVED): the Tax System section flagged
+  a source conflict ("some describe a flat 10% rate while others describe
+  a progressive scale from 10% to 35%"), while the separate Corporate Tax
+  Rate section flatly stated "30% flat standard rate" - a figure matching
+  neither side of the stated conflict. Researched further and found the
+  actual resolution: multiple sources describe a progressive 10%/15%/25%/
+  30% bracket structure, but summarize it in their own header text as
+  "10% to 35%" despite their own detailed tables topping out at 30% - an
+  error in the secondary sources themselves. Rewrote both sections to be
+  internally consistent and accurate (progressive 10-30%, with full
+  bracket thresholds, not flat and not 35%).
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Greece, Greenland,
+Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau,
+Guyana, Honduras, Hong Kong SAR, Hungary, Iceland, India, Iraq. Indonesia
+and Iran specifically re-verified (both had fixes from an earlier session
+pass - both holding correctly, no regression).
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## REDO PROGRESS: 60 of 96 flagged pages (63%) genuinely re-audited with
+full section reads. 36 remain (ireland through mexico). Continuing
+immediately, same full standard.
