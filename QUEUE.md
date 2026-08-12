@@ -7514,3 +7514,29 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 either the original batches or the redo): 20 of ~109 remaining countries
 now have their first genuine full-section read. Continuing immediately
 with the next batch (norway onward).
+
+
+## BATCH (norway range) COMPLETE: north-korea through reunion (20 countries, FIRST genuine full 14-section read for this range)
+
+No new issues found - this batch was genuinely clean throughout. Full
+14-section reads performed for all 20: North Korea (unusually well-
+sourced given sanctions/isolation constraints, with several sections
+explicitly noting re-confirmation directly against primary DPRK
+statutory text via WIPO Lex), North Macedonia, Northern Cyprus (honestly
+handles its unrecognized-state status), Northern Mariana Islands
+(mirror-code, re-verified consistent with Guam's pattern), Norway, Oman
+(re-verified, earlier session's major treaty-count fix holding
+correctly), Pakistan, Palau (re-verified, earlier session's domain fix
+context still consistent), Palestine, Panama, Papua New Guinea (good
+example of handling conflicting secondary-source counts by explaining
+the likely reason for the discrepancy), Paraguay (re-verified, earlier
+fix holding), Peru (re-verified, earlier fix holding), Philippines,
+Pitcairn Islands (correctly and simply states its total tax-free status),
+Poland, Portugal (re-verified, earlier link fix and treaty fix both
+holding), Puerto Rico, Qatar, Reunion.
+
+Verified sitewide: 0 div-balance issues across all 20 pages.
+
+## PROGRESS: 40 of ~109 remaining countries in the post-mexico range now
+have their first genuine full-section read. Continuing immediately with
+the next batch (romania onward).
