@@ -1,1 +1,2063 @@
-{"meta":{"total":237},"pages":[{"heading":"Home","title":"Global Tax Guide - Tax Rates for Every Country","desc":"The full jurisdiction directory, region filters, and site overview.","category":"Site","type":"PAGE","url":"index.html"},{"heading":"Interactive Map","title":"World Tax Map","desc":"Click any country on the map to jump straight to its tax guide.","category":"Site","type":"PAGE","url":"map.html"},{"heading":"Special Tax Zones","title":"Special Tax Zones & Enclaves","desc":"Free ports, financial centres, and low-tax enclaves that run different rules from their parent country - Labuan, Madeira, DMCC, JAFZA, and more.","category":"Site","type":"PAGE","url":"zones.html"},{"heading":"Unions & Trade Zones","title":"Unions & Trade Zones","desc":"EU VAT directive, CARICOM, CIS, USMCA and other multi-country tax and trade frameworks.","category":"Site","type":"PAGE","url":"unions.html"},{"heading":"Trusted Resources","title":"Trusted Resources","desc":"Primary sources and Big Four/second-tier guides used throughout this site: IRS, GOV.UK, PwC, EY, Deloitte, KPMG.","category":"Site","type":"PAGE","url":"trusted-resources.html"},{"heading":"About","title":"About Global Tax Guide","desc":"Who built this site, how the data is sourced, and what it isn't.","category":"Site","type":"PAGE","url":"about.html"},{"heading":"Mission","title":"Our Mission","desc":"Why Global Tax Guide exists and what it's trying to be.","category":"Site","type":"PAGE","url":"mission.html"},{"heading":"Disclaimer","title":"Disclaimer","desc":"Full legal disclaimer for Global Tax Guide.","category":"Site","type":"PAGE","url":"disclaimer.html"},{"heading":"Algeria","title":"Algeria Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Algeria.","category":"Africa","type":"COUNTRY","url":"countries/algeria.html"},{"heading":"Angola","title":"Angola Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Angola.","category":"Africa","type":"COUNTRY","url":"countries/angola.html"},{"heading":"Benin","title":"Benin Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Benin.","category":"Africa","type":"COUNTRY","url":"countries/benin.html"},{"heading":"Botswana","title":"Botswana Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Botswana.","category":"Africa","type":"COUNTRY","url":"countries/botswana.html"},{"heading":"Burkina Faso","title":"Burkina Faso Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Burkina Faso.","category":"Africa","type":"COUNTRY","url":"countries/burkina-faso.html"},{"heading":"Burundi","title":"Burundi Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Burundi.","category":"Africa","type":"COUNTRY","url":"countries/burundi.html"},{"heading":"Cabo Verde","title":"Cabo Verde Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cabo Verde.","category":"Africa","type":"COUNTRY","url":"countries/cabo-verde.html"},{"heading":"Cameroon","title":"Cameroon Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cameroon.","category":"Africa","type":"COUNTRY","url":"countries/cameroon.html"},{"heading":"Central African Republic","title":"Central African Republic Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Central African Republic.","category":"Africa","type":"COUNTRY","url":"countries/central-african-republic.html"},{"heading":"Chad","title":"Chad Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Chad.","category":"Africa","type":"COUNTRY","url":"countries/chad.html"},{"heading":"Comoros","title":"Comoros Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Comoros.","category":"Africa","type":"COUNTRY","url":"countries/comoros.html"},{"heading":"Congo (Republic)","title":"Congo (Republic) Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Congo (Republic).","category":"Africa","type":"COUNTRY","url":"countries/congo-republic.html"},{"heading":"Congo (DRC)","title":"Congo (DRC) Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Congo (DRC).","category":"Africa","type":"COUNTRY","url":"countries/congo-drc.html"},{"heading":"Cote d'Ivoire","title":"Cote d'Ivoire Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cote d'Ivoire.","category":"Africa","type":"COUNTRY","url":"countries/cote-divoire.html"},{"heading":"Djibouti","title":"Djibouti Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Djibouti.","category":"Africa","type":"COUNTRY","url":"countries/djibouti.html"},{"heading":"Egypt","title":"Egypt Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Egypt.","category":"Africa","type":"COUNTRY","url":"countries/egypt.html"},{"heading":"Equatorial Guinea","title":"Equatorial Guinea Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Equatorial Guinea.","category":"Africa","type":"COUNTRY","url":"countries/equatorial-guinea.html"},{"heading":"Eritrea","title":"Eritrea Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Eritrea.","category":"Africa","type":"COUNTRY","url":"countries/eritrea.html"},{"heading":"Eswatini","title":"Eswatini Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Eswatini.","category":"Africa","type":"COUNTRY","url":"countries/eswatini.html"},{"heading":"Ethiopia","title":"Ethiopia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ethiopia.","category":"Africa","type":"COUNTRY","url":"countries/ethiopia.html"},{"heading":"Gabon","title":"Gabon Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Gabon.","category":"Africa","type":"COUNTRY","url":"countries/gabon.html"},{"heading":"Gambia","title":"Gambia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Gambia.","category":"Africa","type":"COUNTRY","url":"countries/gambia.html"},{"heading":"Ghana","title":"Ghana Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ghana.","category":"Africa","type":"COUNTRY","url":"countries/ghana.html"},{"heading":"Guinea","title":"Guinea Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guinea.","category":"Africa","type":"COUNTRY","url":"countries/guinea.html"},{"heading":"Guinea-Bissau","title":"Guinea-Bissau Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guinea-Bissau.","category":"Africa","type":"COUNTRY","url":"countries/guinea-bissau.html"},{"heading":"Kenya","title":"Kenya Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kenya.","category":"Africa","type":"COUNTRY","url":"countries/kenya.html"},{"heading":"Lesotho","title":"Lesotho Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Lesotho.","category":"Africa","type":"COUNTRY","url":"countries/lesotho.html"},{"heading":"Liberia","title":"Liberia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Liberia.","category":"Africa","type":"COUNTRY","url":"countries/liberia.html"},{"heading":"Libya","title":"Libya Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Libya.","category":"Africa","type":"COUNTRY","url":"countries/libya.html"},{"heading":"Madagascar","title":"Madagascar Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Madagascar.","category":"Africa","type":"COUNTRY","url":"countries/madagascar.html"},{"heading":"Malawi","title":"Malawi Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Malawi.","category":"Africa","type":"COUNTRY","url":"countries/malawi.html"},{"heading":"Mali","title":"Mali Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mali.","category":"Africa","type":"COUNTRY","url":"countries/mali.html"},{"heading":"Mauritania","title":"Mauritania Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mauritania.","category":"Africa","type":"COUNTRY","url":"countries/mauritania.html"},{"heading":"Mauritius","title":"Mauritius Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mauritius.","category":"Africa","type":"COUNTRY","url":"countries/mauritius.html"},{"heading":"Morocco","title":"Morocco Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Morocco.","category":"Africa","type":"COUNTRY","url":"countries/morocco.html"},{"heading":"Mozambique","title":"Mozambique Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mozambique.","category":"Africa","type":"COUNTRY","url":"countries/mozambique.html"},{"heading":"Namibia","title":"Namibia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Namibia.","category":"Africa","type":"COUNTRY","url":"countries/namibia.html"},{"heading":"Niger","title":"Niger Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Niger.","category":"Africa","type":"COUNTRY","url":"countries/niger.html"},{"heading":"Nigeria","title":"Nigeria Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nigeria.","category":"Africa","type":"COUNTRY","url":"countries/nigeria.html"},{"heading":"Rwanda","title":"Rwanda Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Rwanda.","category":"Africa","type":"COUNTRY","url":"countries/rwanda.html"},{"heading":"Sao Tome and Principe","title":"Sao Tome and Principe Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sao Tome and Principe.","category":"Africa","type":"COUNTRY","url":"countries/sao-tome-and-principe.html"},{"heading":"Senegal","title":"Senegal Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Senegal.","category":"Africa","type":"COUNTRY","url":"countries/senegal.html"},{"heading":"Seychelles","title":"Seychelles Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Seychelles.","category":"Africa","type":"COUNTRY","url":"countries/seychelles.html"},{"heading":"Sierra Leone","title":"Sierra Leone Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sierra Leone.","category":"Africa","type":"COUNTRY","url":"countries/sierra-leone.html"},{"heading":"Somalia","title":"Somalia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Somalia.","category":"Africa","type":"COUNTRY","url":"countries/somalia.html"},{"heading":"South Africa","title":"South Africa Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Africa.","category":"Africa","type":"COUNTRY","url":"countries/south-africa.html"},{"heading":"South Sudan","title":"South Sudan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Sudan.","category":"Africa","type":"COUNTRY","url":"countries/south-sudan.html"},{"heading":"Sudan","title":"Sudan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sudan.","category":"Africa","type":"COUNTRY","url":"countries/sudan.html"},{"heading":"Tanzania","title":"Tanzania Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tanzania.","category":"Africa","type":"COUNTRY","url":"countries/tanzania.html"},{"heading":"Togo","title":"Togo Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Togo.","category":"Africa","type":"COUNTRY","url":"countries/togo.html"},{"heading":"Tunisia","title":"Tunisia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tunisia.","category":"Africa","type":"COUNTRY","url":"countries/tunisia.html"},{"heading":"Uganda","title":"Uganda Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Uganda.","category":"Africa","type":"COUNTRY","url":"countries/uganda.html"},{"heading":"Zambia","title":"Zambia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Zambia.","category":"Africa","type":"COUNTRY","url":"countries/zambia.html"},{"heading":"Zimbabwe","title":"Zimbabwe Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Zimbabwe.","category":"Africa","type":"COUNTRY","url":"countries/zimbabwe.html"},{"heading":"Antigua and Barbuda","title":"Antigua and Barbuda Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Antigua and Barbuda.","category":"Americas","type":"COUNTRY","url":"countries/antigua-and-barbuda.html"},{"heading":"Argentina","title":"Argentina Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Argentina.","category":"Americas","type":"COUNTRY","url":"countries/argentina.html"},{"heading":"Bahamas","title":"Bahamas Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bahamas.","category":"Americas","type":"COUNTRY","url":"countries/bahamas.html"},{"heading":"Barbados","title":"Barbados Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Barbados.","category":"Americas","type":"COUNTRY","url":"countries/barbados.html"},{"heading":"Belize","title":"Belize Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Belize.","category":"Americas","type":"COUNTRY","url":"countries/belize.html"},{"heading":"Bermuda","title":"Bermuda Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bermuda.","category":"Americas","type":"COUNTRY","url":"countries/bermuda.html"},{"heading":"Bolivia","title":"Bolivia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bolivia.","category":"Americas","type":"COUNTRY","url":"countries/bolivia.html"},{"heading":"Brazil","title":"Brazil Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Brazil.","category":"Americas","type":"COUNTRY","url":"countries/brazil.html"},{"heading":"British Virgin Islands","title":"British Virgin Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for British Virgin Islands.","category":"Americas","type":"COUNTRY","url":"countries/british-virgin-islands.html"},{"heading":"Canada","title":"Canada Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Canada.","category":"Americas","type":"COUNTRY","url":"countries/canada.html"},{"heading":"Cayman Islands","title":"Cayman Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cayman Islands.","category":"Americas","type":"COUNTRY","url":"countries/cayman-islands.html"},{"heading":"Chile","title":"Chile Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Chile.","category":"Americas","type":"COUNTRY","url":"countries/chile.html"},{"heading":"Colombia","title":"Colombia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Colombia.","category":"Americas","type":"COUNTRY","url":"countries/colombia.html"},{"heading":"Costa Rica","title":"Costa Rica Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Costa Rica.","category":"Americas","type":"COUNTRY","url":"countries/costa-rica.html"},{"heading":"Cuba","title":"Cuba Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cuba.","category":"Americas","type":"COUNTRY","url":"countries/cuba.html"},{"heading":"Dominica","title":"Dominica Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Dominica.","category":"Americas","type":"COUNTRY","url":"countries/dominica.html"},{"heading":"Dominican Republic","title":"Dominican Republic Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Dominican Republic.","category":"Americas","type":"COUNTRY","url":"countries/dominican-republic.html"},{"heading":"Ecuador","title":"Ecuador Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ecuador.","category":"Americas","type":"COUNTRY","url":"countries/ecuador.html"},{"heading":"El Salvador","title":"El Salvador Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for El Salvador.","category":"Americas","type":"COUNTRY","url":"countries/el-salvador.html"},{"heading":"Grenada","title":"Grenada Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Grenada.","category":"Americas","type":"COUNTRY","url":"countries/grenada.html"},{"heading":"Guatemala","title":"Guatemala Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guatemala.","category":"Americas","type":"COUNTRY","url":"countries/guatemala.html"},{"heading":"Guyana","title":"Guyana Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guyana.","category":"Americas","type":"COUNTRY","url":"countries/guyana.html"},{"heading":"Haiti","title":"Haiti Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Haiti.","category":"Americas","type":"COUNTRY","url":"countries/haiti.html"},{"heading":"Honduras","title":"Honduras Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Honduras.","category":"Americas","type":"COUNTRY","url":"countries/honduras.html"},{"heading":"Jamaica","title":"Jamaica Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Jamaica.","category":"Americas","type":"COUNTRY","url":"countries/jamaica.html"},{"heading":"Mexico","title":"Mexico Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mexico.","category":"Americas","type":"COUNTRY","url":"countries/mexico.html"},{"heading":"Nicaragua","title":"Nicaragua Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nicaragua.","category":"Americas","type":"COUNTRY","url":"countries/nicaragua.html"},{"heading":"Panama","title":"Panama Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Panama.","category":"Americas","type":"COUNTRY","url":"countries/panama.html"},{"heading":"Paraguay","title":"Paraguay Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Paraguay.","category":"Americas","type":"COUNTRY","url":"countries/paraguay.html"},{"heading":"Peru","title":"Peru Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Peru.","category":"Americas","type":"COUNTRY","url":"countries/peru.html"},{"heading":"Puerto Rico","title":"Puerto Rico Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Puerto Rico.","category":"Americas","type":"COUNTRY","url":"countries/puerto-rico.html"},{"heading":"Saint Kitts and Nevis","title":"Saint Kitts and Nevis Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Kitts and Nevis.","category":"Americas","type":"COUNTRY","url":"countries/saint-kitts-and-nevis.html"},{"heading":"Saint Lucia","title":"Saint Lucia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Lucia.","category":"Americas","type":"COUNTRY","url":"countries/saint-lucia.html"},{"heading":"Saint Vincent and the Grenadines","title":"Saint Vincent and the Grenadines Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Vincent and the Grenadines.","category":"Americas","type":"COUNTRY","url":"countries/saint-vincent-and-the-grenadines.html"},{"heading":"Suriname","title":"Suriname Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Suriname.","category":"Americas","type":"COUNTRY","url":"countries/suriname.html"},{"heading":"Trinidad and Tobago","title":"Trinidad and Tobago Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Trinidad and Tobago.","category":"Americas","type":"COUNTRY","url":"countries/trinidad-and-tobago.html"},{"heading":"Turks and Caicos","title":"Turks and Caicos Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Turks and Caicos.","category":"Americas","type":"COUNTRY","url":"countries/turks-and-caicos.html"},{"heading":"United States","title":"United States Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for United States.","category":"Americas","type":"COUNTRY","url":"countries/united-states.html"},{"heading":"Uruguay","title":"Uruguay Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Uruguay.","category":"Americas","type":"COUNTRY","url":"countries/uruguay.html"},{"heading":"Venezuela","title":"Venezuela Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Venezuela.","category":"Americas","type":"COUNTRY","url":"countries/venezuela.html"},{"heading":"Afghanistan","title":"Afghanistan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Afghanistan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/afghanistan.html"},{"heading":"Australia","title":"Australia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Australia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/australia.html"},{"heading":"Bangladesh","title":"Bangladesh Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bangladesh.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/bangladesh.html"},{"heading":"Bhutan","title":"Bhutan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bhutan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/bhutan.html"},{"heading":"Brunei","title":"Brunei Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Brunei.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/brunei.html"},{"heading":"Cambodia","title":"Cambodia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cambodia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/cambodia.html"},{"heading":"China","title":"China Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for China.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/china.html"},{"heading":"Fiji","title":"Fiji Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Fiji.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/fiji.html"},{"heading":"Hong Kong SAR","title":"Hong Kong SAR Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Hong Kong SAR.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/hong-kong-sar.html"},{"heading":"India","title":"India Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for India.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/india.html"},{"heading":"Indonesia","title":"Indonesia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Indonesia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/indonesia.html"},{"heading":"Japan","title":"Japan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Japan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/japan.html"},{"heading":"Kazakhstan","title":"Kazakhstan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kazakhstan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/kazakhstan.html"},{"heading":"Kyrgyzstan","title":"Kyrgyzstan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kyrgyzstan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/kyrgyzstan.html"},{"heading":"Laos","title":"Laos Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Laos.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/laos.html"},{"heading":"Macau SAR","title":"Macau SAR Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Macau SAR.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/macau-sar.html"},{"heading":"Malaysia","title":"Malaysia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Malaysia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/malaysia.html"},{"heading":"Maldives","title":"Maldives Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Maldives.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/maldives.html"},{"heading":"Mongolia","title":"Mongolia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mongolia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/mongolia.html"},{"heading":"Myanmar","title":"Myanmar Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Myanmar.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/myanmar.html"},{"heading":"Nepal","title":"Nepal Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nepal.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/nepal.html"},{"heading":"New Zealand","title":"New Zealand Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for New Zealand.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/new-zealand.html"},{"heading":"North Korea","title":"North Korea Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for North Korea.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/north-korea.html"},{"heading":"Pakistan","title":"Pakistan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Pakistan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/pakistan.html"},{"heading":"Papua New Guinea","title":"Papua New Guinea Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Papua New Guinea.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/papua-new-guinea.html"},{"heading":"Philippines","title":"Philippines Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Philippines.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/philippines.html"},{"heading":"Samoa","title":"Samoa Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Samoa.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/samoa.html"},{"heading":"Singapore","title":"Singapore Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Singapore.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/singapore.html"},{"heading":"South Korea","title":"South Korea Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Korea.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/south-korea.html"},{"heading":"Sri Lanka","title":"Sri Lanka Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sri Lanka.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/sri-lanka.html"},{"heading":"Taiwan","title":"Taiwan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Taiwan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/taiwan.html"},{"heading":"Tajikistan","title":"Tajikistan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tajikistan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/tajikistan.html"},{"heading":"Thailand","title":"Thailand Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Thailand.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/thailand.html"},{"heading":"Timor-Leste","title":"Timor-Leste Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Timor-Leste.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/timor-leste.html"},{"heading":"Turkmenistan","title":"Turkmenistan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Turkmenistan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/turkmenistan.html"},{"heading":"Uzbekistan","title":"Uzbekistan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Uzbekistan.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/uzbekistan.html"},{"heading":"Vanuatu","title":"Vanuatu Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Vanuatu.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/vanuatu.html"},{"heading":"Vietnam","title":"Vietnam Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Vietnam.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/vietnam.html"},{"heading":"Albania","title":"Albania Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Albania.","category":"Europe","type":"COUNTRY","url":"countries/albania.html"},{"heading":"Andorra","title":"Andorra Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Andorra.","category":"Europe","type":"COUNTRY","url":"countries/andorra.html"},{"heading":"Austria","title":"Austria Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Austria.","category":"Europe","type":"COUNTRY","url":"countries/austria.html"},{"heading":"Belarus","title":"Belarus Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Belarus.","category":"Europe","type":"COUNTRY","url":"countries/belarus.html"},{"heading":"Belgium","title":"Belgium Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Belgium.","category":"Europe","type":"COUNTRY","url":"countries/belgium.html"},{"heading":"Bosnia and Herzegovina","title":"Bosnia and Herzegovina Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bosnia and Herzegovina.","category":"Europe","type":"COUNTRY","url":"countries/bosnia-and-herzegovina.html"},{"heading":"Bulgaria","title":"Bulgaria Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bulgaria.","category":"Europe","type":"COUNTRY","url":"countries/bulgaria.html"},{"heading":"Croatia","title":"Croatia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Croatia.","category":"Europe","type":"COUNTRY","url":"countries/croatia.html"},{"heading":"Cyprus","title":"Cyprus Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cyprus.","category":"Europe","type":"COUNTRY","url":"countries/cyprus.html"},{"heading":"Czech Republic","title":"Czech Republic Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Czech Republic.","category":"Europe","type":"COUNTRY","url":"countries/czech-republic.html"},{"heading":"Denmark","title":"Denmark Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Denmark.","category":"Europe","type":"COUNTRY","url":"countries/denmark.html"},{"heading":"Estonia","title":"Estonia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Estonia.","category":"Europe","type":"COUNTRY","url":"countries/estonia.html"},{"heading":"Finland","title":"Finland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Finland.","category":"Europe","type":"COUNTRY","url":"countries/finland.html"},{"heading":"France","title":"France Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for France.","category":"Europe","type":"COUNTRY","url":"countries/france.html"},{"heading":"Germany","title":"Germany Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Germany.","category":"Europe","type":"COUNTRY","url":"countries/germany.html"},{"heading":"Gibraltar","title":"Gibraltar Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Gibraltar.","category":"Europe","type":"COUNTRY","url":"countries/gibraltar.html"},{"heading":"Greece","title":"Greece Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Greece.","category":"Europe","type":"COUNTRY","url":"countries/greece.html"},{"heading":"Guernsey","title":"Guernsey Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guernsey.","category":"Europe","type":"COUNTRY","url":"countries/guernsey.html"},{"heading":"Hungary","title":"Hungary Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Hungary.","category":"Europe","type":"COUNTRY","url":"countries/hungary.html"},{"heading":"Iceland","title":"Iceland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Iceland.","category":"Europe","type":"COUNTRY","url":"countries/iceland.html"},{"heading":"Ireland","title":"Ireland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ireland.","category":"Europe","type":"COUNTRY","url":"countries/ireland.html"},{"heading":"Isle of Man","title":"Isle of Man Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Isle of Man.","category":"Europe","type":"COUNTRY","url":"countries/isle-of-man.html"},{"heading":"Italy","title":"Italy Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Italy.","category":"Europe","type":"COUNTRY","url":"countries/italy.html"},{"heading":"Jersey","title":"Jersey Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Jersey.","category":"Europe","type":"COUNTRY","url":"countries/jersey.html"},{"heading":"Kosovo","title":"Kosovo Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kosovo.","category":"Europe","type":"COUNTRY","url":"countries/kosovo.html"},{"heading":"Latvia","title":"Latvia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Latvia.","category":"Europe","type":"COUNTRY","url":"countries/latvia.html"},{"heading":"Liechtenstein","title":"Liechtenstein Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Liechtenstein.","category":"Europe","type":"COUNTRY","url":"countries/liechtenstein.html"},{"heading":"Lithuania","title":"Lithuania Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Lithuania.","category":"Europe","type":"COUNTRY","url":"countries/lithuania.html"},{"heading":"Luxembourg","title":"Luxembourg Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Luxembourg.","category":"Europe","type":"COUNTRY","url":"countries/luxembourg.html"},{"heading":"Malta","title":"Malta Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Malta.","category":"Europe","type":"COUNTRY","url":"countries/malta.html"},{"heading":"Moldova","title":"Moldova Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Moldova.","category":"Europe","type":"COUNTRY","url":"countries/moldova.html"},{"heading":"Monaco","title":"Monaco Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Monaco.","category":"Europe","type":"COUNTRY","url":"countries/monaco.html"},{"heading":"Montenegro","title":"Montenegro Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Montenegro.","category":"Europe","type":"COUNTRY","url":"countries/montenegro.html"},{"heading":"Netherlands","title":"Netherlands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Netherlands.","category":"Europe","type":"COUNTRY","url":"countries/netherlands.html"},{"heading":"North Macedonia","title":"North Macedonia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for North Macedonia.","category":"Europe","type":"COUNTRY","url":"countries/north-macedonia.html"},{"heading":"Norway","title":"Norway Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Norway.","category":"Europe","type":"COUNTRY","url":"countries/norway.html"},{"heading":"Poland","title":"Poland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Poland.","category":"Europe","type":"COUNTRY","url":"countries/poland.html"},{"heading":"Portugal","title":"Portugal Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Portugal.","category":"Europe","type":"COUNTRY","url":"countries/portugal.html"},{"heading":"Romania","title":"Romania Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Romania.","category":"Europe","type":"COUNTRY","url":"countries/romania.html"},{"heading":"Russia","title":"Russia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Russia.","category":"Europe","type":"COUNTRY","url":"countries/russia.html"},{"heading":"San Marino","title":"San Marino Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for San Marino.","category":"Europe","type":"COUNTRY","url":"countries/san-marino.html"},{"heading":"Serbia","title":"Serbia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Serbia.","category":"Europe","type":"COUNTRY","url":"countries/serbia.html"},{"heading":"Slovakia","title":"Slovakia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Slovakia.","category":"Europe","type":"COUNTRY","url":"countries/slovakia.html"},{"heading":"Slovenia","title":"Slovenia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Slovenia.","category":"Europe","type":"COUNTRY","url":"countries/slovenia.html"},{"heading":"Spain","title":"Spain Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Spain.","category":"Europe","type":"COUNTRY","url":"countries/spain.html"},{"heading":"Sweden","title":"Sweden Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sweden.","category":"Europe","type":"COUNTRY","url":"countries/sweden.html"},{"heading":"Switzerland","title":"Switzerland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Switzerland.","category":"Europe","type":"COUNTRY","url":"countries/switzerland.html"},{"heading":"Ukraine","title":"Ukraine Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ukraine.","category":"Europe","type":"COUNTRY","url":"countries/ukraine.html"},{"heading":"United Kingdom","title":"United Kingdom Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for United Kingdom.","category":"Europe","type":"COUNTRY","url":"countries/united-kingdom.html"},{"heading":"Vatican City","title":"Vatican City Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Vatican City.","category":"Europe","type":"COUNTRY","url":"countries/vatican-city.html"},{"heading":"Bahrain","title":"Bahrain Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bahrain.","category":"Middle East","type":"COUNTRY","url":"countries/bahrain.html"},{"heading":"Iran","title":"Iran Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Iran.","category":"Middle East","type":"COUNTRY","url":"countries/iran.html"},{"heading":"Iraq","title":"Iraq Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Iraq.","category":"Middle East","type":"COUNTRY","url":"countries/iraq.html"},{"heading":"Israel","title":"Israel Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Israel.","category":"Middle East","type":"COUNTRY","url":"countries/israel.html"},{"heading":"Jordan","title":"Jordan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Jordan.","category":"Middle East","type":"COUNTRY","url":"countries/jordan.html"},{"heading":"Kuwait","title":"Kuwait Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kuwait.","category":"Middle East","type":"COUNTRY","url":"countries/kuwait.html"},{"heading":"Lebanon","title":"Lebanon Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Lebanon.","category":"Middle East","type":"COUNTRY","url":"countries/lebanon.html"},{"heading":"Oman","title":"Oman Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Oman.","category":"Middle East","type":"COUNTRY","url":"countries/oman.html"},{"heading":"Palestine","title":"Palestine Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Palestine.","category":"Middle East","type":"COUNTRY","url":"countries/palestine.html"},{"heading":"Qatar","title":"Qatar Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Qatar.","category":"Middle East","type":"COUNTRY","url":"countries/qatar.html"},{"heading":"Saudi Arabia","title":"Saudi Arabia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saudi Arabia.","category":"Middle East","type":"COUNTRY","url":"countries/saudi-arabia.html"},{"heading":"Syria","title":"Syria Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Syria.","category":"Middle East","type":"COUNTRY","url":"countries/syria.html"},{"heading":"Turkiye (Turkey)","title":"Turkiye (Turkey) Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Turkiye (Turkey).","category":"Middle East","type":"COUNTRY","url":"countries/turkiye.html"},{"heading":"United Arab Emirates","title":"United Arab Emirates Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for United Arab Emirates.","category":"Middle East","type":"COUNTRY","url":"countries/united-arab-emirates.html"},{"heading":"Yemen","title":"Yemen Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Yemen.","category":"Middle East","type":"COUNTRY","url":"countries/yemen.html"},{"heading":"Armenia","title":"Armenia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Armenia.","category":"Europe","type":"COUNTRY","url":"countries/armenia.html"},{"heading":"Azerbaijan","title":"Azerbaijan Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Azerbaijan.","category":"Europe","type":"COUNTRY","url":"countries/azerbaijan.html"},{"heading":"Georgia","title":"Georgia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Georgia.","category":"Europe","type":"COUNTRY","url":"countries/georgia.html"},{"heading":"Greenland","title":"Greenland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Greenland.","category":"Europe","type":"COUNTRY","url":"countries/greenland.html"},{"heading":"New Caledonia","title":"New Caledonia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for New Caledonia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/new-caledonia.html"},{"heading":"Abkhazia","title":"Abkhazia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Abkhazia.","category":"Europe","type":"COUNTRY","url":"countries/abkhazia.html"},{"heading":"South Ossetia","title":"South Ossetia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Ossetia.","category":"Europe","type":"COUNTRY","url":"countries/south-ossetia.html"},{"heading":"Northern Cyprus","title":"Northern Cyprus Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Northern Cyprus.","category":"Europe","type":"COUNTRY","url":"countries/northern-cyprus.html"},{"heading":"Somaliland","title":"Somaliland Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Somaliland.","category":"Africa","type":"COUNTRY","url":"countries/somaliland.html"},{"heading":"Transnistria","title":"Transnistria Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Transnistria.","category":"Europe","type":"COUNTRY","url":"countries/transnistria.html"},{"heading":"Western Sahara (SADR)","title":"Western Sahara (SADR) Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Western Sahara (SADR).","category":"Africa","type":"COUNTRY","url":"countries/western-sahara.html"},{"heading":"Aruba","title":"Aruba Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Aruba.","category":"Americas","type":"COUNTRY","url":"countries/aruba.html"},{"heading":"Faroe Islands","title":"Faroe Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Faroe Islands.","category":"Europe","type":"COUNTRY","url":"countries/faroe-islands.html"},{"heading":"Sint Maarten","title":"Sint Maarten Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sint Maarten.","category":"Americas","type":"COUNTRY","url":"countries/sint-maarten.html"},{"heading":"Saint Martin (French)","title":"Saint Martin (French) Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Martin (French).","category":"Americas","type":"COUNTRY","url":"countries/saint-martin-french.html"},{"heading":"Saint Barthelemy","title":"Saint Barthelemy Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Barthelemy.","category":"Americas","type":"COUNTRY","url":"countries/saint-barthelemy.html"},{"heading":"Saint Pierre and Miquelon","title":"Saint Pierre and Miquelon Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Pierre and Miquelon.","category":"Americas","type":"COUNTRY","url":"countries/saint-pierre-and-miquelon.html"},{"heading":"Anguilla","title":"Anguilla Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Anguilla.","category":"Americas","type":"COUNTRY","url":"countries/anguilla.html"},{"heading":"Montserrat","title":"Montserrat Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Montserrat.","category":"Americas","type":"COUNTRY","url":"countries/montserrat.html"},{"heading":"Cook Islands","title":"Cook Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cook Islands.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/cook-islands.html"},{"heading":"Niue","title":"Niue Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Niue.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/niue.html"},{"heading":"Solomon Islands","title":"Solomon Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Solomon Islands.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/solomon-islands.html"},{"heading":"Tonga","title":"Tonga Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tonga.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/tonga.html"},{"heading":"Kiribati","title":"Kiribati Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kiribati.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/kiribati.html"},{"heading":"Tuvalu","title":"Tuvalu Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tuvalu.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/tuvalu.html"},{"heading":"Marshall Islands","title":"Marshall Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Marshall Islands.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/marshall-islands.html"},{"heading":"Palau","title":"Palau Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Palau.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/palau.html"},{"heading":"Micronesia (Federated States of)","title":"Micronesia (Federated States of) Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Micronesia (Federated States of).","category":"Asia-Pacific","type":"COUNTRY","url":"countries/micronesia.html"},{"heading":"Nauru","title":"Nauru Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nauru.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/nauru.html"},{"heading":"Wallis and Futuna","title":"Wallis and Futuna Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Wallis and Futuna.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/wallis-and-futuna.html"},{"heading":"French Polynesia","title":"French Polynesia Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for French Polynesia.","category":"Asia-Pacific","type":"COUNTRY","url":"countries/french-polynesia.html"},{"heading":"Falkland Islands","title":"Falkland Islands Tax Guide","desc":"Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Falkland Islands.","category":"Americas","type":"COUNTRY","url":"countries/falkland-islands.html"}]}
+{
+  "meta": {
+    "total": 257
+  },
+  "pages": [
+    {
+      "heading": "Home",
+      "title": "Global Tax Guide - Tax Rates for Every Country",
+      "desc": "The full jurisdiction directory, region filters, and site overview.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "index.html"
+    },
+    {
+      "heading": "Interactive Map",
+      "title": "World Tax Map",
+      "desc": "Click any country on the map to jump straight to its tax guide.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "map.html"
+    },
+    {
+      "heading": "Special Tax Zones",
+      "title": "Special Tax Zones & Enclaves",
+      "desc": "Free ports, financial centres, and low-tax enclaves that run different rules from their parent country - Labuan, Madeira, DMCC, JAFZA, and more.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "zones.html"
+    },
+    {
+      "heading": "Unions & Trade Zones",
+      "title": "Unions & Trade Zones",
+      "desc": "EU VAT directive, CARICOM, CIS, USMCA and other multi-country tax and trade frameworks.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "unions.html"
+    },
+    {
+      "heading": "Trusted Resources",
+      "title": "Trusted Resources",
+      "desc": "Primary sources and Big Four/second-tier guides used throughout this site: IRS, GOV.UK, PwC, EY, Deloitte, KPMG.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "trusted-resources.html"
+    },
+    {
+      "heading": "About",
+      "title": "About Global Tax Guide",
+      "desc": "Who built this site, how the data is sourced, and what it isn't.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "about.html"
+    },
+    {
+      "heading": "Mission",
+      "title": "Our Mission",
+      "desc": "Why Global Tax Guide exists and what it's trying to be.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "mission.html"
+    },
+    {
+      "heading": "Disclaimer",
+      "title": "Disclaimer",
+      "desc": "Full legal disclaimer for Global Tax Guide.",
+      "category": "Site",
+      "type": "PAGE",
+      "url": "disclaimer.html"
+    },
+    {
+      "heading": "Algeria",
+      "title": "Algeria Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Algeria.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/algeria.html"
+    },
+    {
+      "heading": "Angola",
+      "title": "Angola Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Angola.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/angola.html"
+    },
+    {
+      "heading": "Benin",
+      "title": "Benin Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Benin.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/benin.html"
+    },
+    {
+      "heading": "Botswana",
+      "title": "Botswana Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Botswana.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/botswana.html"
+    },
+    {
+      "heading": "Burkina Faso",
+      "title": "Burkina Faso Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Burkina Faso.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/burkina-faso.html"
+    },
+    {
+      "heading": "Burundi",
+      "title": "Burundi Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Burundi.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/burundi.html"
+    },
+    {
+      "heading": "Cabo Verde",
+      "title": "Cabo Verde Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cabo Verde.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/cabo-verde.html"
+    },
+    {
+      "heading": "Cameroon",
+      "title": "Cameroon Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cameroon.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/cameroon.html"
+    },
+    {
+      "heading": "Central African Republic",
+      "title": "Central African Republic Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Central African Republic.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/central-african-republic.html"
+    },
+    {
+      "heading": "Chad",
+      "title": "Chad Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Chad.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/chad.html"
+    },
+    {
+      "heading": "Comoros",
+      "title": "Comoros Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Comoros.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/comoros.html"
+    },
+    {
+      "heading": "Congo (Republic)",
+      "title": "Congo (Republic) Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Congo (Republic).",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/congo-republic.html"
+    },
+    {
+      "heading": "Congo (DRC)",
+      "title": "Congo (DRC) Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Congo (DRC).",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/congo-drc.html"
+    },
+    {
+      "heading": "Cote d'Ivoire",
+      "title": "Cote d'Ivoire Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cote d'Ivoire.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/cote-divoire.html"
+    },
+    {
+      "heading": "Djibouti",
+      "title": "Djibouti Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Djibouti.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/djibouti.html"
+    },
+    {
+      "heading": "Egypt",
+      "title": "Egypt Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Egypt.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/egypt.html"
+    },
+    {
+      "heading": "Equatorial Guinea",
+      "title": "Equatorial Guinea Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Equatorial Guinea.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/equatorial-guinea.html"
+    },
+    {
+      "heading": "Eritrea",
+      "title": "Eritrea Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Eritrea.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/eritrea.html"
+    },
+    {
+      "heading": "Eswatini",
+      "title": "Eswatini Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Eswatini.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/eswatini.html"
+    },
+    {
+      "heading": "Ethiopia",
+      "title": "Ethiopia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ethiopia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/ethiopia.html"
+    },
+    {
+      "heading": "Gabon",
+      "title": "Gabon Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Gabon.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/gabon.html"
+    },
+    {
+      "heading": "Gambia",
+      "title": "Gambia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Gambia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/gambia.html"
+    },
+    {
+      "heading": "Ghana",
+      "title": "Ghana Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ghana.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/ghana.html"
+    },
+    {
+      "heading": "Guinea",
+      "title": "Guinea Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guinea.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/guinea.html"
+    },
+    {
+      "heading": "Guinea-Bissau",
+      "title": "Guinea-Bissau Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guinea-Bissau.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/guinea-bissau.html"
+    },
+    {
+      "heading": "Kenya",
+      "title": "Kenya Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kenya.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/kenya.html"
+    },
+    {
+      "heading": "Lesotho",
+      "title": "Lesotho Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Lesotho.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/lesotho.html"
+    },
+    {
+      "heading": "Liberia",
+      "title": "Liberia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Liberia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/liberia.html"
+    },
+    {
+      "heading": "Libya",
+      "title": "Libya Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Libya.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/libya.html"
+    },
+    {
+      "heading": "Madagascar",
+      "title": "Madagascar Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Madagascar.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/madagascar.html"
+    },
+    {
+      "heading": "Malawi",
+      "title": "Malawi Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Malawi.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/malawi.html"
+    },
+    {
+      "heading": "Mali",
+      "title": "Mali Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mali.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/mali.html"
+    },
+    {
+      "heading": "Mauritania",
+      "title": "Mauritania Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mauritania.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/mauritania.html"
+    },
+    {
+      "heading": "Mauritius",
+      "title": "Mauritius Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mauritius.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/mauritius.html"
+    },
+    {
+      "heading": "Morocco",
+      "title": "Morocco Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Morocco.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/morocco.html"
+    },
+    {
+      "heading": "Mozambique",
+      "title": "Mozambique Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mozambique.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/mozambique.html"
+    },
+    {
+      "heading": "Namibia",
+      "title": "Namibia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Namibia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/namibia.html"
+    },
+    {
+      "heading": "Niger",
+      "title": "Niger Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Niger.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/niger.html"
+    },
+    {
+      "heading": "Nigeria",
+      "title": "Nigeria Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nigeria.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/nigeria.html"
+    },
+    {
+      "heading": "Rwanda",
+      "title": "Rwanda Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Rwanda.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/rwanda.html"
+    },
+    {
+      "heading": "Sao Tome and Principe",
+      "title": "Sao Tome and Principe Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sao Tome and Principe.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/sao-tome-and-principe.html"
+    },
+    {
+      "heading": "Senegal",
+      "title": "Senegal Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Senegal.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/senegal.html"
+    },
+    {
+      "heading": "Seychelles",
+      "title": "Seychelles Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Seychelles.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/seychelles.html"
+    },
+    {
+      "heading": "Sierra Leone",
+      "title": "Sierra Leone Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sierra Leone.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/sierra-leone.html"
+    },
+    {
+      "heading": "Somalia",
+      "title": "Somalia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Somalia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/somalia.html"
+    },
+    {
+      "heading": "South Africa",
+      "title": "South Africa Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Africa.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/south-africa.html"
+    },
+    {
+      "heading": "South Sudan",
+      "title": "South Sudan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Sudan.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/south-sudan.html"
+    },
+    {
+      "heading": "Sudan",
+      "title": "Sudan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sudan.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/sudan.html"
+    },
+    {
+      "heading": "Tanzania",
+      "title": "Tanzania Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tanzania.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/tanzania.html"
+    },
+    {
+      "heading": "Togo",
+      "title": "Togo Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Togo.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/togo.html"
+    },
+    {
+      "heading": "Tunisia",
+      "title": "Tunisia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tunisia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/tunisia.html"
+    },
+    {
+      "heading": "Uganda",
+      "title": "Uganda Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Uganda.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/uganda.html"
+    },
+    {
+      "heading": "Zambia",
+      "title": "Zambia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Zambia.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/zambia.html"
+    },
+    {
+      "heading": "Zimbabwe",
+      "title": "Zimbabwe Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Zimbabwe.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/zimbabwe.html"
+    },
+    {
+      "heading": "Antigua and Barbuda",
+      "title": "Antigua and Barbuda Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Antigua and Barbuda.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/antigua-and-barbuda.html"
+    },
+    {
+      "heading": "Argentina",
+      "title": "Argentina Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Argentina.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/argentina.html"
+    },
+    {
+      "heading": "Bahamas",
+      "title": "Bahamas Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bahamas.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/bahamas.html"
+    },
+    {
+      "heading": "Barbados",
+      "title": "Barbados Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Barbados.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/barbados.html"
+    },
+    {
+      "heading": "Belize",
+      "title": "Belize Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Belize.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/belize.html"
+    },
+    {
+      "heading": "Bermuda",
+      "title": "Bermuda Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bermuda.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/bermuda.html"
+    },
+    {
+      "heading": "Bolivia",
+      "title": "Bolivia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bolivia.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/bolivia.html"
+    },
+    {
+      "heading": "Brazil",
+      "title": "Brazil Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Brazil.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/brazil.html"
+    },
+    {
+      "heading": "British Virgin Islands",
+      "title": "British Virgin Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for British Virgin Islands.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/british-virgin-islands.html"
+    },
+    {
+      "heading": "Canada",
+      "title": "Canada Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Canada.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/canada.html"
+    },
+    {
+      "heading": "Cayman Islands",
+      "title": "Cayman Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cayman Islands.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/cayman-islands.html"
+    },
+    {
+      "heading": "Chile",
+      "title": "Chile Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Chile.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/chile.html"
+    },
+    {
+      "heading": "Colombia",
+      "title": "Colombia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Colombia.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/colombia.html"
+    },
+    {
+      "heading": "Costa Rica",
+      "title": "Costa Rica Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Costa Rica.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/costa-rica.html"
+    },
+    {
+      "heading": "Cuba",
+      "title": "Cuba Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cuba.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/cuba.html"
+    },
+    {
+      "heading": "Dominica",
+      "title": "Dominica Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Dominica.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/dominica.html"
+    },
+    {
+      "heading": "Dominican Republic",
+      "title": "Dominican Republic Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Dominican Republic.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/dominican-republic.html"
+    },
+    {
+      "heading": "Ecuador",
+      "title": "Ecuador Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ecuador.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/ecuador.html"
+    },
+    {
+      "heading": "El Salvador",
+      "title": "El Salvador Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for El Salvador.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/el-salvador.html"
+    },
+    {
+      "heading": "Grenada",
+      "title": "Grenada Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Grenada.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/grenada.html"
+    },
+    {
+      "heading": "Guatemala",
+      "title": "Guatemala Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guatemala.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/guatemala.html"
+    },
+    {
+      "heading": "Guyana",
+      "title": "Guyana Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guyana.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/guyana.html"
+    },
+    {
+      "heading": "Haiti",
+      "title": "Haiti Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Haiti.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/haiti.html"
+    },
+    {
+      "heading": "Honduras",
+      "title": "Honduras Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Honduras.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/honduras.html"
+    },
+    {
+      "heading": "Jamaica",
+      "title": "Jamaica Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Jamaica.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/jamaica.html"
+    },
+    {
+      "heading": "Mexico",
+      "title": "Mexico Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mexico.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/mexico.html"
+    },
+    {
+      "heading": "Nicaragua",
+      "title": "Nicaragua Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nicaragua.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/nicaragua.html"
+    },
+    {
+      "heading": "Panama",
+      "title": "Panama Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Panama.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/panama.html"
+    },
+    {
+      "heading": "Paraguay",
+      "title": "Paraguay Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Paraguay.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/paraguay.html"
+    },
+    {
+      "heading": "Peru",
+      "title": "Peru Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Peru.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/peru.html"
+    },
+    {
+      "heading": "Puerto Rico",
+      "title": "Puerto Rico Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Puerto Rico.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/puerto-rico.html"
+    },
+    {
+      "heading": "Saint Kitts and Nevis",
+      "title": "Saint Kitts and Nevis Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Kitts and Nevis.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/saint-kitts-and-nevis.html"
+    },
+    {
+      "heading": "Saint Lucia",
+      "title": "Saint Lucia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Lucia.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/saint-lucia.html"
+    },
+    {
+      "heading": "Saint Vincent and the Grenadines",
+      "title": "Saint Vincent and the Grenadines Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Vincent and the Grenadines.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/saint-vincent-and-the-grenadines.html"
+    },
+    {
+      "heading": "Suriname",
+      "title": "Suriname Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Suriname.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/suriname.html"
+    },
+    {
+      "heading": "Trinidad and Tobago",
+      "title": "Trinidad and Tobago Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Trinidad and Tobago.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/trinidad-and-tobago.html"
+    },
+    {
+      "heading": "Turks and Caicos",
+      "title": "Turks and Caicos Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Turks and Caicos.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/turks-and-caicos.html"
+    },
+    {
+      "heading": "United States",
+      "title": "United States Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for United States.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/united-states.html"
+    },
+    {
+      "heading": "Uruguay",
+      "title": "Uruguay Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Uruguay.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/uruguay.html"
+    },
+    {
+      "heading": "Venezuela",
+      "title": "Venezuela Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Venezuela.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/venezuela.html"
+    },
+    {
+      "heading": "Afghanistan",
+      "title": "Afghanistan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Afghanistan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/afghanistan.html"
+    },
+    {
+      "heading": "Australia",
+      "title": "Australia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Australia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/australia.html"
+    },
+    {
+      "heading": "Bangladesh",
+      "title": "Bangladesh Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bangladesh.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/bangladesh.html"
+    },
+    {
+      "heading": "Bhutan",
+      "title": "Bhutan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bhutan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/bhutan.html"
+    },
+    {
+      "heading": "Brunei",
+      "title": "Brunei Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Brunei.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/brunei.html"
+    },
+    {
+      "heading": "Cambodia",
+      "title": "Cambodia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cambodia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/cambodia.html"
+    },
+    {
+      "heading": "China",
+      "title": "China Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for China.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/china.html"
+    },
+    {
+      "heading": "Fiji",
+      "title": "Fiji Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Fiji.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/fiji.html"
+    },
+    {
+      "heading": "Hong Kong SAR",
+      "title": "Hong Kong SAR Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Hong Kong SAR.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/hong-kong-sar.html"
+    },
+    {
+      "heading": "India",
+      "title": "India Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for India.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/india.html"
+    },
+    {
+      "heading": "Indonesia",
+      "title": "Indonesia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Indonesia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/indonesia.html"
+    },
+    {
+      "heading": "Japan",
+      "title": "Japan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Japan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/japan.html"
+    },
+    {
+      "heading": "Kazakhstan",
+      "title": "Kazakhstan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kazakhstan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/kazakhstan.html"
+    },
+    {
+      "heading": "Kyrgyzstan",
+      "title": "Kyrgyzstan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kyrgyzstan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/kyrgyzstan.html"
+    },
+    {
+      "heading": "Laos",
+      "title": "Laos Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Laos.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/laos.html"
+    },
+    {
+      "heading": "Macau SAR",
+      "title": "Macau SAR Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Macau SAR.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/macau-sar.html"
+    },
+    {
+      "heading": "Malaysia",
+      "title": "Malaysia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Malaysia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/malaysia.html"
+    },
+    {
+      "heading": "Maldives",
+      "title": "Maldives Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Maldives.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/maldives.html"
+    },
+    {
+      "heading": "Mongolia",
+      "title": "Mongolia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mongolia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/mongolia.html"
+    },
+    {
+      "heading": "Myanmar",
+      "title": "Myanmar Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Myanmar.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/myanmar.html"
+    },
+    {
+      "heading": "Nepal",
+      "title": "Nepal Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nepal.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/nepal.html"
+    },
+    {
+      "heading": "New Zealand",
+      "title": "New Zealand Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for New Zealand.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/new-zealand.html"
+    },
+    {
+      "heading": "North Korea",
+      "title": "North Korea Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for North Korea.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/north-korea.html"
+    },
+    {
+      "heading": "Pakistan",
+      "title": "Pakistan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Pakistan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/pakistan.html"
+    },
+    {
+      "heading": "Papua New Guinea",
+      "title": "Papua New Guinea Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Papua New Guinea.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/papua-new-guinea.html"
+    },
+    {
+      "heading": "Philippines",
+      "title": "Philippines Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Philippines.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/philippines.html"
+    },
+    {
+      "heading": "Samoa",
+      "title": "Samoa Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Samoa.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/samoa.html"
+    },
+    {
+      "heading": "Singapore",
+      "title": "Singapore Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Singapore.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/singapore.html"
+    },
+    {
+      "heading": "South Korea",
+      "title": "South Korea Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Korea.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/south-korea.html"
+    },
+    {
+      "heading": "Sri Lanka",
+      "title": "Sri Lanka Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sri Lanka.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/sri-lanka.html"
+    },
+    {
+      "heading": "Taiwan",
+      "title": "Taiwan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Taiwan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/taiwan.html"
+    },
+    {
+      "heading": "Tajikistan",
+      "title": "Tajikistan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tajikistan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/tajikistan.html"
+    },
+    {
+      "heading": "Thailand",
+      "title": "Thailand Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Thailand.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/thailand.html"
+    },
+    {
+      "heading": "Timor-Leste",
+      "title": "Timor-Leste Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Timor-Leste.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/timor-leste.html"
+    },
+    {
+      "heading": "Turkmenistan",
+      "title": "Turkmenistan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Turkmenistan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/turkmenistan.html"
+    },
+    {
+      "heading": "Uzbekistan",
+      "title": "Uzbekistan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Uzbekistan.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/uzbekistan.html"
+    },
+    {
+      "heading": "Vanuatu",
+      "title": "Vanuatu Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Vanuatu.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/vanuatu.html"
+    },
+    {
+      "heading": "Vietnam",
+      "title": "Vietnam Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Vietnam.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/vietnam.html"
+    },
+    {
+      "heading": "Albania",
+      "title": "Albania Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Albania.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/albania.html"
+    },
+    {
+      "heading": "Andorra",
+      "title": "Andorra Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Andorra.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/andorra.html"
+    },
+    {
+      "heading": "Austria",
+      "title": "Austria Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Austria.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/austria.html"
+    },
+    {
+      "heading": "Belarus",
+      "title": "Belarus Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Belarus.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/belarus.html"
+    },
+    {
+      "heading": "Belgium",
+      "title": "Belgium Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Belgium.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/belgium.html"
+    },
+    {
+      "heading": "Bosnia and Herzegovina",
+      "title": "Bosnia and Herzegovina Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bosnia and Herzegovina.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/bosnia-and-herzegovina.html"
+    },
+    {
+      "heading": "Bulgaria",
+      "title": "Bulgaria Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bulgaria.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/bulgaria.html"
+    },
+    {
+      "heading": "Croatia",
+      "title": "Croatia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Croatia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/croatia.html"
+    },
+    {
+      "heading": "Cyprus",
+      "title": "Cyprus Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cyprus.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/cyprus.html"
+    },
+    {
+      "heading": "Czech Republic",
+      "title": "Czech Republic Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Czech Republic.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/czech-republic.html"
+    },
+    {
+      "heading": "Denmark",
+      "title": "Denmark Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Denmark.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/denmark.html"
+    },
+    {
+      "heading": "Estonia",
+      "title": "Estonia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Estonia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/estonia.html"
+    },
+    {
+      "heading": "Finland",
+      "title": "Finland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Finland.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/finland.html"
+    },
+    {
+      "heading": "France",
+      "title": "France Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for France.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/france.html"
+    },
+    {
+      "heading": "Germany",
+      "title": "Germany Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Germany.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/germany.html"
+    },
+    {
+      "heading": "Gibraltar",
+      "title": "Gibraltar Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Gibraltar.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/gibraltar.html"
+    },
+    {
+      "heading": "Greece",
+      "title": "Greece Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Greece.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/greece.html"
+    },
+    {
+      "heading": "Guernsey",
+      "title": "Guernsey Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guernsey.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/guernsey.html"
+    },
+    {
+      "heading": "Hungary",
+      "title": "Hungary Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Hungary.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/hungary.html"
+    },
+    {
+      "heading": "Iceland",
+      "title": "Iceland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Iceland.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/iceland.html"
+    },
+    {
+      "heading": "Ireland",
+      "title": "Ireland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ireland.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/ireland.html"
+    },
+    {
+      "heading": "Isle of Man",
+      "title": "Isle of Man Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Isle of Man.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/isle-of-man.html"
+    },
+    {
+      "heading": "Italy",
+      "title": "Italy Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Italy.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/italy.html"
+    },
+    {
+      "heading": "Jersey",
+      "title": "Jersey Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Jersey.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/jersey.html"
+    },
+    {
+      "heading": "Kosovo",
+      "title": "Kosovo Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kosovo.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/kosovo.html"
+    },
+    {
+      "heading": "Latvia",
+      "title": "Latvia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Latvia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/latvia.html"
+    },
+    {
+      "heading": "Liechtenstein",
+      "title": "Liechtenstein Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Liechtenstein.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/liechtenstein.html"
+    },
+    {
+      "heading": "Lithuania",
+      "title": "Lithuania Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Lithuania.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/lithuania.html"
+    },
+    {
+      "heading": "Luxembourg",
+      "title": "Luxembourg Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Luxembourg.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/luxembourg.html"
+    },
+    {
+      "heading": "Malta",
+      "title": "Malta Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Malta.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/malta.html"
+    },
+    {
+      "heading": "Moldova",
+      "title": "Moldova Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Moldova.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/moldova.html"
+    },
+    {
+      "heading": "Monaco",
+      "title": "Monaco Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Monaco.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/monaco.html"
+    },
+    {
+      "heading": "Montenegro",
+      "title": "Montenegro Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Montenegro.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/montenegro.html"
+    },
+    {
+      "heading": "Netherlands",
+      "title": "Netherlands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Netherlands.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/netherlands.html"
+    },
+    {
+      "heading": "North Macedonia",
+      "title": "North Macedonia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for North Macedonia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/north-macedonia.html"
+    },
+    {
+      "heading": "Norway",
+      "title": "Norway Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Norway.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/norway.html"
+    },
+    {
+      "heading": "Poland",
+      "title": "Poland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Poland.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/poland.html"
+    },
+    {
+      "heading": "Portugal",
+      "title": "Portugal Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Portugal.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/portugal.html"
+    },
+    {
+      "heading": "Romania",
+      "title": "Romania Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Romania.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/romania.html"
+    },
+    {
+      "heading": "Russia",
+      "title": "Russia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Russia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/russia.html"
+    },
+    {
+      "heading": "San Marino",
+      "title": "San Marino Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for San Marino.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/san-marino.html"
+    },
+    {
+      "heading": "Serbia",
+      "title": "Serbia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Serbia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/serbia.html"
+    },
+    {
+      "heading": "Slovakia",
+      "title": "Slovakia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Slovakia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/slovakia.html"
+    },
+    {
+      "heading": "Slovenia",
+      "title": "Slovenia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Slovenia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/slovenia.html"
+    },
+    {
+      "heading": "Spain",
+      "title": "Spain Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Spain.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/spain.html"
+    },
+    {
+      "heading": "Sweden",
+      "title": "Sweden Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sweden.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/sweden.html"
+    },
+    {
+      "heading": "Switzerland",
+      "title": "Switzerland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Switzerland.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/switzerland.html"
+    },
+    {
+      "heading": "Ukraine",
+      "title": "Ukraine Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Ukraine.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/ukraine.html"
+    },
+    {
+      "heading": "United Kingdom",
+      "title": "United Kingdom Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for United Kingdom.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/united-kingdom.html"
+    },
+    {
+      "heading": "Vatican City",
+      "title": "Vatican City Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Vatican City.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/vatican-city.html"
+    },
+    {
+      "heading": "Bahrain",
+      "title": "Bahrain Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bahrain.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/bahrain.html"
+    },
+    {
+      "heading": "Iran",
+      "title": "Iran Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Iran.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/iran.html"
+    },
+    {
+      "heading": "Iraq",
+      "title": "Iraq Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Iraq.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/iraq.html"
+    },
+    {
+      "heading": "Israel",
+      "title": "Israel Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Israel.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/israel.html"
+    },
+    {
+      "heading": "Jordan",
+      "title": "Jordan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Jordan.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/jordan.html"
+    },
+    {
+      "heading": "Kuwait",
+      "title": "Kuwait Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kuwait.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/kuwait.html"
+    },
+    {
+      "heading": "Lebanon",
+      "title": "Lebanon Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Lebanon.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/lebanon.html"
+    },
+    {
+      "heading": "Oman",
+      "title": "Oman Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Oman.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/oman.html"
+    },
+    {
+      "heading": "Palestine",
+      "title": "Palestine Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Palestine.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/palestine.html"
+    },
+    {
+      "heading": "Qatar",
+      "title": "Qatar Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Qatar.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/qatar.html"
+    },
+    {
+      "heading": "Saudi Arabia",
+      "title": "Saudi Arabia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saudi Arabia.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/saudi-arabia.html"
+    },
+    {
+      "heading": "Syria",
+      "title": "Syria Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Syria.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/syria.html"
+    },
+    {
+      "heading": "Turkiye (Turkey)",
+      "title": "Turkiye (Turkey) Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Turkiye (Turkey).",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/turkiye.html"
+    },
+    {
+      "heading": "United Arab Emirates",
+      "title": "United Arab Emirates Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for United Arab Emirates.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/united-arab-emirates.html"
+    },
+    {
+      "heading": "Yemen",
+      "title": "Yemen Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Yemen.",
+      "category": "Middle East",
+      "type": "COUNTRY",
+      "url": "countries/yemen.html"
+    },
+    {
+      "heading": "Armenia",
+      "title": "Armenia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Armenia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/armenia.html"
+    },
+    {
+      "heading": "Azerbaijan",
+      "title": "Azerbaijan Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Azerbaijan.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/azerbaijan.html"
+    },
+    {
+      "heading": "Georgia",
+      "title": "Georgia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Georgia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/georgia.html"
+    },
+    {
+      "heading": "Greenland",
+      "title": "Greenland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Greenland.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/greenland.html"
+    },
+    {
+      "heading": "New Caledonia",
+      "title": "New Caledonia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for New Caledonia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/new-caledonia.html"
+    },
+    {
+      "heading": "Abkhazia",
+      "title": "Abkhazia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Abkhazia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/abkhazia.html"
+    },
+    {
+      "heading": "South Ossetia",
+      "title": "South Ossetia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for South Ossetia.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/south-ossetia.html"
+    },
+    {
+      "heading": "Northern Cyprus",
+      "title": "Northern Cyprus Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Northern Cyprus.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/northern-cyprus.html"
+    },
+    {
+      "heading": "Somaliland",
+      "title": "Somaliland Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Somaliland.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/somaliland.html"
+    },
+    {
+      "heading": "Transnistria",
+      "title": "Transnistria Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Transnistria.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/transnistria.html"
+    },
+    {
+      "heading": "Western Sahara (SADR)",
+      "title": "Western Sahara (SADR) Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Western Sahara (SADR).",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/western-sahara.html"
+    },
+    {
+      "heading": "Aruba",
+      "title": "Aruba Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Aruba.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/aruba.html"
+    },
+    {
+      "heading": "Faroe Islands",
+      "title": "Faroe Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Faroe Islands.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/faroe-islands.html"
+    },
+    {
+      "heading": "Sint Maarten",
+      "title": "Sint Maarten Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Sint Maarten.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/sint-maarten.html"
+    },
+    {
+      "heading": "Saint Martin (French)",
+      "title": "Saint Martin (French) Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Martin (French).",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/saint-martin-french.html"
+    },
+    {
+      "heading": "Saint Barthelemy",
+      "title": "Saint Barthelemy Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Barthelemy.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/saint-barthelemy.html"
+    },
+    {
+      "heading": "Saint Pierre and Miquelon",
+      "title": "Saint Pierre and Miquelon Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Pierre and Miquelon.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/saint-pierre-and-miquelon.html"
+    },
+    {
+      "heading": "Anguilla",
+      "title": "Anguilla Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Anguilla.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/anguilla.html"
+    },
+    {
+      "heading": "Montserrat",
+      "title": "Montserrat Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Montserrat.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/montserrat.html"
+    },
+    {
+      "heading": "Cook Islands",
+      "title": "Cook Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cook Islands.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/cook-islands.html"
+    },
+    {
+      "heading": "Niue",
+      "title": "Niue Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Niue.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/niue.html"
+    },
+    {
+      "heading": "Solomon Islands",
+      "title": "Solomon Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Solomon Islands.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/solomon-islands.html"
+    },
+    {
+      "heading": "Tonga",
+      "title": "Tonga Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tonga.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/tonga.html"
+    },
+    {
+      "heading": "Kiribati",
+      "title": "Kiribati Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Kiribati.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/kiribati.html"
+    },
+    {
+      "heading": "Tuvalu",
+      "title": "Tuvalu Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tuvalu.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/tuvalu.html"
+    },
+    {
+      "heading": "Marshall Islands",
+      "title": "Marshall Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Marshall Islands.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/marshall-islands.html"
+    },
+    {
+      "heading": "Palau",
+      "title": "Palau Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Palau.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/palau.html"
+    },
+    {
+      "heading": "Micronesia (Federated States of)",
+      "title": "Micronesia (Federated States of) Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Micronesia (Federated States of).",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/micronesia.html"
+    },
+    {
+      "heading": "Nauru",
+      "title": "Nauru Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Nauru.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/nauru.html"
+    },
+    {
+      "heading": "Wallis and Futuna",
+      "title": "Wallis and Futuna Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Wallis and Futuna.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/wallis-and-futuna.html"
+    },
+    {
+      "heading": "French Polynesia",
+      "title": "French Polynesia Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for French Polynesia.",
+      "category": "Asia-Pacific",
+      "type": "COUNTRY",
+      "url": "countries/french-polynesia.html"
+    },
+    {
+      "heading": "Falkland Islands",
+      "title": "Falkland Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Falkland Islands.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/falkland-islands.html"
+    },
+    {
+      "heading": "Aland Islands",
+      "title": "Aland Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Aland Islands.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/aland-islands.html"
+    },
+    {
+      "heading": "American Samoa",
+      "title": "American Samoa Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for American Samoa.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/american-samoa.html"
+    },
+    {
+      "heading": "Bonaire, Sint Eustatius and Saba",
+      "title": "Bonaire, Sint Eustatius and Saba Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Bonaire, Sint Eustatius and Saba.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/bonaire-sint-eustatius-saba.html"
+    },
+    {
+      "heading": "British Indian Ocean Territory",
+      "title": "British Indian Ocean Territory Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for British Indian Ocean Territory.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/british-indian-ocean-territory.html"
+    },
+    {
+      "heading": "Christmas Island",
+      "title": "Christmas Island Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Christmas Island.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/christmas-island.html"
+    },
+    {
+      "heading": "Cocos (Keeling) Islands",
+      "title": "Cocos (Keeling) Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Cocos (Keeling) Islands.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/cocos-keeling-islands.html"
+    },
+    {
+      "heading": "Curacao",
+      "title": "Curacao Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Curacao.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/curacao.html"
+    },
+    {
+      "heading": "French Guiana",
+      "title": "French Guiana Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for French Guiana.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/french-guiana.html"
+    },
+    {
+      "heading": "Guadeloupe",
+      "title": "Guadeloupe Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guadeloupe.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/guadeloupe.html"
+    },
+    {
+      "heading": "Guam",
+      "title": "Guam Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Guam.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/guam.html"
+    },
+    {
+      "heading": "Martinique",
+      "title": "Martinique Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Martinique.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/martinique.html"
+    },
+    {
+      "heading": "Mayotte",
+      "title": "Mayotte Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Mayotte.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/mayotte.html"
+    },
+    {
+      "heading": "Norfolk Island",
+      "title": "Norfolk Island Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Norfolk Island.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/norfolk-island.html"
+    },
+    {
+      "heading": "Northern Mariana Islands",
+      "title": "Northern Mariana Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Northern Mariana Islands.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/northern-mariana-islands.html"
+    },
+    {
+      "heading": "Pitcairn Islands",
+      "title": "Pitcairn Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Pitcairn Islands.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/pitcairn-islands.html"
+    },
+    {
+      "heading": "Reunion",
+      "title": "Reunion Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Reunion.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/reunion.html"
+    },
+    {
+      "heading": "Saint Helena, Ascension and Tristan da Cunha",
+      "title": "Saint Helena, Ascension and Tristan da Cunha Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Saint Helena, Ascension and Tristan da Cunha.",
+      "category": "Africa",
+      "type": "COUNTRY",
+      "url": "countries/saint-helena-ascension-and-tristan-da-cunha.html"
+    },
+    {
+      "heading": "Svalbard",
+      "title": "Svalbard Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Svalbard.",
+      "category": "Europe",
+      "type": "COUNTRY",
+      "url": "countries/svalbard.html"
+    },
+    {
+      "heading": "Tokelau",
+      "title": "Tokelau Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for Tokelau.",
+      "category": "Oceania",
+      "type": "COUNTRY",
+      "url": "countries/tokelau.html"
+    },
+    {
+      "heading": "US Virgin Islands",
+      "title": "US Virgin Islands Tax Guide",
+      "desc": "Corporate tax, personal tax, residency, CFC rules, and VAT/GST rate for US Virgin Islands.",
+      "category": "Americas",
+      "type": "COUNTRY",
+      "url": "countries/us-virgin-islands.html"
+    }
+  ]
+}
