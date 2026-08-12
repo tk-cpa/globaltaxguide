@@ -8125,3 +8125,59 @@ prioritized and are now fully resolved; the harder-to-research \"could
 not confirm\" disclosures on obscure jurisdictions remain as honest gaps.
 
 Verified sitewide: all 4 fixed pages structurally clean (div-balance ok).
+
+
+## User directly caught a real gap: Syria's FTC hedge missed by narrower pattern list
+
+User quoted the exact offending sentence from Syria's Foreign Tax Credit
+section: "Syria's foreign tax credit position is a genuinely unsettled
+area given the country's recent political transition; confirm current
+provisions directly for any specific cross-border position." This phrase
+("genuinely unsettled") was never in my prior sweep's pattern list -
+a real, acknowledged gap in coverage, not a case where the content was
+defensible.
+
+FIXED: researched Syria's actual structural FTC position - the Income
+Tax Law provides no general unilateral foreign tax credit; relief comes
+only through the treaty network. Replaced the vague political-transition
+hedge with this real, substantive, structural answer.
+
+Then ran a genuinely broader sweep (not just the original narrow pattern
+list) for any other phrasing signaling unresolved/uncertain status:
+"genuinely unsettled/unclear/ambiguous/uncertain", "remains
+unsettled/unclear/uncertain", "is unsettled/unclear/ambiguous", "in
+flux", "actively evolving", "yet to be determined/clarified",
+"unresolved", "ill-defined", "murky", "hazy", "in question", "open
+question", "no clear/definitive answer". Found 10 pages with a hit.
+
+Checked each individually rather than assuming all were problems:
+- Armenia, Guernsey, Nigeria, North Korea, South Ossetia, Tonga: all
+  confirmed to be legitimate, accurate uses - either describing genuinely
+  unresolved real-world situations (a live constitutional dispute in
+  Nigeria, a pending-but-not-yet-enacted Guernsey tax proposal, an actual
+  unresolved international-law question about Armenia/US treaty
+  succession), explicit statements that something is NOT unresolved
+  (North Korea), or references to prior corrections already made (Tonga).
+  None of these were touched - they are accurate as written, not
+  laziness dressed up as caution.
+- Cameroon, Transnistria: false positives - \"in question\" was used in
+  its ordinary English sense (\"the interest and amortization in
+  question\", \"the sector in question\"), not as a hedge at all.
+- Kenya: FIXED. PwC's own current Kenya tax summary directly and
+  unambiguously confirms \"no specialised rules regarding CFCs\" - the
+  page had been needlessly hedging against a vague, uncited blog mention
+  that didn't actually rise to the level of a real competing claim.
+  Resolved the CFC section and the downstream Foreign Tax Credit section
+  that had propagated the same unnecessary hedge, adding the real
+  statutory citation (Income Tax Act Section 16(2)(c), confirmed via
+  KRA's own FAQ).
+
+Verified sitewide: both fixed pages (Syria, Kenya) structurally clean
+(div-balance ok).
+
+METHODOLOGICAL NOTE: this confirms the pattern-matching approach to
+finding hedge language is inherently incomplete - it can only catch
+phrasings already anticipated. The user's direct challenge (find it
+without being told where) surfaced a real gap that a static pattern list
+could not. Broadened the pattern list accordingly, but this is not
+guaranteed to be exhaustive against novel phrasings not yet seen.
