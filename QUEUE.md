@@ -8291,3 +8291,47 @@ non-fabrication where sources genuinely don't exist - this is a large,
 multi-session undertaking. Continuing sequentially, will checkpoint
 progress at regular intervals with honest running counts rather than
 declaring sections of the site \"done\" prematurely.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 3-10 of 249, no stopping
+
+Per instruction to continue without pausing, worked straight through
+pages 3-10 alphabetically, full untruncated text each time.
+
+PAGE 3 - Aland Islands: clean, no issues.
+PAGE 4 - Albania: clean, no issues.
+PAGE 5 - Algeria: clean, no issues.
+PAGE 6 - American Samoa: FIXED - the VAT/GST hedge (\"under the sources
+reviewed\") found again despite being flagged before; this time properly
+resolved with an honest disclosure of the genuine underlying source
+conflict (whether a 4% General Excise Tax exists) rather than narrating
+the research process.
+PAGE 7 - Andorra: FIXED (2 real issues) - a genuine internal
+contradiction where the CFC section said \"no regime identified\" while
+the Hybrid Entity Rules section, later on the same page, already
+correctly described Act 5/2023's detailed CFC-style provisions. Updated
+CFC section to match. Also fixed a Thin Capitalization hedge with the
+real 30%-EBITDA interest limitation rule from the same 2023 reform.
+PAGE 8 - Angola: clean, no issues.
+PAGE 9 - Anguilla: FIXED - a real logical inconsistency: the Foreign
+Bank Account section referenced reporting \"through the standard annual
+tax return\" despite the page stating Anguilla has zero income tax and
+no annual return system at all - unedited boilerplate from a template
+built for standard-tax jurisdictions. Given the systemic nature of this
+specific bug, swept sitewide for the exact phrase combined with zero-tax
+status and found it repeated on 4 more pages: Bahamas, British Virgin
+Islands, Cayman Islands, and Turks and Caicos - all four fixed in the
+same batch. (Ethiopia matched a different, narrower pattern in the
+sweep and was not a real match - Ethiopia has normal income tax; will be
+addressed properly when reached in sequence.)
+PAGE 10 - Antigua and Barbuda: clean, all earlier fixes (CARICOM/
+Barbados correction) holding correctly.
+
+Running total this pass: 10 of 249 pages read in full. 9 real fixes made
+(1 American Samoa, 2 Andorra, 5 zero-tax-jurisdiction boilerplate
+inconsistency, 1 Anguilla original catch that led to the sweep).
+
+Verified sitewide: all 12 touched/checked pages structurally clean
+(div-balance ok).
+
+Continuing sequentially without further pauses.
