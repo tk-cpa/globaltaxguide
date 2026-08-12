@@ -7601,3 +7601,79 @@ Verified sitewide: 0 div-balance issues across all 20 pages.
 ## PROGRESS: 80 of ~109 remaining countries in the post-mexico range now
 have their first genuine full-section read. Continuing immediately with
 the next batch (thailand onward) to finish this remaining scope.
+
+
+## *** FULL SITE WORD-BY-WORD AUDIT COMPLETE: ALL 249 COUNTRY PAGES *** 
+
+FINAL BATCH: thailand through zimbabwe (29 countries, completing the site).
+
+FIXED (2 real issues):
+- Togo: replaced a genuinely vague Treaty Network ("bilateral tax
+  agreements with certain other jurisdictions") with the actual named
+  partners - France, Tunisia, Switzerland - plus full WAEMU membership
+  list, sourced from Fortune of Africa Togo and France's own treaty
+  registry.
+- United Arab Emirates: found a broken sentence in the CFC section - "no
+  Controlled Foreign Company regime and Chambers and Partners" was a
+  mangled, truncated citation. Fixed to properly attribute the source.
+  Swept the whole site afterward for the same "regime and [Source Name]."
+  broken-citation pattern - zero further instances found.
+
+CONFIRMED GENUINELY CLEAN after full 14-section reads: Thailand, Timor-
+Leste, Tokelau, Tonga, Transnistria (exceptionally well-sourced given its
+unrecognized status), Trinidad and Tobago, Tunisia, Turkiye, Turkmenistan,
+Turks and Caicos, Tuvalu (actively corrects other sources' errors with
+primary citations - a model page), Uganda, Ukraine, United Kingdom,
+United States, Uruguay (re-verified, earlier fix holding), US Virgin
+Islands, Uzbekistan, Vanuatu (re-verified, earlier excellent treatment
+still holding), Vatican City, Venezuela, Vietnam, Wallis and Futuna,
+Western Sahara (handles disputed sovereignty status with real care),
+Yemen, Zambia (re-verified, earlier Mauritius correction holding),
+Zimbabwe (re-verified, earlier precision fix holding).
+
+## SESSION-WIDE SUMMARY: every one of the 249 country pages on
+globaltaxguide.com has now been read section-by-section (all 14 sections:
+Tax System, Tax Year, Corporate Rate, Personal Rate, VAT/GST, Residency,
+Permanent Establishment, CFC Rules, Thin Capitalization, Hybrid Entity
+Rules, Foreign Bank Account Reporting, Participation Exemption, Foreign
+Tax Credit, Treaty Network) rather than spot-checked or pattern-matched.
+
+Real issues found and fixed across the complete word-by-word pass
+(counting from when this stricter methodology began): approximately 40
+distinct fixes, spanning several genuinely different bug categories:
+- Vague/unsupported treaty-count language resolved to specific, named,
+  sourced figures (the single largest category)
+- Outright factual errors (Kenya's treaty count overstated by more than
+  double; Bolivia wrongly described as having terminated treaties that
+  are actually still in force; Zambia wrongly listing a non-partner)
+- Wrong-jurisdiction mix-ups (Somalia citing Somaliland's authority link)
+- A systemic legal-system mischaracterization affecting 3 countries
+  (Gambia, Sierra Leone, Liberia wrongly described as Francophone/French-
+  derived when they are common-law jurisdictions)
+- A recurring content-templating bug affecting 5 countries (Estonia,
+  Latvia, Lithuania, Slovakia, and the root cause pattern in Cyprus) where
+  Participation Exemption sections opened with a stray, unrelated CFC-rule
+  sentence
+- Genuinely broken/truncated sentences and orphaned fragments (Indonesia,
+  Gibraltar, UAE)
+- Internal contradictions between sections on the same page (Haiti's
+  corporate rate)
+- Stale cross-references after institutional renames (Nigeria/NRS,
+  Somalia/ITA 2025)
+- Dangling references to unnamed antecedents (Kazakhstan's "this reform")
+- Institutional renames requiring substantive updates, not just link
+  fixes (Argentina AFIP->ARCA, Nigeria FIRS->NRS)
+
+FINAL SITEWIDE VERIFICATION (fresh fetch of all 249 pages, run just now):
+248/249 still 14-section complete (Saudi Arabia remains the one
+confirmed-intentional structural exception, documented in earlier
+sessions), 0 div-balance issues anywhere on the site, 0 em-dashes
+anywhere on the site.
+
+This closes out the full word-by-word audit requested. The authority-
+link verification workstream (individually confirming each Official Tax
+Authority citation via direct fetch, not just search) remains a separate,
+partially-completed effort from earlier in this session - roughly 53 of
+85 originally-flagged links were individually re-confirmed; that specific
+sub-task was not the focus of this final push and could be resumed
+separately if wanted.
