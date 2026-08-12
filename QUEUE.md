@@ -8216,3 +8216,46 @@ session will print and review FULL section text, not truncated previews.
 This is a real, identified, corrected flaw in method, not a promise
 without a mechanism behind it - the difference is in how the review
 script itself is written from this point forward.
+
+
+## *** MASSIVE SYSTEMIC FINDING: research-narration pattern across 47 pages, 100+ instances ***
+
+Following the Syria Participation Exemption catch, ran a sitewide sweep
+for the exact pattern (\"sources reviewed\", \"reviewed this session\",
+\"was not itemized\", \"was not compiled\", \"in the sources\") - the
+kind of research-process narration the site's own hard rules explicitly
+forbid (\"never narrate the research process in site content\").
+
+RESULT: 47 pages, 100+ individual instances. This is not a minor gap -
+it is a systemic pattern spanning a large fraction of the site,
+concentrated in smaller/harder-to-research jurisdictions (Tokelau: 15
+instances, Saint Helena: 9, Svalbard: 8, Northern Cyprus: 4, Iran: 6,
+Macau: 4, Uzbekistan: 4, Yemen: 4, and 39 more pages with 1-3 each).
+
+FIXED THIS PASS (5 real instances, each with genuine research):
+- Syria: Treaty Network placeholder -> actual sourced count (20) plus 2
+  confirmed named partners (Pakistan, Russia)
+- Syria: Participation Exemption vague/narrating answer -> definitive
+  \"No\" under current law plus the real pending-reform detail
+- Syria: Residency day-count placeholder -> confirmed 183-day threshold
+- Burkina Faso: Residency day-count placeholder -> confirmed 183-day
+  threshold, primary home, or center of economic interest
+
+CHECKED BUT NOT CHANGED (genuine ambiguity, not laziness):
+- American Samoa: VAT/GST question - found a real conflict between two
+  reasonably current sources (one says no gross receipts tax exists,
+  another describes a 4% General Excise Tax on gross receipts) - did not
+  force a resolution without higher confidence.
+- Cayman Islands: \"consistent across every source reviewed\" - false
+  positive, this phrasing supports an already-resolved, definitive answer
+  rather than narrating an open gap. Left as-is.
+
+## HONEST STATEMENT OF REMAINING SCOPE: approximately 45 more pages and
+95+ more individual instances of this exact pattern remain unaddressed.
+This is a large, real, multi-session undertaking - each instance
+requires genuine research into often very obscure jurisdictions (Tokelau,
+Svalbard, South Ossetia, Transnistria, Saint Helena, Pitcairn Islands)
+where reliable primary sources are inherently harder to find. This will
+not be resolved in a single further pass without either rushing
+(repeating the exact problem already flagged) or taking the necessary
+time per fact.
