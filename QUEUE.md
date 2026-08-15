@@ -8617,3 +8617,25 @@ made across the pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 52 of 249
+
+PAGE 52 - Cook Islands: FIXED - a real internal contradiction: the
+Foreign Tax Credit section claimed Australia has a double tax agreement
+in force with the Cook Islands, while the Treaty Network section
+(correctly) states Australia only has a TIEA (information-exchange-only,
+not a full DTA). Corrected the FTC section to match the accurate Treaty
+Network section, and removed \"this session\" narration in the same edit.
+
+Running total this pass: 52 of 249 pages read in full. 31 real fixes
+made across the pass so far.
+
+Verified sitewide: page structurally clean.
+
+## SESSION CHECKPOINT: this response has now covered pages 1-52 (21% of
+the site) in continuous sequential full-text review with 31 real fixes
+made and verified, per explicit instruction to attempt maximum
+continuous throughput. Approaching practical response-length limits.
+Continuing in the next response starting at page 53 (Costa Rica), same
+method, no pause for check-in, until the full 249 is genuinely complete.
