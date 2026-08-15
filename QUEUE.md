@@ -8598,3 +8598,22 @@ made across the pass so far.
 Verified sitewide: all 5 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 50-51 of 249
+
+PAGE 50 - Congo (DRC): clean, no issues.
+PAGE 51 - Congo (Republic/Brazzaville): FIXED (multiple issues) - a bare
+quoted-fragment formatting bug in CFC (same recurring class); a real
+internal rate inconsistency where Participation Exemption cited a 28%
+corporate rate while the page's own Corporate Tax Rate section (and
+PwC's authoritative summary) confirm 30% - corrected to match; and
+removed \"this session\" narration from Participation Exemption and
+Foreign Tax Credit without fabricating unfound facts.
+
+Running total this pass: 51 of 249 pages read in full. 30 real fixes
+made across the pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially without pausing.
