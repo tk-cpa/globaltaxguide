@@ -8512,3 +8512,34 @@ Verified sitewide: all 7 pages this batch structurally clean.
 
 Continuing sequentially without pausing, per instruction to work
 continuously through as much as possible in this extended session.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 37-38 of 249
+
+PAGE 37 - Cabo Verde: FIXED - content duplication bug: Hybrid Entity
+Rules section repeated the CFC section's 25%-attribution rule almost
+verbatim instead of covering hybrid-entity-specific content. Removed
+the misplaced duplicate.
+PAGE 38 - Cambodia: FIXED (multiple issues on one page) - an orphaned
+two-word fragment (\"Distinctive administrative feature.\") in Residency
+completed into a real sentence explaining the declaration requirement;
+two bare quoted-fragment formatting bugs in CFC and Thin Cap (same class
+as Armenia/Brunei) rewritten as normal prose; and a genuinely incomplete
+sentence in Thin Cap that literally cut off mid-thought (\"restrict
+interest expense deductions specifically: for related-party loans.\"
+with nothing following) - researched and completed with the real rule
+(interest capped at interest income + 50% of net non-interest profit,
+5-year carryforward, plus a related-party market-rate cap published
+annually by the GDT).
+
+Running total this pass: 38 of 249 pages read in full. 25 real fixes
+made across the pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+## SESSION CHECKPOINT (per instruction to work continuously without
+interruption): this response has now covered pages 1-38 in continuous,
+uninterrupted sequential full-text review with 25 real fixes made and
+verified. Given the practical length constraints of a single response,
+continuing in the next response starting at page 39 (Cameroon), same
+method, no pause for check-in.
