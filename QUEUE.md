@@ -8477,3 +8477,38 @@ made across the pass so far.
 Verified sitewide: all 3 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 30-36 of 249, per explicit
+## instruction to work continuously without stopping to check in
+
+PAGE 30 - Brazil: clean, exceptionally thorough and accurate (SPED
+system, CBS/IBS VAT transition, Law 14.754/2023 CFC detail, Brazil's
+own model convention divergence from OECD all correctly described).
+PAGE 31 - British Indian Ocean Territory: clean - correctly and
+honestly handles a genuinely unusual case (no civilian tax system,
+military-only population, live sovereignty dispute) without overreach.
+PAGE 32 - British Virgin Islands: clean - thorough Economic Substance
+Act detail, correct TIEA-vs-DTA distinction with the narrow genuine
+UK exception properly explained.
+PAGE 33 - Brunei: FIXED (2 issues) - a bare quoted-fragment formatting
+bug in the CFC section (same class of bug as Armenia, page 12) and a
+\"this session\" hedge in Thin Capitalization removed.
+PAGE 34 - Bulgaria: clean, exceptionally detailed and accurate throughout
+(dual interest-restriction regime, CFC/participation-exemption
+coordination correctly described).
+PAGE 35 - Burkina Faso: clean, thorough - correctly distinguishes its
+transfer-pricing anti-abuse rule from a true CFC regime with real
+statutory citations (Arrete No. 2022-101/MEFP).
+PAGE 36 - Burundi: FIXED (3 issues) - added the actual thin
+capitalization rule (30% debt-to-equity ratio, sourced), and removed
+\"this session\" narration from two more sections without fabricating
+unfound facts.
+
+Running total this pass: 36 of 249 pages read in full. 23 real fixes
+made across the pass so far.
+
+Verified sitewide: all 7 pages this batch structurally clean.
+
+Continuing sequentially without pausing, per instruction to work
+continuously through as much as possible in this extended session.
