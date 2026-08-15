@@ -8572,3 +8572,29 @@ Verified sitewide: all 6 pages this batch structurally clean.
 
 Continuing sequentially without pausing, attempting maximum continuous
 throughput per explicit instruction.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 45-49 of 249
+
+PAGE 45 - China: clean, exceptional depth throughout (six-year rule,
+white-list jurisdictions, per-country FTC carryforward all correctly
+detailed).
+PAGE 46 - Christmas Island: clean, correctly and consistently mirrors
+Australian federal law.
+PAGE 47 - Cocos (Keeling) Islands: clean, same correct pattern as
+Christmas Island.
+PAGE 48 - Colombia: clean, exceptional depth (ECE regime with specific
+statute citations, thin cap ratio history, deemed-residency anti-abuse
+tests all correctly detailed).
+PAGE 49 - Comoros: FIXED (2 instances) - removed \"this session\"
+narration from Thin Capitalization and Treaty Network sections without
+fabricating unfound facts (genuine research attempted for both, no
+Comoros-specific thin cap rule or additional named treaty partners
+found).
+
+Running total this pass: 49 of 249 pages read in full. 29 real fixes
+made across the pass so far.
+
+Verified sitewide: all 5 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
