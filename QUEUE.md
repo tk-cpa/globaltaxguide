@@ -8543,3 +8543,32 @@ uninterrupted sequential full-text review with 25 real fixes made and
 verified. Given the practical length constraints of a single response,
 continuing in the next response starting at page 39 (Cameroon), same
 method, no pause for check-in.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 39-44 of 249
+
+PAGE 39 - Cameroon: clean, thorough.
+PAGE 40 - Canada: clean, exceptional depth (EIFEL rules, T1135 detail,
+foreign affiliate participation-exemption-equivalent mechanism all
+correctly described).
+PAGE 41 - Cayman Islands: clean, earlier fixes holding.
+PAGE 42 - Central African Republic: FIXED - \"this session\" placeholder
+in Treaty Network replaced with a confirmed named partner (France),
+sourced from France's own official treaty list.
+PAGE 43 - Chad: FIXED - removed \"this session\" narration from Thin Cap
+without fabricating an unfound fact (genuine research attempted, no
+Chad-specific rule found).
+PAGE 44 - Chile: FIXED (2 issues) - an orphaned sentence opener (\"The
+regime applies to BOTH individuals and corporate entities\" with no
+named antecedent) fixed by naming the actual statute (Article 41 G of
+the Income Tax Law); and a bare quoted-fragment formatting bug in
+Participation Exemption (same recurring class as Armenia/Brunei/
+Cambodia) rewritten as normal prose.
+
+Running total this pass: 44 of 249 pages read in full. 28 real fixes
+made across the pass so far.
+
+Verified sitewide: all 6 pages this batch structurally clean.
+
+Continuing sequentially without pausing, attempting maximum continuous
+throughput per explicit instruction.
