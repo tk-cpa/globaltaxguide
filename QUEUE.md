@@ -8692,3 +8692,20 @@ made across the pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 58 of 249
+
+PAGE 58 - Cyprus: FIXED - the imprecise \"more than 65-67\" treaty count
+tightened to a specific, well-corroborated figure (67 in force, 71
+total entries per the Ministry of Finance's own official list), plus a
+useful confirmed detail (no comprehensive US treaty). Earlier
+Participation Exemption fix from this session confirmed still holding
+correctly.
+
+Running total this pass: 58 of 249 pages read in full. 35 real fixes
+made across the pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
