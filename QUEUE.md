@@ -8709,3 +8709,35 @@ made across the pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 59-61 of 249
+
+PAGE 59 - Czech Republic: clean, exceptional depth (Section 38fa CFC
+specifics, EBITDA carryforward rules, Belarus treaty suspension detail
+all correctly described).
+PAGE 60 - Denmark: clean, exceptional depth (three-layer interest
+restriction regime, Ligningsloven Section 33 FTC citation, one-third
+income-composition CFC test all correctly described).
+PAGE 61 - Djibouti: FIXED (3 issues), including one significant process
+finding - a personal tax rate hedge that was FIXED EARLIER IN THIS SAME
+SESSION was found reverted to its original unfixed state on this later
+re-read. Re-applied the fix with a fresh fetch/SHA and immediately
+re-verified it persisted this time (confirmed via a second fetch after
+a delay). This is a concrete example of why every fix in this pass gets
+re-verified rather than assumed permanent - a real, if isolated,
+regression was caught and corrected rather than being missed a second
+time. Also added confirmed named treaty partners (France, Ethiopia,
+Somalia) to the approximate count, and removed \"this session\" narration
+from Thin Capitalization. (Reviewed a possible worldwide-vs-territorial
+inconsistency between Residency and CFC sections - concluded, based on
+multiple sources, this reflects a genuine and correctly-described split
+between individual treatment (worldwide with FTC) and corporate
+treatment (territorial), not a contradiction - left unchanged.)
+
+Running total this pass: 61 of 249 pages read in full. 38 real fixes
+made across the pass so far.
+
+Verified sitewide: all 3 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
