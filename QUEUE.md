@@ -8639,3 +8639,37 @@ made and verified, per explicit instruction to attempt maximum
 continuous throughput. Approaching practical response-length limits.
 Continuing in the next response starting at page 53 (Costa Rica), same
 method, no pause for check-in, until the full 249 is genuinely complete.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 53-56 of 249
+
+PAGE 53 - Costa Rica: clean, correctly explains territorial-system
+nuances (2023 economic-substance exception, treaty non-applicability to
+untaxed foreign income).
+PAGE 54 - Cote d'Ivoire: FIXED - a genuine content error, not just
+vagueness: the page stated Ivorian tax administration was \"coordinated
+by PwC Ghana as of April 2025\" - this conflated which PwC regional
+office authored a secondary source with an actual claim about the
+country's government tax administration. Corrected to the real
+authority (DGI). Swept sitewide for the same source-metadata-leaking
+pattern - found no further instances, isolated to this page.
+PAGE 55 - Croatia: clean, exceptional depth (dual interest-restriction
+regime, MoF-published safe-harbor rate, pending US/Australia/NZ treaty
+status all correctly detailed).
+PAGE 56 - Cuba: FIXED (significant) - the Foreign Tax Credit section
+said the topic was \"a genuinely narrow and technical area\" without
+answering it. Found the real answer directly in Cuba's own primary tax
+statute (Ley 113, Del Sistema Tributario): Cuban entities may deduct
+foreign tax paid on the same income, capped at the Cuban tax otherwise
+due - an ordinary FTC written directly into the law. Replaced the hedge
+with this primary-source-confirmed answer. (Treaty Network's existing
+honest disclosure - Spain confirmed, other claimed partners not
+independently verified - was left as-is, being a defensible disclosure
+rather than laziness.)
+
+Running total this pass: 56 of 249 pages read in full. 33 real fixes
+made across the pass so far.
+
+Verified sitewide: all 4 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
