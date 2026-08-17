@@ -8673,3 +8673,22 @@ made across the pass so far.
 Verified sitewide: all 4 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 57 of 249
+
+PAGE 57 - Curacao: FIXED (significant) - Thin Capitalization said
+\"no rule identified in the sources reviewed.\" Researched properly and
+found real detail: a 1:3 debt-to-equity thin capitalization rule on
+debt owed to tax-exempt group companies, plus specific base-erosion
+interest-deduction denials (profit distributions, capital repayments,
+related-party share acquisitions) with a genuine-business-reasons/
+reasonable-rate carve-out. Confirmed across multiple current
+professional sources (Mondaq, Lexology).
+
+Running total this pass: 57 of 249 pages read in full. 34 real fixes
+made across the pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
