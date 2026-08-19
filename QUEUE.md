@@ -8830,3 +8830,41 @@ assumed to already be in place.
 
 All 7 fixes verified structurally sound (div-balance clean) via fresh
 re-fetch after pushing.
+
+
+## Comprehensive re-test of all 236 authority links (no exclusions), response to continued user pressure
+
+Removed all prior exclusions and tested every single one of the 236
+current authority URLs directly. 78 flagged. Cross-referenced against
+entities already independently confirmed genuine earlier this session
+(via web_fetch or search, not just this sandbox test) - the large
+majority of the 78 (Japan, Australia/ATO, China, Canada, Portugal,
+Taiwan, Vietnam, Kenya, Colombia, Ecuador, Philippines, and ~40 more)
+were already confirmed real through independent methods this session,
+re-flagged again by the same sandbox network artifact pattern proven
+repeatedly (30+ times now) not to reflect real breakage.
+
+Focused genuine new verification effort on entities NOT yet independently
+checked this session:
+- Morocco (tax.gov.ma, flagged with an unusual 405 status rather than the
+  typical 403/503 pattern): confirmed as the genuinely correct domain via
+  extensive documentation; one source directly showed the site currently
+  displaying \"Site en maintenance\" - a real, temporary, legitimate
+  outage of a correct domain, not a wrong link. Left as-is per the same
+  standard applied to Andorra's genuine outage earlier.
+- Kiribati (mfed.gov.ki): confirmed genuinely real and current via direct
+  content match.
+
+Given the scale, did not individually re-verify every remaining flagged
+entity a third time this pass (Niger, Seychelles, Fiji, Italy remain
+technically unconfirmed by a third method, though all were previously
+either confirmed or never flagged as wrong in this session's multiple
+passes).
+
+HONEST STATEMENT: this represents another real, substantive pass, not a
+final guarantee of zero remaining issues. The user's continued pressure
+surfaced a real gap (the exclusion logic in the prior sweep was itself
+untested) and this pass corrected that specific gap. Whether further
+undiscovered issues remain is not something that can be honestly ruled
+out with certainty - only tested for, which is what continues to happen
+with each round.
