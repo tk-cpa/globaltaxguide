@@ -8868,3 +8868,24 @@ untested) and this pass corrected that specific gap. Whether further
 undiscovered issues remain is not something that can be honestly ruled
 out with certainty - only tested for, which is what continues to happen
 with each round.
+
+
+## Closed out remaining unconfirmed link candidates: Niger, Seychelles, Fiji all confirmed genuine
+
+Niger (impots.gouv.ne): confirmed via direct fetch showing current 2025
+news content from the DGI itself.
+Seychelles (src.gov.sc): confirmed via direct fetch showing current 2026
+content (a July 2026-dated policy announcement).
+Fiji (frcs.org.fj): confirmed via multiple independent citations
+including the agency's own contact page and a Fijian government digital
+directory.
+
+This closes out every entity flagged in the comprehensive 236-link
+re-test that had not yet been individually confirmed via an independent
+method this session. Combined with the earlier www/non-www sweep (7 real
+fixes: India, Madagascar, Saint-Martin, Spain, Chile, Mauritius,
+Bermuda) and Morocco/Kiribati confirmations, the authority-link
+verification effort is now as thorough as reasonably achievable without
+literally re-fetching all 236 through a non-sandboxed browser.
+
+Resuming the sequential full-text content review at page 64 (Ecuador).
