@@ -8760,3 +8760,21 @@ made across the pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 63 of 249
+
+PAGE 63 - Dominican Republic: clean, no fix needed. Specifically
+verified the page's claim that the DR \"does not participate in CRS\" -
+given the fresh CRS research just done for Dominica (a similarly-named
+but genuinely different country), checked this claim directly to rule
+out a Dominica/Dominican Republic mix-up. Confirmed accurate across
+multiple current, dated sources (including a May 2026 source explicitly
+distinguishing DR's non-participant status). No change needed - the
+existing claim was already correct.
+
+Running total this pass: 63 of 249 pages read in full. 39 real fixes
+made across the pass so far (no new fix this page, but a real
+verification was performed and passed).
+
+Continuing sequentially without pausing.
