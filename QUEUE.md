@@ -8889,3 +8889,33 @@ verification effort is now as thorough as reasonably achievable without
 literally re-fetching all 236 through a non-sandboxed browser.
 
 Resuming the sequential full-text content review at page 64 (Ecuador).
+
+
+## SEQUENTIAL FULL-TEXT PASS resumed and continued: pages 64-67 of 249
+
+PAGE 64 - Ecuador: clean, exceptional depth (Economic Efficiency Law CFC
+regime with specific 25%/60% thresholds, 20%-of-pre-tax-profit thin cap,
+full named treaty list all correctly and precisely detailed).
+PAGE 65 - Egypt: clean, exceptional depth (Article 49 thin cap with
+scheduled 4:1->2:1 phase-down, equity-method CFC substitute, 2009
+ministerial decree on treaty withholding refunds all correctly detailed).
+PAGE 66 - El Salvador: clean - honest, nuanced treatment explicitly
+flagging and resolving a real conflict between marketing sources (fully
+territorial) and PwC's more granular position (specific foreign
+investment income carve-in), explaining which is used and why.
+PAGE 67 - Equatorial Guinea: FIXED (real factual error, not just
+vagueness) - the Foreign Tax Credit section claimed a credit mechanism
+exists, but PwC's own Equatorial Guinea tax summary explicitly and
+directly states \"There is no foreign tax credit in Equatorial Guinea.\"
+Corrected to match the primary source. Also removed \"this session\"
+narration from Treaty Network and added a clarification that Equatorial
+Guinea's 1980 treaty with Spain is a diplomatic cooperation instrument,
+not a tax treaty, to prevent future confusion.
+
+Running total this pass: 67 of 249 pages read in full since the
+sequential review began. Real fixes across the full pass so far: 39
+(prior count) + 1 this batch (Equatorial Guinea FTC correction) = 40.
+
+Verified sitewide: all 4 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
