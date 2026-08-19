@@ -8919,3 +8919,34 @@ sequential review began. Real fixes across the full pass so far: 39
 Verified sitewide: all 4 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 68 of 249
+
+PAGE 68 - Eritrea: FIXED (6 instances on one page) - the single most
+hedge-dense page found so far this pass. Did real research despite
+Eritrea's genuine international isolation and found:
+- Corporate rate: resolved 30% vs 33% discrepancy to 30%, confirmed via
+  multiple sources including a direct citation to Article 20 of the
+  Income Tax Proclamation No. 103/1994; the 33% figure traces to a
+  single uncorroborated source.
+- Personal rate: replaced \"2% to 30-33%\" with the actual full bracket
+  structure (0/5/10/15/20/30% across specific ERN thresholds), and
+  clarified that the often-cited \"2%\" figure is actually a SEPARATE
+  diaspora tax on citizens abroad (Proclamation No. 67/1995), not the
+  bottom rate of the domestic bracket structure - a genuine clarification
+  that resolves an apparent inconsistency rather than just averaging it
+  away.
+- Tax System: resolved the assessment-mechanism hedge with a confirmed
+  self-assessment answer.
+- Thin Cap, Participation Exemption, Treaty Network: removed remaining
+  \"this session\"/\"sources reviewed\" narration language without
+  fabricating facts that genuinely could not be found despite real
+  research attempts.
+
+Running total this pass: 68 of 249 pages read in full. 46 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
