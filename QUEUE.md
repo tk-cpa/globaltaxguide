@@ -8741,3 +8741,22 @@ made across the pass so far.
 Verified sitewide: all 3 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 62 of 249
+
+PAGE 62 - Dominica: FIXED - the Foreign Bank Account section said
+Dominica's CRS/AEOI status \"was not confirmed from a primary source
+this session.\" Researched properly and found a direct, authoritative
+answer: the OECD's own CRS Multilateral Competent Authority Agreement
+signatory list confirms Dominica signed on April 25, 2019, with first
+exchanges beginning September 2020, implemented via Dominica's own
+Automatic Exchange of Financial Account Information Act. Replaced the
+hedge with this specific, primary-source-confirmed answer.
+
+Running total this pass: 62 of 249 pages read in full. 39 real fixes
+made across the pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
