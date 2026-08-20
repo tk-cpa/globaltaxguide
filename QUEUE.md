@@ -8973,3 +8973,23 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 70 of 249
+
+PAGE 70 - Eswatini: FIXED - a real internal date inconsistency: Tax
+System stated the corporate rate cut (27.5%->25%) applies to year-ends
+after December 31, 2024, while the Corporate Tax Rate section separately
+stated July 1, 2024 for the same change. Researched and confirmed via
+PwC's own current Eswatini summary that December 31, 2024 is the correct
+specific date for this rate change; July 1, 2024 was the effective date
+for the broader reform package it was part of. Corrected the Corporate
+Tax Rate section to match the accurate date and added the clarifying
+context about the broader reform timing.
+
+Running total this pass: 70 of 249 pages read in full. 48 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
