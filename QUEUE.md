@@ -8950,3 +8950,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 69 of 249
+
+PAGE 69 - Estonia: FIXED - an apparent internal contradiction between
+Tax System (\"Estonia raised its standard distribution tax rate as part
+of recent reforms\") and Residency (\"22%... after a legislated increase
+to 24% was cancelled\"). Researched the full timeline with extensive
+current sourcing (EY, Grant Thornton, EMTA, PwC, and several dated 2026
+professional guides all converging): a genuine 20%->22% increase took
+effect January 1, 2025, and a SEPARATE further-planned increase to 24%
+for 2026 was legislated in June 2025 then cancelled in December 2025 -
+both are real, sequential, correctly-described events, not a
+contradiction, but the vague original phrasing made it read like one.
+Rewrote with explicit dates so the two statements are unambiguous and
+mutually reinforcing rather than appearing to conflict.
+
+Running total this pass: 69 of 249 pages read in full. 47 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
