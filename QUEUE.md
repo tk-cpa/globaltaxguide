@@ -9072,3 +9072,26 @@ Verified sitewide: all 7 pages touched or checked this batch
 structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 78 of 249
+
+PAGE 78 - French Polynesia: FIXED (2 instances) - this page is an
+exemplar of the site's best rigor: it actively identifies and corrects
+a wrong claim from a lower-quality source (that PF residents benefit
+from France's 120+ DTA network) using primary-source PwC reasoning about
+overseas territories being treated as foreign territories for
+corporation tax purposes. Removed \"this session\" narration from
+Residency. For Foreign Tax Credit, found real useful context via
+research (Orbitax confirms a domestic unilateral/treaty relief section
+exists in PF's own tax code; HMRC's own Double Taxation Relief Manual
+confirms specific PF taxes are admissible for UK-side unilateral relief)
+and incorporated it honestly, while being clear about what remains
+unconfirmed rather than overstating the finding.
+
+Running total this pass: 78 of 249 pages read in full. 53 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
