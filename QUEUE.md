@@ -9039,3 +9039,36 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 75-77 of 249, plus a real
+## error found and fixed sitewide across 4 additional pages
+
+PAGE 75 - Finland: clean, exceptional depth (2019 CFC amendment with
+3/5-of-Finnish-rate threshold, EUR 500k/25% EBITDA interest limitation,
+5-year FTC carryforward all correctly detailed).
+PAGE 76 - France: clean, exceptional depth (Article 209B CFC, 2019 ATAD
+interest reform replacing three separate prior mechanisms, mixed
+exemption-with-progression/credit FTC methodology, real current treaty
+status detail including the Russia suspension and unratified Belgium/
+Finland/Rwanda/Cyprus treaties).
+PAGE 77 - French Guiana: FIXED (real error, then found sitewide) - the
+Foreign Bank Account section wrongly stated no reporting regime exists,
+directly contradicting both (a) France's own page, read immediately
+before this one, which confirms a genuine Form 3916 disclosure
+requirement, and (b) this very page's own consistent logic stating it
+\"follows mainland France in full\" for every other section. This was a
+real, identifiable content error, not just a hedge. Given the pattern,
+checked all other full French overseas department pages and found the
+identical error on 4 more: Guadeloupe, Martinique, Reunion, and Mayotte.
+Fixed all 5 in this batch with the accurate Form 3916 disclosure detail
+(EUR 1,500/10,000 penalty structure, no minimum balance threshold).
+
+Running total this pass: 77 of 249 pages read in full. 52 real fixes
+made across the full sequential pass so far (counting the 5-page French-
+department fix as one systemic fix).
+
+Verified sitewide: all 7 pages touched or checked this batch
+structurally clean.
+
+Continuing sequentially without pausing.
