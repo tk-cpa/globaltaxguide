@@ -9132,3 +9132,29 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued, faster pace: pages 81-84 of 249
+
+Per direct user feedback that one page per turn was too slow, moved
+through 4 pages in this single response rather than 1.
+
+PAGE 81 - Georgia: FIXED - bare quoted-fragment formatting bug in Thin
+Capitalization.
+PAGE 82 - Germany: clean, exceptional depth throughout (AStG CFC
+15%-threshold 2024 change, Zinsschranke interest barrier, Section 8b
+95% participation exemption, per-country FTC limitation all correctly
+detailed).
+PAGE 83 - Ghana: clean - verified an oddly-specific but accurate detail
+(2026 Growth and Sustainability Levy cut on gold from 3% to 1%) against
+multiple current dated news sources; confirmed correct, no fix needed.
+PAGE 84 - Gibraltar: FIXED - removed \"this session\" narration from
+Foreign Tax Credit. Earlier CFC section fix (orphaned \"Specific
+mechanics.\" fragment) confirmed still holding correctly.
+
+Running total this pass: 84 of 249 pages read in full. 57 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all 4 pages this batch structurally clean.
+
+Continuing sequentially at a faster multi-page pace per turn.
