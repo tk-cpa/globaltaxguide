@@ -9020,3 +9020,22 @@ made across the full sequential pass so far.
 Verified sitewide: all 3 pages this batch structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 74 of 249
+
+PAGE 74 - Fiji: FIXED (minor) - exceptionally thorough and well-sourced
+page overall (2:1 thin cap ratio with arm's-length-debt carve-out,
+imputation-style dividend credit system correctly distinguished from a
+true participation exemption, honest treaty-count range explanation).
+Researched Fiji's CRS status specifically - no genuine confirmation
+found despite a real search attempt. Removed \"this session\" narration
+language while preserving the honest disclosure, since fabricating a
+status here would be worse than the accurately-flagged gap.
+
+Running total this pass: 74 of 249 pages read in full. 51 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
