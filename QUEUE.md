@@ -9113,3 +9113,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 80 of 249
+
+PAGE 80 - Gambia: FIXED (3 instances) - bare quoted-fragment formatting
+bug in CFC section; removed \"this session\" narration from Thin Cap; and
+resolved a real internal math contradiction in Treaty Network (stated
+\"approximately 3\" treaties while naming 4 partners in the very same
+sentence). Individually confirmed all 4 named partners (Norway 1997,
+Sweden 1993, Turkey, UK 1982) via primary treaty texts and government
+sources, then corrected the stated count to be internally consistent
+with the evidence actually presented on the page.
+
+Running total this pass: 80 of 249 pages read in full. 55 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
