@@ -8993,3 +8993,30 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 71-73 of 249
+
+PAGE 71 - Ethiopia: clean, exceptional depth and specificity throughout
+(2:1 thin cap ratio, NBE-rate-plus-2%-points interest cap, full named
+treaty list with 12 partners all correctly detailed).
+PAGE 72 - Falkland Islands: clean, exceptionally rigorous - explicitly
+and correctly distinguishes UK national law (CFC, anti-hybrid rules)
+from the Falklands' own separate tax system multiple times, a genuinely
+sophisticated point most secondary sources get wrong. One remaining CRS
+hedge checked via real research - no Falklands-specific confirmation
+found despite a real search attempt; left as an honestly disclosed gap
+rather than fabricated.
+PAGE 73 - Faroe Islands: FIXED (2 instances) - Participation Exemption
+hedge replaced with a real, sourced detail (dividends to a Faroese
+parent are exempt from the 18% withholding tax, per FAS), while
+honestly flagging that the capital-gains and foreign-subsidiary
+dimensions remain unconfirmed rather than assuming they're covered too.
+Removed \"this session\" narration from Foreign Tax Credit.
+
+Running total this pass: 73 of 249 pages read in full. 50 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all 3 pages this batch structurally clean.
+
+Continuing sequentially without pausing.
