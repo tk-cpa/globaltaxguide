@@ -9095,3 +9095,21 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 79 of 249
+
+PAGE 79 - Gabon: FIXED (2 instances) - bare quoted-fragment formatting
+bug in CFC section (the recurring pattern seen on Armenia, Brunei,
+Cambodia, Chile, and Congo-Republic) rewritten as normal prose; removed
+\"this session\" narration from Thin Capitalization. Rest of page is
+strong - specific, dated, sourced Treaty Network with a real recent
+development (Italy treaty entering force Dec 2025/Jan 2026) and full
+CEMAC/OCAM named-partner detail.
+
+Running total this pass: 79 of 249 pages read in full. 54 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially without pausing.
