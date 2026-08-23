@@ -9158,3 +9158,34 @@ made across the full sequential pass so far.
 Verified sitewide: all 4 pages this batch structurally clean.
 
 Continuing sequentially at a faster multi-page pace per turn.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued, full research rigor restored per
+## direct user instruction (\"no compromise whatever\"): pages 85-88 of 249
+
+PAGE 85 - Greece: clean, exceptional depth (ATAD-aligned CFC with
+passive-income-only scope, Article 49 interest limitation, EU Parent-
+Subsidiary Directive participation exemption, real current Sweden
+treaty-termination detail all correctly documented).
+PAGE 86 - Greenland: clean, exceptional depth (2023->2024 thin cap ratio
+change from 2:1 to 4:1 with specific dates, CFC-interest-withholding
+interaction, narrow employee-tax-only treaty network correctly
+distinguished from the 4-country comprehensive network).
+PAGE 87 - Grenada: FIXED (real research, not just wording cleanup) -
+Foreign Tax Credit hedge (\"not confirmed from a primary source this
+session\") resolved via genuine research into a real, substantive,
+sourced answer: Grenada has no general unilateral FTC, but does have a
+specific Commonwealth-relief provision (available where tax was paid in
+a British Commonwealth country providing reciprocal relief) - a real
+mechanism common to many former British colonies' tax codes, not
+previously identified on this page.
+PAGE 88 - Guadeloupe: clean, earlier Foreign Bank Account fix (Form 3916
+disclosure requirement) confirmed still holding correctly.
+
+Running total this pass: 88 of 249 pages read in full. 58 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all pages this batch structurally clean.
+
+Continuing sequentially with full research depth restored, per explicit
+instruction to prioritize completeness over pace.
