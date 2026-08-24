@@ -9189,3 +9189,42 @@ Verified sitewide: all pages this batch structurally clean.
 
 Continuing sequentially with full research depth restored, per explicit
 instruction to prioritize completeness over pace.
+
+
+## Master-prompt quality audit (per direct user request)
+
+Checked recent and sitewide work against the tk.cpa Master Operating
+Framework's explicit hard rules:
+
+- Em-dash rule (Section 0/4A): ran a fresh, comprehensive sitewide check
+  across all 249 pages for both the Unicode em-dash character and the
+  &mdash; HTML entity. RESULT: zero violations found. Clean.
+- Full 4-digit year rule (Section 4A): checked for 2-digit year shorthand
+  patterns. Initial regex hits were all false positives (SVG icon
+  coordinate attributes like x1=\"21\", identical boilerplate across
+  every page, not actual year references). No real violations found.
+- No fabrication / verify-or-flag (Section 3A-B): this has been the
+  standing methodology throughout the sequential pass - every fix this
+  session has been sourced, and genuine research gaps have been left
+  honestly flagged rather than invented.
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 89-90 of 249
+
+PAGE 89 - Guam: clean, exceptionally rigorous (mirror-code mechanism
+correctly explained across every section, real distinction between bona
+fide resident filing obligations and mainland treaty applicability).
+PAGE 90 - Guatemala: clean - a genuinely excellent model of handling a
+real source conflict: Thin Capitalization section explicitly weighs a
+specific, statute-citing law-firm source (3:1 ratio) against a generic,
+uncited aggregator claim (no such rule exists), explains why the more
+specific source is preferred, and still tells the reader to confirm
+directly - exactly the kind of transparent reasoning a partner-level
+review would expect rather than either silently picking one or hedging
+without justification.
+
+Running total this pass: 90 of 249 pages read in full. 58 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages were already high quality).
+
+Continuing sequentially with full research depth and master-prompt
+compliance checks integrated into the ongoing review.
