@@ -9290,3 +9290,30 @@ persisted (given the established regression risk).
 
 Continuing sequentially, multiple pages per turn, full research depth
 maintained throughout.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 96-97 of 249
+
+PAGE 96 - Honduras: FIXED (real logical inconsistency) - Foreign Tax
+Credit section claimed a \"real\" FTC regime exists, directly
+contradicting the page's own correctly-stated territorial system
+(foreign-source income isn't taxed for residents at all, so there's
+little for a credit to relieve). Researched extensively - 5+ independent
+current sources, including a Chambers and Partners practice guide,
+confirm Honduras is genuinely territorial (one outlier source claimed
+worldwide taxation but was internally inconsistent with itself).
+Corrected to the same accurate territorial/FTC framing already used
+correctly on Guatemala's page for the identical situation.
+PAGE 97 - Hong Kong SAR: clean, confirmed the correct pattern for this
+exact situation (territorial system limiting FTC's practical role, with
+the specific 2023 FSIE carve-out properly noted) - validates the fix
+just made on Honduras as consistent with the site's own established
+good practice.
+
+Running total this pass: 97 of 249 pages read in full. 65 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: Honduras fix specifically re-confirmed via a second
+fetch after pushing (given the established regression risk pattern).
+
+Continuing sequentially, multiple pages per turn, full research depth.
