@@ -9251,3 +9251,42 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially with full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued, multi-page single turn per
+## direct instruction: pages 93-95 of 249
+
+PAGE 93 - Guinea-Bissau: FIXED (3 instances) - added confirmed named
+treaty partners (Portugal, via Portugal's own official DTT list; Cabo
+Verde, via Cabo Verde's own PwC-confirmed 3-partner list) to Treaty
+Network; removed \"this session\" narration from Thin Cap; simplified an
+already-answered FTC sentence.
+PAGE 94 - Guyana: FIXED (real internal inconsistency, not just
+vagueness) - Canada was referenced as a confirmed treaty partner in both
+Permanent Establishment and Foreign Tax Credit sections, but missing
+entirely from the Treaty Network summary. Verified the Canada-Guyana
+Income Tax Convention (signed October 15, 1985) is genuinely real and in
+force via Canada's own Department of Finance treaty list, and added it
+to the summary for consistency across the page. Also removed \"this
+session\" narration from Participation Exemption.
+PAGE 95 - Haiti: FIXED (real regression caught and corrected) - the
+Corporate Tax Rate section still read \"30% flat standard rate,\" directly
+contradicting the Tax System section (fixed earlier this session) which
+correctly describes a progressive 10-30% bracket structure. This is the
+second time this exact type of regression has been caught this session
+(the first was Djibouti's personal tax rate) - re-fixed and immediately
+re-verified via a fresh fetch that the correction actually persisted
+this time. Also aligned the Personal Tax Rate line's \"35%\" caveat for
+consistency, and removed \"this session\" narration from Participation
+Exemption and Foreign Tax Credit after genuine research did not surface
+new facts for either.
+
+Running total this pass: 95 of 249 pages read in full. 64 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all 3 pages this batch structurally clean, and
+Haiti's fix specifically re-verified via a second fetch to confirm it
+persisted (given the established regression risk).
+
+Continuing sequentially, multiple pages per turn, full research depth
+maintained throughout.
