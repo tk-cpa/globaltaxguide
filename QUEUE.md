@@ -9228,3 +9228,26 @@ both pages were already high quality).
 
 Continuing sequentially with full research depth and master-prompt
 compliance checks integrated into the ongoing review.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 91-92 of 249
+
+PAGE 91 - Guernsey: FIXED - bare quoted-fragment formatting bug in Thin
+Capitalization (same recurring class). Rest of page exceptional -
+detailed, current GST political-timeline tracking, precise 14-partner
+named DTA list with recent Bahrain addition dated, and the unilateral
+relief mechanism (three-quarters of the lower rate) all correctly
+documented.
+PAGE 92 - Guinea: FIXED (3 instances) - added a confirmed named treaty
+partner (France, sourced directly from France's own official DTT
+partner list) to a Treaty Network section that previously just said \"not
+compiled this session\"; removed \"this session\" narration from Thin
+Capitalization; simplified an already-answered but overly-hedged
+sentence in Foreign Tax Credit.
+
+Running total this pass: 92 of 249 pages read in full. 60 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially with full research depth.
