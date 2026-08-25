@@ -9317,3 +9317,30 @@ Verified sitewide: Honduras fix specifically re-confirmed via a second
 fetch after pushing (given the established regression risk pattern).
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 98-100 of 249 - MILESTONE:
+## 100 pages (40%) now reviewed under the corrected full-text method
+
+PAGE 98 - Hungary: clean, exceptional depth (2019 ATAD CFC regime with
+50%-effective-tax-halving test, EUR 3M/30% EBITDA interest cap with a
+pre-2019 3:1 grandfather election, Russia treaty one-sided-suspension
+detail all correctly documented).
+PAGE 99 - Iceland: FIXED (minor) - an undated rate-change sentence
+(\"reduced its standard corporate tax rate from 21% to 20%\") was
+inconsistent with the site's pattern of always dating changes; confirmed
+via PwC's own significant-developments page that this took effect 2026,
+and added the date.
+PAGE 100 - India: FIXED - a stray, low-information fragment (\"This page
+states central government figures.\" as its own bare sentence) was
+integrated into the following sentence that actually explains the point
+being made (central vs. state tax authority), improving readability
+without losing the substance.
+
+Running total this pass: 100 of 249 pages read in full (40% of the
+site). 67 real fixes made across the full sequential pass so far.
+
+Verified sitewide: all pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth
+maintained throughout - no shortcuts taken to reach this milestone.
