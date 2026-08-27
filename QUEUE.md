@@ -9375,3 +9375,31 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 103-104 of 249
+
+PAGE 103 - Iraq: FIXED (2 real research-backed answers) - Foreign Tax
+Credit hedge (\"genuinely narrow and technical area\") resolved with a
+direct, confirmed answer from PwC's own Iraq tax summary: a real
+ordinary foreign tax credit exists, tracing back to Coalition
+Provisional Authority Order No. 49, capped at the Iraqi tax otherwise
+due. Also added a real, confirmed additional named-partner list to
+Treaty Network (older Arab League-era treaties: Egypt, Jordan, Libya,
+Somalia, Sudan, Syria, Tunisia, Yemen, per Iraq Law Alliance) that
+combines sensibly with the already-named recent partners to approach the
+stated total of roughly 15. Rest of page already excellent, including a
+well-reasoned rejection of a lower-quality VAT-rate aggregator.
+PAGE 104 - Ireland: clean, exceptional depth and precision throughout
+(ATAD CFC with the \"significant decision-making functions in Ireland\"
+non-genuine-arrangements test, 2022 EUR 3M ILR detail, Section 247
+related-party acquisition-financing restriction, dual capital-gains-vs-
+FTC treatment for dividends correctly and precisely distinguished, dated
+78-signed/75-in-force treaty count with named pending treaties).
+
+Running total this pass: 104 of 249 pages read in full. 72 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
