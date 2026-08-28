@@ -9584,3 +9584,30 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 123-125 of 249
+
+PAGE 123 - Liechtenstein: clean, exceptional depth and precision
+throughout (switch-over rule mechanics, Pillar Two QDMTT/IIR, precise
+treaty-in-force list with pending/scheduled treaties dated).
+PAGE 124 - Lithuania: clean, exceptional depth throughout (dual thin cap
+/ATAD interest limitation regimes with full mechanics, precise 2026 CFC
+threshold math tied to the new 17% CIT rate).
+PAGE 125 - Luxembourg: FIXED (significant) - Participation Exemption
+section was a single vague marketing-style sentence ("one of Europe's
+most widely-used...") with zero actual thresholds, unlike every other
+section on the page. Replaced with the real, precise, well-sourced
+mechanics: 10% shareholding or EUR 1.2M/6M acquisition-price
+alternative, 12-month holding period, distributing-company comparable-
+tax requirement, and the new 2025 opt-out election for taxpayers who
+want to preserve carried-forward losses instead of taking the
+exemption.
+
+Running total this pass: 125 of 249 pages read in full. 81 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 125 structurally clean (post-fix); 123-124
+clean throughout.
+
+Continuing sequentially without pausing.
