@@ -9632,3 +9632,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 127-128 of 249
+
+PAGE 127 - North Macedonia: clean, precise throughout (specific 20%
+shareholder / 3x-equity thin cap ratio with new-company exemption, no
+issues).
+PAGE 128 - Madagascar: FIXED (2 instances) - resolved the Thin
+Capitalization hedge with a real, sourced finding from the Code General
+des Impots: inter-company loans within the same group are subject to
+thin cap rules generally, and companies approved under Madagascar's
+Industry Development Law specifically face a 3:1 debt-to-equity cap -
+honestly noted that PwC does not itemize a universal ratio outside that
+approved-industry regime, rather than overstating certainty. Removed
+this session narration from Foreign Tax Credit.
+
+Running total this pass: 128 of 249 pages read in full. 83 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean (post-fix).
+
+Continuing sequentially without pausing.
