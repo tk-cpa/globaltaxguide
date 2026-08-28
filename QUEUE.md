@@ -9728,3 +9728,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 132 of 249
+
+PAGE 132 - Mali: FIXED (3 instances) - added real supporting detail to
+the Thin Capitalization section (Mali's mining code has separately
+capped intercompany mining-sector interest deductions at the social
+capital amount since 1991) while honestly preserving the dated-context
+disclosure since no current general-economy thin cap ratio was found
+beyond the 2018 IMF report's recommendation that one be introduced.
+Removed this session narration from Foreign Tax Credit and Treaty
+Network sections.
+
+Running total this pass: 132 of 249 pages read in full. 86 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
