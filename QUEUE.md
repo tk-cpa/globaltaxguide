@@ -9532,3 +9532,30 @@ made across the full sequential pass so far.
 Verified sitewide: all 5 pages this batch structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 118-120 of 249
+
+PAGE 118 - Laos: clean, concise and well-sourced (short direct quotes on
+CFC/thin cap both under 15 words, properly attributed, no issues).
+PAGE 119 - Latvia: FIXED - replaced vague "more than 60" treaty count
+with the precise, current, sourced figure: 63 treaties in force per the
+Latvian Ministry of Finance's official list (updated March 2026), plus
+added the two pending Andorra/Pakistan treaties and ongoing Australia
+negotiations for completeness.
+PAGE 120 - Lebanon: FIXED (real internal contradiction, not just
+vagueness) - the Residency section stated resident corporations are
+taxed on worldwide income, directly contradicting the territorial-system
+framing stated elsewhere on the same page (Tax System, Participation
+Exemption). Confirmed via PwC's Lebanon corporate tax summary that
+Lebanese CIT is charged on profits derived in/generated through activity
+in Lebanon (territorial), not worldwide income - corrected the Residency
+section to match, and added the specific Article 82 foreign movable-
+capital declaration mechanism for individuals with foreign income.
+
+Running total this pass: 120 of 249 pages read in full. 78 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all 3 pages this batch structurally clean (post-fix).
+
+Continuing sequentially without pausing.
