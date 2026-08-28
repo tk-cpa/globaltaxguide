@@ -9559,3 +9559,28 @@ made across the full sequential pass so far.
 Verified sitewide: all 3 pages this batch structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 121-122 of 249
+
+PAGE 121 - Lesotho: FIXED - removed this session narration from Foreign
+Tax Credit section. Rest of page exceptional (Section 106 tax haven
+discretionary provision correctly distinguished from automatic CFC
+attribution; UK treaty termination correctly verified against gov.uk's
+own archived record and a conflicting 2025 secondary source correctly
+overridden).
+PAGE 122 - Liberia: FIXED (3 instances) - removed this session narration
+from Residency and Foreign Tax Credit sections, and resolved an internal
+inconsistency between the CFC section (claiming thin-cap-style interest
+restrictions exist) and the Thin Capitalization section (claiming no
+ratio was identified) - confirmed via a TP guidelines source that
+restrictions do exist for related-party debt but the specific numeric
+ratio is genuinely unconfirmed even in that source itself, which flags
+the same gap. Made both sections consistent with this honest finding.
+
+Running total this pass: 122 of 249 pages read in full. 80 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean (post-fix).
+
+Continuing sequentially without pausing.
