@@ -10017,3 +10017,24 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 149 of 249
+
+PAGE 149 - Namibia: FIXED - the Thin Capitalization section described
+the outdated 3:1 debt-to-equity ratio without mentioning Namibia's
+2025/2026 Budget reform, which replaced it with a 30%-of-taxable-income
+interest deduction cap (EBITDA-style limitation) - confirmed via
+multiple 2026-dated sources (PwC Namibia rate card, Accounting Weekly
+July 2026, HeadOffice.app) describing this as an already-applicable
+requirement, not merely proposed. Corporate rate (30% effective 1
+January 2025) confirmed accurate and consistent between the Tax System
+prose and Corporate Tax Rate cell - no real conflict there despite
+slightly different phrasing.
+
+Running total this pass: 149 of 249 pages read in full. 96 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
