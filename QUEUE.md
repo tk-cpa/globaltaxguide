@@ -9680,3 +9680,25 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 129-130 of 249
+
+PAGE 129 - Malawi: clean, well-sourced throughout (source-based system
+with explicit dividend exclusion, 3:1 thin cap ratio from 2018 reform,
+treaty status details including suspended Netherlands treaty).
+PAGE 130 - Malaysia: FIXED - resolved the foreign-source income
+exemption verify-current-status hedge with confirmed 2026 research: the
+December 31, 2036 sunset date (extended from an original 2026 date) is
+current and stable per Budget 2026 and PwC (confirmed June 2026), no
+longer an open verification question. Treaty count ("more than 70")
+checked against multiple 2026 sources - already the best available
+consensus figure, no more precise number exists in accessible sources,
+left as-is.
+
+Running total this pass: 130 of 249 pages read in full. 84 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean (post-fix).
+
+Continuing sequentially without pausing.
