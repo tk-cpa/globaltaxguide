@@ -9809,3 +9809,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 138 of 249
+
+PAGE 138 - Mayotte: FIXED - resolved the VAT exclusion confirm-current-
+status hedge with confirmed research across multiple 2026-dated sources
+(Stripe, Selectra, EF, Taxenlight, GlobalVATCompliance) all consistently
+confirming Mayotte's exclusion from French VAT (alongside French Guiana)
+is stable, current policy - not an unsettled area needing verification.
+Rest of page correctly parallels the Martinique/Reunion DROM template
+with Mayotte-specific figures (larger 40%/EUR 4,050 Article 197 personal
+tax reduction, 2011 department status).
+
+Running total this pass: 138 of 249 pages read in full. 90 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
