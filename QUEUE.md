@@ -9430,3 +9430,48 @@ made across the full sequential pass so far.
 Verified sitewide: all pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 105-112 of 249
+
+PAGE 105 - Isle of Man: clean, thorough throughout (Section 2N corporate
+residence test, no CFC/thin cap, precise Dec 2024 treaty count with
+named partners).
+PAGE 106 - Israel: FIXED - Participation Exemption hedge ("confirm
+current specific thresholds directly") resolved with real, sourced
+thresholds: the Israeli holding company regime under Amendment 132
+requires a minimum 10% holding for at least 12 consecutive months,
+applying to both capital gains on disposal and dividends from the held
+foreign company.
+PAGE 107 - Italy: clean, exceptional depth and precision (Legislative
+Decree 209/2023 residency reform, TUIR Articles 87/165, simplified 2024
+CFC test, ROL-based interest limitation).
+PAGE 108 - Jamaica: clean - Thin Capitalization section already
+correctly and explicitly documents a genuine conflict between PwC (no
+fixed ratio) and Dawgen Global (references "thin capitalisation rules"
+without specifying a ratio); re-researched independently and found no
+further primary source resolving it, confirming the existing flagged-
+conflict treatment is the correct honest answer, not a hedge to fix.
+PAGE 109 - Japan: clean, exceptional depth throughout (dual thin cap/
+earnings stripping regimes, 2026 defense surtax, non-permanent resident
+5-of-10-year test, May 2026-dated treaty count).
+PAGE 110 - Jersey: clean - CFC section already correctly documents a
+properly-reasoned, source-weighted conflict resolution (PwC/Moore Global
+topical sources over a general blog claim).
+PAGE 111 - Jordan: clean, precise and well-sourced throughout (AHK's
+37-country named treaty list cross-confirmed against PwC's "over 30"
+figure, correctly distinguished from ISTD's separate pending-negotiation
+list).
+PAGE 112 - Kazakhstan: FIXED (2 instances) - removed "this session"
+research-narration language from CFC exemptions note, and resolved the
+Thin Capitalization hedge ("no ratio was identified") with the real,
+sourced ratios: 4:1 for most entities and 7:1 for financial
+institutions, per Moore Global, covering related-party, guaranteed, and
+preferentially-taxed-jurisdiction debt.
+
+Running total this pass: 112 of 249 pages read in full. 74 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all 8 pages this batch structurally clean (post-fix).
+
+Continuing sequentially without pausing.
