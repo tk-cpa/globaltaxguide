@@ -9403,3 +9403,30 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 105-107 of 249
+
+PAGE 105 - Isle of Man: FIXED (2 instances) - bare quoted-fragment
+formatting bugs in CFC and Thin Capitalization (the recurring class seen
+across many pages) rewritten as normal prose. Rest of page exceptional -
+dated (31 Dec 2024) comprehensive/limited-scope/TIEA breakdown with full
+named partners in each category.
+PAGE 106 - Israel: FIXED - bare quoted-fragment formatting bug in Tax
+System. Rest of page exceptional (center-of-life test with rebuttable
+day-count presumptions correctly distinguished from an absolute rule,
+specific residency-break conditions with retroactive effect, exit tax
+on deemed disposal all correctly documented).
+PAGE 107 - Italy: clean, exceptional depth and precision throughout
+(2023 residency reform with the new independent physical-presence test,
+2024 CFC simplified 15%/one-third test with the audited-financials
+substitute-tax election, ROL-based 30% interest cap, Article 87 PEX with
+the genuine-commercial-activity case-law development, Quadro RW/IVAFE
+foreign-asset regime explicitly distinguished from CRS).
+
+Running total this pass: 107 of 249 pages read in full. 74 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
