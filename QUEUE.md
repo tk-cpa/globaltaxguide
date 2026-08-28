@@ -10038,3 +10038,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 150 of 249
+
+PAGE 150 - Nauru: FIXED (4 instances) - removed this session narration
+from Tax Year, Thin Capitalization, and Foreign Tax Credit sections, and
+resolved the Foreign Bank Account/CRS participation hedge with confirmed
+research: Nauru is a CRS early-adopter jurisdiction with first
+information exchange by 2018 (multiple corroborating sources) - a
+previously flagged "confirm directly" item now has a settled, sourced
+answer. Rest of page exceptional, correctly debunking a widespread
+secondary-source myth that Nauru has no personal income tax at all
+(government's own Employment and Services Tax Act and Business Profits
+Tax schedule directly contradict this).
+
+Running total this pass: 150 of 249 pages read in full (60% complete).
+97 real fixes made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
