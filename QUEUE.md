@@ -9786,3 +9786,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 137 of 249
+
+PAGE 137 - Mauritius: FIXED (significant) - the Participation Exemption
+section pointed to detail "elsewhere on this page" that was never
+actually given anywhere in the full text - a circular, unfulfilled
+reference. Replaced with the real, sourced mechanics: Mauritius operates
+an 80% Partial Exemption Regime (Income Tax Act 1995 as amended by
+Finance Act 2018, effective 1 January 2019) on qualifying foreign
+dividends, foreign interest, and foreign PE income, producing an
+effective ~3% rate, subject to core-income-generating-activity substance
+requirements - not a full participation exemption in the European sense.
+Also added the July 2024 increase of the CIS/CEF interest exemption from
+80% to 95%. Rest of page excellent (Section 73 residency test, detailed
+CFC safe harbors, October 2025 Supreme Court substance-over-form ruling).
+
+Running total this pass: 137 of 249 pages read in full. 89 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
