@@ -9611,3 +9611,24 @@ Verified sitewide: page 125 structurally clean (post-fix); 123-124
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 126 of 249
+
+PAGE 126 - Macau SAR: FIXED (3 instances) - resolved the Personal Tax
+Rate hedge with the full, real Professional Tax bracket structure for
+2026 (MOP 144,000 annual exemption, 25% standard deduction, progressive
+7-12% bands, 30% budget rebate) since the page previously just deferred
+to the corporate Complementary Tax framework without giving the actual
+employment-income mechanics. Removed this session narration from VAT
+and Thin Capitalization sections. Rest of page excellent, correctly
+capturing Macau's major January 2026 Tax Code reform (formal tax
+residency concept introduced, full territorial system with MNE-group
+carve-out for foreign passive income).
+
+Running total this pass: 126 of 249 pages read in full. 82 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
