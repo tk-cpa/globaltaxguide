@@ -9747,3 +9747,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 133-134 of 249
+
+PAGE 133 - Malta: clean, precise throughout (CFC ATAD implementation,
+participation exemption thresholds, ATAD interest limitation with EUR
+3M de minimis, 77-treaty count sourced to KPMG).
+PAGE 134 - Marshall Islands: FIXED (4 instances) - removed this session
+narration from Tax Year, Residency, Thin Capitalization, and Foreign Tax
+Credit sections. Rest of page exceptional - correctly and specifically
+distinguishes resident companies (0.8%/3% progressive) from non-resident
+domestic entities/IBCs (fully exempt), and correctly debunks the common
+marketing claim of \"0% personal income tax\" by citing the real Wages
+and Salaries Tax under a specific, dated 2026 legislative amendment.
+
+Running total this pass: 134 of 249 pages read in full. 87 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
