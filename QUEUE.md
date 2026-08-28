@@ -9949,3 +9949,27 @@ Verified sitewide: page 145 structurally clean (post-fix, independently
 re-verified after a persistence failure); pages 143-144 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 146 of 249
+
+PAGE 146 - Morocco: FIXED (significant, real rate error) - the page
+stated Morocco's corporate income tax rate as a flat 35% across all
+three locations (quickchart cell, one-sentence summary, H2 prose). Under
+Finance Law 2026 (Article 19-I of the CGI, effective January 1, 2026),
+the STANDARD rate applicable to the vast majority of companies (net
+taxable profit below MAD 100 million) is actually 20% - the 35% rate
+applies only to large companies at or above that threshold, with 40%
+for banks and insurers. This is a significant misstatement affecting
+most Moroccan taxpayers, not a minor imprecision. Fixed all three
+locations for consistency per the cross-verification standard (cell,
+summary, and prose all now correctly show 20% standard / 35% large
+companies).
+
+Running total this pass: 146 of 249 pages read in full. 94 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), all three rate
+locations cross-verified consistent.
+
+Continuing sequentially without pausing.
