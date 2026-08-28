@@ -9894,3 +9894,31 @@ both pages already excellent, earlier fixes holding).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 113-114 of 249
+
+PAGE 113 - Kenya: FIXED (self-caught math error) - the Treaty Network
+section (resolved earlier this session from a factual error of \"more
+than 30\" down to a real named list) stated \"15 double tax treaties\"
+while actually naming 16 countries. Recounted the named list directly
+and corrected the stated total to match - a genuine internal consistency
+check catching an error introduced during an earlier fix, not a new
+research finding.
+PAGE 114 - Kiribati: clean, no changes needed - this page is an
+exemplar of exactly the standard the whole site should meet: confident
+and specific wherever evidence supports it (VAT confirmed live and
+dated directly off the government's own site, disproving a lower-
+quality \"no VAT\" claim), and honestly, precisely qualified wherever it
+doesn't (personal tax bracket flagged as single-sourced, individual
+residency day-count flagged as unconfirmed against primary law, Treaty
+Network explicitly explains why no specific count is given rather than
+guessing). This is what \"no fabrication, real disclosure\" should look
+like in practice.
+
+Running total this pass: 114 of 249 pages read in full. 76 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
