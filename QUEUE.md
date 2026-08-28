@@ -9922,3 +9922,30 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 143-145 of 249
+
+PAGE 143 - Mongolia: clean, well-handled temporal source conflict (older
+KPMG "no CFC rules" profiles correctly identified as outdated vs. Moore
+Global 2025 confirming 2020 CFC introduction).
+PAGE 144 - Montenegro: clean, well-sourced throughout.
+PAGE 145 - Montserrat: FIXED (significant, real sourcing error) - the
+VAT/GST cell stated a flat 15% VAT rate sourced to a single low-quality
+site, which is NOT corroborated by Montserrat's own governing
+legislation (the Customs Duties and Consumption Tax Act, gov.ms).
+Research confirmed Montserrat has no broad-based VAT/GST on domestic
+supplies at all - only a narrower, import-focused Consumption Tax
+ranging 5-15% depending on the item, levied alongside customs duty.
+Corrected the cell to reflect this accurately rather than repeating an
+uncorroborated claim. Also removed self-referential cross-page and this
+session narration (required a second pass after the first edit script
+silently failed to persist the VAT fix - re-verified and corrected).
+
+Running total this pass: 145 of 249 pages read in full. 93 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 145 structurally clean (post-fix, independently
+re-verified after a persistence failure); pages 143-144 clean throughout.
+
+Continuing sequentially without pausing.
