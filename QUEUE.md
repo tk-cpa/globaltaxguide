@@ -9995,3 +9995,25 @@ Verified sitewide: page 148 structurally clean (post-fix); page 147
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 115-116 of 249
+
+PAGE 115 - Kosovo: clean, precise and well-sourced throughout (dated
+21-country treaty count directly from ATK, correctly explains limited
+network as a function of recent statehood and constrained international
+recognition rather than leaving it unexplained).
+PAGE 116 - Kuwait: clean, exceptionally precise - correctly weighs and
+resolves a genuine thin-cap source conflict (Executive Rule No. 38's
+discretionary standard vs. a less specific 2:1 ratio claim, with clear
+reasoning for the preferred source), and tracks very current Gulf treaty
+developments with specific decree/decree-law citations (UAE Jan 2025,
+Qatar pending, San Marino May 2025).
+
+Running total this pass: 116 of 249 pages read in full. 76 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
