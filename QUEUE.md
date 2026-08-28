@@ -9702,3 +9702,29 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 131 of 249
+
+PAGE 131 - Maldives: FIXED (significant, multiple real errors) - the
+page described the current business tax regime as the "Business Profit
+Tax" throughout, but that Act was repealed effective 1 January 2020 and
+replaced by the Income Tax Act (Law Number 25/2019) - confirmed via
+MIRA's own site. The 15%/MVR 500,000 rate and threshold carried forward
+unchanged, but the name was wrong across Tax System and Corporate Tax
+Rate sections; fixed both while noting the historical BPT Act for
+context. Also found and fixed a real date error: the 17% tourism GST
+rate was described as "effective from July 1, 2026" (future tense) when
+it actually took effect July 1, 2025 and has been in force for over a
+year - confirmed via MIRA's own announcement and multiple 2025/2026
+sources. Resolved the Thin Capitalization hedge with the real mechanism
+(6% interest rate cap on non-MMA-approved-institution debt, then 30%
+tax-EBITDA cap, 10-year carryforward). Removed 2 remaining this session
+narration instances.
+
+Running total this pass: 131 of 249 pages read in full. 85 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
