@@ -9973,3 +9973,25 @@ Verified sitewide: page structurally clean (post-fix), all three rate
 locations cross-verified consistent.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 147-148 of 249
+
+PAGE 147 - Mozambique: clean, precise throughout (genuine CFC regime
+with dual 25%/10% ownership thresholds, 2:1 thin cap ratio, 9 named
+treaty partners).
+PAGE 148 - Myanmar: FIXED - resolved the Treaty Network this session
+hedge with the real, sourced named-partner list: 8 in-force treaties
+(UK, Singapore, Malaysia, Thailand, Vietnam, India, South Korea, Laos),
+plus Indonesia and Bangladesh signed but unratified. Rest of page
+excellent, correctly capturing the absence of a formal PE definition
+under Myanmar's Income Tax Act and the discretionary (non-self-
+executing) nature of treaty relief application.
+
+Running total this pass: 148 of 249 pages read in full. 95 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 148 structurally clean (post-fix); page 147
+clean throughout.
+
+Continuing sequentially without pausing.
