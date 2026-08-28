@@ -9498,3 +9498,37 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 113-117 of 249
+
+PAGE 113 - Kenya: FIXED - removed leftover self-referential "CORRECTION
+to a prior overstatement" process-narration language from Treaty
+Network (a forbidden pattern per site rules against narrating the
+research/editing process); the underlying verified 15-treaty figure and
+named list were already correct and are unchanged.
+PAGE 114 - Kiribati: FIXED (5 instances) - removed "this session"
+narration language across Tax Year, Personal Tax Rate, Residency,
+Foreign Tax Credit, and Treaty Network sections. All underlying honestly
+-disclosed uncertainty content (genuinely thin sourcing for this small
+Pacific jurisdiction) preserved without fabricating unfound facts.
+PAGE 115 - Kosovo: clean, concise and well-sourced throughout.
+PAGE 116 - Kuwait: clean - Thin Capitalization conflict already
+correctly resolved with reasoning (Executive Rule 38 discretionary
+standard preferred over a less-specific 2:1 ratio claim); VAT caveat
+about active policy development is appropriate forward-looking context,
+not a hedge.
+PAGE 117 - Kyrgyzstan: FIXED (3 instances) - removed "this session"
+narration from Thin Capitalization, Participation Exemption, and
+Foreign Tax Credit sections. Real research confirmed no statutory thin
+cap ratio exists in Kyrgyzstan (genuinely absent, not just unfound), and
+located an older (1996) Mondaq source on general foreign tax relief
+mechanics, added with an honest caveat about its age relative to the
+current Tax Code.
+
+Running total this pass: 117 of 249 pages read in full. 76 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: all 5 pages this batch structurally clean (post-fix).
+
+Continuing sequentially without pausing.
