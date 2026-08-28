@@ -9768,3 +9768,21 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 135-136 of 249
+
+PAGE 135 - Martinique: clean, precise throughout (DROM structure
+correctly explained, France's Article 209B CFC regime, ATAD interest
+limitation, octroi de mer detail).
+PAGE 136 - Mauritania: FIXED (3 instances) - removed self-referential
+cross-page narration ("similar to the pattern found on Guinea's page
+this session") and this session language from Thin Capitalization and
+Foreign Tax Credit sections.
+
+Running total this pass: 136 of 249 pages read in full. 88 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
