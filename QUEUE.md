@@ -9850,3 +9850,25 @@ Verified sitewide: page 140 structurally clean (post-fix); page 139
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 141-142 of 249
+
+PAGE 141 - Moldova: clean, well-sourced throughout (bank-benchmark-rate
+interest deductibility mechanism, correct treaty-vs-domestic-rate
+override rule).
+PAGE 142 - Monaco: FIXED (3 instances) - resolved a real internal
+inconsistency: the Thin Capitalization section stated no ratio was
+identified, while the actual substantive detail (50% shareholder-loan-
+to-share-capital test, EUR 3M/30%-of-taxable-result interest limitation)
+was misplaced under the Hybrid Entity Rules heading instead. Moved the
+real content to the correct section. Removed this session narration from
+Tax Year and Participation Exemption.
+
+Running total this pass: 142 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 142 structurally clean (post-fix); page 141
+clean throughout.
+
+Continuing sequentially without pausing.
