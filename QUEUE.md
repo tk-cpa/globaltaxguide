@@ -9475,3 +9475,26 @@ made across the full sequential pass so far.
 Verified sitewide: all 8 pages this batch structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 108 of 249
+
+PAGE 108 - Jamaica: FIXED - a genuinely disclosed source conflict on
+Thin Capitalization (\"Sources genuinely conflict on this point\" -
+PwC saying no fixed ratio exists vs. a vaguer Dawgen Global reference to
+unspecified \"thin capitalisation rules\"). Researched further and found
+a second independent, specifically-dated (May 2026) transfer-pricing
+practice guide confirming exactly what PwC already said: no EBITDA-based
+fixed-ratio rule, interest deductions on related-party debt tested under
+the arm's-length principle in Section 17 of the Income Tax Act instead.
+With two independent, detailed, dated sources converging and only one
+vague, unsourced reference on the other side, resolved the conflict
+rather than leaving it open - a genuine research resolution, not a
+forced guess.
+
+Running total this pass: 108 of 249 pages read in full. 75 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
