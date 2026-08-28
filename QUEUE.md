@@ -9654,3 +9654,29 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 109-110 of 249
+
+PAGE 109 - Japan: clean, exceptional depth and precision throughout
+(non-permanent vs permanent resident distinction, dual thin-cap/earnings-
+stripping regime with the more-restrictive-governs rule, 2024 CFC
+trigger-rate reduction tied to Pillar Two, dated (May 1, 2026) treaty
+count with the historical-USSR-successor-states nuance explained).
+PAGE 110 - Jersey: clean - a genuinely excellent model of resolving a
+real source conflict: CFC section explicitly weighs a general-audience
+blog claim (Jersey has CFC rules) against two independent, topically-
+specific professional sources (PwC's dedicated Corporate Group Taxation
+page and Moore Global, neither of which mentions any CFC regime),
+explains the reasoning for preferring the specific sources, and states
+the conclusion plainly rather than hedging. Treaty Network also
+correctly flags and dates-resolves a stale-vs-current source conflict on
+limited-agreement partners.
+
+Running total this pass: 110 of 249 pages read in full. 75 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
