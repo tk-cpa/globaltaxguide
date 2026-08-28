@@ -9828,3 +9828,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 139-140 of 249
+
+PAGE 139 - Mexico: clean, exceptional depth and precision throughout
+(Article 9 CFF residency test with REFIPRE 5-year tail rule, dual 3:1
+thin cap ratio / 30% EBITDA interest limitation regimes, MLI exceptions
+for US and Germany correctly noted).
+PAGE 140 - Micronesia (FSM): FIXED - resolved a cell-vs-prose mismatch:
+the VAT/GST Rate cell just said "5% sales tax reported" with no context,
+while the Personal Tax Rate section elsewhere correctly explained this
+figure is a state-level sales tax/fee (FSM has no national VAT/GST at
+all). Made the cell consistent with the more careful explanation already
+given in prose.
+
+Running total this pass: 140 of 249 pages read in full. 91 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 140 structurally clean (post-fix); page 139
+clean throughout.
+
+Continuing sequentially without pausing.
