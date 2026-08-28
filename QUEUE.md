@@ -9872,3 +9872,25 @@ Verified sitewide: page 142 structurally clean (post-fix); page 141
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 111-112 of 249
+
+PAGE 111 - Jordan: clean, exceptional depth throughout - earlier
+treaty-network fix (37 named partners, AHK-sourced, with the ISTD
+pending-negotiation list properly distinguished from concluded treaties)
+confirmed still holding correctly.
+PAGE 112 - Kazakhstan: clean, exceptional current-reform detail
+throughout - the new 2026 Tax Code's differentiated sector rates, newly-
+progressive personal income tax (first time ever), and Astana Hub tech
+exemption extension to 2029 all correctly and specifically documented.
+Earlier \"this reform\" dangling-reference fix confirmed still holding
+correctly.
+
+Running total this pass: 112 of 249 pages read in full. 75 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent, earlier fixes holding).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
