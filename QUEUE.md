@@ -10158,3 +10158,26 @@ Verified sitewide: page 153 structurally clean (post-fix); page 152
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 121-122 of 249
+
+PAGE 121 - Lesotho: clean, genuinely exceptional - actively corrects a
+wrong secondary-source claim (a 2025 practitioner guide listing the UK
+as a current treaty partner) using a primary UK government source (the
+gov.uk/HMRC archive itself titling the document \"terminated\"), and
+correctly distinguishes a discretionary Section 106 tax-haven provision
+from a true automatic-attribution CFC regime with a specific comparison
+to South Africa's Section 9D.
+PAGE 122 - Liberia: clean, earlier Francophone-mislabeling correction
+confirmed holding throughout - now correctly and consistently framed as
+a common-law jurisdiction with a genuinely substantive (if non-CFC-
+style) anti-avoidance framework.
+
+Running total this pass: 122 of 249 pages read in full. 77 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
