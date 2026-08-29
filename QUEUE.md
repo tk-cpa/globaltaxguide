@@ -10079,3 +10079,35 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 151 of 249
+
+PAGE 151 - Nepal: FIXED (significant, real error found via primary-
+source research) - the page claimed Nepal has "no dedicated Controlled
+Foreign Company attribution regime," citing a secondary source's claim
+that "Nepal does not have specific CFC rules." Primary-source research
+(the Income Tax Act, 2058's own text) confirms this is WRONG: Nepal has
+a genuine, dedicated CFC regime under Section 69 ("Controlled foreign
+entities") - a controlled foreign entity's "associated income" is deemed
+distributed proportionally to resident beneficiaries as dividends at
+year end, whether or not an actual distribution occurred, directly
+taxing undistributed profits. Corrected the CFC section with the real
+mechanism (control test against a small number of resident persons,
+commonly described as up to five, since the Act itself doesn't
+precisely define "control") and updated the Participation Exemption
+section's cross-reference for consistency. Also resolved the Thin
+Capitalization hedge with the precise Section 14 mechanics: a targeted
+anti-avoidance cap on interest deductions specifically for "exempt-
+controlled entities" (25%+ owned/controlled by tax-exempt organizations,
+Section 11 persons, or non-residents), capped at interest income plus
+50% of taxable income - not a general debt-to-equity thin cap ratio as
+the page previously vaguely suggested.
+
+Running total this pass: 151 of 249 pages read in full. 99 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), CFC and
+Participation Exemption sections cross-verified consistent.
+
+Continuing sequentially without pausing.
