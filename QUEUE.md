@@ -10181,3 +10181,31 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 154-155 of 249
+
+PAGE 154 - New Zealand: clean, exceptional depth and precision
+throughout (5-or-fewer/40% dual CFC control tests, active-business
+under-5%-passive-income test, outbound thin cap 90%-NZ-assets exemption
+with NZD 1M/2M de minimis tiers, DTT vs TIEA distinction explicit).
+PAGE 155 - Nicaragua: FIXED (real internal contradiction) - the
+Residency section stated non-resident individuals face a flat 15%
+withholding rate, directly conflicting with the Personal Tax Rate cell
+elsewhere on the same page, which correctly stated 20%. Confirmed via
+PwC (dated January 2026, the most authoritative source) that 20% is the
+general definitive withholding rate for non-resident individuals'
+Nicaraguan-source income, while 15% applies specifically to dividends
+and interest rather than as a general flat rate for all non-resident
+individual income - corrected the Residency section and clarified the
+item-specific exception. Treaty Network section already correctly and
+carefully resolves a genuine source conflict (a lower-quality aggregator
+claiming "1" treaty vs multiple higher-quality sources confirming zero).
+
+Running total this pass: 155 of 249 pages read in full. 101 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 155 structurally clean (post-fix); page 154
+clean throughout.
+
+Continuing sequentially without pausing.
