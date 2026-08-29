@@ -10059,3 +10059,23 @@ Running total this pass: 150 of 249 pages read in full (60% complete).
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 117-118 of 249
+
+PAGE 117 - Kyrgyzstan: clean, no issues - genuinely excellent handling
+throughout, including a well-corroborated \"No CFC rules\" finding cited
+to two independent sources and an honest, appropriately-caveated FTC
+answer that correctly flags a 1996 source as predating the current Tax
+Code.
+PAGE 118 - Laos: FIXED (2 instances) - bare quoted-fragment formatting
+bugs in CFC and Thin Capitalization (the recurring class seen across
+many pages this session) rewritten as normal prose. Rest of page clean
+and well-sourced.
+
+Running total this pass: 118 of 249 pages read in full. 77 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
