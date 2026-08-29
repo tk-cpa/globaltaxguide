@@ -10133,3 +10133,28 @@ both pages already correctly handled).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 152-153 of 249
+
+PAGE 152 - Netherlands: clean, exceptional depth and precision
+throughout (Box system explained, 2026 24.5% earnings-stripping rate
+correctly distinguished from ATAD's 30% baseline, Article 13 PEX 5%
+threshold vs Pillar Two's separate 10%/1-year test correctly
+distinguished, Russia treaty termination with succession-state nuance).
+PAGE 153 - New Caledonia: FIXED - removed this session narration from
+Participation Exemption while preserving the honest disclosure (PwC
+confirms the preferential intercompany dividend regime exists but does
+not publish a specific numeric ownership/holding-period threshold). Rest
+of page excellent, correctly and explicitly debunking the common
+misconception that New Caledonia benefits from France's broader treaty
+network (it does not - only one comprehensive treaty, with France
+itself).
+
+Running total this pass: 153 of 249 pages read in full. 100 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 153 structurally clean (post-fix); page 152
+clean throughout.
+
+Continuing sequentially without pausing.
