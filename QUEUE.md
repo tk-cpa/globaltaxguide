@@ -10111,3 +10111,25 @@ Verified sitewide: page structurally clean (post-fix), CFC and
 Participation Exemption sections cross-verified consistent.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 119-120 of 249
+
+PAGE 119 - Latvia: clean, exceptional depth throughout - earlier stray-
+CFC-sentence fix in Participation Exemption confirmed holding correctly;
+dated (March 2026) 63-treaty count with named pending treaties (Andorra,
+Pakistan) and ongoing Australia negotiations.
+PAGE 120 - Lebanon: clean - correctly resolves the territorial/FTC
+relationship (same pattern fixed on Honduras earlier this session:
+territorial system genuinely limits FTC's practical role rather than
+claiming a \"real\" credit mechanism exists), and honestly notes that DTT
+relief faces practical implementation impediments despite the treaty
+network existing on paper.
+
+Running total this pass: 120 of 249 pages read in full. 77 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already correctly handled).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
