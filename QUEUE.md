@@ -10209,3 +10209,20 @@ Verified sitewide: page 155 structurally clean (post-fix); page 154
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 156 of 249
+
+PAGE 156 - Niger: FIXED (4 instances) - removed this session narration
+from Residency, CFC, Thin Capitalization, and Foreign Tax Credit
+sections. Rest of page carefully handled (Treaty Network appropriately
+flags unconfirmed "probable" partners as needing independent
+verification rather than stating them as fact, and notes the Alliance
+des Etats du Sahel context relevant to treaty administration stability).
+
+Running total this pass: 156 of 249 pages read in full. 102 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
