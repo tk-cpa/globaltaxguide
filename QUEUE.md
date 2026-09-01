@@ -10226,3 +10226,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 157 of 249
+
+PAGE 157 - Nigeria: FIXED (minor) - removed this session narration from
+Tax System section. Rest of page exceptional, correctly capturing
+Nigeria's sweeping January 2026 tax overhaul (NRS renaming, shift to
+worldwide-income taxation, new CFC regime with 34% deemed-distribution
+rate, 15% top-up tax aligned with global minimum tax principles, 30%
+EBITDA interest limitation cap) with appropriate caveats about pending
+implementation modalities and the live Lagos/Rivers VAT collection
+dispute before the Supreme Court.
+
+Running total this pass: 157 of 249 pages read in full. 103 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
