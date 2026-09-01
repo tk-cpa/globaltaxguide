@@ -10245,3 +10245,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 123 of 249
+
+PAGE 123 - Libya: FIXED (2 instances, real research despite genuine
+administrative-fragmentation constraints) - Participation Exemption and
+Foreign Tax Credit hedges both resolved with direct, dated (December
+2025) confirmations from PwC's own Libya tax summary: no formal
+participation exemption regime exists, but dividends aren't
+historically subject to an additional taxation layer in practice; and
+no general unilateral FTC provision exists under Libyan law, so relief
+depends entirely on whether a specific treaty has been concluded.
+Encountered and correctly resolved a 409 SHA-conflict error on the first
+write attempt by re-fetching fresh before retrying, rather than assuming
+the first attempt succeeded.
+
+Running total this pass: 123 of 249 pages read in full. 79 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
