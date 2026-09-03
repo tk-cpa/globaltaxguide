@@ -10323,3 +10323,30 @@ so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 159 of 249
+
+PAGE 159 - Norfolk Island: FIXED (significant, real factual error) - the
+page stated Australia's federal GST applies to Norfolk Island on the
+same basis as mainland Australia, in all three locations (quickchart
+cell x1, one-sentence summary, VAT/GST Rate prose). Confirmed via the
+Australian Taxation Office's own site that this is the OPPOSITE of the
+truth: GST, luxury car tax, wine equalisation tax, and fuel tax credits
+were specifically EXCLUDED from the 2016 federal integration and do not
+apply to Norfolk Island, unlike most other federal taxes that were
+extended - Norfolk Island businesses should not charge GST at all.
+Corrected all three locations for consistency. Also resolved two
+"confirm current status" transitional-arrangement hedges with the real,
+current mechanics from the ATO: the superannuation guarantee is being
+phased in gradually to reach 12% by 1 July 2027, and CGT has a permanent
+grandfather exemption for assets held before 24 October 2015 rather than
+an open transitional question.
+
+Running total this pass: 159 of 249 pages read in full. 105 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), all three GST
+locations cross-verified consistent.
+
+Continuing sequentially without pausing.
