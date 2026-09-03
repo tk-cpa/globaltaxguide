@@ -10267,3 +10267,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 124-125 of 249
+
+PAGE 124 - Liechtenstein: clean, exceptional precision throughout
+(switch-over rule mechanics for the CFC-equivalent anti-abuse test,
+Private Asset Structures explicitly and correctly excluded from treaty
+benefits, dated named treaty list with three separate pending-status
+categories - negotiated-not-in-force, agreed-future-effective-date, and
+awaiting-ratification - each correctly distinguished).
+PAGE 125 - Lithuania: clean, earlier stray-CFC-sentence fix in
+Participation Exemption confirmed holding correctly. Treaty Network is
+terse (\"58 double tax treaties in force\" with no named partners or
+citation) but is a plain factual statement, not a hedge or vague range -
+left as acceptable brevity rather than force an addition where none was
+needed for accuracy.
+
+Running total this pass: 125 of 249 pages read in full (just over
+halfway). 79 real fixes made across the full sequential pass so far (no
+new fixes this batch - both pages already high quality).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
