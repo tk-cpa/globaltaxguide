@@ -10291,3 +10291,35 @@ new fixes this batch - both pages already high quality).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## CONCURRENT SESSION NOTE (2026-09-03)
+
+Detected two parallel sessions had been appending to this log
+independently: one reached page 157 (Nigeria, 103 fixes) on 2026-09-01,
+while another restarted and re-covered pages 119-125 on 2026-09-03
+(landing at "125/249, 79 fixes" using a different fix-count track).
+Resolved by treating page 157 (confirmed via git commit history as the
+furthest genuinely-completed checkpoint) as the authoritative resume
+point, verified against actual country file existence/edit state rather
+than trusting either session's self-reported position. Continuing
+sequentially from page 158 onward. If multiple sessions run this audit
+concurrently going forward, git commit history (not this log's tail) is
+the authoritative source of truth for resume position.
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 158 of 249
+
+PAGE 158 - Niue: FIXED (4 instances) - removed this session narration
+from Tax Year, Residency, Thin Capitalization, and Foreign Tax Credit
+sections. Rest of page well-handled, correctly distinguishing Niue's own
+territorial domestic tax base from New Zealand's separate outbound CFC/
+thin-cap rules that apply to NZ residents holding Niue entities (not to
+Niue's own domestic law).
+
+Running total (authoritative, verified against git history): 158 of 249
+pages read in full. 104 real fixes made across the full sequential pass
+so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
