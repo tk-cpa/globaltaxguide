@@ -10414,3 +10414,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 162 of 249
+
+PAGE 162 - Northern Mariana Islands: FIXED (significant, real gap) - the
+Foreign Bank Account section stated flatly that no foreign account
+reporting regime exists for residents at all, which is misleading: CNMI
+bona fide residents are US citizens/nationals and remain fully subject
+to US federal FBAR (FinCEN Form 114) for genuinely foreign (non-US, non-
+territory) accounts exceeding $10,000. Corrected with the real mechanics
+and, importantly, added the specific carve-out that CNMI residents
+(unlike Puerto Rico and American Samoa residents) are NOT required to
+file Form 8938 - a genuinely CNMI/Guam/USVI-specific distinction from
+FATCA's general individual-reporting rule that the page previously
+omitted entirely, confirmed via IRS and Tax Adviser sources. Rest of
+page excellent, correctly explaining the mirror-code mechanism's live
+tracking of current US federal rates and CFC/GILTI-NCTI rules.
+
+Running total this pass: 162 of 249 pages read in full. 108 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
