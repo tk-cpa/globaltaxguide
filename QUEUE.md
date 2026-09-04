@@ -10372,3 +10372,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 126-127 of 249
+
+PAGE 126 - Luxembourg: clean, exceptional depth throughout (Article
+164ter CFC with the 750k/75k exclusions, 85:15 administrative thin-cap
+benchmark correctly flagged as non-binding per case law, 2025 acquisition-
+price-exemption-waiver election, dated 94-signed/88-in-force treaty
+count with named pending partners).
+PAGE 127 - Macau SAR: FIXED (minor) - bare quoted-fragment formatting
+bug in CFC section. Rest of page is exceptionally current, tracking
+Macau's brand-new 2026 Tax Code reform in real detail (first-ever formal
+tax residency concept, transition to full territorial taxation with the
+MNE-constituent-entity carve-in, first-ever transfer pricing rules) -
+genuinely some of the most current content on the site.
+
+Running total this pass: 127 of 249 pages read in full. 80 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
