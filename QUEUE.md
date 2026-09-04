@@ -10536,3 +10536,21 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 167 of 249
+
+PAGE 167 - Palestine: FIXED (6 instances) - removed this session
+narration across Tax Year, Thin Capitalization, Foreign Bank Account,
+Participation Exemption, Foreign Tax Credit, and Treaty Network
+sections. Rest of page well-researched, correctly capturing the
+distinctive Paris Protocol Area C tax-clearance jurisdictional carve-out
+and the dual nationality-based residency day-count test (120 days for
+Palestinians, 183 for non-Palestinians).
+
+Running total this pass: 167 of 249 pages read in full. 111 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
