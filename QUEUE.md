@@ -10438,3 +10438,34 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 163-165 of 249
+
+PAGE 163 - Norway: clean, exceptional depth and precision throughout
+(NOKUS CFC regime with two-thirds-rate/EEA-substance exemptions,
+fritaksmetoden 3% add-back mechanic yielding ~0.66% effective rate).
+PAGE 164 - Oman: clean, exceptional depth (Oman Tax Authority's own
+official 44-treaty list with named partners and precise 2024-2026
+effective dates, January 2023 WHT suspension on non-resident dividends/
+interest).
+PAGE 165 - Pakistan: FIXED (significant, real error) - the Foreign Bank
+Account section flatly stated no foreign account/asset reporting regime
+exists in Pakistan, but Pakistan has a genuine, dedicated statutory
+regime under Section 116A of the Income Tax Ordinance, 2001 (Finance Act
+2018, applying from Tax Year 2019 onward) requiring resident individuals
+to file a separate Foreign Income and Assets Statement where foreign
+income is at least USD 10,000 or foreign assets are valued at USD
+100,000+, covering foreign bank accounts, investments, real estate, and
+other property, with a 2%-per-year-of-default penalty. Confirmed via
+multiple sources including FBR-sourced material. Rest of page excellent
+(CFC 60%-of-Pakistani-rate low-tax test, 3:1 foreign-debt-to-foreign-
+equity thin cap ratio).
+
+Running total this pass: 165 of 249 pages read in full. 109 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 165 structurally clean (post-fix); pages 163-164
+clean throughout.
+
+Continuing sequentially without pausing.
