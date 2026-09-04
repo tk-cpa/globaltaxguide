@@ -10654,3 +10654,29 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 171-172 of 249
+
+PAGE 171 - Peru: clean, exceptional depth throughout (RTFI CFC regime
+with precise attribution mechanics, EBITDA thin cap replacing the old
+3:1 ratio effective 2021, UK treaty's January 2026 entry into force).
+Note: the "foreign income reported through standard annual tax return"
+phrase, flagged as a potential systemic issue on Panama/Paraguay, is
+factually correct here since Peru taxes worldwide income (not
+territorial) - no fix needed on this page.
+PAGE 172 - Philippines: FIXED - resolved the tax arbitrage rule
+percentage hedge with confirmed research: 20% is the CURRENT rate,
+effective since the CREATE Act (2021), reduced from an original 33%
+(2009-2021 only). The page had the relationship backward, presenting
+20% as primary but hedging with an unresolved "reduced to 33%" note
+that actually described the outdated, pre-2021 figure - corrected with
+the real history and current confirmed rate.
+
+Running total this pass: 172 of 249 pages read in full. 114 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 172 structurally clean (post-fix); page 171
+clean throughout.
+
+Continuing sequentially without pausing.
