@@ -10730,3 +10730,36 @@ Verified sitewide: both pages this batch structurally clean.
 Continuing sequentially, multiple pages per turn, full research depth -
 now moving past Mexico into the range (Micronesia onward) that had only
 been checked in an earlier, less rigorous pass this session.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 173-175 of 249
+
+PAGE 173 - Pitcairn Islands: clean, correctly and consistently handles
+the zero-tax-jurisdiction template throughout.
+PAGE 174 - Poland: clean, exceptional depth throughout (detailed CFC
+alternative-test mechanics, Article 15c interest limitation, 10%/2-year
+participation exemption).
+PAGE 175 - Portugal: FIXED (3 instances, with a self-caught correction)
+- resolved the NHR reform-status hedge with confirmed, now-settled
+research: NHR closed to new applicants 1 January 2024, replaced by
+IFICI ("NHR 2.0") with narrower sector-based eligibility, existing NHR
+holders grandfathered - no longer an open reform-in-progress question.
+Removed an unnecessary hedge on the June filing deadline (confirmed
+stable/annual). On the interest-limitation EUR 1M vs EUR 4M figures: my
+first-pass fix incorrectly guessed these were two different rules
+(general vs. infrastructure-specific) without verifying - caught this
+myself via a second, more careful search and corrected it before
+finalizing: PwC's current mid-2026 source confirms EUR 4 million is
+actually the current GENERAL threshold under Article 67 CIT Code,
+having replaced the original EUR 1 million figure set at 2019 ATAD
+implementation; older sources citing EUR 1 million reflect prior law.
+Noting this self-correction transparently per the verification
+discipline this practice requires.
+
+Running total this pass: 175 of 249 pages read in full. 115 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 175 structurally clean (post-fix, twice-
+verified given the self-correction); pages 173-174 clean throughout.
+
+Continuing sequentially without pausing.
