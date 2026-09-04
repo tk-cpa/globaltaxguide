@@ -10469,3 +10469,26 @@ Verified sitewide: page 165 structurally clean (post-fix); pages 163-164
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 128-129 of 249
+
+PAGE 128 - Madagascar: clean, well-detailed throughout (a genuinely
+sophisticated \"privileged tax regime\" transfer-pricing test correctly
+distinguished from a true CFC regime, Industry Development Law thin cap
+detail).
+PAGE 129 - Malawi: FIXED (clarity, not a factual error) - a confusingly
+worded sentence (\"reduced to 30% (from 35%)\" immediately after already
+stating the standard rate is 30%) read almost like a typo. Researched
+and confirmed via multiple dated 2025 sources (ENS, Orbitax) this was a
+real, distinct rate cut specifically for non-resident branches
+(previously 35%, now matching the 30% resident rate), part of the
+2025/2026 Budget effective April 1, 2025. Rewrote for clarity while
+keeping the underlying fact accurate.
+
+Running total this pass: 129 of 249 pages read in full. 81 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
