@@ -10350,3 +10350,25 @@ Verified sitewide: page structurally clean (post-fix), all three GST
 locations cross-verified consistent.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 160 of 249
+
+PAGE 160 - North Korea: FIXED (7 instances) - removed this session
+narration throughout the page (Tax Year, Corporate Tax Rate, CFC, Thin
+Capitalization, Hybrid Entity Rules, Participation Exemption, Foreign
+Tax Credit). Underlying research is exceptional - direct primary-source
+verification against the DPRK Law on Foreign Investment's actual
+statutory text via WIPO Lex (Articles 9 and 10 specifically cited),
+correctly distinguishing enterprise income tax (25%/14%/10%) from the
+separate withholding-style tax on dividends/interest/royalties (20%/
+10%), and correctly identifying DPRK's worldwide-income clause for
+DPRK-registered foreign-invested enterprises as functionally CFC-
+adjacent but mechanically distinct from a Western CFC regime.
+
+Running total this pass: 160 of 249 pages read in full. 106 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
