@@ -10510,3 +10510,29 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 130-131 of 249
+
+PAGE 130 - Malaysia: FIXED (minor) - missing percent sign in the VAT/GST
+rate (\"8 (service tax)\" -> \"8% (service tax)\"). Rest of page
+exceptionally detailed (four-test Section 7(1) residency framework,
+2022 foreign-source remittance rule with the 2036 transitional exemption
+sunset, 20%-of-EBITDA interest cap, 2025 dividend-tax wrinkle correctly
+distinguished from the broader territorial exemption).
+PAGE 131 - Maldives: FIXED (real internal inconsistency) - Residency
+and Permanent Establishment sections referred to the old, repealed
+\"Business Profit Tax\" name, while the Tax System section correctly
+explains this law was renamed to the Income Tax Act in 2020 (with the
+old Business Profit Tax Act repealed). Updated both sections to use the
+current, correct name for internal consistency. Rest of page
+exceptionally detailed (genuinely specific CFC mechanism with Schedule 5
+reporting requirement, dual-layer 6%-rate-then-30%-EBITDA thin cap
+structure).
+
+Running total this pass: 131 of 249 pages read in full. 83 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
