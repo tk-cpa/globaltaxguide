@@ -10554,3 +10554,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 168 of 249
+
+PAGE 168 - Panama: FIXED (2 instances) - the Foreign Bank Account
+section said foreign income is "reported through the standard annual
+tax return," which is inconsistent with Panama's pure territorial
+system described everywhere else on the page - foreign-source income is
+outside the Panamanian tax base entirely, not merely reported without
+tax. Corrected for consistency. Also resolved the vague "17-18" treaty
+count: cross-checked multiple current sources (Pardini law firm, ICAEW,
+2026-dated guides), found consensus at 17, and added Ireland, which was
+confirmed as a genuine treaty partner but missing from the page's own
+named list.
+
+Running total this pass: 168 of 249 pages read in full. 112 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
