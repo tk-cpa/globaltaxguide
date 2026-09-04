@@ -10680,3 +10680,26 @@ Verified sitewide: page 172 structurally clean (post-fix); page 171
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 136-137 of 249
+
+PAGE 136 - Mauritania: clean, well-detailed and internally consistent -
+re-verified the \"6 named partner countries\" math in Treaty Network
+(France, Senegal, Algeria, Libya, Morocco, Tunisia) is correct.
+PAGE 137 - Mauritius: clean, exceptional depth and precision throughout
+(Section 73's three-part residency test with the remittance-basis/
+worldwide-taxation distinction for individuals vs. corporations
+correctly and specifically drawn, ATAD-style CFC safe harbors, 80%
+partial-exemption participation regime with its 2024 CIS-interest rate
+increase, and a fully itemized treaty-network breakdown by status -
+in-force/awaiting ratification/awaiting signature/under negotiation -
+sourced directly to the MRA's own published list).
+
+Running total this pass: 137 of 249 pages read in full. 84 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
