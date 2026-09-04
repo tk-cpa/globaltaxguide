@@ -10575,3 +10575,35 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 169-170 of 249
+
+PAGE 169 - Papua New Guinea: clean, exceptionally thorough throughout -
+model example of temporal-conflict handling (Income Tax Act 2025's new
+CFC regime correctly identified against outdated 2016-2018 KPMG sources
+claiming no CFC exists, with a specific PwC last-reviewed date cited),
+precise Treaty Network source-hierarchy reasoning (PwC's 11 preferred
+over lower KPMG/aggregator counts with reasoning given).
+PAGE 170 - Paraguay: FIXED - same systemic boilerplate inconsistency
+found on Panama's page: the Foreign Bank Account section said foreign
+income is "reported through the standard annual tax return," directly
+contradicting the territorial system described everywhere else on the
+page (0% tax, outside the tax base entirely). Corrected for consistency
+with Panama's fix.
+
+POTENTIAL SYSTEMIC ISSUE FLAGGED: this same "foreign income is reported
+through the standard annual tax return" phrase appears to be boilerplate
+template language that may exist on other pure-territorial-system
+country pages sitewide (found so far: Panama, Paraguay). Worth a
+targeted sitewide grep-and-fix sweep once the sequential pass completes,
+similar to the earlier-documented zero-tax-jurisdiction boilerplate bug
+class.
+
+Running total this pass: 170 of 249 pages read in full. 113 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 170 structurally clean (post-fix); page 169
+clean throughout.
+
+Continuing sequentially without pausing.
