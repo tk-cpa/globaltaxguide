@@ -10607,3 +10607,26 @@ Verified sitewide: page 170 structurally clean (post-fix); page 169
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 132-133 of 249
+
+PAGE 132 - Mali: clean, genuinely thorough - Thin Capitalization and
+Treaty Network both explicitly and honestly flag the age of their best
+available source (2016-2018 IMF reports) as a real limitation rather
+than presenting dated information as current, exactly the kind of
+transparent disclosure the site should have throughout.
+PAGE 133 - Malta: FIXED (clarity) - a confusingly-sequenced sentence in
+Tax System led with \"Malta has the lowest reported corporate rate\"
+before immediately clarifying the headline is actually 35% (among the
+highest in Europe), reading as self-contradictory on first pass even
+though the underlying content was accurate. Restructured to lead with
+the headline-vs-effective-rate distinction clearly instead of backing
+into it.
+
+Running total this pass: 133 of 249 pages read in full. 84 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
