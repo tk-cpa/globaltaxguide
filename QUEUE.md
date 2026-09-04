@@ -10492,3 +10492,21 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 166 of 249
+
+PAGE 166 - Palau: FIXED (5 instances) - removed this session narration
+across Tax Year, Permanent Establishment, Participation Exemption,
+Foreign Tax Credit, and Treaty Network sections. Rest of page well-
+researched, correctly capturing the January 2023 BPT reform (replacing
+the prior 4% GRT) and correctly noting that Palau residents/US persons
+remain independently subject to their home country's own CFC and FBAR
+rules given the Compact of Free Association relationship.
+
+Running total this pass: 166 of 249 pages read in full. 110 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
