@@ -10703,3 +10703,30 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 138-139 of 249 - completes
+## re-verification of the entire earlier redo batch (chile through
+## mexico, originally 96 pages) now under this session's live full sweep
+
+PAGE 138 - Mayotte: clean, earlier Foreign Bank Account fix confirmed
+holding correctly, with the rest of the page precisely capturing
+Mayotte's genuinely distinct position among the DROM (2011 department
+status, continued VAT exclusion, larger 40%/EUR 4,050 Article 197
+reduction).
+PAGE 139 - Mexico: clean, exceptional depth and precision throughout
+(Article 9 \"center of vital interests\" residency test with the REFIPRE
+5-year tail rule and formal departure-notice requirement, dual 3:1-
+ratio/30%-EBITDA thin cap regime, REFIPRE framework correctly
+distinguished from a conventional CFC regime, named non-treaty
+countries and MLI exceptions specifically listed).
+
+Running total this pass: 139 of 249 pages read in full. 84 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+now moving past Mexico into the range (Micronesia onward) that had only
+been checked in an earlier, less rigorous pass this session.
