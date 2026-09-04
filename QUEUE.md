@@ -10394,3 +10394,23 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 161 of 249
+
+PAGE 161 - Northern Cyprus: FIXED (4 instances) - removed this session
+narration from Permanent Establishment, Tax Year, Participation
+Exemption, and Foreign Tax Credit sections. Rest of page exceptional -
+correctly and specifically debunks the common assumption that TRNC has
+zero tax treaties (it has exactly one, with Turkey, its sole recognizing
+state, per the US Department of State's own Investment Climate
+Statement), and correctly distinguishes the TRNC's narrow treaty
+position from the internationally-recognized Republic of Cyprus's
+separate, much larger 60+-country treaty network.
+
+Running total this pass: 161 of 249 pages read in full. 107 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
