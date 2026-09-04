@@ -10630,3 +10630,27 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 134-135 of 249
+
+PAGE 134 - Marshall Islands: clean, genuinely exceptional - actively and
+specifically debunks the common offshore-marketing myth of \"0% personal
+income tax\" using real statutory citations (Nitijela Bill No. 103/P.L.
+2026-68, dated March 2026), correctly distinguishing the entity-level
+IBC exemption from the actual wage tax on real employees. Cross-checked
+an apparent Corporate Rate vs. Thin Cap discrepancy (0.8% vs. a flat
+USD 80) and confirmed they are mathematically identical at the USD
+10,000 threshold, not a contradiction.
+PAGE 135 - Martinique: clean, earlier Foreign Bank Account fix (Form
+3916 disclosure requirement) confirmed holding correctly, with the rest
+of the page maintaining the same rigorous \"follows mainland France in
+full\" consistency across every section.
+
+Running total this pass: 135 of 249 pages read in full. 84 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
