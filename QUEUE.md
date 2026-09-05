@@ -11003,3 +11003,32 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 148-149 of 249
+
+PAGE 148 - Myanmar: clean, exceptionally precise and current throughout
+(MIC-company carve-out from worldwide taxation, UTL 2025 extension of
+PIT to non-resident citizens' foreign income, discretionary treaty-
+application mechanism via the Ministry of Planning and Finance, named 8-
+country in-force treaty list with 2 pending-ratification treaties
+separately identified).
+PAGE 149 - Namibia: FIXED (real internal contradiction) - Tax System
+opened with the standard \"residents taxed on worldwide income\"
+boilerplate, directly contradicting the Residency section's explicit,
+detailed statement that Namibia operates a \"pure source-based tax
+system, not a residency-based one.\" Corrected Tax System to match.
+Given the significance of this contradiction type (a fundamental
+worldwide-vs-territorial system mismatch), swept sitewide for the same
+pattern - found one more candidate (Zimbabwe), individually checked it,
+and confirmed it is NOT the same issue: Zimbabwe honestly describes a
+genuinely mixed/hybrid system with an explicit caveat about conflicting
+characterizations, which is appropriate nuanced disclosure rather than
+a clean self-contradiction. Left Zimbabwe unchanged.
+
+Running total this pass: 149 of 249 pages read in full. 89 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
