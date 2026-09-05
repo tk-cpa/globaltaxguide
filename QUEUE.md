@@ -11055,3 +11055,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 150-151 of 249
+
+PAGE 150 - Nauru: clean, genuinely exemplary - actively identifies and
+corrects a wrong marketing claim (\"Nauru has no personal income tax\")
+by citing the government's own published Employment and Services Tax
+Act rate schedule, and separately flags an unresolved thin-cap source
+(\"one source indicates... but not confirmed\") honestly rather than
+guessing either way.
+PAGE 151 - Nepal: clean, genuinely exemplary - actively identifies and
+corrects a commonly-repeated wrong claim (\"Nepal does not have specific
+CFC rules\") by citing the actual statute (Section 69 of the Income Tax
+Act, 2058) and explaining exactly why the secondary-source claim is
+inconsistent with the primary law's own text.
+
+Running total this pass: 151 of 249 pages read in full. 89 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent examples of the site's best practice).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
