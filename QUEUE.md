@@ -10914,3 +10914,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 144-145 of 249
+
+PAGE 144 - Montenegro: clean, precise throughout - real preferential-
+regime withholding surcharge (30% vs standard 15%) and dated 44-country
+treaty count both correctly documented.
+PAGE 145 - Montserrat: clean, genuinely exemplary - correctly
+distinguishes UK national CFC law from Montserrat's own separate tax
+system (consistent with the same correct handling on Falkland Islands),
+actively disproves a lower-quality \"flat 15% VAT\" claim by referencing
+the actual governing legislation (Customs Duties and Consumption Tax
+Act), and is explicitly honest that its Treaty Network conclusion is an
+inference from the jurisdiction's financial-services profile rather
+than a primary-source-confirmed zero - precisely the standard of
+epistemic honesty the site should have throughout.
+
+Running total this pass: 145 of 249 pages read in full. 87 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
