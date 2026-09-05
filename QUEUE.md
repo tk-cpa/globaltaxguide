@@ -10841,3 +10841,28 @@ Verified sitewide: page 179 structurally clean (post-fix); page 178
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 142-143 of 249
+
+PAGE 142 - Monaco: FIXED (real content duplication) - Hybrid Entity
+Rules repeated Thin Capitalization's shareholder-loan/interest-cap
+content almost verbatim instead of covering its own topic - removed the
+misplaced duplicate, same class of bug found earlier on Cabo Verde.
+Rest of page well-detailed (25%-of-turnover territorial scope test,
+50%-of-share-capital shareholder-loan thin cap rule alongside the
+EUR 3M/30% ATAD-style cap).
+PAGE 143 - Mongolia: clean, exemplary - CFC section explicitly and
+correctly identifies a stale-vs-current source conflict (older 2015/2018
+KPMG profiles saying no CFC rules exist vs. a 2025 Moore Global source
+confirming 2020 CFC rules), explains that the older sources were simply
+accurate at time of publication rather than genuinely wrong, and states
+the current answer with confidence - exactly the standard the whole site
+should meet when handling source-date discrepancies.
+
+Running total this pass: 143 of 249 pages read in full. 87 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
