@@ -11032,3 +11032,26 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 186 of 249
+
+PAGE 186 - Saint-Martin (French): FIXED (4 instances) - removed this
+session narration from Tax Year, Participation Exemption, and Foreign
+Tax Credit sections, and resolved the CRS participation hedge
+consistently with the Saint Barthelemy fix (page 182): Saint-Martin
+(French side) has also been a designated CRS Reportable Jurisdiction
+since 2016 as a French territory bound by the same EU savings-taxation
+and administrative-cooperation legislation. Rest of page exceptional -
+correctly debunks a lower-quality aggregator's fabricated "127 country
+treaty network" claim (almost certainly confused with mainland France's
+own network), and correctly identifies the France-Saint-Martin fiscal
+convention as a two-party domestic allocation instrument rather than a
+conventional international tax treaty.
+
+Running total this pass: 186 of 249 pages read in full. 122 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
