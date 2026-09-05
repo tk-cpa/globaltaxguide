@@ -10866,3 +10866,30 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 180-181 of 249
+
+PAGE 180 - Russia: clean, exceptionally thorough and precise throughout
+(independently verified the 22% VAT rate effective 1 January 2026 via
+multiple sources including the FTC and RIA-adjacent outlets - confirmed
+accurate; detailed treaty-suspension mechanics with specific decree
+numbers and per-country denunciation dates).
+PAGE 181 - Rwanda: FIXED - the Tax System section contained a leftover
+artifact-like sentence ("Rwanda published a new transfer pricing rules
+framework and Ministerial Order - a real, current, dated development")
+that asserted currency without giving any actual content - a research-
+process residue rather than genuine substance. Replaced with the real,
+specific detail: Ministerial Order No. 003/26/10/TC (29 April 2026)
+replacing the 2020 rules, the new mandatory upfront TPD filing
+requirement via eTax (previously upon-request only), the new formal APA
+framework, and heightened scrutiny of transactions with sub-15%-tax
+jurisdictions.
+
+Running total this pass: 181 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 181 structurally clean (post-fix); page 180
+clean throughout.
+
+Continuing sequentially without pausing.
