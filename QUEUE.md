@@ -10964,3 +10964,25 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 183-184 of 249
+
+PAGE 183 - Saint Helena, Ascension and Tristan da Cunha: clean, well-
+handled - correctly and consistently explains the genuinely tripartite
+separate tax law structure across all three islands; hedges present are
+honest disclosures appropriate for jurisdictions of this scale and
+documentation scarcity, not copouts.
+PAGE 184 - Saint Kitts and Nevis: FIXED - removed this session narration
+from Tax Year section. Rest of page excellent, correctly and explicitly
+debunking the participation exemption question with a direct primary-
+source quote ("no participation exemption"), and correctly explaining
+CBI passport holders are not automatically tax resident.
+
+Running total this pass: 184 of 249 pages read in full. 120 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 184 structurally clean (post-fix); page 183
+clean throughout.
+
+Continuing sequentially without pausing.
