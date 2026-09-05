@@ -11078,3 +11078,28 @@ both pages already excellent examples of the site's best practice).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 187 of 249
+
+PAGE 187 - Saint Pierre and Miquelon: FIXED (9 instances) - removed this
+session narration throughout the page (Tax Year, Personal Tax Rate,
+Residency, Permanent Establishment, CFC, Thin Capitalization, Foreign
+Bank Account, Participation Exemption, Treaty Network). Notably resisted
+the temptation to pattern-match this page's CRS hedge to the confirmed
+Saint Barthelemy/Saint-Martin CRS findings (pages 182, 186) - research
+found no specific confirmation for Saint Pierre and Miquelon, and since
+those two territories' CRS status is tied to a Caribbean-specific EU
+savings-taxation agreement while Saint Pierre and Miquelon is a
+separately-categorized North Atlantic territory, extending that finding
+here without direct verification would have been an unearned inference.
+Sharpened the hedge to explicitly flag this distinction instead. Rest of
+page well-handled, correctly explaining Saint Pierre and Miquelon as the
+only French Collectivite d'Outre-Mer that applies a genuine local VAT.
+
+Running total this pass: 187 of 249 pages read in full. 123 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
