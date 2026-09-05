@@ -10986,3 +10986,20 @@ Verified sitewide: page 184 structurally clean (post-fix); page 183
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 185 of 249
+
+PAGE 185 - Saint Lucia: FIXED (2 instances) - removed this session
+narration from Tax Year and Foreign Tax Credit sections. Rest of page
+excellent, correctly and specifically documenting the EU Code of
+Conduct Group's harmful-regime finding against Saint Lucia's former FSIE
+(with the specific LC005 designation and December 2020 amending
+legislation date).
+
+Running total this pass: 185 of 249 pages read in full. 121 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
