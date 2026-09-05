@@ -10763,3 +10763,29 @@ Verified sitewide: page 175 structurally clean (post-fix, twice-
 verified given the self-correction); pages 173-174 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 176-177 of 249
+
+PAGE 176 - Puerto Rico: clean, exceptionally sophisticated - correctly
+explains the dual-layer PR/US federal system, IRC 933 exclusion, and the
+bona fide resident CFC/PFIC exemption; the Form 8938 treatment here (PR
+residents DO have to file it, unlike CNMI/Guam/USVI residents) is
+correctly consistent with the earlier Northern Mariana Islands fix
+(page 162).
+PAGE 177 - Qatar: FIXED - verified the VAT hedge is genuinely unsettled
+(confirmed via multiple 2026-dated sources: no official VAT law or date
+exists as of mid-2026) rather than a copout - sharpened it with the
+concrete current detail: Qatar's Cabinet approved a draft e-invoicing
+law on 6 May 2026, read industry-wide as pre-VAT groundwork (the same
+sequence the UAE and Saudi Arabia followed before their own VAT
+launches), with 2027 as the current industry planning estimate rather
+than a confirmed date.
+
+Running total this pass: 177 of 249 pages read in full. 116 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 177 structurally clean (post-fix); page 176
+clean throughout.
+
+Continuing sequentially without pausing.
