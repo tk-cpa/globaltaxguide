@@ -10938,3 +10938,29 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 146-147 of 249
+
+PAGE 146 - Morocco: clean, exceptional depth and precision (2026
+progressive corporate rate structure under the new Finance Law 50-25,
+Article 10 shareholder-loan interest restriction with the Bank Al-
+Maghrib benchmark rate, non-consecutive 365-day residency window
+correctly explained).
+PAGE 147 - Mozambique: FIXED (real logical error) - the Tax System
+section incorrectly attributed the basic residence-based worldwide/
+territorial taxation split to \"genuine CFC provisions,\" which are
+actually a separate, additional anti-avoidance mechanism unrelated to
+the basic residency framework - a real conflation of two different
+concepts. Also fixed an illogical forward-reference (\"already confirmed
+elsewhere on this page\" appearing in the very first section, before any
+such confirmation had occurred). Rest of page well-detailed (specific
+25%/10% CFC ownership thresholds, 2:1 thin cap ratio, full named 9-
+country treaty list).
+
+Running total this pass: 147 of 249 pages read in full. 88 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
