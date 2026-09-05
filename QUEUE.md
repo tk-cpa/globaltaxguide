@@ -10816,3 +10816,28 @@ Verified sitewide: both pages this batch structurally clean.
 Continuing sequentially, multiple pages per turn, full research depth -
 now genuinely reviewing the previously-under-checked range for the
 first time under this session's full standard.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 178-179 of 249
+
+PAGE 178 - Reunion: clean, precise throughout, correctly parallels the
+Martinique/Guadeloupe DROM template with Reunion-specific figures
+(8.5%/2.1% VAT, 30%/EUR 2,450 Article 197 reduction).
+PAGE 179 - Romania: FIXED - the Participation Exemption section was
+vague ("provides a participation exemption... between resident
+companies and from EU subsidiaries") with no actual thresholds given,
+unlike the specificity elsewhere on the page. Replaced with the real,
+precise, consistently-sourced mechanics across 6+ independent sources
+(PwC, Chambers, Taxand, GSL, Global Law Experts): 10% shareholding, 1-
+year continuous holding period, applying to dividends and capital gains
+from Romanian/EU/DTT-treaty-country subsidiaries, plus a separate no-
+minimum-holding exemption for purely domestic Romania-to-Romania
+dividends.
+
+Running total this pass: 179 of 249 pages read in full. 117 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 179 structurally clean (post-fix); page 178
+clean throughout.
+
+Continuing sequentially without pausing.
