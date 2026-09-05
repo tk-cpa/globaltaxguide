@@ -10893,3 +10893,24 @@ Verified sitewide: page 181 structurally clean (post-fix); page 180
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 182 of 249
+
+PAGE 182 - Saint Barthelemy: FIXED - removed this session narration and
+resolved the CRS participation hedge with confirmed research: Saint
+Barthelemy has been designated a CRS Reportable Jurisdiction since 2016
+(alongside French Saint-Martin and the French overseas departments),
+per an industry CRS compliance FAQ citing the underlying French
+circular. Rest of page exceptional - correctly and carefully
+distinguishes Saint Barthelemy's fiscally autonomous local tax code from
+France's own national tax rules (CFC, anti-hybrid) that do not
+automatically extend to the territory, with precise five-year residence
+and effective-management tests.
+
+Running total this pass: 182 of 249 pages read in full. 119 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
