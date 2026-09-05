@@ -10789,3 +10789,30 @@ Verified sitewide: page 177 structurally clean (post-fix); page 176
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 140-141 of 249 - first
+## pages in the range (Micronesia onward) previously only checked in an
+## earlier, less rigorous pass this session
+
+PAGE 140 - Micronesia (FSM): FIXED - a genuinely garbled citation
+fragment (\"FSM, 22 FSM R. 85)\" with a mismatched, orphaned closing
+parenthesis inserted mid-sentence) properly integrated into readable
+prose. Rest of page is exceptionally thorough - dual GRT/major-
+corporation regime, Chuuk state revenue-sharing litigation, and a real,
+useful reconciliation of a conflicting \"5% sales tax\" figure explaining
+it likely reflects state-level rather than national taxation.
+PAGE 141 - Moldova: FIXED - bare quoted-fragment formatting bug (\"CFC
+Rules. No.\") in CFC section rewritten as normal prose. Rest of page
+clean and precise (benchmark-interest-rate thin cap mechanism, EU-
+accession-candidate ATAD2 status correctly noted, treaty-vs-domestic-
+rate priority rule specifically explained).
+
+Running total this pass: 141 of 249 pages read in full. 86 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+now genuinely reviewing the previously-under-checked range for the
+first time under this session's full standard.
