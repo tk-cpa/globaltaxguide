@@ -11147,3 +11147,21 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 189 of 249
+
+PAGE 189 - Samoa: FIXED (2 instances) - removed this session narration
+from Foreign Tax Credit and Treaty Network sections. Rest of page well-
+researched, correctly and carefully distinguishing Samoa's offshore
+International Companies regime's thin-cap-free status from ordinary
+domestic companies (explicitly warning not to assume the exemption
+extends without confirmation) - a genuinely careful, non-copout
+disclosure.
+
+Running total this pass: 189 of 249 pages read in full. 125 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
