@@ -11297,3 +11297,29 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 159-160 of 249
+
+PAGE 159 - Norfolk Island: clean, precise and well-integrated - correctly
+cross-references Australia's page for shared rules following the 2016
+federal integration, while accurately identifying and detailing Norfolk
+Island's own genuine specific carve-outs (GST exclusion, gradual
+superannuation phase-in to 2027, CGT grandfathering for pre-Oct-2015
+assets).
+PAGE 160 - North Korea: clean, exceptionally rigorous - directly cites
+and verifies specific articles of DPRK's own primary statutory text
+(Law on Foreign Investment, Articles 9 and 10, via WIPO Lex) rather than
+relying on secondary characterizations, and explicitly and carefully
+distinguishes a genuine confirmed absence (thin capitalization, checked
+directly against both governing statutes) from an unresolved gap
+(specific tax year-end, comprehensive treaty partner list beyond the two
+confirmed).
+
+Running total this pass: 160 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
