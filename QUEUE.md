@@ -11469,3 +11469,36 @@ under the same rigorous standard applied to everything since).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 197-198 of 249
+
+PAGE 197 - Singapore: clean, exceptionally precise and thorough
+throughout (Section 13(8) 15% headline-rate remittance exemption
+threshold, 2025 economic substance requirement for treaty-claiming
+holding companies, correct debunking of the US treaty misconception).
+PAGE 198 - Sint Maarten: FIXED (significant, real fabricated-figure
+error, plus 3 narration instances) - the Participation Exemption/CFC
+sections described a specific mechanism ("full exemption if no more
+than 5% of revenue derives from dividends from subsidiaries taxed at
+17.2% or higher") that does not match any primary or authoritative
+source found - it appears to have been a garbled or fabricated figure
+with no traceable origin. Verified the real mechanics via HBN Law and
+Tax (a Sint Maarten law firm, dated November 2025), a 2024 OECD Global
+Forum peer review report, and the National Ordinance on Profit Tax
+Article 11 itself: the participation exemption requires a minimum 5%
+shareholding, and is reduced to only a 70% exemption (not full
+exemption) where the subsidiary's income is predominantly passive
+(over 50% dividends/interest/royalties outside active business) and
+undertaxed (below a 10% nominal rate) - corrected in both the CFC and
+Participation Exemption sections for consistency. Removed 3 remaining
+this session narration instances from Tax Year, Permanent Establishment,
+and Foreign Tax Credit.
+
+Running total this pass: 198 of 249 pages read in full. 131 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 198 structurally clean (post-fix); page 197
+clean throughout.
+
+Continuing sequentially without pausing.
