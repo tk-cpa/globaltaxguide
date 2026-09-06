@@ -11525,3 +11525,29 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 199 of 249
+
+PAGE 199 - Slovakia: FIXED (significant, real error across 4 locations)
+- the page presented 24% as Slovakia's flat/headline corporate rate in
+all four locations (quickchart cell, one-sentence summary, Tax System,
+Corporate Tax Rate H2) - a repeat of the same top-rate-presented-as-
+flat-rate error pattern found on Morocco and Seychelles earlier in this
+pass. Confirmed via 6+ independent 2026-dated sources (Wise, Accace,
+PwC, GSL, TaxAtlas, Podnikio) that Slovakia actually applies a tiered
+structure by annual taxable revenue: 10% (up to EUR 100,000, reduced
+from 15% effective 2025), 21% (EUR 100,000-5,000,000, the rate MOST
+companies actually pay per Wise's own explicit statement), and 24%
+(only over EUR 5,000,000, applying solely to the largest enterprises,
+raised from 21% effective 2025). Corrected all four locations for
+consistency, and added the cliff-effect mechanic (entire taxable base
+subject to the bracket rate, not just marginal excess).
+
+Running total this pass: 199 of 249 pages read in full. 132 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), all four rate
+locations cross-verified consistent.
+
+Continuing sequentially without pausing.
