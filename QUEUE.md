@@ -11214,3 +11214,41 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 156 (Niger), plus a major
+## current-events finding checked and fixed across 2 more pages
+
+PAGE 156 - Niger: FIXED (major, current-events factual error) - the page
+claimed \"France (red) is the principal treaty partner,\" but a dated
+KPMG Flash Alert directly confirms Niger terminated its tax treaty with
+France around 2024, following Burkina Faso's earlier termination and
+alongside Mali's own termination - part of the deteriorating France/
+Sahel relationship following recent changes of government in all three
+countries. This is a real current-events correction, not just
+vagueness. Also removed unconfirmed Germany/Belgium/Morocco treaty-
+partner speculation.
+
+Given the significance of this finding (a coordinated treaty termination
+across three Sahel states), immediately checked Burkina Faso's and
+Mali's pages - both already read earlier in this session - and found
+BOTH still wrongly claimed active France treaties:
+
+- Burkina Faso: FIXED - corrected the same error; the page had wrongly
+  stated a specific dividend withholding rate for an active France
+  treaty that is no longer in force.
+- Mali: FIXED - corrected the same error; the page relied on a 2016 IMF
+  report that is now specifically outdated on this one point (the rest
+  of that report's named-partner list remains the best available source).
+
+This demonstrates the value of continuing to cross-check earlier-read
+pages when a major finding surfaces, rather than treating pages as
+permanently settled once read once.
+
+Running total this pass: 156 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (3 fixes this batch, though
+spanning pages read at different points in the pass).
+
+Verified sitewide: all 3 pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
