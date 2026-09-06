@@ -11103,3 +11103,19 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 188 of 249
+
+PAGE 188 - Saint Vincent and the Grenadines: FIXED (2 instances) -
+removed this session narration from Tax Year and Foreign Tax Credit
+sections. Rest of page well-researched, correctly capturing the
+remittance-basis carve-out for non-domiciled residents and the specific
+named 8-country treaty network plus the separate UAE treaty.
+
+Running total this pass: 188 of 249 pages read in full. 124 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
