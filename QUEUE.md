@@ -11399,3 +11399,28 @@ Verified sitewide: page structurally clean (post-fix), all corporate
 rate locations cross-verified consistent.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 163-164 of 249
+
+PAGE 163 - Northern Mariana Islands: clean, exceptionally precise and
+consistent - the mirror-code mechanism is correctly and thoroughly
+applied across every single section (CFC/Subpart F-GILTI, thin cap/163(j),
+participation exemption/245A, FTC/901), plus a genuinely useful and
+correctly-flagged carve-out (CNMI residents specifically exempt from
+Form 8938, unlike Puerto Rico/American Samoa residents). Earlier
+authority-link fix confirmed holding correctly.
+PAGE 164 - Norway: clean, exceptional depth and precision throughout
+(NOKUS CFC regime with the two-thirds-of-Norwegian-rate low-tax test and
+treaty/EEA exemptions, post-2019 EBITDA interest-limitation rule with
+NOK 25M/5M thresholds and the equity-ratio safety clause, fritaksmetoden
+participation exemption with the specific 3%-addback mechanic yielding
+a real ~0.66% effective rate rather than a true 100% exemption).
+
+Running total this pass: 164 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
