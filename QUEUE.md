@@ -11276,3 +11276,24 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 191 of 249
+
+PAGE 191 - Sao Tome and Principe: FIXED (5 instances) - removed this
+session narration from Thin Capitalization, Foreign Bank Account,
+Participation Exemption, Foreign Tax Credit, and Treaty Network
+sections. Rest of page exceptional - includes a genuinely valuable
+built-in correction note on Corporate Tax Rate explaining that an
+earlier version of the page had incorrectly displayed the World Bank's
+~37% total tax-and-contribution burden metric as if it were the
+statutory rate (a different measure entirely), now corrected to the
+real 25% IRC rate - this kind of transparent, substantive correction
+note (as opposed to research-process narration) is a good model.
+
+Running total this pass: 191 of 249 pages read in full. 127 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
