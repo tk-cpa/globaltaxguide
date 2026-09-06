@@ -11252,3 +11252,27 @@ spanning pages read at different points in the pass).
 Verified sitewide: all 3 pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 157-158 of 249
+
+PAGE 157 - Nigeria: clean, exceptionally current and thorough - tracks
+the brand-new 2026 tax reform in real detail (worldwide-income shift
+from the prior source-based framework, new CFC rules with the 34%
+deemed-distribution rate and 15% top-up-tax alignment with global
+minimum tax principles, 30%-EBITDA thin cap). Earlier NRS/FIRS
+institutional-rename fix confirmed holding correctly throughout.
+PAGE 158 - Niue: clean, genuinely excellent - correctly and explicitly
+distinguishes New Zealand's own \"outbound\" CFC/thin-cap rules (which
+apply to NZ residents holding Niue entities) from Niue's own domestic
+law (which has neither), and is honest about several genuine gaps
+(filing deadlines, day-count test, FTC mechanism) without fabricating
+answers.
+
+Running total this pass: 158 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
