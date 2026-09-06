@@ -11443,3 +11443,29 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 165 of 249 - full-circle
+## verification of the session's very first fix
+
+PAGE 165 - Oman: clean, no changes needed. This is the original page
+that started the entire extended verification effort this session - the
+user's first, sharp catch was Oman's original hedge (\"37-43 double tax
+treaties depending on the source\"), which triggered finding the Oman
+Tax Authority's own official 44-partner treaty list. Recounted the full
+named-partner list on this final pass (44 named countries) against the
+stated total (44) - they match exactly. The domain-name fix (tax.gov.om
+-> taxoman.gov.om) from that same early session is also holding
+correctly. Rest of page remains precise throughout (2:1 thin cap ratio
+with the arm's-length condition, the 2028 personal income tax
+implementation date, the Jan 2023 Royal Directive suspending
+withholding tax entirely).
+
+Running total this pass: 165 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (no new fix this batch -
+confirms the integrity of the earliest work in this session holds up
+under the same rigorous standard applied to everything since).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
