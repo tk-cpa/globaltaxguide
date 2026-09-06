@@ -11165,3 +11165,28 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 154-155 of 249
+
+PAGE 154 - New Zealand: clean, exceptional depth and precision
+throughout (5-or-fewer/40%-single-resident CFC control tests, FIF regime
+correctly distinguished from the CFC threshold, outbound thin-cap rules
+with the 90%-domestic-assets carve-out, 41 DTT/18 TIEA distinction
+correctly maintained).
+PAGE 155 - Nicaragua: clean, exceptional handling throughout - correctly
+applies the territorial/FTC relationship (same pattern as Honduras and
+Lebanon: territorial system genuinely limits FTC's practical role rather
+than claiming a \"real\" credit mechanism exists), and the Treaty Network
+section models excellent source-conflict resolution: three independent,
+specific, higher-quality sources say zero treaties exist, one uncited
+lower-quality aggregator claims one exists, and the conclusion correctly
+favors the specific, converging sources with clear reasoning stated.
+
+Running total this pass: 155 of 249 pages read in full. 89 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
