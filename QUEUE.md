@@ -11347,3 +11347,30 @@ Verified sitewide: page 194 structurally clean (post-fix); pages 192-193
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 161-162 of 249
+
+PAGE 161 - North Macedonia: clean, precise throughout (20%-ownership/
+3x-equity thin cap ratio with the specific 3-year new-company exemption,
+48-country treaty count).
+PAGE 162 - Northern Cyprus: attempted real research on the remaining
+Personal Tax Rate hedge (\"0-10% depending on the source consulted\" for
+lower brackets) - found sources confirming the structure is genuinely
+progressive but could not locate the exact lower-bracket figures despite
+a real search attempt; left the existing honest disclosure as-is rather
+than fabricate specific numbers. Rest of page is exceptionally rigorous -
+the Treaty Network section directly and specifically corrects \"a common
+assumption that the TRNC has literally zero tax treaties\" using the US
+State Department's own Investment Climate Statement, and clearly
+distinguishes the TRNC's single Turkey-only treaty from the separate,
+internationally-recognized Republic of Cyprus's independent 60+-country
+network.
+
+Running total this pass: 162 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+research attempted but no resolvable finding on the remaining hedge).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
