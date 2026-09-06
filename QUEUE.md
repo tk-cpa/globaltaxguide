@@ -11551,3 +11551,26 @@ Verified sitewide: page structurally clean (post-fix), all four rate
 locations cross-verified consistent.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 200 of 249
+
+PAGE 200 - Slovenia: FIXED - resolved the thin capitalization hedge
+("confirm whether a replacement mechanism has since been introduced")
+with settled, confirmed research: Slovenia's ATAD-based EBITDA interest
+limitation rule (30% tax-EBITDA or EUR 3 million, whichever is higher)
+had already been introduced separately from 1 January 2024, alongside
+the thin cap ratio, and continues to apply as the sole interest
+limitation mechanism following the thin cap rule's abolition effective
+1 January 2025 - confirmed via PwC and multiple 2025-dated legal alerts
+(Lexology, Karanovic & Partners, EY). This was never actually an open
+question, just previously under-researched. Rest of page excellent,
+correctly noting Slovenia's passive-income-only CFC approach.
+
+Running total this pass: 200 of 249 pages read in full (80.3% complete
+- four-fifths of the way through). 133 real fixes made across the full
+sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
