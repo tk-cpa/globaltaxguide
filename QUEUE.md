@@ -11374,3 +11374,28 @@ research attempted but no resolvable finding on the remaining hedge).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 195 of 249
+
+PAGE 195 - Seychelles: FIXED (significant, real contradiction across 3
+locations) - the Corporate Tax Rate cell, one-sentence summary, and H2
+prose all incorrectly stated a flat 33% standard rate, directly
+contradicting the Tax System section's own correct description of the
+real structure. Confirmed via 5+ independent 2026-dated sources (Wise,
+sebsauerborn.com, TKEG Expat, UNCTAD Investment Policy Monitor) that the
+actual standard business tax rate is progressive: 15% on the first SCR
+1,000,000 of taxable income, 25% above that - with 33% being the special
+TOP rate applying only to regulated sectors (telecom, banking, insurance,
+alcohol/tobacco manufacturing), not the general standard rate most
+companies pay. Corrected all three locations for consistency. Also
+removed a remaining this session narration instance from Foreign Tax
+Credit.
+
+Running total this pass: 195 of 249 pages read in full. 129 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), all corporate
+rate locations cross-verified consistent.
+
+Continuing sequentially without pausing.
