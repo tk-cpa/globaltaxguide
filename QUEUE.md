@@ -11119,3 +11119,31 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 152-153 of 249
+
+PAGE 152 - Netherlands: clean, one of the strongest pages on the site -
+precise box-system taxation, 2019 ATAD1 CFC with the EUR 100k substance
+threshold and 30%-tainted-income test, the notably stricter-than-ATAD-
+minimum 24.5%/EUR 1M earnings-stripping rule (vs the EU\\'s 30%/EUR 3M
+floor), Article 13 participation exemption correctly distinguished from
+the separate, narrower Pillar Two version, and dated (98, ICLG 2026)
+treaty count with the specific Russia-termination/former-USSR-successor-
+states nuance explained.
+PAGE 153 - New Caledonia: clean, genuinely excellent - the Treaty
+Network section explicitly names and actively corrects \"a point of
+frequent confusion\" (that New Caledonia might benefit from France\\'s
+broader treaty network), stating clearly that most French treaties
+explicitly exclude it. Foreign Tax Credit and Participation Exemption
+sections are also honest about specific unconfirmed details (no
+published ownership threshold for the dividend regime) without
+overclaiming.
+
+Running total this pass: 153 of 249 pages read in full. 89 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
