@@ -11323,3 +11323,27 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 192-194 of 249
+
+PAGE 192 - Saudi Arabia: clean, exceptional depth and precision
+throughout, correctly explains the complex dual Zakat (2.5% wealth
+levy)/CIT (20%) ownership-split system with genuine care.
+PAGE 193 - Senegal: clean - the "foreign income reported through
+standard annual tax return" phrase is accurate here since Senegal is
+worldwide-income based (not territorial), unlike the earlier Panama/
+Paraguay error.
+PAGE 194 - Serbia: FIXED (real internal contradiction) - the Hybrid
+Entity Rules section referenced "Serbia's own CFC regime" as addressing
+anti-hybrid concerns, directly contradicting the CFC section on the same
+page, which correctly and explicitly states "Serbia has no Controlled
+Foreign Company rules." Corrected for internal consistency.
+
+Running total this pass: 194 of 249 pages read in full. 128 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 194 structurally clean (post-fix); pages 192-193
+clean throughout.
+
+Continuing sequentially without pausing.
