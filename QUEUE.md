@@ -11190,3 +11190,27 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 190 of 249
+
+PAGE 190 - San Marino: FIXED (3 instances) - resolved the Participation
+Exemption hedge with real, sourced mechanics from TaxRavens: San Marino
+holding companies that hold shares 12+ months pay tax on only 5% of
+dividends received from a Double Tax Agreement partner-country
+subsidiary (after foreign withholding), producing an effective 0.85%
+rate (17% x 5%) - a 95% exemption rather than the full 100% exemption
+the vague original phrasing implied without specifics. Removed 2
+remaining this session narration instances from Tax Year and Treaty
+Network. Rest of page exceptional - correctly distinguishes San
+Marino's "group of companies" consolidated-reporting concept from a
+genuine CFC attribution regime (which does not exist), and correctly
+cross-references Italy's 2024 CFC simplification reform's 15% ETR
+threshold against San Marino's own 17% IGR rate.
+
+Running total this pass: 190 of 249 pages read in full. 126 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
