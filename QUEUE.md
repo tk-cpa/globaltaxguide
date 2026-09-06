@@ -11502,3 +11502,26 @@ Verified sitewide: page 198 structurally clean (post-fix); page 197
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 166-167 of 249
+
+PAGE 166 - Pakistan: clean, precise throughout (50%-ownership/60%-of-
+rate CFC test, 3:1 foreign-debt-to-foreign-equity thin cap ratio,
+Section 116A foreign-asset disclosure regime with specific USD 10,000/
+100,000 thresholds and 2%-per-year penalty).
+PAGE 167 - Palau: clean, appropriately honest throughout - earlier
+authority-link domain fix confirmed holding correctly; genuine gaps
+(filing deadlines, FTC mechanism, comprehensive treaty count) are
+explicitly and honestly flagged as unconfirmed inferences rather than
+presented as settled facts, including a direct acknowledgment that the
+Treaty Network conclusion came from checking Palau's own Bureau of
+Revenue and Taxation directly and finding nothing, not from assumption.
+
+Running total this pass: 167 of 249 pages read in full. 92 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
