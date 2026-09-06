@@ -11424,3 +11424,22 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 196 of 249
+
+PAGE 196 - Sierra Leone: FIXED (2 instances) - removed this session
+narration from Thin Capitalization and Treaty Network sections.
+Independently verified the notable 25%->30% corporate rate and 15%->30%
+personal top-rate increases (both effective under Finance Act 2026,
+passed 26 November 2025) as accurate and current via multiple sources
+(Trading Economics, Bloomberg Tax, BudgIT Sierra Leone, and the NRA's
+own site directly confirming 30%) - these large jumps could have been
+mistaken for errors but are genuine, well-corroborated policy changes.
+
+Running total this pass: 196 of 249 pages read in full. 130 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
