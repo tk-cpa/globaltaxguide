@@ -12324,3 +12324,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 189 of 249
+
+PAGE 189 - Samoa: clean, no changes needed - a good model of careful
+scoping: the Thin Capitalization section specifically distinguishes
+Samoa's offshore International Companies (confirmed no thin cap rules)
+from ordinary domestic companies (not confirmed either way), explicitly
+warning not to assume the offshore exemption extends to domestic
+entities. Hybrid Entity Rules correctly notes that Samoa ICs are
+commonly treated as disregarded/pass-through entities under a FOREIGN
+owner's own check-the-box election, not Samoa's own law - a genuinely
+precise distinction.
+
+Running total this pass: 189 of 249 pages read in full. 104 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+page already excellent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
