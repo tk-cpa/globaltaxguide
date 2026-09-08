@@ -12283,3 +12283,23 @@ Verified sitewide: page 222 structurally clean (post-fix); page 221
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 188 of 249
+
+PAGE 188 - Saint Vincent and the Grenadines: FIXED - Tax Year hedge
+resolved with confirmed filing deadlines sourced directly from the
+Inland Revenue Department's own site (ird.gov.vc): corporate returns due
+3 months after fiscal year-end, individual returns due 31 March. Earlier
+authority-link fix confirmed as the genuine live source. Rest of page
+well-detailed (remittance-basis carve-out for non-domiciled residents
+correctly distinguished from a fully worldwide system, current 2026
+corporate rate at 28%, named 7-country treaty list plus a separate UAE
+treaty).
+
+Running total this pass: 188 of 249 pages read in full. 104 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
