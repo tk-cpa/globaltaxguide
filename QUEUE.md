@@ -12663,3 +12663,21 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 196 of 249
+
+PAGE 196 - Sierra Leone: FIXED - added a confirmed additional treaty
+partner (UAE, signed December 24, 2019) and confirmed no US bilateral
+treaty exists (per the US State Department's own Investment Climate
+Statement), while honestly retaining the disclosure that a fully
+comprehensive list isn't compiled. Earlier Francophone-mislabeling
+correction (this session's first major systemic finding) confirmed
+holding correctly throughout.
+
+Running total this pass: 196 of 249 pages read in full. 108 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
