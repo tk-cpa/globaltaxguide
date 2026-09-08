@@ -12260,3 +12260,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 221-222 of 249
+
+PAGE 221 - Tokelau: clean - honestly and consistently handled given its
+genuinely minimal formal economy as a NZ territory; every section
+correctly and non-repetitively explains why conventional tax concepts
+don't apply, no hedges to fix.
+PAGE 222 - Tonga: FIXED (2 instances) - removed this session narration
+from Tax Year and Personal Tax Rate sections. Rest of page exceptional -
+directly and specifically debunks a TaxAtlas claim that Tonga has no
+personal income tax at all, citing the Act's actual Part 4/Section 5(1)
+structure; correctly explains Section 62's unilateral foreign tax credit
+as filling the gap left by Tonga's total absence of double tax
+treaties.
+
+Running total this pass: 222 of 249 pages read in full. 149 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 222 structurally clean (post-fix); page 221
+clean throughout.
+
+Continuing sequentially without pausing.
