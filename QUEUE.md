@@ -11860,3 +11860,28 @@ page already excellent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 207-209 of 249
+
+PAGE 207 - Spain: clean, exceptionally precise and thorough throughout
+(Article 100 LIS/91 LIRPF CFC 75%-of-Spanish-rate threshold math, Law
+13/2023 EBITDA calculation refinement, Modelo 720's 2022 CJEU penalty-
+reform history, MLI staggered 2023/2024 entry-into-force dates).
+PAGE 208 - Sri Lanka: clean, precise throughout (specific 3x/4x thin cap
+ratios by industry, December 2024 India Protocol PPT modernization
+correctly flagged as a signal for the broader network).
+PAGE 209 - Sudan: FIXED (2 instances) - removed this session narration
+from Participation Exemption and Foreign Tax Credit sections. Rest of
+page well-researched, correctly and honestly distinguishing "no CFC/thin
+cap provision found in sources reviewed" from an absolute guarantee of
+absence, given the genuine scarcity of English-language secondary
+sources on Sudan's tax system.
+
+Running total this pass: 209 of 249 pages read in full. 140 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 209 structurally clean (post-fix); pages 207-208
+clean throughout.
+
+Continuing sequentially without pausing.
