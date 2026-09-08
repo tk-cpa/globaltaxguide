@@ -12210,3 +12210,30 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 219-220 of 249
+
+PAGE 219 - Timor-Leste: clean, genuinely well-researched throughout
+(correct distinction between the sole Portugal income tax treaty and
+the separate Timor Sea Treaty's petroleum-specific relief, PwC-plus-two-
+independent-source confirmation of the single-treaty count).
+PAGE 220 - Togo: FIXED (4 instances) - removed a non-sequitur artifact
+from Tax System (same pattern as the earlier Tanzania fix: the basic
+worldwide/territorial taxation statement was illogically tied to "per
+the standard...structure already confirmed elsewhere on this page"),
+removed self-referential cross-page "this session" narration from CFC
+("confirmed across multiple neighboring...states this session"), and
+removed 2 remaining this session narration instances from Thin
+Capitalization and Foreign Tax Credit. Rest of page well-researched,
+correctly citing Article 95's territorial CIT base and the "Entreprises
+dependantes" transfer-pricing chapter as Togo's actual anti-avoidance
+mechanism in place of CFC rules.
+
+Running total this pass: 220 of 249 pages read in full. 148 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 220 structurally clean (post-fix); page 219
+clean throughout.
+
+Continuing sequentially without pausing.
