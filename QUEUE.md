@@ -11974,3 +11974,29 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 181-182 of 249
+
+PAGE 181 - Rwanda: clean, exceptionally current (2026 Ministerial Order
+replacing the 2020 TP regulations with a formal APA framework, 4:1 thin
+cap ratio with specific equity-calculation exclusions, named 14-country
+treaty list).
+PAGE 182 - Saint Barthelemy: clean, genuinely exceptional - carefully
+and consistently distinguishes Saint Barthelemy's own fiscally
+autonomous local tax code from France's national tax law throughout
+every section (explicitly noting France's CFC and anti-hybrid rules are
+French national law that does NOT automatically extend to Saint
+Barthelemy's separate system), while being honest about genuine
+research gaps (CFC, thin cap) rather than assuming French rules apply
+by default. Correctly explains the territory's unusual EU status
+(overseas country/territory, not outermost region) and its narrow but
+real EU savings-taxation agreement.
+
+Running total this pass: 182 of 249 pages read in full. 98 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
