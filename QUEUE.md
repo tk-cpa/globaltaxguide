@@ -12345,3 +12345,27 @@ page already excellent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 224-225 of 249
+
+PAGE 224 - Trinidad and Tobago: clean, precise throughout, correctly
+resolves a "territorial" misconception with specific PwC/Freeman Law
+citations and reasons through a genuine treaty-count conflict.
+PAGE 225 - Tunisia: FIXED (real internal contradiction, same pattern as
+the earlier Lebanon fix) - the Tax System section stated Tunisia taxes
+residents generally on worldwide income, but this is wrong for
+companies: confirmed via PwC that Tunisian-resident COMPANIES are
+actually taxed on a modified-territorial basis (Tunisia-located PE
+profits plus treaty-attributed profits only), while individuals
+genuinely are taxed on worldwide income - the Residency section
+elsewhere on the page already correctly described the corporate
+position but Tax System contradicted it. Updated Tax System to match.
+
+Running total this pass: 225 of 249 pages read in full. 151 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 225 structurally clean (post-fix); page 224
+clean throughout.
+
+Continuing sequentially without pausing.
