@@ -12704,3 +12704,22 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 237 of 249
+
+PAGE 237 - Uzbekistan: FIXED (3 instances) - removed this session
+narration from Tax Year, Thin Capitalization, and Participation
+Exemption sections. Rest of page exceptional - CFC section is a genuine
+model of source-hierarchy reasoning (a single outdated Freeman Law
+"no CFC rules" claim correctly overridden by three independent,
+mechanism-specific, corroborating sources describing real, detailed,
+currently-operative rules), and correctly tracks the 50%->25% ownership
+threshold reduction effective January 1, 2023.
+
+Running total this pass: 237 of 249 pages read in full. 159 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
