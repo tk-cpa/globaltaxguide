@@ -11926,3 +11926,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 180 of 249
+
+PAGE 180 - Russia: clean, no changes needed - genuinely one of the most
+well-maintained and current pages on the site given the real pace of
+change (2025 corporate rate increase to 25%, 2026 VAT increase to 22%,
+detailed currency-resident foreign-account reporting regime with
+specific RUB penalty thresholds). Treaty Network correctly and
+specifically distinguishes suspended (38 treaties, \"unfriendly\" list,
+Decree 585) from permanently denounced (Netherlands, Denmark, Latvia,
+Lithuania, each individually dated) treaty relationships - a genuinely
+sophisticated and accurate treatment of a fast-moving, legally nuanced
+situation.
+
+Running total this pass: 180 of 249 pages read in full. 98 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+page already excellent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
