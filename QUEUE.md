@@ -11885,3 +11885,26 @@ Verified sitewide: page 209 structurally clean (post-fix); pages 207-208
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 178-179 of 249
+
+PAGE 178 - Qatar: clean, exceptionally current and precise (2026 GTA
+filing-deadline extension, e-invoicing pre-VAT groundwork with an
+appropriately labeled \"planning estimate\" rather than confirmed VAT
+date, the newly ratified Qatar-UAE treaty tracked with specific Emiri
+Decree citation, and the new \"Trusted Entity\" at-source treaty relief
+regime).
+PAGE 179 - Romania: clean, precise throughout (ATAD-based EUR 1M/30%-
+EBITDA interest limitation with the loss-making-taxpayer carve-out and
+merger-successor carryforward detail, 10%/1-year participation exemption
+with the no-minimum-holding intra-Romania exception, GAAR alongside
+ATAD2 anti-hybrid rules explicitly implemented).
+
+Running total this pass: 179 of 249 pages read in full. 98 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
