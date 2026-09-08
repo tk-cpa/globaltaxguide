@@ -12391,3 +12391,23 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 226 of 249
+
+PAGE 226 - Turkiye: FIXED - the CFC section stated attributed foreign
+income is taxed at "the 20% corporate rate," but Corporate Tax Rate
+elsewhere on the same page correctly states the current rate is 25%
+(raised from 20% effective 2023 under Law No. 7456) - confirmed via
+PwC, EY, TaxAtlas, and 4+ other 2026-dated sources. The CFC section was
+using a stale, pre-2023 figure never updated when the rate changed.
+Corrected to match the current rate. Rest of page exceptional - precise
+CFC mechanics (50% control, 25%-passive-income, sub-10%-effective-rate
+triple test), 3:1/6:1 dual thin cap ratios.
+
+Running total this pass: 226 of 249 pages read in full. 152 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
