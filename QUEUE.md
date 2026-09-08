@@ -12075,3 +12075,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 184 of 249
+
+PAGE 184 - Saint Kitts and Nevis: FIXED - Tax Year hedge (\"not confirmed
+in available primary sources\") resolved with the confirmed filing
+deadline sourced directly from the Inland Revenue Department's own site
+(sknird.com): 3.5 months after fiscal year-end, plus quarterly
+installment dates. Rest of page well-detailed (Commonwealth-relief FTC
+provision matching the earlier Grenada finding, CBI-passport-holder
+non-automatic-residency clarification, full named 14-country treaty
+list via CARICOM plus 5 bilateral partners).
+
+Running total this pass: 184 of 249 pages read in full. 100 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
