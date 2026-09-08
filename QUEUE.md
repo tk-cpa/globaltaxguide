@@ -11798,3 +11798,23 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 176 of 249
+
+PAGE 176 - Portugal: FIXED - a missing connector word left \"Portugal
+operates an administrative assessment system the tax authority...\"
+grammatically broken (missing a colon or conjunction between \"system\"
+and \"the tax authority\"). Fixed with a colon. Rest of page is
+exceptionally current and precise - NHR closure/IFICI replacement
+tracked with specific dates, EUR 4M interest-limitation threshold
+correctly flagged as superseding an older EUR 1M figure some sources
+still cite, and real current treaty detail (new UK treaty effective Jan
+2026, Finland/Sweden terminations both dated and neither yet replaced).
+
+Running total this pass: 176 of 249 pages read in full. 98 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
