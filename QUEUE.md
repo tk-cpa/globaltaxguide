@@ -11681,3 +11681,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 203 of 249
+
+PAGE 203 - South Africa: FIXED - resolved the Participation Exemption
+threshold hedge with definitive, multiply-sourced research (Cliffe
+Dekker Hofmeyr, BDO, Werksmans Attorneys, National Treasury, SA Tax
+Guide): paragraph 64B of the Eighth Schedule requires 10% ownership of
+both equity shares and voting rights PLUS an 18-month holding period
+(added by 2023 Budget amendments targeting group-restructuring
+loopholes) - both apply together as separate conditions of one
+consistent test, not as alternative percentage formulations as the
+page's hedge had framed it (the "20%" figure from a lower-quality
+source was simply incorrect). Rest of page exceptional - precise
+Physical Presence Test mechanics (91/91/915-day three-part test), exact
+67.5% High Tax Exemption CFC threshold, and correctly sourced 79-treaty
+count from SARS's own maintained list.
+
+Running total this pass: 203 of 249 pages read in full. 136 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
