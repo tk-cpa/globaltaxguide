@@ -12746,3 +12746,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 238 of 249
+
+PAGE 238 - Vanuatu: FIXED - removed this session narration from Tax
+Year section. Rest of page exceptional - correctly and explicitly
+debunks a widely-repeated "19 treaties" myth (conflating TIEAs with
+comprehensive DTAs) against New Zealand's own primary confirmation of a
+single DTA, and correctly explains why several standard test categories
+(thin cap, participation exemption, FTC) are structurally non-questions
+given Vanuatu's total absence of corporate/capital gains tax rather
+than treating their absence as an unexplained gap.
+
+Running total this pass: 238 of 249 pages read in full. 160 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
