@@ -12117,3 +12117,23 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 185 of 249
+
+PAGE 185 - Saint Lucia: FIXED - Tax Year hedge resolved with confirmed
+filing deadlines sourced directly from the Inland Revenue Department's
+own site (irdstlucia.gov.lc): corporate returns due 3 months after
+fiscal year-end, individual returns by 31 March. Earlier authority-link
+fix (irdstlucia.gov.lc, corrected from a wrong ird.gov.lc) confirmed
+holding correctly and directly verified as the genuine live source used
+for this fix. Rest of page well-detailed (EU Code of Conduct FSIE
+abolition with specific dates, Commonwealth-relief FTC pattern
+consistent with Grenada/St Kitts).
+
+Running total this pass: 185 of 249 pages read in full. 101 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
