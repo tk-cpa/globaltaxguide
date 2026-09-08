@@ -12681,3 +12681,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 197 of 249
+
+PAGE 197 - Singapore: clean, exceptionally precise throughout - genuinely
+one of the strongest pages on the site (Section 13(8) foreign-dividend
+exemption with the specific 15%-headline-rate condition, real
+distinction between Singapore having no own anti-hybrid regime but being
+frequently affected by OTHER countries' anti-hybrid rules given its role
+as a regional holding jurisdiction, honest explanation of why the real
+FTC regime is often practically unnecessary given the territorial
+exemption system, dated 2025 economic-substance requirement for treaty-
+claiming holding companies, and precise 98-comprehensive/8-limited/2-
+TIEA treaty breakdown with the specific US shipping-only exception
+detailed).
+
+Running total this pass: 197 of 249 pages read in full. 108 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
