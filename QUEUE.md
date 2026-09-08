@@ -12431,3 +12431,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 192 of 249
+
+PAGE 192 - Saudi Arabia: clean, no changes needed - this is the site's
+one confirmed-intentional structural exception (documented in earlier
+sessions): non-standard section titles (\"Residency and the Zakat/Tax
+Split\", \"Interest Deduction Limitation (No Formal Thin Cap Rule)\")
+reflect the genuinely unique dual zakat/corporate-tax system, not a
+content error. Content itself is precise and thorough throughout - the
+zakat/income-tax split explained clearly and consistently across every
+section, a specific interest-deduction formula given in place of a
+conventional thin-cap ratio, and MLI signature date correctly noted.
+
+Running total this pass: 192 of 249 pages read in full. 107 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+page confirmed intentional and already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
