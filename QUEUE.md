@@ -11948,3 +11948,29 @@ page already excellent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 211 of 249
+
+PAGE 211 - Svalbard: FIXED (3 instances) - sharpened the corporate rate
+hedge with real, specific detail rather than a bare confirm-directly:
+sources genuinely conflict (16%/22%/28% all cited), but the most
+coherent account is that a 2011 reform harmonized above-NOK-10-million
+profits with the mainland Norwegian rate (28% at the time, now 22%
+after mainland reductions), presented as an honestly disclosed conflict
+with real supporting history rather than a copout. Clarified a genuinely
+confusing point on Treaty Network: the 1920 Svalbard Treaty itself (49
+parties as of April 2026) is NOT a double tax treaty - it's a
+sovereignty/equal-access instrument with an incidental tax-limitation
+clause (Norway can only tax Svalbard for local administration, revenues
+must stay on the archipelago) - the real open question is whether
+mainland Norway's separate bilateral DTT network extends to Svalbard
+given its distinct tax system. Removed a remaining this session-style
+hedge from Foreign Tax Credit.
+
+Running total this pass: 211 of 249 pages read in full. 142 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
