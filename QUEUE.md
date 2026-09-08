@@ -12237,3 +12237,26 @@ Verified sitewide: page 220 structurally clean (post-fix); page 219
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 187 of 249
+
+PAGE 187 - Saint Pierre and Miquelon: FIXED - Tax Year hedge resolved
+with real, confirmed filing deadlines found directly on the DSF's own
+official site (services-fiscaux975.fr): individual returns due 31 March
+for paper filings, extended to 30 April for online filings (with a
+EUR 20 e-filing incentive). Rest of page remains a strong model of
+honest disclosure for a genuinely obscure jurisdiction - multiple other
+sections (Residency, CFC, Participation Exemption, CRS status) are
+explicitly and correctly flagged as unconfirmed inference rather than
+presented as settled fact, and the page specifically and correctly notes
+that Saint Pierre and Miquelon's North Atlantic location means its CRS
+status should NOT be assumed identical to the Caribbean French
+territories - a genuinely careful distinction most sources would miss.
+
+Running total this pass: 187 of 249 pages read in full. 103 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
