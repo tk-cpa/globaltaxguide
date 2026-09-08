@@ -12000,3 +12000,32 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 212-214 of 249
+
+PAGE 212 - Sweden: clean, exceptionally precise throughout (55%-of-
+Swedish-rate CFC low-tax threshold, EEA/white-list CFC exclusions, dual
+ATAD interest limitation with SEK 5M de minimis plus a separate 10%
+beneficial-owner anti-abuse rule); Treaty Network's stated range (80-
+100+) is an honest disclosure of genuine source variance, not a copout.
+PAGE 213 - Switzerland: clean, exceptionally thorough throughout
+(precise per-asset-category thin cap safe harbors by percentage, 30/90-
+day dual residency tests, effective-management case-law CFC substitute
+correctly explained as Switzerland's actual anti-abuse mechanism in the
+absence of a formal CFC regime).
+PAGE 214 - Syria: FIXED - removed this session narration from Treaty
+Network section. Rest of page exceptional - correctly and carefully
+tracks the genuinely fluid 2024-2025 political transition (fall of the
+Assad regime) and its effect on tax administration, distinguishing the
+legacy Income Tax Law's current-in-force provisions from the pending
+2025/2026 reform proposals throughout every section without conflating
+the two.
+
+Running total this pass: 214 of 249 pages read in full. 143 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 214 structurally clean (post-fix); pages 212-213
+clean throughout.
+
+Continuing sequentially without pausing.
