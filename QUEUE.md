@@ -12723,3 +12723,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 198 of 249
+
+PAGE 198 - Sint Maarten: FIXED - Tax Year hedge resolved with confirmed
+filing deadlines (30 June final profit tax return, 31 March provisional,
+1 June individual returns), sourced from the Sint Maarten Tax
+Administration's own site and multiple current government
+announcements. This is the third consecutive page where a previously-
+fixed authority link (tax.sx) was independently confirmed as the correct
+current source by resolving an unrelated content hedge, following the
+same pattern on Saint Lucia and Saint-Martin. Earlier session's real
+36.75%/47.5% top-rate reconciliation confirmed still holding correctly.
+Rest of page is exceptionally rigorous throughout, including an explicit
+resolution of a genuine territorial-vs-worldwide source conflict with
+clear reasoning for preferring the OECD/statute-citing sources.
+
+Running total this pass: 198 of 249 pages read in full. 109 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
