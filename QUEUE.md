@@ -12541,3 +12541,24 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 230 of 249
+
+PAGE 230 - Uganda: FIXED - sharpened the proposed alternative minimum
+tax hedge with real research: checked Uganda's detailed, comprehensive
+2024/2025/2026 tax amendment summaries (EY, MMAKS Advocates, Onyango &
+Company) and found no mention of an AMT being enacted in any of them,
+despite thorough coverage of PAYE, VAT, withholding, and other actual
+changes - meaningful negative evidence suggesting the proposal was not
+carried forward, presented honestly as an inference rather than a false
+confirmed answer. Rest of page well-researched, correctly noting
+Uganda's 2014 treaty-negotiation moratorium and Netherlands treaty-
+shopping concerns.
+
+Running total this pass: 230 of 249 pages read in full. 155 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
