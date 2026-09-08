@@ -12158,3 +12158,31 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 218 of 249
+
+PAGE 218 - Thailand: FIXED (significant, real internal contradiction on
+a high-profile point) - the Tax System section described Thailand's
+2024 remittance rule reform backwards, saying foreign income is taxable
+"when brought into Thailand within the same tax year it was earned" -
+that's actually a description of the OLD, pre-2024 loophole rule. The
+Residency section elsewhere on the same page correctly described the
+current rule as taxing remitted foreign income "regardless of when it
+was earned." Fixed Tax System to match the correct description
+(confirmed via Revenue Department Instruction Por. 161/2566, effective
+1 January 2024). Also updated the proposed two-year grace-period
+legislation's status with confirmed, current research (10+ converging
+sources dated through July 2026: Chambers, PwC, Wise Equity, Nishimura,
+relocatehandbook, lexbangkok): the proposal remains unenacted as of
+mid-2026, stalled when Parliament was dissolved ahead of the February
+2026 general election, and not revived by the new coalition government
+- the previous vague "confirm current status directly" hedge is now a
+settled, specific, sourced answer.
+
+Running total this pass: 218 of 249 pages read in full. 147 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
