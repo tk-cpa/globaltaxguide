@@ -11818,3 +11818,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 206 of 249
+
+PAGE 206 - South Sudan: FIXED (2 instances) - removed this session
+narration from Thin Capitalization and Participation Exemption sections.
+Rest of page exceptional - the Treaty Network section is a genuinely
+excellent model of source-conflict resolution (TaxAtlas's blanket "zero
+treaties" claim correctly overridden by BRITACOM's specific, named
+Morocco/UAE treaty claim, with clear reasoning for why the specific
+claim is preferred over the blanket one), and the CFC/Hybrid Entity
+sections correctly and honestly describe genuine search effort across
+three specialist sources (Addleshaw Goddard, EY, KPMG) rather than
+simply asserting absence.
+
+Running total this pass: 206 of 249 pages read in full. 139 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
