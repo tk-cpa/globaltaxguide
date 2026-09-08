@@ -12474,3 +12474,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 193 of 249
+
+PAGE 193 - Senegal: attempted real research on the one remaining hedge
+(\"sources vary on the exact margin\" for the BCEAO-rate-plus-margin thin
+cap threshold) - found the KPMG fiscal guide confirming the underlying
+share-capital limitation mechanism but not the specific percentage-point
+margin, and general BCEAO rate data that doesn't resolve the specific
+tax-code margin either. Left the existing honest disclosure as-is rather
+than force an unconfirmed figure. Rest of page well-detailed, earlier
+treaty-list fix (16 named bilateral partners plus WAEMU) confirmed
+holding correctly.
+
+Running total this pass: 193 of 249 pages read in full. 107 real fixes
+made across the full sequential pass so far (no new fix this batch -
+research attempted but genuinely inconclusive on the one remaining
+point).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
