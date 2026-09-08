@@ -12525,3 +12525,19 @@ Verified sitewide: page 229 structurally clean (post-fix, independently
 re-verified after a persistence failure); page 228 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 194 of 249
+
+PAGE 194 - Serbia: clean, no changes needed - precise throughout
+(4:1/10:1 thin cap ratio with the daily-average related-party-loan
+measurement detail, EU-accession-candidate ATAD2 status correctly
+noted, dated 64-country treaty count with named major partners).
+
+Running total this pass: 194 of 249 pages read in full. 107 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
