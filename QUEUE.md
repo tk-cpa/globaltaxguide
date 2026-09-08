@@ -12369,3 +12369,25 @@ Verified sitewide: page 225 structurally clean (post-fix); page 224
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 190 of 249
+
+PAGE 190 - San Marino: FIXED (2 instances) - Tax Year hedge resolved
+with confirmed filing deadline (30 June for both individual and
+corporate declarations, per a professional country guide); Treaty
+Network's bare \"approximately 20\" count expanded with a specific
+12-country named partner list (Italy as the most important given
+geographic enclosure, plus Switzerland, Austria, Germany, France, UK,
+Singapore, UAE, Qatar, Malta, Cyprus, Seychelles). Rest of page already
+excellent - genuinely thorough CFC section that actively investigated
+and ruled out a \"group of companies\" concept as a false-positive CFC
+match, and correctly cross-referenced against Italy's own 2024 CFC
+reform threshold.
+
+Running total this pass: 190 of 249 pages read in full. 106 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
