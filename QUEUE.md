@@ -12562,3 +12562,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 195 of 249
+
+PAGE 195 - Seychelles: clean, exceptionally thorough - verified the
+28-country named treaty list matches the stated total exactly.
+Economic-substance requirements (2019, defined \"relevant activities\")
+correctly explained as the jurisdiction's primary anti-avoidance
+backstop in place of a CFC or anti-hybrid regime, and the 25% vs 33%
+sector-specific rate distinction is explicitly clarified to prevent
+misreading 33% as the general standard rate.
+
+Running total this pass: 195 of 249 pages read in full. 107 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already excellent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
