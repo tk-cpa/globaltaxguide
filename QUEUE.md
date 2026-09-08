@@ -11658,3 +11658,26 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 171 of 249
+
+PAGE 171 - Paraguay: FIXED (real research resolving a disclosed source
+conflict) - Thin Capitalization said \"Sources genuinely conflict\"
+between claims of thin cap limits existing vs. not existing. Found the
+specific statutory text: Article 15(23) of Law 6380/2019 imposes a real
+interest-deductibility restriction (market-rate ceiling via Central Bank
+benchmark, 30%-of-net-income cap) that is NOT a classic debt-to-equity
+ratio - explaining why different sources characterized this differently
+(some calling it \"thin capitalization limits,\" others correctly noting
+no classic ratio exists) without the sources actually contradicting each
+other, once the real mechanism is understood. Same resolution pattern as
+Jamaica earlier in this pass. Rest of page (already read/fixed earlier
+this session for the treaty count) remains clean.
+
+Running total this pass: 171 of 249 pages read in full. 95 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
