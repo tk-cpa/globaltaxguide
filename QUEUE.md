@@ -12052,3 +12052,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 215 of 249
+
+PAGE 215 - Taiwan: FIXED (2 instances) - resolved the CFC de minimis
+threshold hedge with confirmed, current research: TWD 7 million is
+verified as current and unchanged since the CFC regime's 2023
+introduction, per Taiwan's own National Taxation Bureau (a July 2026
+clarification notice) and Grant Thornton's 2026 fact sheet - added the
+real aggregation rule for completeness. Sharpened the US-Taiwan double-
+tax relief hedge with the real, current legislative status rather than
+leaving it vague: H.R.33 passed the US House 423-1 in January 2025, but
+S.199 remains pending in the Senate as of the most recent available
+information (June 2026) - genuinely still unresolved federal
+legislation, presented honestly as such with the specific real status
+rather than a bare hedge.
+
+Running total this pass: 215 of 249 pages read in full. 144 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
