@@ -12452,3 +12452,25 @@ page confirmed intentional and already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 227 of 249
+
+PAGE 227 - Turkmenistan: FIXED (5 instances) - removed this session
+narration across Tax Year, Permanent Establishment, Thin Capitalization,
+Participation Exemption, and Foreign Tax Credit sections. The source-
+quality reasoning in Thin Capitalization is genuinely excellent and
+preserved unchanged - correctly declining to rely on a demonstrably
+unreliable directory source's "not in play" claim even though it
+happened to align with the honest "not identified" conclusion, rather
+than uncritically citing a bad source just because its answer was
+convenient. Also correctly distinguishes Turkmenistan's dual treaty
+sourcing (USSR-era assigned treaties plus post-independence own
+treaties).
+
+Running total this pass: 227 of 249 pages read in full. 153 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
