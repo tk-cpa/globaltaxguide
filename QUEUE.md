@@ -12496,3 +12496,32 @@ point).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 228-229 of 249
+
+PAGE 228 - Turks and Caicos: clean, correctly and consistently avoids
+the earlier-documented zero-tax-jurisdiction boilerplate bug (no false
+"reported through the standard annual tax return" claim); genuinely
+structural "not applicable" framing throughout, distinguishing the 16
+TIEAs from actual double-tax treaties.
+PAGE 229 - Tuvalu: FIXED (3 instances, required a retry after the first
+edit script silently failed to persist) - fixed a real internal
+inconsistency: Corporate Tax Rate cited "Income Tax Act (2009)" while
+every other section on the page (Tax System, Residency, CFC, Thin
+Capitalization, Hybrid Entity, Personal Tax Rate) consistently cites
+"Income Tax Act 1992" - corrected to match. Removed 2 remaining this
+session narration instances from Tax Year and Foreign Tax Credit. Rest
+of page exceptional - correctly and specifically debunks two separate
+lower-quality-source errors (a false "no personal income tax" claim and
+a false flat "20% VAT" claim) with primary statutory citations, and
+correctly explains Tuvalu's genuinely discretionary (not bright-line)
+CFC and thin-cap mechanisms under Sections 24(2) and 15(2).
+
+Running total this pass: 229 of 249 pages read in full. 154 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 229 structurally clean (post-fix, independently
+re-verified after a persistence failure); page 228 clean throughout.
+
+Continuing sequentially without pausing.
