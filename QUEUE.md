@@ -11754,3 +11754,25 @@ reform claim independently corroborated by multiple sources before
 building the fix on top of it.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 174-175 of 249
+
+PAGE 174 - Pitcairn Islands: FIXED (2 minor issues) - bare quoted-
+fragment formatting bug in Tax System, and \"based on the sources
+reviewed\" narration language removed from VAT/GST. Rest of page
+correctly and consistently applies \"not applicable\" reasoning given the
+genuine absence of any income tax system.
+PAGE 175 - Poland: clean, exceptional depth throughout (multi-test 2015
+CFC regime with the 25%-lower-tax/33%-passive-income alternative tests
+and the broader tax-haven catch-all, Article 15c interest limitation
+with the PLN 3M/30%-EBITDA higher-of threshold, 10%/2-year participation
+exemption with retroactive satisfaction, ATAD2-aligned anti-hybrid rules
+explicitly implemented).
+
+Running total this pass: 175 of 249 pages read in full. 97 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
