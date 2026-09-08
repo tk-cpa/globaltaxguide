@@ -12608,3 +12608,33 @@ Verified sitewide: page 232 structurally clean (post-fix); page 231
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 233-235 of 249
+
+PAGE 233 - United Kingdom: clean, exceptionally thorough throughout
+(Statutory Residence Test correctly explained without a false single
+day-count threshold, 2025/26 remittance-basis-to-FIG-regime transition,
+precise CIR thin cap mechanics with GBP 2M de minimis).
+PAGE 234 - United States: clean, exceptionally current throughout -
+comprehensive, accurate OBBBA coverage (NCTI renaming from GILTI,
+Section 250 deduction drop to 40%, Section 958(b)(4) reinstatement, new
+Section 951B, EBITDA-based 163(j) restoration), correctly and candidly
+notes the US's own asymmetric CRS-reciprocity gap as a widely-criticized
+structural point.
+PAGE 235 - Uruguay: FIXED (real internal contradiction) - the Residency
+section described Uruguay's January 2026 foreign-capital-income reform
+as merely "discussed" and hedged for confirmation, directly
+contradicting Tax System's confident, specific description elsewhere on
+the same page (already-enacted 12%/8% rates with a look-through rule
+targeting offshore structures). Updated Residency to match the already-
+resolved position rather than presenting stale pre-reform framing as
+current.
+
+Running total this pass: 235 of 249 pages read in full. 157 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 235 structurally clean (post-fix); pages 233-234
+clean throughout.
+
+Continuing sequentially without pausing.
