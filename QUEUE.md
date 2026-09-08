@@ -11612,3 +11612,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS resumed after handoff: page 168 of 249
+
+PAGE 168 - Palestine: FIXED (2 real issues) - Tax Year hedge (\"not
+itemized in available primary sources\") replaced with confirmed filing
+deadlines sourced directly from PwC's dedicated Palestinian Territories
+chapter (30 April for individuals, 4 months post-year-end for self-
+employed, 4-year statute of limitations). Also fixed a genuinely broken
+sentence in the CFC section that was missing a verb connecting its
+subject to its predicate (\"...chapter (a detailed... profile) - no CFC
+mechanism is described...\" read as a dangling fragment; corrected to
+\"...chapter - a detailed... profile - describes no CFC mechanism...\").
+Rest of page remains well-handled (Paris Protocol Area C carve-out
+correctly explained, dual nationality-based day-count residency test).
+
+Running total this pass: 168 of 249 pages read in full. 94 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
