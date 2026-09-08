@@ -12186,3 +12186,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 186 of 249
+
+PAGE 186 - Saint-Martin (French): FIXED - Tax Year hedge resolved with
+real, specific filing deadlines found directly on Saint-Martin's own
+official tax portal and government forms: individual returns generally
+due 31 May of the following year, corporate quarterly installments due
+the 15th of March/June/September/December following fiscal year-end
+(CGISM Article 1668). Earlier authority-link fix (www.impots-saint-
+martin.fr, corrected from a non-resolving bare domain) confirmed as the
+genuine source used for this research. Rest of page is exceptionally
+rigorous - actively identifies and debunks a wrong \"127 countries\"
+treaty claim as a likely confusion with France's own national network,
+and carefully distinguishes Saint-Martin's autonomous local system from
+France's national CFC/hybrid rules (same correct pattern as Saint
+Barthelemy).
+
+Running total this pass: 186 of 249 pages read in full. 102 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
