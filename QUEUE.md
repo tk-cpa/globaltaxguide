@@ -12303,3 +12303,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 223 of 249
+
+PAGE 223 - Transnistria: FIXED (4 instances) - removed this session
+narration from Tax Year, Permanent Establishment, Participation
+Exemption, and Foreign Tax Credit sections. Underlying research is
+genuinely exceptional for such an obscure, unrecognized territory -
+direct citation of PMR statutory law (No. 156-3-V of 2011, Article 7's
+sector-differentiated rate table, Article 15's personal tax rate), and
+correctly and specifically captures a live, unfolding May-August 2026
+Moldova-Transnistria VAT/excise reintegration development (Moldovan
+Parliament's 30 April 2026 "Convergence Fund" law, Moldovan VAT/excise
+applied to specific goods entering Transnistria from 1 August 2026).
+
+Running total this pass: 223 of 249 pages read in full. 150 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
