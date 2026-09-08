@@ -12094,3 +12094,26 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 216 of 249
+
+PAGE 216 - Tajikistan: FIXED (4 instances) - removed this session
+narration from Thin Capitalization, Participation Exemption, and Foreign
+Tax Credit sections. Also fixed a real internal inconsistency: Foreign
+Tax Credit still cited a vague, stale "25 to 40" treaty-count range,
+even though Treaty Network on the same page had already definitively
+resolved this to a confirmed 25 (per the US State Department's 2024
+Investment Climate Statement and TaxAtlas, with an explicit correction
+note about an earlier uncited "40" figure). Updated FTC to match. Rest
+of page exceptional - the CFC/Hybrid Entity sections correctly identify
+a genuine regional pattern (Kazakhstan, Uzbekistan-pre-reform also
+lacking CFC-style attribution) rather than treating the absence as a
+documentation gap specific to Tajikistan.
+
+Running total this pass: 216 of 249 pages read in full. 145 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
