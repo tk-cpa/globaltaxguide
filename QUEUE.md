@@ -12137,3 +12137,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 217 of 249
+
+PAGE 217 - Tanzania: FIXED - removed a non-sequitur artifact from Tax
+System: the basic residence-based worldwide/territorial taxation
+statement was illogically tied to "per the genuine CFC provisions
+already confirmed elsewhere on this page" - CFC rules are a separate
+anti-avoidance mechanism unrelated to the general tax-base statement,
+and this cross-reference didn't make logical sense. Removed the
+confusing tacked-on clause. Rest of page excellent - precise 7:3 thin
+cap ratio for exempt-controlled entities, genuine CFC regime correctly
+distinguished from the separate 30% deemed-distribution anti-avoidance
+rule with the exemption between them explained.
+
+Running total this pass: 217 of 249 pages read in full. 146 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
