@@ -11594,3 +11594,21 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 202 of 249
+
+PAGE 202 - Somalia: FIXED (2 instances) - removed this session narration
+from Thin Capitalization and Participation Exemption sections. Rest of
+page exceptional - correctly and precisely captures the brand-new Income
+Tax Act 2025 (effective May 11, 2025) with specific tiered corporate
+rate mechanics and personal tax bands, and correctly frames the absent
+treaty network as a genuinely evolving area given the very recent tax
+system overhaul, rather than treating it as a settled zero.
+
+Running total this pass: 202 of 249 pages read in full. 135 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
