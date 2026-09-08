@@ -11776,3 +11776,25 @@ made across the full sequential pass so far.
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 205 of 249
+
+PAGE 205 - South Ossetia: FIXED (6 instances) - removed this session/
+this pass narration throughout the page (Tax Year, Residency, Permanent
+Establishment, Thin Capitalization, Participation Exemption, Foreign Tax
+Credit). Underlying research is genuinely exceptional for such an
+obscure, partially-recognized jurisdiction - direct table-of-contents-
+level citation of South Ossetia's own Tax Code (Committee on Taxes and
+Fees), careful reasoning by structural parallel to Russia's own Tax Code
+(matching article numbers, e.g. Statya 269 for thin cap), and correctly
+distinguishing the confirmed Abkhazia-Russia 2024 tax treaty precedent
+from South Ossetia's own unresolved treaty status (only a 2013 proposal
+letter found, no signed agreement).
+
+Running total this pass: 205 of 249 pages read in full. 138 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
