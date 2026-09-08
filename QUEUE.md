@@ -11727,3 +11727,30 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 204 of 249
+
+PAGE 204 - South Korea: FIXED - independently verified the page's
+claimed 2026 corporate tax reform (all four brackets +1pp, top rate
+24%->25%, effective for fiscal years from 1 January 2026) via 7+
+authoritative sources (EY, Orbitax, Acclime Korea, PwC, Chambers and
+Partners, Global Law Experts, Trading Economics/NTS) - genuine and
+accurately described, National Assembly approved 2 December 2025. Found
+and fixed a real internal inconsistency this created: the CFC section's
+~16.8% low-tax threshold was calculated off Korea's OLD 24% top CIT
+rate, while the rest of the page correctly states the current rate is
+25% - recalculated to ~17.5% under the new rate while flagging that the
+CFC threshold's formal update should be confirmed, since the threshold
+formula and the general CIT rate are set in separate statutory
+provisions. Also removed a redundant hedge in Tax Year since the rate
+is already confirmed and consistent elsewhere on the page.
+
+Running total this pass: 204 of 249 pages read in full. 137 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), underlying 2026
+reform claim independently corroborated by multiple sources before
+building the fix on top of it.
+
+Continuing sequentially without pausing.
