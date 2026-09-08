@@ -11574,3 +11574,23 @@ sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 201 of 249
+
+PAGE 201 - Solomon Islands: FIXED (2 instances plus 1 artifact) -
+removed this session narration from Participation Exemption and Treaty
+Network sections, and fixed a duplicated-phrase artifact ("per available
+sources, per available sources") in Treaty Network. Rest of page
+exceptional - correctly and specifically distinguishes the Solomon
+Islands' two narrow anti-abuse mechanisms (Section 21(2) arm's-length
+recomputation, Section 25 GAAR) from a genuine CFC regime, and correctly
+frames the thin capitalization rule as a facts-and-circumstances arm's-
+length test rather than a fixed statutory ratio.
+
+Running total this pass: 201 of 249 pages read in full. 134 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
