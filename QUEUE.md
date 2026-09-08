@@ -12765,3 +12765,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 199 of 249
+
+PAGE 199 - Slovakia: clean, exceptionally current - 2025 tiered
+corporate rate restructuring (new 24% top bracket for large enterprises,
+reduced 10% small-company rate) correctly and precisely documented
+with the cliff-vs-marginal distinction explicitly clarified. Earlier
+stray-CFC-sentence fix in Participation Exemption confirmed holding
+correctly (this was one of 5 sitewide instances of that exact bug fixed
+earlier this session, on Estonia/Latvia/Lithuania/Slovakia).
+
+Running total this pass: 199 of 249 pages read in full. 109 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
