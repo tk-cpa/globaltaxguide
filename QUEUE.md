@@ -12029,3 +12029,26 @@ Verified sitewide: page 214 structurally clean (post-fix); pages 212-213
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 183 of 249
+
+PAGE 183 - Saint Helena, Ascension and Tristan da Cunha: FIXED (5
+instances) - this page had the densest concentration of \"sources
+reviewed\" narration language found so far. Did real research despite
+the jurisdiction's genuine obscurity and found a confirmed, resolved
+answer for VAT: no VAT applies anywhere across the three islands
+(confirmed via 4+ independent sources), but Saint Helena has a real 10%
+services tax on insurance/telecommunications plus customs duties, and
+Ascension has its own local sales tax in place of VAT - a real,
+substantive answer replacing the hedge. For the remaining 4 instances
+(CFC, Thin Cap, Participation Exemption, FTC), research did not surface
+further resolvable facts; removed the narration language honestly
+without fabricating answers.
+
+Running total this pass: 183 of 249 pages read in full. 99 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
