@@ -12638,3 +12638,28 @@ Verified sitewide: page 235 structurally clean (post-fix); pages 233-234
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 236 of 249
+
+PAGE 236 - US Virgin Islands: FIXED (real gap, consistent with earlier
+Northern Mariana Islands fix at page 162) - the Foreign Bank Account
+section used the same misleading generic boilerplate ("no reporting
+regime exists... reported through the standard annual tax return")
+already identified and corrected on the Northern Mariana Islands page.
+USVI bona fide residents are US citizens/nationals and remain fully
+subject to FBAR for genuine foreign accounts, with the same specific
+Form 8938 exemption applying across the CNMI/Guam/USVI mirror-code
+group (unlike Puerto Rico and American Samoa, which do require it).
+Fixed for consistency with the earlier established finding. Rest of
+page exceptional - correctly and thoroughly explains the live mirror-
+code mechanism across every section, including full OBBBA-era Subpart
+F/NCTI CFC coverage and the EDC incentive program as the more practical
+structuring driver than the mirrored federal provisions.
+
+Running total this pass: 236 of 249 pages read in full. 158 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
