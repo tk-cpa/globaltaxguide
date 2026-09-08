@@ -11634,3 +11634,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 169-170 of 249
+
+PAGE 169 - Panama: clean, precise - re-verified the 17-country named
+treaty list matches the stated total exactly, and the territorial/FTC
+relationship correctly applied (same standard pattern as Honduras,
+Lebanon, Nicaragua).
+PAGE 170 - Papua New Guinea: clean, exceptionally current - tracks the
+brand-new Income Tax Act 2025 in real detail, explicitly identifies and
+resolves a stale-vs-current source conflict on CFC rules (2016-2018
+KPMG profiles vs. the current 2025 reform, with clear reasoning for
+preferring the dated, current PwC source), gives a precise thin-cap
+formula with specific carve-outs, and resolves a genuine treaty-count
+discrepancy (11 vs 9 vs 8 across sources) by preferring the most
+specific, current, named list with reasoning stated.
+
+Running total this pass: 170 of 249 pages read in full. 94 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
