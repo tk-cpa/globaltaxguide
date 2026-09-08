@@ -11908,3 +11908,21 @@ both pages already excellent).
 Verified sitewide: both pages this batch structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 210 of 249
+
+PAGE 210 - Suriname: FIXED - removed this session narration from Foreign
+Tax Credit section. Rest of page exceptional - correctly captures a
+genuinely live, current development (a new Transfer Pricing Law being
+actively drafted as of mid-2026 in response to a Total-related mining/
+oil contract controversy), with careful distinction between the pending
+TP law (arm's-length pricing) and CFC attribution (which remains fully
+absent and not under development).
+
+Running total this pass: 210 of 249 pages read in full. 141 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing.
