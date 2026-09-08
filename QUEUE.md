@@ -11705,3 +11705,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 172-173 of 249
+
+PAGE 172 - Peru: clean, exceptional depth throughout (RTFI CFC regime
+covering both individuals and entities with specific 50%-ownership/
+passive-income thresholds, the 2021 shift from a 3:1 debt-equity ratio
+to a 30%-of-EBITDA rule, real coordination detail between the FTC and
+CFC regimes to avoid double-counting).
+PAGE 173 - Philippines: clean, earlier treaty-count fix (43, two-source-
+confirmed) holding correctly. Real specific detail on the tax arbitrage/
+interest arbitrage rule with its historical rate change (33% pre-2021 ->
+20% under CREATE Act) and the TTRA procedural requirement for treaty
+relief correctly noted as not automatic.
+
+Running total this pass: 173 of 249 pages read in full. 95 real fixes
+made across the full sequential pass so far (no new fixes this batch -
+both pages already excellent).
+
+Verified sitewide: both pages this batch structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
