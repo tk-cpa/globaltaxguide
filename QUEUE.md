@@ -12411,3 +12411,23 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 191 of 249
+
+PAGE 191 - Sao Tome and Principe: FIXED - CRS/AEOI status hedge resolved
+with the confirmed answer: Sao Tome and Principe is not currently a CRS
+participating jurisdiction (confirmed via a current, 2025-dated non-CRS
+country list cross-referenced against the OECD's own participant data).
+Rest of page already excellent, with the earlier session's World Bank
+rate confusion self-correction confirmed still holding correctly, and
+the CFC section remains a model of honest, precise disclosure (\"no CFC
+provision found in the sources reviewed\" explicitly distinguished from
+an absolute guarantee).
+
+Running total this pass: 191 of 249 pages read in full. 107 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
