@@ -12581,3 +12581,30 @@ page already excellent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 231-232 of 249
+
+PAGE 231 - Ukraine: clean, exceptionally current and precise throughout
+(EUR 2 million aggregate CFC de minimis, 3.5x thin cap ratio with 30%
+EBITDA cap, current 2022-2025 treaty terminations/new signings tracked
+with specific dates including a May 2026 Germany update).
+PAGE 232 - United Arab Emirates: FIXED (significant, real error) - the
+Tax System section stated both residents AND non-residents are taxed
+only on UAE-source income, but confirmed via the actual Corporate Tax
+Decree-Law and multiple sources (Dentons, PwC, UAE Ministry of Finance,
+JD Supra) that UAE Resident Persons are actually taxed on WORLDWIDE
+income (Dentons: "9% on the worldwide taxable income... of taxable
+persons"), with relief for foreign income available via a foreign PE
+exemption election or foreign tax credit - only non-residents are
+limited to UAE-source income. This was a foundational error affecting
+the reader's basic understanding of UAE's tax base, corrected in the
+opening Tax System statement.
+
+Running total this pass: 232 of 249 pages read in full. 156 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 232 structurally clean (post-fix); page 231
+clean throughout.
+
+Continuing sequentially without pausing.
