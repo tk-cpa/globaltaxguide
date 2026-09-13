@@ -13613,3 +13613,20 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 220 of 249
+
+PAGE 220 - Timor-Leste: FIXED - bare quoted-fragment formatting bug in
+Thin Capitalization. Rest of page well-detailed and honest, with the
+Treaty Network's single-treaty claim (Portugal only) explicitly
+confirmed via PwC plus two independent specialist sources, and the real
+distinction between the conventional treaty network and the separate
+Timor Sea Treaty's petroleum-specific relief correctly maintained.
+
+Running total this pass: 220 of 249 pages read in full. 119 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
