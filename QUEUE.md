@@ -12880,3 +12880,21 @@ to Morocco's page confirmed consistent with Morocco's own corrected
 figures.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 244 of 249
+
+PAGE 244 - Yemen: FIXED - removed this session narration from CFC
+section. Rest of page well-handled given genuine source scarcity for a
+conflict-affected jurisdiction with parallel administrative structures -
+correctly and honestly notes that ongoing conflict and split governance
+may affect the practical operation of formal tax rules, including the
+narrow 6-treaty network, without overstating certainty either way.
+
+Running total this pass: 244 of 249 pages read in full. 163 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing - only 5 pages remain (Zambia,
+Zimbabwe, plus any territories/regions not yet covered).
