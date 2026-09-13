@@ -12898,3 +12898,24 @@ Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing - only 5 pages remain (Zambia,
 Zimbabwe, plus any territories/regions not yet covered).
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 202 of 249
+
+PAGE 202 - Somalia: FIXED - a forward-reference in Tax Year that didn't
+actually deliver (\"described in the Residency section of this page,\"
+but Residency doesn't define the year of assessment - it only covers
+individual/corporate residency tests). Replaced with the real confirmed
+answer: calendar year (1 January-31 December), per Income Tax Regulation
+No. 0141, 2025. Careful research note: some search results for \"Income
+Tax Act 2025\" returned results about India's unrelated, similarly-named
+2025 tax reform - correctly avoided conflating the two and used only the
+Somalia-specific source. Earlier session's Revenue Act 2016 -> ITA 2025
+citation fix (CFC section) confirmed holding correctly.
+
+Running total this pass: 202 of 249 pages read in full. 111 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
