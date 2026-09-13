@@ -13889,3 +13889,22 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 228 of 249
+
+PAGE 228 - Turkmenistan: FIXED (2 instances) - Tax Year hedge resolved
+with a confirmed filing deadline (15 April following the tax year,
+confirmed by two independent sources); bare quoted-fragment formatting
+bug in CFC rewritten as normal prose. Rest of page well-handled,
+including an honest treatment of a lower-quality directory source's
+thin-cap claim (correctly declining to treat it as confirmation despite
+pointing the same direction, given that source's demonstrated
+unreliability elsewhere).
+
+Running total this pass: 228 of 249 pages read in full. 131 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
