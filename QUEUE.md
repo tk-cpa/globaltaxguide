@@ -14095,3 +14095,22 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 238 of 249
+
+PAGE 238 - Uzbekistan: FIXED - Thin Capitalization hedge resolved with
+the real, specific ratio (3:1 debt-to-equity, 13:1 for banks and leasing
+companies) and full controlled-debt definition, sourced directly from
+PwC's current Uzbekistan corporate tax summary. CFC section is
+genuinely excellent - a real, well-reasoned source-conflict resolution
+weighing three independent, detailed, mechanism-specific sources against
+one outdated single-line claim, with clear methodology stated for why
+the detailed sources win.
+
+Running total this pass: 238 of 249 pages read in full. 133 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
