@@ -13972,3 +13972,23 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 232 of 249
+
+PAGE 232 - Ukraine: clean, exceptionally current and precise - genuinely
+well-tracked wartime treaty developments (Russia/Belarus/Syria treaties
+cancelled 2022-2023, Iran treaty terminated Jan 2025, new Australia
+treaty signed Oct 2025 and an updated Germany agreement May 2026, both
+correctly noted as pending ratification rather than yet in force). CFC
+regime's 13%-effective-rate/50%-passive-income dual safe harbor and the
+3.5:1 thin cap trigger with the annual 5% carryforward reduction all
+correctly and specifically detailed.
+
+Running total this pass: 232 of 249 pages read in full. 131 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
