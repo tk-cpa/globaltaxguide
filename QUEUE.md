@@ -13526,3 +13526,52 @@ page already excellent, earlier fix confirmed holding).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## FIFTH TARGETED SWEEP: one-sentence summary vs quickchart cells (a
+## third location on each page stating the same rate figures, which
+## can diverge independently)
+
+Method: compared each page's one-sentence summary line against its
+quickchart cells for Corporate rate, Top personal rate, and VAT/GST
+rate.
+
+RESULT: 14 initial flags, individually reviewed - 12 confirmed as false
+positives (mostly artifacts of my own crude regex sentence-splitting
+cutting off decimal figures like "27.5%" at the "." or missing
+continuation clauses like Japan's local-tax addition), but 2 were
+GENUINE:
+
+- Bhutan: FIXED (significant) - the one-sentence summary already
+  correctly stated Bhutan's real, current corporate rate (22%, unified
+  under the new Income Tax Act 2025 effective 1 January 2026), but both
+  the Corporate Tax Rate H2 prose AND the quickchart cell still showed
+  the outdated pre-reform 20% figure. Confirmed via multiple strong,
+  current sources (The Bhutanese newspaper, October 2025; BhutanWiki
+  citing the Ministry of Finance's own implementing Rules) - updated
+  both the H2 and the cell to the correct, current 22% figure, resolving
+  a genuine three-way inconsistency where the summary had it right and
+  the other two locations were stale.
+
+- Sint Maarten: FIXED (follow-up to the earlier cell fix) - the one-
+  sentence summary independently stated the same stale "38%" figure
+  already corrected in the quickchart cell during the previous sweep.
+  No 38% figure appears anywhere in the page's own detailed, sourced
+  Personal Tax Rate research (which documents 36.75% base bracket and
+  ~47.5% combined effective with surtax instead) - updated the summary
+  to match for full three-way consistency across cell, H2, and summary.
+
+Serbia and Laos summaries (stated as ranges "10%-20" and "0%-25") were
+checked and confirmed already consistent with the top-of-range cell
+fixes made in the previous sweep - no further action needed.
+
+Running total across the sequential pass and all five sweeps: 206 real
+fixes made across this entire continuous work session.
+
+This is a valuable demonstration that checking a THIRD independent
+location for the same figure (after cell-vs-H2 in the prior sweep)
+surfaces genuinely different errors than the first two locations alone
+would catch - Bhutan's error was invisible to the cell-vs-H2 check
+specifically because the cell and H2 agreed with each other (both
+wrong), and only the summary (which was actually correct) exposed the
+discrepancy.
