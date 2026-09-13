@@ -14154,3 +14154,22 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 9 pages remain to complete the entire site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 241 of 249
+
+PAGE 241 - Venezuela: clean, no changes needed - precise throughout
+(the \"international fiscal transparency\" JLFT regime correctly and
+specifically distinguished from a conventional CFC attribution rule,
+1:1 thin cap ratio with the specific average-debt-vs-average-equity
+mechanic, and a genuinely useful procedural detail on the Mexico treaty:
+signed and published in the Official Gazette but not yet in force
+pending exchanged diplomatic ratification notes).
+
+Running total this pass: 241 of 249 pages read in full. 134 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
