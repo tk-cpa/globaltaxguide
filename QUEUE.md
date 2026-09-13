@@ -14114,3 +14114,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 239 of 249
+
+PAGE 239 - Vanuatu: FIXED - Tax Year hedge resolved with the confirmed
+VAT filing deadline (27th of the following month) sourced directly from
+the Department of Customs and Inland Revenue's own official guidance -
+Vanuatu's primary recurring tax deadline given the absence of income
+tax. Rest of page already excellent, with the earlier session's real
+correction (the wrongly-inflated \"19 treaties\" figure, which conflated
+TIEAs with the single genuine DTA) confirmed still holding and
+documented directly on the page.
+
+Running total this pass: 239 of 249 pages read in full. 134 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
