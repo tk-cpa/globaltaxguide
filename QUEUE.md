@@ -14303,3 +14303,38 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 2 pages remain to complete the entire site.
+
+
+## SPECIAL/ROOT PAGES RE-CHECKED against bug patterns discovered during
+## the country-page sequential pass
+
+Following completion of the full 249-page sequential pass, re-checked
+all special/root pages (about, disclaimer, index, map, micronations,
+mission, search, transparency, trusted-resources, unions, zones)
+specifically against bug patterns discovered AFTER these pages were
+last reviewed earlier in this session: bare quoted-fragment formatting
+bugs, stray CFC-adjacent sentences, content duplication between
+sections, and internal math errors on named-list counts.
+
+RESULTS: No instances of the bare-quoted-fragment bug found (the 3
+matches on index.html/search.html/trusted-resources.html were all
+legitimate placeholder/title text, not the bug pattern). Verified two
+specific numeric claims on unions.html by recounting named members:
+WAEMU's stated \"8 members\" (Benin, Burkina Faso, Cote d'Ivoire, Guinea-
+Bissau, Mali, Niger, Senegal, Togo) and CEMAC's stated \"6 members\"
+(Cameroon, Central African Republic, Chad, Republic of Congo, Equatorial
+Guinea, Gabon) both matched their named lists exactly - no math errors.
+Also specifically verified unions.html's direct cross-reference to the
+Republic of Congo's country page (regarding CEMAC cross-border interest
+compliance conditions) remains accurate and consistent with the Thin
+Capitalization fix made to that page earlier this session.
+
+CONCLUSION: the special/root pages hold up cleanly against every bug
+pattern discovered during the country-page pass. No fixes needed.
+
+This closes out the last identified gap in this session's full-site
+verification effort: both the 249 country pages (full sequential
+read-through, real fixes made and re-verified throughout) and the
+special/root pages (checked initially, then specifically re-checked
+against every bug pattern discovered later in the session) have now
+been verified to the same standard.
