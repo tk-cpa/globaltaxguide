@@ -12784,3 +12784,26 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 200 of 249 - MILESTONE:
+## 200 pages (80%) now reviewed under the corrected full-text method
+
+PAGE 200 - Slovenia: FIXED (minor) - removed an illogical connector
+(\"consistent with... CFC jurisdiction taxing only passive CFC income\")
+awkwardly linking the Participation Exemption to an unrelated CFC fact
+already correctly covered in its own section - not a factual error, but
+a forced non-sequitur worth cleaning up. Rest of page is exceptionally
+current - the 2025 thin-cap-to-EBITDA transition tracked in real detail
+across 4 independent sources (PwC, Lexology, Karanovic & Partners, EY),
+correctly explaining that abolishing the old 4:1 ratio didn't leave a
+gap since the ATAD EBITDA rule had already been running in parallel
+since 2024.
+
+Running total this pass: 200 of 249 pages read in full (80% of the
+site). 110 real fixes made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+49 pages remain to complete the full site.
