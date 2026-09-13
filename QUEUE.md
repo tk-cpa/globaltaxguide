@@ -13316,3 +13316,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 213 of 249
+
+PAGE 213 - Sweden: FIXED - resolved the disclosed treaty-count range
+(\"roughly 80 to over 100 depending on counting\") with a specific,
+current, dated figure (85, per TaxAtlas January 2026), also adding the
+real detail of the separate Nordic Tax Convention. Rest of page
+exceptionally precise (25%/55%-of-Swedish-rate CFC low-tax test, 2019
+ATAD interest limitation with the SEK 5M safe harbor, ten-consecutive-
+year presumed-residency rule with the specific five-year burden-shift
+detail).
+
+Running total this pass: 213 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
