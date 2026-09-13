@@ -14236,3 +14236,25 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 5 pages remain to complete the entire site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 245 of 249
+
+PAGE 245 - Yemen: FIXED (2 instances, real research despite genuine
+conflict-driven documentation constraints) - Participation Exemption and
+Foreign Tax Credit hedges (the same \"genuinely narrow and technical
+area\" phrasing pattern already fixed on Syria and Iraq) both resolved
+with real answers from Moore Global's Yemen tax guide: a genuine
+domestic dividend exemption exists (dividends from an already-taxed
+public company are exempt), and a real statutory foreign tax credit
+mechanism exists under the Income Tax Law - Yemen's ongoing conflict is
+a real constraint on documentation, but did not prevent finding actual
+answers here.
+
+Running total this pass: 245 of 249 pages read in full. 136 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+4 pages remain to complete the entire site.
