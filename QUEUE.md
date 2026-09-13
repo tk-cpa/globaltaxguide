@@ -12855,3 +12855,28 @@ page already excellent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 243 of 249
+
+PAGE 243 - Western Sahara: FIXED (2 instances, cross-page consistency) -
+this page's Corporate Tax Rate section and quickchart cell both still
+cited Morocco's stale "35% headline corporate rate," which was already
+corrected earlier in this same sequential pass (page 146) to reflect
+Morocco's actual rate structure (20% standard for most companies, 35%
+only for large companies at or above MAD 100 million profit, per
+Finance Law 2026). Updated both locations on this page to match Morocco's
+corrected figures, closing a cross-page consistency gap that a fix on
+one page can silently create on another that cites it. Rest of page
+genuinely excellent - the dual Moroccan-administered/SADR Free Zone
+structure is applied consistently and honestly across every section
+without repetition fatigue.
+
+Running total this pass: 243 of 249 pages read in full. 162 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix), cross-references
+to Morocco's page confirmed consistent with Morocco's own corrected
+figures.
+
+Continuing sequentially without pausing.
