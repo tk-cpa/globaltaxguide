@@ -14032,3 +14032,26 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 235 of 249
+
+PAGE 235 - United States: clean, exceptional depth and precision -
+genuinely one of the most rigorous pages on the site. Correctly tracks
+the very recent One Big Beautiful Bill Act (OBBBA, P.L. 119-21) reforms
+across multiple sections with real statutory precision: GILTI renamed
+to NCTI with the Section 250 deduction drop to 40% and QBAI exclusion
+elimination, Section 163(j)'s permanent EBITDA-based ATI restoration,
+and the Section 958(b)(4)/951B CFC attribution changes. The Foreign Bank
+Account section is notably self-aware, correctly framing the US as the
+origin jurisdiction for FBAR/FATCA (the \"reverse of the usual pattern\"
+compared to every other page) and honestly noting the well-documented
+reciprocity asymmetry criticized by the OECD Global Forum.
+
+Running total this pass: 235 of 249 pages read in full. 132 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
