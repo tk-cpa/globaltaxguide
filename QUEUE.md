@@ -12807,3 +12807,32 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 49 pages remain to complete the full site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: pages 239-242 of 249
+
+PAGE 239 - Vatican City: clean, genuinely well-handled, consistently
+structural framing throughout given the total absence of any tax
+system.
+PAGE 240 - Venezuela: clean, precise throughout (minor CFC-description
+redundancy between Tax System and CFC sections is stylistic, not a
+factual error).
+PAGE 241 - Vietnam: clean, precise throughout (Decree 132's 30% EBITDA
+interest cap, unratified 2015 US treaty status correctly explained).
+PAGE 242 - Wallis and Futuna: FIXED (2 instances) - removed this session
+narration and self-referential cross-page phrasing from Foreign Bank
+Account and Treaty Network sections. Deliberately avoided extending the
+confirmed Saint Barthelemy/Saint-Martin CRS finding (pages 182, 186) to
+Wallis and Futuna without direct verification, consistent with the same
+disciplined approach taken on Saint Pierre and Miquelon (page 187) -
+Wallis and Futuna is a separately-categorized Pacific territory, not
+part of the Caribbean-specific EU savings-taxation agreement that
+governs the other two territories' CRS status.
+
+Running total this pass: 242 of 249 pages read in full. 161 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page 242 structurally clean (post-fix); pages 239-241
+clean throughout.
+
+Continuing sequentially without pausing.
