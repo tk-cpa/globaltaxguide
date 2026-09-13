@@ -13335,3 +13335,25 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 214 of 249
+
+PAGE 214 - Switzerland: clean, exceptionally sophisticated - genuinely
+one of the best pages on the site, correctly navigating Switzerland's
+uniquely complex three-tier federal/cantonal/communal system throughout.
+Precise details include the dual 30-day-with-work/90-day-without-work
+residency thresholds (explicitly noting Switzerland uses neither a
+183-day test nor a combination-of-tests requirement, unlike most
+countries), the asset-category-specific thin-cap safe-harbor percentages
+published by the Federal Tax Administration, and the correct
+distinction between Switzerland's participation relief (a proportional
+reduction) and a full Dutch/Luxembourg-style exemption.
+
+Running total this pass: 214 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
