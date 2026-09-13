@@ -13438,3 +13438,23 @@ earlier fixes confirmed holding).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 216 of 249
+
+PAGE 216 - Taiwan: clean, exceptionally current and precise - CFC de
+minimis threshold (TWD 7 million) confirmed as current via a specifically
+dated July 28, 2026 clarification notice from Taiwan's own National
+Taxation Bureau, plus Grant Thornton's 2026 fact sheet. Treaty Network
+tracks genuinely pending US federal legislation (the US-Taiwan Expedited
+Double-Tax Relief Act) with real specificity - bill numbers, the exact
+423-1 House vote, and explicit honesty that Senate passage remains
+uncertain rather than assuming eventual enactment.
+
+Running total this pass: 216 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
