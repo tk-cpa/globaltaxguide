@@ -14133,3 +14133,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 240 of 249
+
+PAGE 240 - Vatican City: clean, no changes needed - correctly and
+consistently handles the genuinely unique Italy-employment interaction
+across every relevant section (Italian tax residents working at the
+Vatican remain subject to Italian worldwide tax under the bilateral
+arrangement, a real detail carried through Personal Tax Rate, Residency,
+and Foreign Tax Credit without contradiction). The 800-900 population
+estimate is appropriately treated as a demographic fact, not a tax
+figure requiring the same precision standard.
+
+Running total this pass: 240 of 249 pages read in full. 134 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+9 pages remain to complete the entire site.
