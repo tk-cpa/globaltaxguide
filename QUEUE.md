@@ -14055,3 +14055,23 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 236 of 249
+
+PAGE 236 - Uruguay: clean, exceptionally current - correctly tracks a
+brand-new January 2026 reform in real detail (residents' foreign capital
+income now taxed directly at 12%/8%, with a specific look-through rule
+targeting offshore-structure holdings, layered accurately across Tax
+System, Residency, Participation Exemption, and Foreign Tax Credit
+sections without contradiction). Recounted the 25-country named treaty
+list against the stated total - matches exactly, and the earlier
+session's Colombia-pending-ratification detail confirmed still holding.
+
+Running total this pass: 236 of 249 pages read in full. 132 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
