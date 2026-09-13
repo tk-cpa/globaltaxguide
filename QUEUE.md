@@ -13868,3 +13868,24 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 227 of 249
+
+PAGE 227 - Turkiye: clean, exceptionally precise - Article 7 CFC regime
+with the 50%-control/25%-passive-income/10%-effective-rate three-part
+test, Article 12 thin cap with the 3:1/6:1 dual ratio, dividend/capital-
+gains participation exemption with the 2-year holding condition all
+correctly and specifically detailed. Notably, the CFC section proactively
+catches and corrects its own potential inconsistency, explicitly noting
+that a 20% rate reference elsewhere would be outdated given the 2023
+increase to 25% under Law No. 7456 - active self-consistency checking
+rather than leaving stale cross-references for a reader to catch.
+
+Running total this pass: 227 of 249 pages read in full. 129 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
