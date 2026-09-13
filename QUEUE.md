@@ -13992,3 +13992,24 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 233 of 249
+
+PAGE 233 - United Arab Emirates: FIXED - resolved the disclosed treaty-
+count range (\"over 130-140\") with the authoritative, precise figure
+(137 Double Taxation Agreements in force, per the UAE Ministry of
+Finance's own site dated April 2026; 193 when Bilateral Investment
+Treaties are counted alongside). Earlier session's mangled-citation fix
+(\"and Chambers and Partners\" in the CFC section) confirmed holding
+correctly, now reading properly. Rest of page exceptionally precise
+(Cabinet Decision No. 85's three residency routes, Article 30's dual
+30%-EBITDA/AED 12M interest cap, the real domestic-residency-vs-TRC-
+eligibility distinction most sources miss).
+
+Running total this pass: 233 of 249 pages read in full. 132 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
