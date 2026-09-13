@@ -13593,3 +13593,23 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 31 pages remain (Thailand through Zimbabwe) to complete the full site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 219 of 249
+
+PAGE 219 - Thailand: clean, exceptionally current - the 2024 remittance-
+rule closure (Por. 161/2566, Por. 162/2566) tracked with real precision,
+including a genuinely current political development: a proposed 2025
+two-year-grace-period reform that stalled when Parliament was dissolved
+ahead of the February 2026 election, explicitly noting the new coalition
+government has not revived it and current (stricter) rules remain in
+force - precise, dated, and appropriately cautious against planning
+around unenacted proposals.
+
+Running total this pass: 219 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
