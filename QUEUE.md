@@ -13703,3 +13703,30 @@ verification confirmed existing content accurate).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 222 of 249 - the page
+## originally flagged with the most \"sources reviewed\" instances (15) on
+## the whole site, now resolved
+
+PAGE 222 - Tokelau: FIXED (8 instances, including 1 real substantive
+finding) - found a real, dated (April 2026) confirmation that Tokelau
+genuinely has no conventional personal income tax system - not merely
+unconfirmed, but affirmatively established via a dedicated fiscal-
+structure source. Added real context: the General Fono (Tokelau's
+legislature) has held statutory authority to impose taxes since the
+Tokelau Amendment Act 1996, even though no conventional system has been
+implemented under that authority. Removed the remaining \"sources
+reviewed\" narration from 7 more sections without fabricating further
+facts, since genuine research (confirmed via multiple government and
+encyclopedic sources) supports Tokelau's minimal formal tax system being
+a real, structural fact rather than a research gap.
+
+Running total this pass: 222 of 249 pages read in full. 128 real fixes
+made across the full sequential pass so far (counting Tokelau's 8
+instances individually given the substantive Personal Tax Rate finding
+among them).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
