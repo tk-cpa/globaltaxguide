@@ -13208,3 +13208,45 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SECOND TARGETED SITEWIDE SWEEP: remaining "this session"/"this pass"
+## narration, and the Tax System non-sequitur artifact pattern
+
+Method: fetched all 249 country files again and grepped for two
+patterns: (1) any remaining "this session"/"this pass" narration
+language, and (2) the "already confirmed elsewhere on this page"
+phrase, to distinguish the genuine Tanzania/Togo-style circular non-
+sequitur artifact from legitimate cross-page or cross-section
+references.
+
+RESULT 1 - remaining narration language: found 6 pages from before
+page 104 (an earlier pass predating this conversation) that still had
+the issue: Cuba, Falkland Islands (2 instances), French Polynesia (also
+a self-referential "New Caledonia this session" cross-page reference),
+Gibraltar, Iran (3 instances), Iraq. All fixed and independently
+verified clean.
+
+RESULT 2 - non-sequitur artifact: of 19 pages containing "already
+confirmed elsewhere on this page", 13 had the genuine circular artifact
+(the basic worldwide/territorial taxation statement illogically tied to
+"per the standard French-derived Code General des Impots structure
+already confirmed elsewhere on this page") - Burkina Faso, Cameroon,
+Central African Republic, Chad, Comoros, Djibouti, Equatorial Guinea,
+Guinea-Bissau, Guinea, Madagascar, Mali, Mauritania, and Niger. All 13
+fixed by removing the confusing tacked-on clause, matching the earlier
+Tanzania and Togo fixes. The remaining 6 (Gambia, Liberia, Sierra
+Leone, Togo's Participation Exemption sections referencing a genuine
+transfer-pricing-focused CFC framework described elsewhere on those same
+pages; Somalia and Taiwan's references to their own genuinely-described
+tax structures) were individually checked and confirmed LEGITIMATE,
+non-circular cross-references - correctly left unchanged rather than
+over-corrected.
+
+Running total across the sequential pass and both sweeps: 199 real
+fixes made across this entire continuous work session.
+
+This closes out both remaining systemic issue classes identified during
+and after the original sequential pass. Combined with the earlier
+boilerplate sweep, this represents a comprehensive close-out of every
+identified template-level/systemic issue found across the full site.
