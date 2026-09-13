@@ -13505,3 +13505,24 @@ data-quality issues were found and corrected - showing the sweep
 methodology itself remains valuable when applied to a slightly
 different data field, even after several consecutive clean results on
 other checks.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 217 of 249
+
+PAGE 217 - Tajikistan: clean, no changes needed - earlier session's
+treaty-count correction (25, US State Dept-confirmed, correcting an
+earlier version's wrong lean toward an uncited \"40\" figure) confirmed
+holding correctly. The CFC section is a genuinely good model of honest
+disclosure: rather than a bare hedge, it gives real comparative regional
+context (Kazakhstan and Uzbekistan also lack or historically lacked CFC-
+style attribution, suggesting a genuine regional pattern rather than a
+documentation gap specific to Tajikistan), which is a meaningfully more
+useful answer than a bare \"not found\" would be.
+
+Running total this pass: 217 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already excellent, earlier fix confirmed holding).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
