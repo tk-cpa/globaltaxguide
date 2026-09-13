@@ -13169,3 +13169,23 @@ page already well-handled).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 208 of 249
+
+PAGE 208 - Spain: clean, exceptionally precise and current throughout
+(Article 100 LIS/91 LIRPF CFC with the exact 75%-of-Spanish-rate
+threshold, 2024 EBITDA calculation refinement under Law 13/2023, Modelo
+720 foreign-asset regime with the 2022 CJEU disproportionate-penalty
+ruling correctly noted, specific MLI phase-in dates for 49 then 5 more
+covered treaties). Earlier authority-link fix (agenciatributaria.es was
+dead, replaced with sede.agenciatributaria.gob.es) remains consistent
+with the page's correct references to Agencia Tributaria throughout.
+
+Running total this pass: 208 of 249 pages read in full. 112 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
