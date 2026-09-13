@@ -13068,3 +13068,24 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 205 of 249
+
+PAGE 205 - South Korea: clean, exceptionally current and rigorous - the
+brand-new 2026 tax reform (top CIT rate 24%->25%, rolling 183-day
+residency test closing a prior gap-year loophole, stricter treaty-
+withholding documentation) tracked in real detail throughout. The CFC
+section is a genuinely excellent example of honest disclosure under
+active legal change: it explicitly flags that the underlying 70%-of-top-
+rate CFC threshold formula may or may not have been formally recalculated
+to reflect the new 25% top rate, rather than assuming a clean
+recalculation that hasn't actually been confirmed.
+
+Running total this pass: 205 of 249 pages read in full. 112 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
