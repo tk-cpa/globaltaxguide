@@ -13458,3 +13458,50 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## FOURTH TARGETED SWEEP: quickchart "Top personal rate" and "VAT/GST
+## rate" cells vs their H2 prose sections (extending the corporate-rate
+## check to the other two rate types)
+
+Method: same technique as the corporate-rate sweep - compared each
+page's Personal Tax Rate and VAT/GST Rate quickchart cells against the
+percentages actually stated in their corresponding H2 prose sections.
+
+RESULT: 12 initial flags, individually reviewed:
+- 7 confirmed as false positives (hyphenated-range parsing artifacts,
+  or numbers from comparison/rejected-proposal/historical context that
+  don't represent the country's own current rate): Brazil, Canada,
+  French Guiana, Guernsey, Mayotte, Syria, Wallis and Futuna.
+- 5 were GENUINE fixes:
+  - Croatia: quickchart cell showed "Top personal rate: 10%" when the
+    actual top rate is 30% (confirmed via PwC and Trading Economics/
+    Croatian Tax Administration) - the 10% appears to have been
+    mistakenly pulled from Croatia's small-company corporate rate.
+  - Falkland Islands: the cell's 26% was actually CORRECT (confirmed
+    via the Falkland Islands Government Taxation Office's own site:
+    21% on the first GBP 18,000, 26% above), but the H2 prose never
+    stated this bracket structure at all, leaving the correct cell
+    figure looking unsupported - filled in the missing detail.
+  - Laos: cell showed "Top personal rate: 0%" (the bottom of a stated
+    "0-25% progressive" range) when the actual top rate is 25%.
+  - Serbia: cell showed "Top personal rate: 10%" when Serbia's actual
+    top flat rate across income types is 20% (royalties, rental, other
+    income) - confirmed via PwC, Injac Attorneys, TaxRavens - already
+    correctly stated as "10-20%" in the page's own H2.
+  - Sint Maarten: cell showed 38%, a figure matching neither of the two
+    rates the H2 carefully documents and explains (36.75% base bracket
+    or ~47.5% combined effective with surtax) - updated to the base
+    statutory rate for consistency with site convention, flagged for
+    confirmation if the combined rate was intended instead.
+
+Running total across the sequential pass and all four sweeps: 204 real
+fixes made across this entire continuous work session.
+
+This extends the earlier corporate-rate-cell sweep (which found 0
+genuine issues, confirming the Morocco/Slovakia/Seychelles fixes were
+comprehensive) to personal and VAT rates, where 5 additional genuine
+data-quality issues were found and corrected - showing the sweep
+methodology itself remains valuable when applied to a slightly
+different data field, even after several consecutive clean results on
+other checks.
