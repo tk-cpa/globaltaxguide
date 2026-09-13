@@ -13679,3 +13679,27 @@ verification of specific facts against updated primary sources as time
 passes and rates/rules change, or (b) a different automated angle not
 yet tried, rather than further repetition of the consistency-check
 family already run to completion here.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 221 of 249
+
+PAGE 221 - Togo: clean, no changes needed. Given the earlier session's
+major finding (France terminated tax treaties with Burkina Faso, Mali,
+and Niger around 2024), specifically double-checked whether Togo's own
+France treaty (1975/2011 update) might also be affected, since Togo is
+another Francophone West African state. Confirmed via a dedicated
+Tax Notes special report on the terminations that the denunciations were
+specifically limited to the three Alliance of Sahel States members
+(Burkina Faso, Mali, Niger) - Togo is not part of that political
+alliance and no evidence was found of its own France treaty being
+affected. This was appropriate due diligence given the significance of
+the earlier finding, even though it confirmed the existing page content
+was already correct.
+
+Running total this pass: 221 of 249 pages read in full. 119 real fixes
+made across the full sequential pass so far (no new fix this batch -
+verification confirmed existing content accurate).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
