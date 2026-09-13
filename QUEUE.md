@@ -14193,3 +14193,24 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 243 of 249
+
+PAGE 243 - Wallis and Futuna: clean, genuinely excellent - actively
+identifies and corrects a wrong secondary-source claim (a lower-quality
+source's false 20% VAT rate) using the territory's own official
+investment portal directly. Notably careful and honest on CRS status:
+explicitly declines to assume the same CRS treatment as Saint Barthelemy
+and Saint-Martin (whose status ties to a specific EU savings-taxation
+agreement for French Caribbean territories) given Wallis and Futuna's
+genuinely different Pacific location and categorization - a real,
+non-obvious distinction most sources would miss or wrongly generalize.
+
+Running total this pass: 243 of 249 pages read in full. 134 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already excellent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
