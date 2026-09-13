@@ -13089,3 +13089,40 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## TARGETED SITEWIDE SWEEP: "foreign income reported through standard
+## annual tax return" boilerplate (flagged during sequential pass,
+## pages 169-170)
+
+Method: fetched all 249 country files directly (GitHub code search
+returned 0 results, likely indexing lag, so used a direct-fetch grep
+instead), found 115 pages containing the exact boilerplate sentence,
+then checked each one's own Tax System section for "worldwide income"
+vs "territorial"/"source-based" framing to find genuine contradictions.
+
+RESULT: 14 real fixes made - the boilerplate was factually inconsistent
+with the page's own stated territorial or primarily-source-based system
+on: Bolivia, Costa Rica, El Salvador, Guatemala, Nicaragua, Hong Kong
+SAR, Macau SAR, Malaysia, Namibia, Brunei, Lebanon, Tunisia, Uruguay,
+and Zimbabwe (the last four already had other issues fixed earlier in
+the sequential pass; this specific phrase was a separate residual
+problem on those same pages, now also corrected). Each was replaced
+with a country-specific accurate statement that foreign-source income
+falls outside the domestic tax base entirely rather than being
+"reported through the standard annual tax return."
+
+Checked and correctly left unchanged: 96 pages where the boilerplate is
+accurate because the country genuinely taxes worldwide income (spot-
+checked 15 at random, all confirmed accurate) - plus American Samoa,
+Guam (worldwide via mirror-code/frozen-code mechanisms), Eritrea
+(citizenship-based taxation, broader than worldwide), Dominican
+Republic (worldwide with only a temporary new-resident exception, not
+a general territorial system), and Thailand (remittance-based system
+where the phrase is roughly accurate for remitted income).
+
+Running total across both the sequential pass and this sweep: 179
+real fixes made across this entire continuous work session.
+
+This closes out the systemic issue flagged at pages 169-170 during the
+sequential pass.
