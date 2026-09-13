@@ -13730,3 +13730,30 @@ among them).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 223 of 249
+
+PAGE 223 - Tonga: clean, no new fix - genuinely excellent page that
+actively identifies and corrects a wrong secondary-source claim
+(TaxAtlas incorrectly states Tonga has no personal income tax) using
+specific primary Act citations (Part 4, Division 1; Section 5(1)).
+Verified this correction remains necessary and current: re-checked
+TaxAtlas directly (dated January 2026) and confirmed it still repeats
+the same incorrect \"no personal income tax\" claim. Attempted real
+research on the one remaining Tax Year filing-deadline hedge, including
+checking the Ministry of Revenue and Customs' own site directly - it
+references \"tax return and payment due dates\" without the specific
+dates being extractable from available sources. Left the existing
+honest disclosure as-is given genuine effort did not yield a specific
+answer. Also confirmed the real Section 62 unilateral FTC finding and
+the well-reasoned Treaty Network conclusion (zero DTAs, but not left
+without relief given the domestic unilateral credit) remain accurate.
+
+Running total this pass: 223 of 249 pages read in full. 128 real fixes
+made across the full sequential pass so far (no new fix this batch -
+verification and unsuccessful-but-genuine research attempt only).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
