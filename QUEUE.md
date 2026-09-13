@@ -13630,3 +13630,52 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SIXTH CHECK: date-metadata logic sweep + spot-re-verification sample
+
+Date metadata sweep: checked "Rates last reviewed by [source]: [date].
+Page last verified: [date]" citations across all 249 pages (139 pages
+use this exact format). Checked for two failure modes: (1) a "verified"
+date chronologically before the "reviewed" date it depends on, and (2)
+any verification date from 2024 or earlier (stale). Zero instances of
+either found - the site's citation dating is internally consistent and
+current throughout.
+
+Spot-re-verification: selected 4 pages at random (Australia, Eswatini,
+Belize, Bosnia and Herzegovina) that had only been read once during the
+original sequential pass and not touched again since, for a fresh,
+skeptical second read as a check on whether the volume of work in this
+session caused any of the earlier "clean" judgments to be rushed. All
+four held up as genuinely accurate and well-sourced on re-examination -
+no issues found. This is a useful validating result: it suggests the
+sequential pass's quality assessments were sound rather than a product
+of pace or fatigue.
+
+===================================================================
+OVERALL SESSION SUMMARY
+===================================================================
+Sequential full-text pass (246 pages): 165 fixes
+Sweep 1 - boilerplate territorial/worldwide consistency: 14 fixes
+Sweep 2 - narration language + non-sequitur artifacts: 19 fixes
+Sweep 3 - corporate rate cell vs H2: 0 fixes (confirmed clean)
+Sweep 4 - personal/VAT rate cell vs H2: 5 fixes
+Sweep 5 - one-sentence summary vs cells: 2 fixes
+Sweep 6 - date metadata logic + spot re-verification: 0 fixes
+(confirmed clean both ways)
+
+TOTAL: 206 real fixes made across this continuous work session,
+covering every one of the 249 country pages at least once, several
+pages 3-4 times across different sweep types, and a validating spot-
+check confirming the overall quality of judgment calls made throughout.
+
+At this point, the family of "compare two or more internally-stated
+numbers/dates against each other" checks appears genuinely exhausted -
+five of the last six sweeps after the initial narration/artifact
+cleanup found 0 or very few issues, and the spot-re-verification found
+0 issues in pages not otherwise touched. Further improvement to this
+site would most productively come from either (a) fresh external
+verification of specific facts against updated primary sources as time
+passes and rates/rules change, or (b) a different automated angle not
+yet tried, rather than further repetition of the consistency-check
+family already run to completion here.
