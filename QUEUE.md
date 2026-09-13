@@ -13250,3 +13250,25 @@ This closes out both remaining systemic issue classes identified during
 and after the original sequential pass. Combined with the earlier
 boilerplate sweep, this represents a comprehensive close-out of every
 identified template-level/systemic issue found across the full site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 210 of 249
+
+PAGE 210 - Sudan: FIXED - a real cross-reference mismatch: Tax Year
+claimed a \"permanent-home test\" feeds into residency and is \"described
+further in the Residency section,\" but Residency actually only describes
+the 183-day and 12-month aggregate day-count tests - no permanent-home
+test appears anywhere on the page. Corrected the cross-reference to
+accurately describe what Residency actually contains rather than
+promising content that isn't there. Rest of page appropriately honest
+given Sudan's genuinely difficult research conditions (ongoing civil
+conflict since 2023) - CFC and Thin Cap sections explicitly distinguish
+\"not found in sources reviewed\" from \"confirmed absent,\" a meaningful
+and correct distinction rather than overclaiming certainty.
+
+Running total this pass: 210 of 249 pages read in full. 113 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
