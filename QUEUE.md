@@ -13825,3 +13825,27 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 225 of 249
+
+PAGE 225 - Trinidad and Tobago: clean, no changes needed - genuinely
+excellent handling of a real source conflict: Residency explicitly
+identifies and corrects a common \"territorial\" mischaracterization
+using two independent professional sources (PwC, Freeman Law) confirming
+worldwide taxation for residents, and Treaty Network similarly weighs a
+specific 17-treaty citation against a vaguer 41-country claim, correctly
+preferring the more specific figure. Verified the earlier session's TTRA
+institutional-transition fix (Board of Inland Revenue transitioning to
+the new Trinidad and Tobago Revenue Authority) is confirmed holding
+correctly, and remains consistent with the Tax System section's
+reference to \"Board of Inland Revenue\" as the current name during the
+transition period.
+
+Running total this pass: 225 of 249 pages read in full. 129 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already excellent, earlier fix confirmed consistent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
