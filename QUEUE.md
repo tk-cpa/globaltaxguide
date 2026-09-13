@@ -13575,3 +13575,21 @@ would catch - Bhutan's error was invisible to the cell-vs-H2 check
 specifically because the cell and H2 agreed with each other (both
 wrong), and only the summary (which was actually correct) exposed the
 discrepancy.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 218 of 249 - reaches the
+## end of the range this session's original batches covered
+
+PAGE 218 - Tanzania: clean, no changes needed - precise throughout
+(genuine CFC provisions with the deemed-distribution anti-avoidance
+backstop and double-counting exemption, 7:3 thin cap ratio with the
+retained-earnings equity expansion, named 9-country treaty list).
+
+Running total this pass: 218 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+31 pages remain (Thailand through Zimbabwe) to complete the full site.
