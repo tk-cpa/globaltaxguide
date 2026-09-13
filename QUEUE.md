@@ -13151,3 +13151,21 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 207 of 249
+
+PAGE 207 - South Sudan: clean, no changes needed - well-handled
+throughout, including a real Section 91 statutory FTC citation and a
+genuinely well-reasoned Treaty Network conflict resolution: TaxAtlas
+claims zero treaties while BRITACOM specifically names signed treaties
+with Morocco and the UAE, and the page correctly prefers the specific,
+named claim over the blanket denial with the reasoning stated plainly.
+
+Running total this pass: 207 of 249 pages read in full. 112 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already well-handled).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
