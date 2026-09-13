@@ -13293,3 +13293,26 @@ page already excellent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 212 of 249
+
+PAGE 212 - Svalbard: FIXED (4 narration cleanups). Real research
+attempted on the genuinely disclosed Corporate Tax Rate conflict
+(16%->28% threshold rule vs. a flat 22% claim) - checked Norway's own
+official tax administration page (skatteetaten.no) directly, which does
+not address Svalbard corporate rates at all (only personal salary
+withholding). Given even the primary tax authority's own current page
+doesn't resolve this, the conflict is left honestly disclosed rather
+than forced to a low-confidence resolution - a genuine case where real
+effort did not yield an answer, distinct from earlier resolved conflicts
+(Jamaica, Paraguay) where authoritative sources did converge. Removed
+\"sources reviewed\" narration from the remaining 4 hedges (CFC, Thin Cap,
+Participation Exemption, FTC) without fabricating facts.
+
+Running total this pass: 212 of 249 pages read in full. 117 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
