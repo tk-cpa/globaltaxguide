@@ -14075,3 +14075,23 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 237 of 249
+
+PAGE 237 - US Virgin Islands: clean, exceptionally consistent - the
+mirror-code framework applied precisely across every single section
+(post-OBBBA Subpart F/NCTI, Section 163(j), Section 245A, Section 901),
+cross-verified against the Northern Mariana Islands page's identical
+Form 8938 CNMI/Guam/USVI carve-out detail (matches exactly). The EDA/EDC
+incentive program is correctly flagged as the larger practical driver
+of real-world USVI structuring compared to the underlying federal
+mirror provisions.
+
+Running total this pass: 237 of 249 pages read in full. 132 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
