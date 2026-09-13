@@ -13951,3 +13951,24 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 231 of 249
+
+PAGE 231 - Uganda: clean, no changes needed - Tax System honestly and
+specifically reasons through an unconfirmed AMT proposal's status by
+checking multiple current, detailed sources covering enacted 2024-2026
+amendments and finding no mention, correctly treating absence-of-mention
+as suggestive rather than conclusive. 2018 EBITDA-based interest
+limitation correctly replacing the repealed thin-cap rule, and a real,
+specific 2014 policy detail on treaty-shopping concerns (particularly
+regarding the Netherlands treaty) driving a temporary halt on new treaty
+negotiations.
+
+Running total this pass: 231 of 249 pages read in full. 131 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
