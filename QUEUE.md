@@ -14013,3 +14013,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 234 of 249
+
+PAGE 234 - United Kingdom: clean, exceptional depth and precision
+throughout - genuinely current 2025/26 non-dom regime replacement
+tracked correctly across both Tax System and Residency sections, real
+specific detail on the Statutory Residence Test's variable 16-183 day
+range depending on connecting factors, Part 9A CFC gateway tests, and a
+genuinely useful real-world anti-hybrid trigger example (UK LLP/US
+check-the-box double-deduction scenario).
+
+Running total this pass: 234 of 249 pages read in full. 132 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
