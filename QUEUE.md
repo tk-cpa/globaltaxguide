@@ -12940,3 +12940,91 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean (post-fix).
 
 Continuing sequentially without pausing - only 4 pages remain.
+
+
+## SEQUENTIAL FULL-TEXT PASS COMPLETE: page 246 of 249 (FINAL PAGE)
+
+PAGE 246 - Zimbabwe (LAST PAGE): FIXED - a real internal inconsistency
+between Tax System's unqualified "residents taxed on worldwide income"
+opening claim and Residency's own more careful treatment further down
+the same page, which correctly discloses that Zimbabwe is primarily
+source-based with only a specific, contested corporate exception, and
+explicitly flags conflicting characterizations across sources on this
+exact point. Verified the conflict is genuine via multiple sources
+(CISA Trust and an academic tax-systems study both call Zimbabwe fully
+territorial for corporations with no exception, while ZIMRA's own
+Income Tax Act contains specific deemed-source provisions that could
+support either reading) - aligned Tax System with Residency's honest,
+already-existing hedge rather than asserting the flat worldwide-income
+claim the weight of evidence doesn't clearly support. Treaty count
+("approximately 19") left as-is after independent verification found no
+more precise figure available. Rest of page well-researched (3:1 thin
+cap ratio with the specific 2019 Ministry of Finance clarification on
+scope).
+
+===================================================================
+SEQUENTIAL FULL-TEXT PASS: COMPLETE.
+===================================================================
+
+FINAL COUNT: 246 of 249 pages read in full (the remaining 3 - Yemen,
+Zambia, Zimbabwe were in fact all completed; 246 is the actual total
+country-page count on this site, confirmed via the countries/ directory
+listing). 165 real fixes made across this entire continuous pass
+(pages 105 through 246), on top of the 79 fixes already documented from
+the earlier pass through page 104 - bringing the FULL SITE sequential
+review to its natural completion across both passes.
+
+Fix categories across this pass, roughly:
+- Research-narration language ("this session", "this pass") removed:
+  the large majority of individual fixes, across dozens of pages -
+  process language that had leaked into what should read as finished,
+  authoritative content.
+- Self-referential cross-page/correction narration removed: Kenya,
+  Mauritania, Zambia (all following the same "this corrects an earlier
+  version..." forbidden pattern).
+- Non-sequitur/artifact sentences removed or replaced with real
+  substance: Rwanda, Tanzania, Togo, Sint Maarten.
+- Real internal contradictions within a single page fixed: Serbia (CFC
+  existence), Nicaragua (withholding rate), Lebanon/Tunisia (corporate
+  tax base - worldwide vs territorial), Thailand (2024 remittance rule
+  description exactly backwards), Uruguay (2026 reform status), South
+  Korea (stale CFC threshold rate), Turkiye (stale CFC tax rate),
+  Zimbabwe (worldwide vs source-based framing).
+- Significant, real factual errors independently verified and
+  corrected: Morocco (flat 35% CIT was wrong, real standard rate 20%),
+  Slovakia (same top-rate-as-flat-rate error, real structure 10/21/24%),
+  Seychelles (same pattern, real structure 15/25%, 33% only for special
+  sectors), Maldives (repealed "Business Profit Tax" name used for
+  current law, plus a GST effective-date error), Norfolk Island (GST
+  wrongly said to apply when actually excluded), UAE (resident tax base
+  wrongly limited to UAE-source when actually worldwide), Pakistan
+  (denied a real foreign-asset-disclosure regime that exists under
+  Section 116A), Northern Mariana Islands/US Virgin Islands (denied
+  FBAR applies to residents; missing the real Form 8938 carve-out),
+  Montserrat (repeated an unsourced, contradicted 15% VAT claim),
+  Sint Maarten (a specific numeric participation-exemption claim
+  couldn't be traced to any real source and was replaced with verified
+  mechanics), Nepal (flatly denied a real, statutory CFC regime exists).
+- Vague/unsourced figures replaced with precise, cited ones: Latvia,
+  Panama treaty counts; Luxembourg, Mauritius, Romania, San Marino
+  participation exemption thresholds; Israel, South Africa participation
+  exemption mechanics; Kazakhstan, Madagascar thin cap ratios.
+- Genuine, irresolvable source conflicts identified and left honestly
+  disclosed rather than forced to a false resolution: Jamaica, Jersey,
+  Kuwait thin cap; Svalbard corporate rate; Zimbabwe worldwide/
+  territorial; Saint Pierre and Miquelon and Wallis and Futuna CRS
+  status (deliberately NOT extending a neighboring territory's confirmed
+  finding without direct verification).
+- One self-caught-and-corrected error mid-pass: Portugal's EUR 1M/4M
+  interest-limitation figures - first attempt fabricated an unverified
+  explanation, caught and corrected via a second, more careful search.
+- Cross-page consistency gaps closed: Western Sahara's stale reference
+  to Morocco's now-corrected corporate rate.
+- A genuine, actively-monitored concurrent-session coordination issue
+  encountered and resolved early in this pass (page 158 area), by
+  establishing git commit history as the authoritative source of truth
+  for resume position rather than either session's self-reported log
+  entries.
+
+This concludes the full sequential, word-by-word content audit of every
+country page on the Global Tax Guide.
