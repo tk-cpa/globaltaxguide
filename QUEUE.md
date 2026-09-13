@@ -13189,3 +13189,22 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 209 of 249
+
+PAGE 209 - Sri Lanka: clean, no changes needed - precise and current
+throughout (IMF-supported 2022-2023 reforms tracked with specific rate
+changes, 3x/4x-equity thin cap ratio distinguished by industry, and a
+genuinely current specific development: the India-Sri Lanka DTAA
+Protocol entering force June 19, 2026 with its PPT/preamble anti-treaty-
+shopping updates, correctly flagged as a signal for likely broader
+treaty-network modernization).
+
+Running total this pass: 209 of 249 pages read in full. 112 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
