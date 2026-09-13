@@ -13849,3 +13849,22 @@ page already excellent, earlier fix confirmed consistent).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 226 of 249
+
+PAGE 226 - Tunisia: clean, no changes needed - the genuinely nuanced
+modified-territorial corporate system (worldwide for individuals, but
+PE-plus-treaty-attributable-only for resident companies) is correctly
+and consistently explained across Tax System, Residency, and Foreign
+Bank Account sections without contradiction. Real specific detail on the
+8%-rate shareholder current-account interest cap and the 50%-of-Tunisia-
+rate \"privileged tax regime\" withholding trigger.
+
+Running total this pass: 226 of 249 pages read in full. 129 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
