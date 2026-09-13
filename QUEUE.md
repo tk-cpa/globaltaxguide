@@ -12836,3 +12836,22 @@ Verified sitewide: page 242 structurally clean (post-fix); pages 239-241
 clean throughout.
 
 Continuing sequentially without pausing.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 201 of 249
+
+PAGE 201 - Solomon Islands: clean, genuinely excellent - specific statute
+citations throughout (Section 21(2) arm's-length recomputation, Section
+25 general anti-avoidance rule, both correctly distinguished from a true
+CFC regime), and a carefully reasoned residency source-conflict
+resolution (6-months-or-intent-to-reside per the official IRD source vs.
+a 183-day secondary source), explicitly stating which framing is
+authoritative and why.
+
+Running total this pass: 201 of 249 pages read in full. 110 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already excellent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
