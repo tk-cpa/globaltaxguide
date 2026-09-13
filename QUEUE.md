@@ -14173,3 +14173,23 @@ page already clean).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 242 of 249
+
+PAGE 242 - Vietnam: clean, no changes needed - precise and current
+throughout (Decree 132's 30%-EBITDA interest cap alongside the separate
+licensed-capital debt-funding constraint, Pillar Two 2024 legislation
+correctly distinguished from hybrid-mismatch rules specifically), with
+genuinely useful specific procedural detail on the US-Vietnam treaty:
+signed 2015, ratified by Vietnam in 2017, but never ratified by the US
+Senate, so it remains not in force despite being formally signed a
+decade ago.
+
+Running total this pass: 242 of 249 pages read in full. 134 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
