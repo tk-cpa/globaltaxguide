@@ -13927,3 +13927,27 @@ page already clean, earlier fix confirmed holding).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 230 of 249
+
+PAGE 230 - Tuvalu: clean, genuinely exceptional - one of the best-
+researched pages on the site. Actively identifies and corrects two
+separate wrong secondary-source claims using primary statute citations:
+Personal Tax Rate corrects a claim of \"no personal income tax for
+expatriates\" (Income Tax Act 1992 says otherwise), and VAT/GST corrects
+a lower-quality aggregator's \"flat 20%\" claim with the real tiered 3-10%
+structure from the primary Consumption Tax Act 2008. The discretionary
+Section 24(2) CFC mechanism (Taxation Officer discretion rather than a
+bright-line test) is precisely and specifically described, and the
+Treaty Network section is explicit that its zero-DTA conclusion is an
+inference from Tuvalu's revenue profile (aid, fishing licenses, .tv
+domain licensing) rather than a primary-source-confirmed absolute.
+
+Running total this pass: 230 of 249 pages read in full. 131 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
