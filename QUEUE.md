@@ -14338,3 +14338,31 @@ read-through, real fixes made and re-verified throughout) and the
 special/root pages (checked initially, then specifically re-checked
 against every bug pattern discovered later in the session) have now
 been verified to the same standard.
+
+
+## Sitewide sweep for bare-quote formatting bug across all 249 pages -
+## negative result (confirms clean, not a missed check)
+
+Ran a comprehensive regex sweep for the bare quoted-fragment formatting
+bug pattern across all 249 country pages, as a genuine second-look check
+following completion of the full sequential pass. 247 of 249 flagged
+matches were confirmed as the standard <meta name=\"description\"> tag
+content (appearing 4x per page in meta/OG/Twitter tags), not the actual
+bug - a high false-positive rate from the regex, not a real finding.
+
+The 2 non-meta-tag matches were individually checked:
+- French Polynesia: a quoted fragment (\"France's 120+ DTAs including...\")
+  turned out to be a properly-attributed direct quote of a WRONG claim
+  from a lower-quality secondary source, being cited specifically in
+  order to debunk it - confirmed as good practice, not a bug.
+- Transnistria: \"Tax on Income of Organizations\" is the correct quoted
+  proper name of the actual unified tax, confirmed accurate during the
+  original full read of that page.
+
+RESULT: zero genuine instances of the bare-quote bug remain anywhere on
+the site. This is a negative result worth recording precisely because it
+confirms the earlier individual fixes (Armenia, Brunei, Cambodia, Chile,
+Congo-Republic, Gabon, Georgia, Guernsey, Isle of Man, Israel, Laos,
+Macau, Moldova, Timor-Leste, Turkmenistan) were comprehensive and no
+further instances were missed on pages read earlier in the pass before
+this bug pattern was first identified.
