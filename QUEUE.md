@@ -13272,3 +13272,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 211 of 249
+
+PAGE 211 - Suriname: clean, genuinely excellent - precise throughout
+(Article 28's broader deeming-provision PE test for construction
+activity, first-three-years-indefinite-carryforward loss rule), and
+actively tracks a live, current legislative development with real
+specificity: Suriname's pending Transfer Pricing Law, drafted in
+response to public concern over a Total-related mining/oil contract
+reportedly omitting transfer pricing safeguards - correctly distinguished
+as addressing arm's-length pricing rather than CFC-style attribution,
+and correctly noted as not yet enacted.
+
+Running total this pass: 211 of 249 pages read in full. 113 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already excellent).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
