@@ -13047,3 +13047,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 204 of 249
+
+PAGE 204 - South Africa: clean, exceptionally precise - genuinely one of
+the strongest African country pages on the site. Section 9D CFC regime
+with specific 10% de minimis, Foreign Business Establishment, and 67.5%
+High Tax Exemption thresholds all correctly detailed; the three-part
+physical presence test (91/91/915 days across the correct periods)
+precisely stated; the layered 2023-amended capital gains participation
+exemption (10% minimum interest, non-connected-party recipient test,
+18-month holding period) correctly requiring all three conditions
+together, cited to three independent professional sources.
+
+Running total this pass: 204 of 249 pages read in full. 112 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already exceptional).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
