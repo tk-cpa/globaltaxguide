@@ -14258,3 +14258,24 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 4 pages remain to complete the entire site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 246 of 249
+
+PAGE 246 - Zambia: FIXED (self-caught math error) - the Treaty Network
+section stated \"22 double tax treaties in force\" while actually naming
+23 countries. Recounted the named list precisely and corrected the
+stated total to match - the same class of self-verification catch made
+earlier on Kenya's page this session. Rest of page well-detailed
+(BEPS Action 4-style 30%-EBITDA interest limitation, real named
+exclusion of Mauritius from PwC's current listing despite some other
+sources including it, and honest flagging of pre-OECD-Model historical
+treaties requiring case-by-case confirmation).
+
+Running total this pass: 246 of 249 pages read in full. 137 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+3 pages remain to complete the entire site.
