@@ -12919,3 +12919,24 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 245 of 249
+
+PAGE 245 - Zambia: FIXED (2 instances) - removed self-referential "this
+corrects an earlier version of this page" process-narration language
+from Treaty Network (same forbidden pattern as the earlier Kenya fix,
+page 113) - the underlying verified 22-treaty list and correct Mauritius
+exclusion are unchanged, just stated directly rather than narrating the
+correction process. Also removed an artifact-like "a real, dated,
+current development" phrase from Tax System. Rest of page excellent -
+BEPS Action 4-style 30% EBITDA interest limitation with specific carve-
+outs, correctly flags historical pre-OECD-Model treaties needing case-
+by-case confirmation.
+
+Running total this pass: 245 of 249 pages read in full. 164 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean (post-fix).
+
+Continuing sequentially without pausing - only 4 pages remain.
