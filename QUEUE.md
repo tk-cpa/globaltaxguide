@@ -14279,3 +14279,27 @@ Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth -
 3 pages remain to complete the entire site.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 247 of 249
+
+PAGE 247 - Zimbabwe: attempted real research on the remaining treaty-
+count hedge (\"approximately 19... not consistently confirmed\") - found
+supporting context (ICAEW library references, a UK-Zimbabwe treaty
+dated 1982/1983, a Netherlands treaty from 1989) but no single current,
+authoritative ZIMRA-sourced total that would resolve the range with
+confidence. Left the existing honest disclosure as-is. Re-confirmed the
+earlier assessment of the Residency section's \"conflicting
+characterizations\" language as genuine, appropriately-disclosed
+complexity rather than a fixable hedge, consistent with the conclusion
+reached when this exact passage was checked earlier this session
+(during the Namibia contradiction sweep).
+
+Running total this pass: 247 of 249 pages read in full. 137 real fixes
+made across the full sequential pass so far (no new fix this batch -
+research attempted but genuinely inconclusive).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth -
+2 pages remain to complete the entire site.
