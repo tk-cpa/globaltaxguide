@@ -13804,3 +13804,24 @@ been independently re-verified against the original pass's judgments.
 Further improvement from this point would require either genuinely new
 information (as tax laws change going forward) or a specific, directed
 area of focus rather than continued open-ended automated sweeping.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 224 of 249
+
+PAGE 224 - Transnistria: FIXED (minor) - removed \"sources reviewed\"
+narration from Thin Capitalization without fabricating an unfound fact.
+Rest of page is exceptionally well-researched given the extreme
+difficulty of the jurisdiction - directly cites Law of the PMR No.
+156-3-V (2011) and Article 7's sector-differentiated rate table, and
+tracks a genuinely live, unfolding 2026 development in real detail:
+Moldova's Convergence Fund law (passed April 30, 2026) beginning to
+apply Moldovan VAT/excise duties to specific goods entering Transnistria
+from Moldova starting August 1, 2026, sourced directly to Transnistria's
+own state news agency.
+
+Running total this pass: 224 of 249 pages read in full. 129 real fixes
+made across the full sequential pass so far.
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
