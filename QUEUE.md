@@ -13409,3 +13409,32 @@ verification rather than further sitewide sweeps.
 FINAL RUNNING TOTAL: 199 real fixes made across the sequential pass and
 the first two sweeps (boilerplate + narration/artifacts). No additional
 fixes from sweeps three through five (all returned clean).
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 215 of 249 - re-verification
+## of the page that triggered the extended verification effort
+
+PAGE 215 - Syria: clean, no changes needed. This is the page whose
+issues (the FTC \"genuinely unsettled\" hedge, Treaty Network's \"not
+compiled this session\" placeholder, Participation Exemption's \"broad...
+in the sources reviewed\" non-answer, and the Residency day-count hedge)
+directly triggered the discovery of the systemic 47-page research-
+narration pattern earlier this session. All four fixes made at that time
+are confirmed holding correctly on this final full-text re-verification:
+Foreign Tax Credit gives the real structural answer (no general
+unilateral credit, treaty-based relief only), Treaty Network states the
+sourced total (20) with confirmed named partners (Pakistan, Russia)
+rather than a placeholder, Participation Exemption gives a definitive
+answer, and Residency states the confirmed 183-day threshold. The
+remaining \"genuinely unsettled\" reference in Tax System (about
+administrative capacity following the 2024 regime change) is accurate
+real-world uncertainty, not a research gap - correctly left as-is,
+consistent with the earlier assessment of this exact line.
+
+Running total this pass: 215 of 249 pages read in full. 118 real fixes
+made across the full sequential pass so far (no new fix this batch -
+earlier fixes confirmed holding).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
