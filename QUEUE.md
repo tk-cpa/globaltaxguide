@@ -13357,3 +13357,55 @@ page already exceptional).
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## THIRD TARGETED SWEEP: quickchart cell vs Corporate Tax Rate H2
+## consistency (the exact bug pattern found manually on Morocco,
+## Slovakia, Seychelles)
+
+Method: programmatically compared every page's quickchart "Corporate
+rate" summary cell against the percentage figures actually stated in
+its Corporate Tax Rate H2 section, flagging any page where the cell's
+number doesn't appear anywhere in the H2 text.
+
+RESULT: 2 initial flags (Jamaica, Jordan), both confirmed as false
+positives on manual review - both pages correctly state a hyphenated
+range in the H2 ("25-33.33%" and "20-35%" respectively) and the
+quickchart cell correctly shows the low end of that same range; the
+automated check's regex simply didn't parse hyphenated ranges properly.
+Zero genuine mismatches found sitewide.
+
+This confirms the Morocco, Slovakia, and Seychelles fixes made earlier
+in this session were comprehensive for this specific bug class, and it
+does not recur elsewhere on the site.
+
+## FOURTH CHECK: stale cross-references to significantly-corrected pages
+
+Searched all other country pages for any mention of Morocco, UAE,
+Slovakia, Seychelles, Maldives, or Norfolk Island alongside a specific
+tax rate (the same failure mode as the Western Sahara -> Morocco gap
+found and fixed during the sequential pass). Found 23 raw mentions of
+these country names elsewhere on the site, all in treaty-partner name
+lists with no accompanying rate figures - zero further stale rate
+cross-references found beyond the one already fixed.
+
+## FIFTH CHECK: treaty-count cross-verification (FTC section vs Treaty
+## Network section) and vague-range residue (the Tajikistan pattern)
+
+Zero mismatches and zero vague ranges found sitewide, confirming
+Tajikistan's earlier fix was an isolated case rather than a systemic
+issue.
+
+===================================================================
+CONCLUSION: five consecutive systemic/automated sweeps (boilerplate
+consistency, narration-language cleanup, non-sequitur artifacts, rate-
+consistency cross-checks, and cross-reference staleness checks) have
+now been run across the full 249-page site. The most recent three
+returned zero or near-zero genuine findings, indicating the
+identifiable, pattern-matchable issue classes are exhausted. Remaining
+site quality work, if any, would require page-specific factual
+verification rather than further sitewide sweeps.
+
+FINAL RUNNING TOTAL: 199 real fixes made across the sequential pass and
+the first two sweeps (boilerplate + narration/artifacts). No additional
+fixes from sweeps three through five (all returned clean).
