@@ -13908,3 +13908,22 @@ made across the full sequential pass so far.
 Verified sitewide: page structurally clean.
 
 Continuing sequentially, multiple pages per turn, full research depth.
+
+
+## SEQUENTIAL FULL-TEXT PASS continued: page 229 of 249
+
+PAGE 229 - Turks and Caicos: clean, no changes needed - earlier zero-tax
+boilerplate fix (Foreign Bank Account section) confirmed holding
+correctly. The CFC section correctly distinguishes structural certainty
+(no tax base exists for a CFC rule to operate against) from an
+unconfirmed research gap - exactly the right epistemic confidence level
+given the genuine absence of any income tax. Real named 16-country TIEA
+list with the correct TIEA-vs-DTA distinction maintained.
+
+Running total this pass: 229 of 249 pages read in full. 131 real fixes
+made across the full sequential pass so far (no new fix this batch -
+page already clean, earlier fix confirmed holding).
+
+Verified sitewide: page structurally clean.
+
+Continuing sequentially, multiple pages per turn, full research depth.
